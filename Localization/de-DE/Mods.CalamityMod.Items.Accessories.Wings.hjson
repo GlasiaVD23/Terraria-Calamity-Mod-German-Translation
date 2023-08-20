@@ -1,0 +1,204 @@
+AureateBooster: {
+	DisplayName: Aureate Booster
+	Tooltip:
+		'''
+		Horizontale Geschwindigkeit: 8.00
+		Beschleunigungs-Multiplikator: 1.5
+		Gute vertikale Geschwindigkeit
+		Flugzeit: 120
+		'Flieg mit Stil in Mach-Geschwindigkeit!'
+		'''
+}
+
+DrewsWings: {
+	DisplayName: Drews Flügel
+	Tooltip:
+		'''
+		Horizontale Geschwindigkeit: 12.00
+		Beschleunigungs-Multiplikator: 3.0
+		Ausgezeichnete vertikale Geschwindigkeit
+		Flugzeit: 361
+		'Absolut fabelhaft'
+		'''
+}
+
+ElysianWings: {
+	DisplayName: Elysische Flügel
+	Tooltip:
+		'''
+		Horizontale Geschwindigkeit: 9.50
+		Beschleunigungs-Multiplikator: 2.7
+		Großartige vertikale Geschwindigkeit
+		Flugzeit: 240
+		Vorübergehende Immunität gegen Lava und 10% erhöhte Bewegungsgeschwindigkeit
+		Gesegnet von der Profaned Flame
+		'''
+}
+
+ExodusWings: {
+	DisplayName: Exodus-Flügel
+	Tooltip:
+		'''
+		Horizontale Geschwindigkeit: 9.00
+		Beschleunigungs-Multiplikator: 2.5
+		Großartige vertikale Geschwindigkeit
+		Flugzeit: 180
+		5% erhöhter Schuftnschaden und kritische Trefferchance beim Tragen der Empyrean-Rüstung
+		Pulsierend mit einem fremdartigen Herzschlag
+		'''
+}
+
+HadalMantle: {
+	DisplayName: Hadal-Mantel
+	Tooltip:
+		'''
+		Horizontale Geschwindigkeit: 7.75
+		Beschleunigungs-Multiplikator: 1.5
+		Durchschnittliche vertikale Geschwindigkeit
+		Flugzeit: 180
+		5% erhöhter Schaden beim Tragen der Hydrothermic-Rüstung
+		Angetrieben von der Wut der Tiefen
+		'''
+}
+
+HadarianWings: {
+	DisplayName: Hadarianische Flügel
+	Tooltip:
+		'''
+		Horizontale Geschwindigkeit: 9.00
+		Beschleunigungs-Multiplikator: 1.75
+		Gute vertikale Geschwindigkeit
+		Flugzeit: 90
+		{$CommonItemTooltip.PressDownToHover}
+		Betrieben von der Astral Infection
+		'''
+}
+
+MOAB: {
+	DisplayName: MOAB
+	Tooltip:
+		'''
+		Zählt als Flügel
+		Horizontale Geschwindigkeit: 6.50
+		Beschleunigungs-Multiplikator: 1.0
+		Gute vertikale Geschwindigkeit
+		Flugzeit: 75
+		10% erhöhte Sprunggeschwindigkeit und ermöglicht kontinuierliches Springen
+		Gewährt dem Spieler Wolken-, Blizzard- und Sandsturm-Mittel-Luftsprünge
+		'Die Mutter aller Ballons'
+		'''
+}
+
+SilvaWings: {
+	DisplayName: Silva-Flügel
+	Tooltip:
+		'''
+		Horizontale Geschwindigkeit: 11.00
+		Beschleunigungs-Multiplikator: 2.8
+		Ausgezeichnete vertikale Geschwindigkeit
+		Flugzeit: 270
+		Die Silva-Belebung heilt dich auf die Hälfte deiner Gesundheit, wenn du die Silva-Rüstung trägst
+		'Das Reinste der Natur'
+		'''
+}
+
+SkylineWings: {
+	DisplayName: Skyline-Flügel
+	Tooltip:
+		'''
+		Horizontale Geschwindigkeit: 6.25
+		Beschleunigungs-Multiplikator: 1.0
+		Durchschnittliche vertikale Geschwindigkeit
+		Flugzeit: 80
+		'''
+}
+
+SoulofCryogen: {
+	DisplayName: Seele des Cryogen
+	Tooltip:
+		'''
+		Zählt als Flügel
+		Horizontale Geschwindigkeit: 6.25
+		Beschleunigungs-Multiplikator: 1.0
+		Durchschnittliche vertikale Geschwindigkeit
+		Flugzeit: 120
+		7% Erhöhung des gesamten Schadens
+		Alle Nahkampfangriffe und Projektile verursachen Frostverbrennung
+		Eiszapfen regnen herab, während du fliegst
+		'''
+}
+
+StarlightWings: {
+	DisplayName: Sternenlicht-Flügel
+	Tooltip:
+		'''
+		Horizontale Geschwindigkeit: 7.50
+		Beschleunigungs-Multiplikator: 1.0
+		Durchschnittliche vertikale Geschwindigkeit
+		Flugzeit: 150
+		5% erhöhter Schaden und kritische Trefferchance beim Tragen der Daedalus-Rüstung
+		Flügel der Nachtigall
+		'''
+}
+
+TarragonWings: {
+	DisplayName: Tarragon-Flügel
+	Tooltip:
+		'''
+		Horizontale Geschwindigkeit: 9.50
+		Beschleunigungs-Multiplikator: 2.5
+		Großartige vertikale Geschwindigkeit
+		Flugzeit: 250
+		+15 Verteidigung und +2 Lebensregeneration beim Tragen der Tarragon-Rüstung
+		'Geboren im Dschungel'
+		'''
+}
+
+TracersCelestial: {
+	DisplayName: Himmlische Tracers
+	Tooltip:
+		'''
+		Zählt als Flügel
+		Horizontale Geschwindigkeit: 9.00
+		Beschleunigungs-Multiplikator: 2.5
+		Gute vertikale Geschwindigkeit
+		Flugzeit: 140
+		24% erhöhte Beschleunigung beim Rennen und größere Mobilität auf Eis
+		Ermöglicht das Gehen auf Wasser, Honig und Lava
+		Gewährt Immunität gegen Feuer und Lava
+		'Absurde Geschwindigkeit!'
+		'''
+}
+
+TracersElysian: {
+	DisplayName: Elysische Tracers
+	Tooltip:
+		'''
+		Zählt als Flügel
+		Horizontale Geschwindigkeit: 10.50
+		Beschleunigungs-Multiplikator: 2.75
+		Großartige vertikale Geschwindigkeit
+		Flugzeit: 180
+		36% erhöhte Beschleunigung beim Rennen und größere Mobilität auf Eis
+		Ermöglicht das Gehen auf Wasser, Honig und Lava
+		Gewährt Immunität gegen Feuer und Lava
+		'Absurde Geschwindigkeit!'
+		'''
+}
+
+TracersSeraph: {
+	DisplayName: Seraphische Tracers
+	Tooltip:
+		'''
+		Zählt als Flügel
+		Horizontale Geschwindigkeit: 12.00
+		Beschleunigungs-Multiplikator: 3.0
+		Ausgezeichnete vertikale Geschwindigkeit
+		Flugzeit: 250
+		50% erhöhte Beschleunigung beim Rennen und größere Mobilität auf Eis
+		Ermöglicht das Gehen auf Wasser, Honig und Lava
+		Gewährt Immunität gegen Feuer, Lava und schädliche Blockeffekte
+		Immunität für eine verlängerte Zeit, wenn du über 200 Schaden nimmst
+		'Geschwindigkeit, DIE NOCH WEITER GEHT!'
+		'''
+}

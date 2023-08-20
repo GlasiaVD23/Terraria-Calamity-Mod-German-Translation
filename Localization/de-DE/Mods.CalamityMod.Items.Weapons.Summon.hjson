@@ -1,0 +1,801 @@
+AbandonedSlimeStaff: {
+	DisplayName: Aufgegebener Schleimstab
+	Tooltip:
+		'''
+		Verbraucht alle verbleibenden Dienerplätze bei Verwendung
+		Muss von der Schnellzugriffsleiste aus verwendet werden
+		Stärke und Größe basieren auf der Anzahl der verwendeten Dienerplätze
+		Das Halten dieser Waffe gewährt 10 % erhöhte Sprunggeschwindigkeit
+		Voller Abscheu vom Himmel herabgeworfen, singt dieses Relikt ein Lied leiser Tragödie...
+		'''
+}
+
+AncientIceChunk: {
+	DisplayName: Antiker Eisbrocken
+	Tooltip:
+		'''
+		Ruft einen Eisfänger herbei, der für dich kämpft
+		Der Fänger feuert Eisscherben auf entfernte Feinde ab
+		Wenn du in der Nähe von Feinden bist, wird er sie aggressiv mit gefrorener Wut attackieren
+		'''
+}
+
+AquasScepter: {
+	DisplayName: Aquas Zepter
+	Tooltip:
+		'''
+		Ruft einen riesigen Sturm-Wolken-Wächter herbei, der auf deine Feinde herabregnet und nahe Feinde mit überlastender Tesla-Energie angreift
+		'Kapitän! Ich denke - wir haben ein Regenrisiko!'
+		'''
+}
+
+AresExoskeleton: {
+	DisplayName: Ares' Exoskelett
+	Tooltip:
+		'''
+		Erschafft ein Paneel mit vier Slots und vier Auswahlmöglichkeiten darüber: Plasma, Tesla, Laser und Gauss
+		Das Klicken auf eine der Auswahlmöglichkeiten und dann auf einen der Slots beschwört eine Kanone dieses Typs herbei
+		Das Klicken auf einen bereits besetzten Slot zerstört seine zugehörige Kanone und löscht den Slot
+		Kanonen benötigen jeweils 3 Dienerplätze
+		'''
+}
+
+AtlasMunitionsBeacon: {
+	DisplayName: Atlas Munitions-Bake
+	Tooltip:
+		'''
+		[c/F2B629:Lässt eine Kiste aus dem Himmel fallen, die eine montierte, stationäre Kanone enthält]
+		[c/F2B629:Die Kanone wird auf alle Feinde innerhalb ihrer Reichweite feuern]
+		[c/F27049:Wenn ein Feind in unmittelbarer Nähe ist, wird sie in den Überdrive-Modus wechseln]
+		[c/F27049:Im Überdrive-Modus verwendet die Kanone drei Rohre, die gemeinsam feuern]
+		[c/F27049:Die Kanone erhitzt sich auch mehr, je mehr sie im Überdrive-Modus feuert]
+		[c/69F0DC:Drücke die rechte Maustaste, während du diesen Gegenstand hältst, um die Kanone aufzunehmen und selbst zu benutzen]
+		[c/69F0DC:Wenn du sie hältst, wird die Kanone immer im Überdrive-Modus sein]
+		[c/69F0DC:Wenn die gehaltene Kanone aufgrund des Überdrive-Modus überhitzt, musst du sie fallen lassen]
+		[c/9AA4AE:Das Drücken der rechten Maustaste erlaubt es dir, sie manuell fallen zu lassen]
+		[c/9AA4AE:Wenn die gehaltene Kanone in der Nähe des Montagepunkts fallen gelassen wird, wird sie automatisch wieder angebracht]
+		'Es ist überraschend einfach aufzuheben'
+		'''
+}
+
+BelladonnaSpiritStaff: {
+	DisplayName: Belladonna-Geiststab
+	Tooltip: Ruft einen niedlichen Waldgeist herbei, der magische giftige Blütenblätter schleudert
+}
+
+BlackHawkRemote: {
+	DisplayName: Black Hawk-Fernbedienung
+	Tooltip:
+		'''
+		Ruft ein Black Hawk-Flugzeug herbei, das für dich kämpft
+		Die Flugzeuge werden Kugeln aus deinem Inventar abfeuern
+		50 % Chance, Munition zu sparen
+		'''
+}
+
+BloodClotStaff: {
+	DisplayName: Blutgerinnselstab
+	Tooltip: Ruft ein Blutgerinnsel herbei, das für dich kämpft
+}
+
+BorealisBomber: {
+	DisplayName: Borealis-Bomber
+	Tooltip:
+		'''
+		Ruft Aurus-Bomber herbei, um deine Feinde zu verfolgen
+		Aurus-Bomber explodieren gewaltsam bei Feindaufprall
+		Verbraucht keine Dienerplätze
+		'''
+}
+
+CadaverousCarrion: {
+	DisplayName: Kadaverhafter Aasgeier
+	Tooltip: Ruft einen ekelhaften, eine Hai spuckenden Alten Herzog-Kopf am Boden herbei
+}
+
+CalamarisLament: {
+	DisplayName: Calamari's Klagelied
+	Tooltip: Ruft einen Tintenfisch herbei, der Feinde bösartig beschleicht
+}
+
+CausticCroakerStaff: {
+	DisplayName: Ätzender Quakerstab
+	Tooltip: Ruft einen Kröten herbei, der explodiert, wenn sich Feinde in der Nähe befinden
+}
+
+CausticStaff: {
+	DisplayName: Ätzender Stab
+	Tooltip:
+		'''
+		Ruft einen Mini-Drachen herbei, der für dich kämpft
+		Der Drache fügt mehrere entkräftende Debuffs zu
+		Die Debuffs werden nur angewendet, wenn du eine Beschwörungswaffe oder ein Werkzeug hältst
+		'''
+}
+
+CinderBlossomStaff: {
+	DisplayName: Zunderblütenstab
+	Tooltip:
+		'''
+		Ruft eine brennende Blume über deinem Kopf herbei
+		Es kann nur eine Blume geben
+		'''
+}
+
+CindersOfLament: {
+	DisplayName: Zinders der Klage
+	Tooltip:
+		'''
+		Ruft entweder Kataklysmus oder Katastrophe an der Mausposition herbei
+		Sie werden dich einen Moment lang ansehen, bevor sie auf dich zustürmen
+		Sie können sowohl dir als auch Feinden Schaden zufügen
+		[c/C61B40:'Die Hexe, eine Sünderin ihrer eigenen Schöpfung,]
+		[c/C61B40:In ihrem Geist liegt ihr Dämon, immer geduldig, bis ans Ende der Zeit.']
+		'''
+}
+
+Cnidarian: {
+	DisplayName: Cnidarian
+	Tooltip:
+		'''
+		Holt eine elektrische Qualle aus dem Wasser
+		Sendet periodisch Funken aus, um nahe Feinde zu elektrokutieren.
+		[c/5C95A1:'Indem sie sich ihre weniger bewussten Verwandten anschaute,]
+		[c/5C95A1:passte die Bewohner des Alten Königreichs Werkzeuge und Waffen für eine effiziente Unterwassernutzung an.]
+		'''
+}
+
+CorroslimeStaff: {
+	DisplayName: Rostschleimstab
+	Tooltip: Ruft einen Rostschleim herbei, der für dich kämpft
+}
+
+CorvidHarbringerStaff: {
+	DisplayName: Corvid Harbinger-Staff
+	Tooltip:
+		'''
+		Ruft einen mächtigen Raben herbei, der teleportiert und stürmt
+		'Nimmermehr'
+		'''
+}
+
+CosmicImmaterializer: {
+	DisplayName: Kosmischer Immaterialisierer
+	Tooltip:
+		'''
+		Ruft eine kosmische Energiespirale herbei, die für dich kämpft
+		Die Kugel wird Schwärme von nachverfolgenden Energiebolzen abfeuern, wenn Feinde von ihr erkannt werden
+		Erfordert 10 Dienerplätze zur Verwendung und es kann nur eine Energiespirale geben
+		Ohne einen Beschwörer-Rüstungsbonusbetrag fügt dieser Diener weniger Schaden zu
+		'''
+}
+
+CosmicViperEngine: {
+	DisplayName: Kosmischer Viper-Motor
+	Tooltip:
+		'''
+		Ruft ein kosmisches Kanonenboot herbei, um deine Feinde abzuschießen
+		Die Kanonenboote werden Kugeln aus deinem Inventar abfeuern
+		Sie feuern abwechselnd Raketen und Kugeln ab
+		50 % Chance, Munition zu sparen
+		Raketen verbrauchen keine Munition
+		'''
+}
+
+Cosmilamp: {
+	DisplayName: Kosmilampe
+	Tooltip:
+		'''
+		Ruft eine kosmische Laterne über deinem Kopf herbei, die für dich kämpft
+		Jede Laterne benötigt 2 Dienerplätze
+		'''
+}
+
+CrimslimeStaff: {
+	DisplayName: Rotschleimstab
+	Tooltip: Ruft einen Rotschleim herbei, der für dich kämpft
+}
+
+CryogenicStaff: {
+	DisplayName: Kryogenischer Stab
+	Tooltip:
+		'''
+		Ruft ein animiertes Eiskonstrukt herbei, um dich zu schützen
+		Feuerrate und Reichweite nehmen zu, je länger es ein Ziel ins Visier nimmt
+		'''
+}
+
+DaedalusGolemStaff: {
+	DisplayName: Daedalus-Golemstab
+	Tooltip:
+		'''
+		Ruft einen Daedalus-Golemsoldaten herbei, der Pellets und Elektrizität abfeuert
+		'Strahlender Gott der Gier'
+		'''
+}
+
+DankStaff: {
+	DisplayName: Danker Stab
+	Tooltip: Ruft einen modernden Creeper herbei, der für dich kämpft
+}
+
+DazzlingStabberStaff: {
+	DisplayName: Dazzling Stabber-Staff
+	Tooltip: Ruft ein heiliges Schwert herbei, das für dich kämpft
+}
+
+DeathstareRod: {
+	DisplayName: Deathstare-Rute
+	Tooltip:
+		'''
+		Ruft ein Auge über deinem Kopf herbei, das dich beobachtet und auf Feinde schießt
+		Es kann immer nur ein Auge vorhanden sein
+		'''
+}
+
+DeepseaStaff: {
+	DisplayName: Tiefseestab
+	Tooltip: Ruft einen Wasserstern herbei, der für dich kämpft
+}
+
+DormantBrimseeker: {
+	DisplayName: Ruhender Brimseeker
+	Tooltip:
+		'''
+		Beschwört einen Brimseeker, der dich begleitet
+		Wenn alle Dienerplätze belegt sind und ein weiterer Brimseeker beschworen wird, entsteht eine Schwefelaura
+		Die Aura stärkt deine Brimseeker-Beschwörungen und erzeugt schädliche Feuerbälle
+		Nur eine Aura kann gleichzeitig aktiv sein
+		Du hättest schwören können, dass sie noch gruseliger wurden, als du ihre Spiegelbilder betrachtet hast
+		'''
+}
+
+DragonbloodDisgorger: {
+	DisplayName: Dragonblood Disgorger
+	Tooltip:
+		'''
+		Beschwört einen skelettierten Drachen und seine beiden Kinder
+		Baby spuckt passiv heilen den Spieler
+		Es werden 6 Dienerplätze benötigt, um sie zu beschwören
+		Nur eine Familie kann gleichzeitig existieren
+		'''
+}
+
+DreadmineStaff: {
+	DisplayName: Dreadmine-Staff
+	Tooltip: Beschwort einen Schreckensmine-Turm, der für dich kämpft
+}
+
+ElementalAxe: {
+	DisplayName: Elementaxt
+	Tooltip: Beschwort eine elementare Axt, die für dich kämpft
+}
+
+EnchantedConch: {
+	DisplayName: Verzauberte Muschel
+	Tooltip: Beschwort eine Einsiedlerkrebs, der für dich kämpft
+}
+
+Endogenesis: {
+	DisplayName: Endogenese
+	Tooltip:
+		'''
+		Beschwört einen aufgestiegenen Eiskonstrukt, der dich beschützt
+		Ändert den Angriffsmodus durch erneutes Beschwören oder erneute Verwendung des Stabes
+		Der erste Modus lässt ihn feindlich gesinnte Laser auf den Feind schießen
+		Der zweite Modus opfert seine Gliedmaßen, um Suchgeschosse abzuschießen
+		Der dritte Modus ermöglicht ihm, seine Feinde aggressiv anzugreifen
+		Der vierte Modus lässt die Gliedmaßen als endothermische Flammenwerfer fungieren
+		Es werden 10 Dienerplätze benötigt, um ihn zu beschwören
+		Nur ein Konstrukt kann gleichzeitig existieren
+		[c/B0FBFF:'Eisige Wortspiele nicht enthalten']
+		'''
+}
+
+EndoHydraStaff: {
+	DisplayName: Endo-Hydra-Stab
+	Tooltip:
+		'''
+		Beschwört eine kalte endothermische Entität mit einem Kopf
+		Wenn die Entität bereits existiert, lässt sie erneute Verwendung dieses Gegenstands weitere Köpfe erhalten
+		'''
+}
+
+EntropysVigil: {
+	DisplayName: Wache der Entropie
+	Tooltip:
+		'''
+		Beschwört einen Mini-Calafitas-Klon und ihre Brüder, die dich beschützen
+		Ein Dienertrio belegt zwei Dienerplätze
+		'''
+}
+
+EtherealSubjugator: {
+	DisplayName: Ätherischer Unterjocher
+	Tooltip: Beschwort ein Phantom, das dich beschützt
+}
+
+EyeOfNight: {
+	DisplayName: Auge der Nacht
+	Tooltip: Beschwort ein krankes Auge, das Zellen abfeuert, die sich an Feinde anheften
+}
+
+FlamsteedRing: {
+	DisplayName: Flamsteed-Ring
+	NoSpaceTextTop: Kann nicht bereitgestellt werden
+	NoSpaceTextBottom: Nicht genügend Platz!
+	Tooltip:
+		'''
+		Beschwört einen kolossalen steuerbaren Mech
+		Klicke mit der rechten Maustaste, um das Bedienfeld des Mechs anzuzeigen
+		Das Panel hat 3 Konfigurationen, die mit den Klammern an den Rändern der Benutzeroberfläche ausgewählt werden
+		Jede Klammer aktiviert 2 von 3 möglichen Funktionen, die durch die kreisförmigen Symbole repräsentiert werden
+		Das untere linke Symbol verkleinert den Mech auf die Größe eines Spielers, schwächt jedoch seine Waffen
+		Das untere rechte Symbol ist ein leistungsstarker Jetbooster, der die Bewegung erheblich verbessert
+		Das obere Symbol sind die Waffen des Mechs. Sie müssen aktiviert sein, um anzugreifen
+		Klicke auf das obere Symbol, um zwischen Regicide, einer enormen Energieklinge, und einem leistungsstarken Gauss-Gewehr zu wechseln
+		Wenn du das Reittier verlässt, während ein Boss am Leben ist, wird deine Bewegung vorübergehend eingeschränkt
+		[c/87CEEB:'Jetzt lass sie bezahlen']
+		'''
+}
+
+FleshOfInfidelity: {
+	DisplayName: Fleisch der Untreue
+	Tooltip: Beschwort einen tentakelartigen Fleischball, der Blut auf Feinde spritzt
+}
+
+FlowersOfMortality: {
+	DisplayName: Blumen der Sterblichkeit
+	Tooltip:
+		'''
+		Beschwört fünf Regenbogenblumen über deinem Kopf
+		Die kombinierten Blumen belegen drei Dienerplätze
+		'''
+}
+
+ForgottenApexWand: {
+	DisplayName: Zauberstab des Vergessenen Gipfels
+	Tooltip:
+		'''
+		Beschwört uralte Mineralhaie, um sich deinen Feinden zu stellen.
+		'Scheint irgendwann in der Vergangenheit seinen Kiefer verloren zu haben'
+		'''
+}
+
+FrostBlossomStaff: {
+	DisplayName: Frostblütenstab
+	Tooltip:
+		'''
+		Beschwört eine gefrorene Blume über deinem Kopf
+		Es kann nur eine Blume gleichzeitig existieren
+		'''
+}
+
+FuelCellBundle: {
+	DisplayName: Kraftzellbündel
+	Tooltip: Lässt eine kleine, spezielle Variante der Seuchenträger frei
+}
+
+GammaHeart: {
+	DisplayName: Gamma-Herz
+	Tooltip: Beschwort radioaktive Köpfe, die an deinen Körper gebunden sind
+}
+
+GastricBelcherStaff: {
+	DisplayName: Magensprenger-Stab
+	Tooltip:
+		'''
+		Beschwört aquatische Aberrationen, um dich zu beschützen
+		Aberrationen feuern Erbrechen auf nahe Feinde ab, wobei jeder dritte Angriff Blasen abfeuert
+		'''
+}
+
+GlacialEmbrace: {
+	DisplayName: Glaziale Umarmung
+	Tooltip:
+		'''
+		Beschwört die Macht des antiken Eisschlosses
+		Für jeden verwendeten Dienerplatz erhältst du einen zusätzlichen umlaufenden Schildsporn
+		Diese Spikes beschleunigen sich schnell auf einen nahe gelegenen Feind zu und fügen schweren Schaden zu
+		Nach dem Abschießen auf das Ziel dauert es einige Zeit, bis sie sich regenerieren
+		Mit einem Rechtsklick beschwörst du einen Duplikatring um den ausgewählten Feind, der sich langsam annähert, bevor er explodiert
+		'''
+}
+
+GodspawnHelixStaff: {
+	DisplayName: Godspawn Helix Staff
+	Tooltip: Beschwort Astralsonden, um dich zu beschützen
+}
+
+GuidelightofOblivion: {
+	DisplayName: Leuchtfaden des Vergessens
+	Tooltip:
+		'''
+		Beschwört einen Laternen-Turm, der für dich kämpft
+		'Schatten träumen von endlosem Feuer, Flammen verschlingen und Glut stürzt sich'
+		'''
+}
+
+HauntedScroll: {
+	DisplayName: Geisterrolle
+	Tooltip: Beschwort einen Stapel von geisterhaften Tellern, die für dich kämpfen
+}
+
+HerringStaff: {
+	DisplayName: Heringsstab
+	Tooltip: Beschwort eine Heringsgruppe, die für dich kämpft
+}
+
+HivePod: {
+	DisplayName: Bienenstock-Pod
+	Tooltip: Beschwort einen astralen Bienenstock, der für dich kämpft
+}
+
+IgneousExaltation: {
+	DisplayName: Erdige Erhebung
+	Tooltip:
+		'''
+		Beschwört ein irdisches Schwert, das um dich herum kreist
+		Klicke mit der rechten Maustaste, um alle Schwerter auf den Cursor zu schleudern
+		'''
+}
+
+InfectedRemote: {
+	DisplayName: Infizierte Fernbedienung
+	Tooltip:
+		'''
+		Beschwört eine humanoid-hybride Seuchenträgerin namens 'Virili', um dir im Kampf zu helfen
+		Virili benötigt 3 Dienerplätze, um beschworen zu werden, und kann nur einmal beschworen werden
+		Virili verwendet eine Vielzahl von Angriffen, die sie in regelmäßigen Abständen durchläuft
+		Alle Angriffe verbreiten die Seuche, wie es ursprünglich vorgesehen war
+		'Auf der Rückseite steht nur ein Etikett:
+		[c/1FFBFF:WARNUNG: Das Subjekt ist äußerst ätzend und ansteckend. Direkten Kontakt vermeiden.']
+		'''
+}
+
+KingofConstellationsTenryu: {
+	DisplayName: König der Konstellationen, Tenryū
+	Tooltip:
+		'''
+		Verwendet 4 Dienerplätze, um ein Paar himmlischer Drachen zu beschwören, die für dich kämpfen
+		Es kann nur ein Paar Drachen gleichzeitig existieren
+		'Diejenigen, die den unbeweglichen Stern verschlingen werden'
+		'''
+}
+
+Metastasis: {
+	DisplayName: Metastasis
+	Tooltip:
+		'''
+		Ruft einen Grabkeller herbei, der für dich kämpft
+		Während der Grabkeller aktiv ist, werden Schwefelherzen erscheinen und um dich herum kreisen
+		Er wird immer häufiger versuchen, dich anzugreifen, abhängig davon, wie viele Herzen vorhanden sind
+		Er beansprucht 4 Diener-Slots und kann nur einmal beschworen werden
+		[c/C61B40:Ein überlegtes mögliches Zukunftsszenario der kosmischen Schlange,]
+		[c/C61B40:Eine grauenhafte Warnung für diejenigen, die von Hunger nach Macht geblendet sind.]
+
+		'''
+}
+
+MidnightSunBeacon: {
+	DisplayName: Midnight Sun Beacon
+	Tooltip: Ruft ein UFO herbei, um Feinde zu verdampfen
+}
+
+OrthoceraShell: {
+	DisplayName: Orthocera-Schale
+	Tooltip: Ruft eine fliegende Orthocera-Wache an der Mausposition herbei
+}
+
+Perdition: {
+	DisplayName: Perdition
+	Tooltip:
+		'''
+		Ruft eine Leuchtfeuer an der Position der Maus herbei
+		Wenn ein Ziel manuell über Rechtsklick ausgewählt wird, setzt es Ströme von Seelen von unten auf das Ziel frei
+		Nur ein Leuchtfeuer kann gleichzeitig existieren
+		'''
+}
+
+PlantationStaff: {
+	DisplayName: Plantagenstab
+	Tooltip:
+		'''
+		Ruft eine Miniatur-Plantera herbei, um dich zu schützen
+		Feuert Samen, stachlige Bälle und Sporenbewölkungen aus der Ferne ab, um Ziele zu vergiften
+		Erregt sich, wenn du unter 75% Gesundheit kommst, und beginnt, Feinde zu rammen
+		Belegt 3 Diener-Slots, und es kann nur eine Plantera gleichzeitig geben
+		'''
+}
+
+PolypLauncher: {
+	DisplayName: Polyp-Werfer
+	Tooltip: Ruft einen Polypenbündel herbei, das Korallenstücke auf nahegelegene Feinde abfeuert
+}
+
+PuffShroom: {
+	DisplayName: Puffpilz
+	Tooltip: Ruft einen niedlichen Pilzkrieger herbei, der für dich kämpft
+}
+
+ResurrectionButterfly: {
+	DisplayName: Auferstehungsschmetterling
+	Tooltip:
+		'''
+		Ruft ein Paar Schmetterlinge herbei, die für dich kämpfen
+		'Erinnern an die Melancholie der menschlichen Existenz
+		Selbst Geister weichen vom Weg der Rechtschaffenheit ab'
+		'''
+}
+
+RustyBeaconPrototype: {
+	DisplayName: Rostiger Leuchtfeuer-Prototyp
+	Tooltip:
+		'''
+		Ruft einen lange verlassenen Drohnen zur Unterstützung herbei
+		Die Drohne schwebt an Ort und Stelle und gibt giftige Wellen ab, die verstrahlt und vergiftet sind
+		'''
+}
+
+SanctifiedSpark: {
+	DisplayName: Geheiligter Funke
+	Tooltip: Ruft einen Profaned Energy Turm herbei, um für dich zu kämpfen
+}
+
+SandSharknadoStaff: {
+	DisplayName: Sandhai-Tornado-Stab
+	Tooltip: Ruft einen Sandnado herbei, um für dich zu kämpfen
+}
+
+SarosPossession: {
+	DisplayName: Saros-Besessenheit
+	Tooltip:
+		'''
+		Ruft eine strahlende Aura herbei, die absolute Kontrolle über das Licht selbst gibt
+		Die Aura wird Feinde mit Strahlenkugeln vernichten
+		Nur eine Aura kann gleichzeitig existieren
+		Benötigt 8 Diener-Slots
+		'''
+}
+
+ScabRipper: {
+	DisplayName: Krustenreißer
+	Tooltip: Ruft einen Baby-Blutekriecher herbei, um dich zu schützen
+}
+
+SeaboundStaff: {
+	DisplayName: Meeresgebundener Stab
+	Tooltip: Ruft einen brüchigen Stern herbei, um für dich zu kämpfen
+}
+
+ShellfishStaff: {
+	DisplayName: Muschelstabs
+	Tooltip:
+		'''
+		Ruft eine Muschel herbei, um für dich zu kämpfen
+		Jede Muschel benötigt 2 Diener-Slots
+		'''
+}
+
+Sirius: {
+	DisplayName: Sirius
+	Tooltip:
+		'''
+		Ruft den hellsten Stern am Nachthimmel herbei, um deine Feinde zu erleuchten
+		Nur ein Stern kann gleichzeitig existieren
+		Benötigt 6 Diener-Slots
+		'''
+}
+
+SlimePuppetStaff: {
+	DisplayName: Schleimpuppenstab
+	Tooltip:
+		'''
+		Ruft einen Schleimball herbei, der dir folgt
+		Der Ball fliegt zu nahegelegenen Feinden und explodiert beim Treffer von Feinden in Schleim
+		Verbraucht keine Diener-Slots
+		'''
+}
+
+SpikecragStaff: {
+	DisplayName: Stachelfelsenstab
+	Tooltip:
+		'''
+		Ruft einen Stachelfelsen herbei, um dich zu schützen
+		Das Besiegen der Profaned Goddess schaltet seine wahre Kraft frei
+		'''
+	TooltipNormal: Beschwört einen Stachelfelsen, der dich beschützt
+	TooltipGFB:
+		'''
+		Beschwört einen Stachelfelsen, der dich beschützt
+		Der Sieg über die entweihte Göttin schaltet ihre wahre Macht frei.
+		'''
+}
+
+SquirrelSquireStaff: {
+	DisplayName: Eichhörnchenknappenstab
+	Tooltip: Ruft einen Eichhörnchen-Knappen herbei, um für dich zu kämpfen
+}
+
+StaffOfNecrosteocytes: {
+	DisplayName: Stab der Nekrosteozyten
+	Tooltip:
+		'''
+		Ruft kleine Skelette herbei, um für dich zu kämpfen
+		Die Skelette hinterlassen Knochenzellen, während sie sich bewegen
+		'''
+}
+
+StaffoftheMechworm: {
+	DisplayName: Stab des Mechworms
+	Tooltip: Ruft einen Luft-Mechworm herbei, um für dich zu kämpfen
+}
+
+StormjawStaff: {
+	DisplayName: Stab des Sturmkiefers
+	Tooltip: Ruft einen Baby-Sturmlöwen herbei, um für dich zu kämpfen
+}
+
+SunGodStaff: {
+	DisplayName: Sonnengott-Stab
+	Tooltip:
+		'''
+		Ruft einen solarischen Gottesgeist herbei, um dich zu schützen
+		Nur ein Geist kann gleichzeitig existieren
+		'''
+}
+
+SunSpiritStaff: {
+	DisplayName: Sonnengeiststab
+	Tooltip:
+		'''
+		Ruft einen solarischen Geist herbei, um dich zu schützen
+		Nur ein Geist kann gleichzeitig existieren
+		'''
+}
+
+TacticalPlagueEngine: {
+	DisplayName: Taktischer Pest-Motor
+	Tooltip:
+		'''
+		Ruft ein Pest-Jet herbei, um deine Feinde zu zwingen
+		Jets schießen Kugeln aus deinem Inventar
+		Schießt manchmal anstelle einer Kugel eine Rakete ab
+		50% Chance, Munition zu sparen
+		Raketen verbrauchen keine Munition
+		'''
+}
+
+TemporalUmbrella: {
+	DisplayName: Temporaler Schirm
+	Tooltip:
+		'''
+		Ruft eine Vielzahl von Werkzeugen herbei, um dich im Kampf zu unterstützen:
+			- Ein zinnoberroter Pfeil, um deine Gegner zu durchbohren
+			- Ein Marmeladenhammer, um Feinde stilvoll zu schlagen
+			- Eine Jade-Axt, um Monster zu spalten und gelegentlich einen Baum zu fällen
+			- Ein cyanfarbener Regenschirm, um deine Feinde mit Anmut niederzuschlagen
+			- Ein lavendelfarbenes Gewehr, um diejenigen zu erschießen, die dir im Weg stehen
+		Am besten von allen ist, dass du einen Zylinder tragen darfst
+		Benötigt 5 Diener-Slots zur Verwendung, und es kann nur einen Satz Werkzeuge gleichzeitig geben
+		'Erstaunlich stabil, ich nehme an, das könnte die Mafia in einem Schlag besiegen'
+		'''
+}
+
+TundraFlameBlossomsStaff: {
+	DisplayName: Tundra-Flammenblütenstab
+	Tooltip:
+		'''
+		Ruft drei Flammenfrost-Orchideen über deinem Kopf herbei
+		Jede Blume benötigt einen Diener-Slot
+		'''
+}
+
+UniverseSplitter: {
+	DisplayName: Universumsplitters
+	Tooltip:
+		'''
+		Ruft ein Energiefeld am Mauszeiger herbei
+		Nachdem das Feld eingesetzt wurde, beginnt es, mehrere kleine Strahlen zu beschwören
+		Nachdem einige Sekunden vergangen sind, erscheint ein enormer Laserstrahl an der Position des Feldes
+		Dieser Effekt hat eine Abklingzeit
+		Der Versuch, dieses Objekt während der Abklingzeit zu verwenden, führt dazu, dass es einen Kurzschluss gibt und dir Schaden zufügt
+		[c/BB57FF:'Ein antikes Artefakt aus einem vergangenen Zeitalter, es wartet auf deinen Befehl.]
+		[c/BB57FF:Das ist eine schreckliche Idee, aber sie gehört dir sowieso nicht... oder?']
+		'''
+}
+
+Vigilance: {
+	DisplayName: Wachsamkeit
+	Tooltip: Ruft einen Seelensucher herbei, um für dich zu kämpfen
+}
+
+VileFeeder: {
+	DisplayName: Schändlicher Fresser
+	Tooltip: Ruft einen Baby-Seelenschlinger herbei, um dich zu schützen
+}
+
+ViralSprout: {
+	DisplayName: Viraler Spross
+	Tooltip:
+		'''
+		Ruft einen weisen Geist herbei, um für dich zu kämpfen
+		Verursacht Sage Poison, einen Debuff, der stärker wird, je mehr Geister du besitzt
+		'''
+}
+
+ViridVanguard: {
+	DisplayName: Viridischer Vorhut
+	Tooltip: Ruft eine kreisförmige Formation von Klingen herbei, die nahegelegene Feinde in Stücke schneiden
+}
+
+VoidConcentrationStaff: {
+	DisplayName: Stab der Konzentration des Nichts
+	Tooltip:
+		'''
+		Ruft eine bedrohliche Aura herbei, die angreift, indem sie Nichts-Orbs abschießt
+		Diener-Schaden wird um 5% erhöht, während die Aura aktiv ist
+		Benötigt drei Diener-Slots zur Verwendung
+		Nur eine Aura kann gleichzeitig existieren
+		Rechtsklicken, um ein Schwarzes Loch abzufeuern, das in der Größe wächst
+		'''
+}
+
+WarloksMoonFist: {
+	DisplayName: Kriegsgottes Mondfaust
+	Tooltip:
+		'''
+		Ruft eine himmlische Faust herbei, um Feinde für dich zu schlagen
+		Benötigt 4 Diener-Slots zur Verwendung
+		'''
+}
+
+WitherBlossomsStaff: {
+	DisplayName: Welkenblütenstab
+	Tooltip:
+		'''
+		Ruft vier verwelkte Blumen über deinem Kopf herbei
+		Die kombinierten Blumen verbrauchen zwei Diener-Slots
+		'''
+}
+
+WulfrumController: {
+	DisplayName: Wulfrum-Controller
+	Tooltip:
+		'''
+		Ruft einen Wulfrum-Droiden herbei, um für dich zu kämpfen
+		Halte die rechte Maustaste gedrückt, während du die Fernbedienung hältst, um alle deine Drohnen in den Supercharge-Modus zu schalten
+		Supercharged Droids hören auf anzugreifen und konzentrieren sich auf Wulfrum-Energie auf dich
+		Der Strahl bietet zusätzliche Regeneration und Verteidigung
+		Kann auch verwendet werden, um andere Spieler zu heilen, indem du den Mauszeiger nah genug bei ihnen hältst
+		'''
+}
+
+YharonsKindleStaff: {
+	DisplayName: Yharons Kindlestab
+	Tooltip:
+		'''
+		Ruft einen feurigen Drakoniden herbei, um für dich zu kämpfen
+		Benötigt 5 Diener-Slots zur Verwendung
+		'''
+}
+
+MirrorofKalandra: {
+	DisplayName: Spiegel von Kalandra
+	Tooltip:
+		'''
+		Ruft fünf antike Waffen herbei, um deine Feinde zu vernichten
+		Nur eine von jeder einzelnen Waffe kann gleichzeitig existieren
+		[c/BD7F59:Atziris Missfallen durchschneidet Feinde brutal]
+		[c/E7A7FF:Starforge zerreißt Gegner und löst gelegentlich kosmische Explosionen aus]
+		[c/868B8F:Paradoxica teleportiert sich zu Feinden und rast mit hoher Geschwindigkeit durch sie hindurch]
+		[c/EBC3A5:Wind Ripper schießt Pfeile ab, die sich in drei Teile teilen und Feinde zweimal durchbohren]
+		[c/9B6856:Hope Shredder schießt Pfeile ab, die sich in drei Teile teilen und Feinde zweimal durchbohren]
+		'Letztlich unermesslich, unaussprechlich'
+		'''
+}
+
+StellarTorusStaff: {
+	DisplayName: Stab des stellaren Torus
+	Tooltip: Ruft einen Torus-Orbital herbei, der Feinde mit einem ausfahrbaren Lichtstrahl brät
+}

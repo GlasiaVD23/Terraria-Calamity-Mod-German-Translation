@@ -1,0 +1,224 @@
+// Broken Biome Blade
+DefaultAttunement: {
+	Name: Reinste Klarheit
+	Function: Feuert ein schwaches Projektil ab, das die gegnerische Verteidigung zerschlägt
+}
+
+HotAttunement: {
+	Name: Trockene Pracht
+	Function:
+		'''
+		Halte <left> gedrückt, um brennende Klingen vor dich zu zaubern, die größer und stärker werden, je mehr Gegner du triffst.
+		Die Klingen können auch verwendet werden, um von Feldern abzuprallen, wenn sie in der Luft sind.
+		'''
+}
+
+ColdAttunement: {
+	Name: Beißende Umarmung
+	Function: Führe eine 3-Schlag-Kombo mit einer Gletscherklinge aus. Der letzte Schlag friert den Gegner für den Bruchteil einer Sekunde ein.
+}
+
+TropicalAttunement: {
+	Name: Grovetender's Berührung
+	Function:
+		'''
+		Wirf die Klinge mit einer Rankenpeitsche aus
+		Wenn du Feinde mit der Spitze der Peitsche schlägst, während sie knackt, ist ein kritischer Treffer garantiert.
+		Die Peitsche katapultiert dich auch in Richtung der getroffenen Felder.
+		'''
+}
+
+EvilAttunement: {
+	Name: Die Erwiderung des Verfalls
+	Function:
+		'''
+		Stürze dich nach vorne und benutze einen geisterhaften Erscheinung, der bei gegnerischen Treffern Leben aussaugt.
+		Du wirst von getroffenen Zielen abprallen
+		'''
+}
+
+// Mended Biome Blade
+TrueDefaultAttunement: {
+	Name: Pure Klarheit
+	Function:
+		'''
+		Feuert ein schwaches Projektil ab, das die gegnerische Verteidigung zerschlägt
+		Wenn du echte Nahkampftreffer landest, wird ein Siegel der Reinheit über den Feind gelegt. Deine Geschosse treffen automatisch die markierten Feinde
+		'''
+}
+
+TrueHotAttunement: {
+	Name: Trockene Pracht
+	Function:
+		'''
+		Halte <left> gedrückt, um brennende Klingen vor dich zu zaubern, die größer und stärker werden, je mehr Gegner du triffst.
+		Die Klingen können auch verwendet werden, um von Feldern abzuprallen, wenn du in der Luft sind.
+		Wenn du die Klingen loslässt, nachdem du vollständig aufgeladen sind, wirst du nach vorne geschleudert und zerfetzen deine Feinde.
+		'''
+}
+
+TrueColdAttunement: {
+	Name: Beißende Umarmung
+	Function:
+		'''
+		Führe eine 3-Schlag-Kombo mit einer Gletscherklinge aus. Der letzte Schlag friert den Gegner für den Bruchteil einer Sekunde ein.
+		Nachklingender Gletschernebel wird bei jedem Schwung freigesetzt und fügt Feinden, die in ihn hineinlaufen, Schaden zu.
+		'''
+}
+
+TrueTropicalAttunement: {
+	Name: Grovetender's Berührung
+	Function:
+		'''
+		Werfe eine Klinge mit einer Rebpeitsche heraus.
+		Gegner mit der Spitze der Peitsche zu treffen, wenn sie knackt, garantiert einen kritischen Treffer.
+		Die Peitsche katapultiert dich auch auf getroffene Feld.
+		Spreizende Ranken sprießen bei kritischen Treffern. Diese Ranken können bis zu drei Ziele treffen
+		'''
+}
+
+TrueEvilAttunement: {
+	Name: Die Erwiderung des Verfalls
+	Function:
+		'''
+		Stürze dich mit einem geisterhaften Rapiervorsprung vorwärts, der allen getroffenen Gegnern das Leben aussaugt. Du wirst auch von getroffenen Zielen weggeschleudert
+		Wenn du drei Treffer landest, ohne den Boden zu berühren, verwandelt sich dein nächster Angriff in einen verstärkten Dash-Schlag.
+		'''
+}
+
+HolyAttunement: {
+	Name: Die Macht des Himmels
+	Function:
+		'''
+		Halte <left> gedrückt, um das Schwert um dich herum zu schwingen, welches sich mit der Zeit beschleunigt.
+		Beim Loslassen wird das Schwert in Richtung des Cursors geschleudert. Das Schwert kehrt dann schnell in deine Hand zurück
+		'''
+}
+
+AstralAttunement: {
+	Name: Bestehende Abscheu
+	Function:
+		'''
+		Halte <left> gedrückt, um einen sternhagelvollen Ausfallschritt auszuführen, und lass los, um den verheerenden Schlag zu entfesseln.
+		Das Auftreffen auf die Erde mit dem Ausfallschritt verursacht einen massiven Aufprall, der jenseitige Monolithen aufwirft.
+		'''
+}
+
+MarineAttunement: {
+	Name: Geste für Ertrunkene
+	Function:
+		'''
+		Schieße zwei Wasserkugeln von beiden Seiten aus. Bei Bodenkontakt verwandeln sich die Wasserkugeln in kleine Wellen, die über den Boden reiten.
+		Wellen, die unter Wasser abgefeuert werden oder das Wasser berühren, werden viel größer und schneller.
+		'''
+}
+
+// True Biome Blade
+WhirlwindAttunement: {
+	Name: Der Stolz des Schwertschmieds
+	Function:
+		'''
+		Halte <left> gedrückt, um das Schwert um dich herum zu schwingen, welches sich mit der Zeit beschleunigt. Schwertstrahlen werden beim Schwingen wild abgefeuert
+		Loslassen schleudert das Schwert in Richtung des Cursors. Schwertstrahlen treffen die vom geworfenen Schwert getroffenen Gegner
+		'''
+	PassiveDesc: Alle Angriffe haben eine Chance, Schwertstrahlen abzufeuern.
+}
+
+FlailBladeAttunement: {
+	Name: Die Klagen der Angeketteten
+	Function:
+		'''
+		Haue mit einem Schwall von verketteten Klingen zu. Gegner mit der Spitze der Klingen zu treffen, garantiert einen kritischen Treffer.
+		Kritische Schläge senden zusätzliche Phantomketten aus, die sich an mehreren Zielen festhalten
+		'''
+	PassiveDesc: Ein verzauberter Kettenhaken schwebt in deiner Nähe. Wenn du Feinde schlägst, wirbelt der Haken um dich herum und friert die Gegner ein.
+}
+
+SuperPogoAttunement: {
+	Name: Sanguinischer Zorn
+	Function:
+		'''
+		Halte <left> gedrückt, um geschmolzene Klingen vor dir zu beschwören, die größer und stärker werden, je mehr Feinde du triffst.
+		Die Klingen können auch verwendet werden, um in der Luft von Feldern abzuprallen.
+		Beim Loslassen werden die geladenen Klingen wie ein Rad nach vorne geschleudert.
+		Unmittelbar danach greift er erneut an und zerfetzt alles, was sich ihm in den Weg stellt.
+		'''
+	PassiveDesc: Das Schlagen von Feinden stiehlt selten eine kleine Menge an Leben
+}
+
+ShockwaveAttunement: {
+	Name: Merkurische Gezeiten
+	Function:
+		'''
+		Halte <left> gedrückt, um einen himmelstürmenden Ausfallschritt auszuführen, und lass los, um den verheerenden Schlag zu entfesseln.
+		Wenn sich das Schwert auflädt, werden Schockwellen ausgestoßen.
+		Der Aufprall auf die Erde wird eine massive Schockwelle auslösen, die eine Flut von Monolithen aufwirft.
+		'''
+	PassiveDesc: Beim Angreifen werden Regelmäßig Schockwellen aussgesendet
+}
+
+// Galaxia
+PhoenixAttunement: {
+	Name: Der Stolz des Phoenix
+	Function:
+		'''
+		<left>, um Galaxia um dich herum zu schwingen, wobei sie sich mit der Zeit beschleunigt.
+		Der wirbelnde Nebel sendet ständig zielsuchenden kosmische Blitze aus.
+		Loslassen, um Galaxia zusammen mit 6 gigantischen kosmischen Blitzen in Richtung des Cursors zu schleudern
+		'''
+	PassiveName: Steinbocks Segen
+	PassiveDesc:
+		'''
+		Lässt beim Angreifen regelmäßig einen Ring der schwächer werdenden Sternen um den Cursor entstehen
+		Der Ring wird zunächst von dir weggestoßen, bevor die Zeit verlangsamt wird.
+		'''
+}
+
+AriesAttunement: {
+	Name: Zorn des Widders
+	Function:
+		'''
+		Wirf Galaxia zu deinem Cursor und halte sie mit Konstellationen fest.
+		Galaxia folgt dem Cursor und dreht sich schnell, um Feinde zu zerfetzen.
+		Wenn du Feinde triffst, entstehen nebulöse Explosionen, die kosmische Blitze auslösen.
+		'''
+	PassiveName: Steinbocks Segen
+	PassiveDesc:
+		'''
+		Löst beim Angreifen regelmäßig einen Ring aus schwachen Sternen um den Cursor aus.
+		Der Ring wird zunächst von dir weggestoßen, bevor die Zeit verlangsamt wird.
+		'''
+}
+
+PolarisAttunement: {
+	Name: Der Blick von Polaris
+	Function:
+		'''
+		Halte <left> gedrückt, um Galaxias Kraft in einen engen Wirbel galaktischer Energien zu lenken.
+		Der Wirbel verstärkt sich mit der Zeit und wenn du Feinde triffst.
+		Loslassen, um den geladenen Stern in gerader Linie abzuschießen
+		Drücke sofort wieder <left>, um auf den Stern zuzustürmen und kosmische Blitze abzuschießen.
+		'''
+	PassiveName: Der Segen des Krebses
+	PassiveDesc:
+		'''
+		Lässt beim Angreifen regelmäßig einen Ring aus lebenstehlenden Sternen um sich herum entstehen.
+		Der Ring wird zunächst von dir angezogen, bevor er mit der Zeit langsamer wird.
+		'''
+}
+
+AndromedaAttunement: {
+	Name: Der Gang von Andromeda
+	Function:
+		'''
+		Halte <left> gedrückt, um einen götterverachtenden Ausfallschritt zu machen, und lass los, um den verheerenden Schlag zu entfesseln.
+		Galaxia stößt beim Aufladen kosmische Blitze aus.
+		Wenn du dich in den Boden stürzt, wird eine Schockwelle ausgelöst, die einen Sturm kosmischer Energien hervorruft.
+		'''
+	PassiveName: Der Segen des Krebses
+	PassiveDesc:
+		'''
+		Lässt beim Angreifen regelmäßig einen Ring aus lebenstehlenden Sternen um sich herum entstehen.
+		Der Ring wird zunächst von dir angezogen, bevor er mit der Zeit langsamer wird.
+		'''
+}

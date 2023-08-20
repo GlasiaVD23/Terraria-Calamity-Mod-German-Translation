@@ -1,0 +1,73 @@
+// Damageable
+MarniteRepulsionHitbox.DisplayName: Abstoßungsmatrix
+ArtifactOfResilienceBulwark.DisplayName: Artefakt der Widerstandskraft
+// Draedon's Arsenal
+AnomalysNanogunHoldout.DisplayName: Die Nanokanone der Anomalie
+AnomalysNanogunMPFBBoom.DisplayName: MPFB Explosion
+AnomalysNanogunMPFBDevastator.DisplayName: MPFB Verwüster
+AnomalysNanogunPlasmaBeam.DisplayName: Plasmastrahl
+FrequencyManipulatorEnergy.DisplayName: Impuls Energie
+FrequencyManipulatorProjectile.DisplayName: Frequenzmanipulator
+GalvanizingGlaiveProjectile.DisplayName: Verzinkungs Glaive
+GatlingLaserProj.DisplayName: Gatling Laser
+GatlingLaserShot.DisplayName: Gatling Laser
+GaussEnergy.DisplayName: Gauss Energie
+GaussFlux.DisplayName: Gauss Flux
+GaussPistolShot.DisplayName: Gaußschuss
+GaussRifleBlast.DisplayName: Gaußschlag
+GaussRifleExplosion.DisplayName: Gaussexplosion
+HydraulicVoltCrasherProjectile.DisplayName: Hydraulischer Voltcrasher
+LaserRifleShot.DisplayName: Lasergewehr
+MassivePlasmaExplosion.DisplayName: Plasmaexplosion
+MountedScannerLaser.DisplayName: Todesstrahl
+MountedScannerSummon.DisplayName: Montierter Scanner
+PhaseslayerBeam.DisplayName: Lichtklinge
+PhaseslayerProjectile.DisplayName: Phasenebene
+PlasmaCasterShot.DisplayName: Plasmabolzen
+PlasmaGrenadeProjectile.DisplayName: Plasmagranate
+PlasmaGrenadeSmallExplosion.DisplayName: Plasmaexplosion
+PoleWarperSummon.DisplayName: Pfahlzerrer
+PulseDragonProjectile.DisplayName: Pulsdrache
+PulsePistolShot.DisplayName: Pulsbolzen
+PulseRifleShot.DisplayName: Pulsbolzen
+PulseTurret.DisplayName: Pulsturm
+PulseTurretShot.DisplayName: Pulsbolzen
+SnakeEyesSummon.DisplayName: Schlangenaugen
+StarSwallowerAcid.DisplayName: Säure
+StarSwallowerSummon.DisplayName: Haustier Frosch
+SystemBaneLightning.DisplayName: Blitzschlag
+SystemBaneProjectile.DisplayName: System Bane
+TaserHook.DisplayName: Taser
+TeslaCannonShot.DisplayName: Teslastrahl
+TrackingDiskLaser.DisplayName: Laser
+TrackingDiskProjectile.DisplayName: Tracking Disk
+UnstableMatter.DisplayName: Instabile Materie
+VoltageStream.DisplayName: Spannung Strom
+WavePounderBoom.DisplayName: Explosion
+WavePounderProjectile.DisplayName: Wave Pounder
+// Environmental
+AcidDrop.DisplayName: Säure
+BrimstoneGeyser.DisplayName: Rauch
+GeyserTelegraph.DisplayName: Geysir
+HotSteam.DisplayName: Dampf
+LavaChunk.DisplayName: Lavabrocken
+MurkySteam.DisplayName: Dampf
+SmokeTelegraph.DisplayName: Rauch
+ThermalSteam.DisplayName: Dampf
+// Turrets
+DraedonLaser.DisplayName: Draedon Laser
+DraedonLaserBuffer.DisplayName: Draedon Laser
+FireShot.DisplayName: Feuerschuss
+FireShotBuffer.DisplayName: Feuerschuss
+IceExplosion.DisplayName: Eisgas
+IceShot.DisplayName: Eisschuss
+IceShotBuffer.DisplayName: Eisschuss
+LaserShot.DisplayName: Laserschuss
+LaserShotBuffer.DisplayName: Laserschuss
+OnyxShot.DisplayName: Onyxschuss
+OnyxShotBuffer.DisplayName: Onyxschuss
+PlagueExplosionGas.DisplayName: Plagegas
+PlagueShot.DisplayName: Plagenschuss
+PlagueShotBuffer.DisplayName: Plagenschuss
+WaterShot.DisplayName: Wasserschuss
+WaterShotBuffer.DisplayName: Wasserschuss

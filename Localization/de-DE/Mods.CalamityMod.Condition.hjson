@@ -1,0 +1,98 @@
+// Drop conditions
+Drops: {
+	Cynosure: Gibt es als Beute, nachdem du sowohl Draedon als auch Calamitas besiegt hast
+	DownedKS: Gibt es als Beute, nachdem der Schleimkönig besiegt wurde
+	DownedDS: Gibt es als Beute, nachdem der Wüstengeißel besiegt wurde
+	DownedEoC: Gibt es als Beute, nachdem das Auge von Cthulhu besiegt wurde
+	DownedCrab: Gibt es als Beute, nachdem Krabulon besiegt wurde
+	DownedEoW: Gibt es als Beute, nachdem der Weltenfresser besiegt wurde
+	DownedBoC: Gibt es als Beute, nachdem das Gehirn von Cthulhu besiegt wurde
+	DownedHM: Gibt es als Beute, nachdem das Hive Mind besiegt wurde
+	DownedPerfs: Gibt es als Beute, nachdem die Perforatoren besiegt wurden
+	DownedQB: Gibt es als Beute, nachdem die Bienenkönigin besiegt wurde
+	DownedDeer: Gibt es als Beute, nachdem Deerclops besiegt wurde
+	DownedSkele: Gibt es als Beute, nachdem Skeletron besiegt wurde
+	DownedSG: Gibt es als Beute, nachdem der Schleimgott besiegt wurde
+	Hardmode: Gibt es als Beute im Hardmode
+	DownedQS: Gibt es als Beute, nachdem die Schleimkönigin besiegt wurde
+	DownedCryo: Gibt es als Beute, nachdem Cryogen besiegt wurde
+	DownedAS: Gibt es als Beute, nachdem der Wassergeißel besiegt wurde
+	DownedBrim: Gibt es als Beute, nachdem der Brimstone Elementar besiegt wurde
+	DownedDest: Gibt es als Beute, nachdem der Zerstörer besiegt wurde
+	DownedTwins: Gibt es als Beute, nachdem die Zwillinge besiegt wurden
+	DownedSP: Gibt es als Beute, nachdem Skeletron Prime besiegt wurde
+	Downed1Mech: Gibt es als Beute, nachdem ein Mechanischer Boss besiegt wurde
+	Downed3Mechs: Gibt es als Beute, nachdem alle drei Mechanischen Bosse besiegt wurden
+	DownedCal: Gibt es als Beute, nachdem der Calamitas Klon besiegt wurde
+	DownedPlant: Gibt es als Beute, nachdem Plantera besiegt wurde
+	DownedCalPlant: Gibt es als Beute, nachdem Calamitas oder Plantera besiegt wurden
+	DownedLevi: Gibt es als Beute, nachdem der Leviathan und Anahita besiegt wurden
+	DownedAureus: Gibt es als Beute, nachdem Astrum Aureus besiegt wurde
+	DownedGolem: Gibt es als Beute, nachdem Golem besiegt wurde
+	DownedPBG: Gibt es als Beute, nachdem der Pestbringer Goliath besiegt wurde
+	DownedEoL: Gibt es als Beute, nachdem die Kaiserin des Lichts besiegt wurde
+	DownedFish: Gibt es als Beute, nachdem Herzog Fischron besiegt wurde
+	DownedRav: Gibt es als Beute, nachdem der Ravager besiegt wurde
+	DownedLC: Gibt es als Beute, nachdem der Irre Kultist besiegt wurde
+	DownedAD: Gibt es als Beute, nachdem Astrum Deus besiegt wurde
+	DownedML: Gibt es als Beute, nachdem der Mondherr besiegt wurde
+	DownedGuard: Gibt es als Beute, nachdem die Entweihten Wächter besiegt wurden
+	DownedBirb: Gibt es als Beute, nachdem der Drachenfalter besiegt wurde
+	DownedProv: Gibt es als Beute, nachdem Providence besiegt wurde
+	DownedSig: Gibt es als Beute, nachdem Signus besiegt wurde
+	DownedSW: Gibt es als Beute, nachdem der Sturmweber besiegt wurde
+	DownedCV: Gibt es als Beute, nachdem die Grenzenlose Leere besiegt wurde
+	DownedPolter: Gibt es als Beute, nachdem der Polterghast besiegt wurde
+	DownedOD: Gibt es als Beute, nachdem der Alte Duke besiegt wurde
+	DownedDoG: Gibt es als Beute, nachdem der Verschlinger von Göttern besiegt wurde
+	DownedYharon: Gibt es als Beute, nachdem Yharon besiegt wurde
+	DownedExos: Gibt es als Beute, nachdem die Exo Mechs besiegt wurden
+	DownedSCal: Gibt es als Beute, nachdem Calamitas besiegt wurde
+	DownedAEW: Gibt es als Beute, nachdem der Urzeitliche Drache besiegt wurde
+	DownedClam: Gibt es als Beute, nachdem die Riesige Muschel besiegt wurde
+	DownedClamHM: Gibt es als Beute, nachdem die Riesige Muschel im Hardmode besiegt wurde
+	DownedGSS: Gibt es als Beute, nachdem der Große Sandhai besiegt wurde
+	DownedBetsy: Gibt es als Beute, nachdem Betsy besiegt wurde
+	DownedT1AR: Gibt es als Beute, nachdem die erste Stufe des Säureregens besiegt wurde
+	DownedT2AR: Gibt es als Beute, nachdem die zweite Stufe des Säureregens besiegt wurde
+	FirstKill: Gibt es nur beim ersten Sieg
+	IsGFB: Dies ist eine Gegenstand-Droprate für den Alles-Samen
+	IsRev: Dies ist eine Droprate im Rachemodus
+	IsDeath: Dies ist eine Droprate im Todmodus
+	MechBoss: Gibt es beim ersten Sieg über den finalen Mechanischen Boss
+	ProvidenceHallow:
+		'''
+		Gibt es als Beute, wenn Providence im Hallow beschworen wurde
+		      oder während Nachts angegriffen wird
+		'''
+	ProvidenceUnderworld:
+		'''
+		Gibt es als Beute, wenn Providence in der Unterwelt beschworen wurde
+		oder während Nachts angegriffen wird
+		'''
+	ProvidenceNight: Gibt es als Beute, wenn Providence Nachts angegriffen wird
+	ProvidenceChallenge:
+		'''
+		Gibt es als Beute, wenn Providence nur mit dem [i:CalamityMod/ProfanedSoulArtifact] Profaned Soul Artifact besiegt wurde
+		{$Bestiary_ItemDropConditions.IsExpert}
+		'''
+	TrasherKill: Gibt es als Beute, wenn es einem Trasher gefüttert wird
+}
+
+// Other conditions
+PotionConfig: Während die Option zum Verkauf von Trank-Gegenständen durch Stadt NPCs aktiviert ist
+HasFlareGun: Während du eine verbesserte Leuchtkanone trägst
+HasRogueArmor: Während du Schuftrüstung trägst
+HasWings: Während du Flügel trägst
+InAstral: Während du in der Astralen Infektion bist
+InCrag: Während du in den Schwefelgruben bist
+InSulph: Während du im Schwefelmeer bist
+InSunken: Während du im Versunkenen Meer bist
+InRev: Im Rachemodus
+AlcoholPoison: Während du von Alkoholvergiftung betroffen bist
+PostCal: Nachdem der Calamitas-Klon besiegt wurde
+PostAureus: Nachdem Astrum Aureus besiegt wurde
+PostPolter: Nachdem der Polterghast besiegt wurde
+PostOD: Nachdem der Alte Herzog besiegt wurde
+PostDoG: Nachdem der Verschlinger von Göttern besiegt wurde
+PostYharon: Nachdem Yharon besiegt wurde

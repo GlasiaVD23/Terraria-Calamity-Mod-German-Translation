@@ -1,0 +1,1385 @@
+AcidicRainBarrel: {
+	DisplayName: Säureregen-Fass
+	Tooltip:
+		'''
+		Wirft ein rollendes Fass, das bei Kollision mit Wänden explodiert
+		Tarnungs-Angriffe lassen es bei Kollision regnen
+		'''
+}
+
+AdamantiteThrowingAxe: {
+	DisplayName: Adamantit-Wurfaxt
+	Tooltip: Tarnungs-Angriffe rufen bei Treffern auf Feinde Blitzschläge herbei
+}
+
+AlphaVirus: {
+	DisplayName: Alpha-Virus
+	Tooltip:
+		'''
+		Wirft eine riesige Seuchenzelle mit einer tödlichen Aura, die sich in 6 suchende Seuchenwesen auflöst
+		Tarnungs-Angriffe verlangsamen die Seuchenzelle und lassen eine Aura aus wirbelnden Seuchenwesen entstehen, während sie fliegt
+		'''
+}
+
+Apoctolith: {
+	DisplayName: Apoctolith
+	Tooltip:
+		'''
+		Kritische Treffer reißen die Feindesabwehr auf
+		Tarnungs-Angriffe zerschmettern und betäuben Feinde kurzzeitig
+		'Vielleicht ist es keine so gute Idee, Ziegel mit dem Gesicht aufzufangen...'
+		'''
+}
+
+AshenStalactite: {
+	DisplayName: Aschen-Stalaktit
+	Tooltip:
+		'''
+		Wirft einen kleinen Stalaktiten, der sich nach einer kurzen Strecke zu Staub zersetzt
+		Tarnungs-Angriffe lassen einen größeren, schädlicheren Stalagmiten geworfen werden, der langsamer und weiter reist, bevor er zu schädlichem Staub zerfällt
+		'''
+}
+
+AuroradicalThrow: {
+	DisplayName: Auroradikaler Wurf
+	Tooltip:
+		'''
+		Schleudert einen Stern, der sich nach kurzer Zeit teilt
+		Geteilte Sterne nähern sich nach einigen Sekunden nahen Feinden an
+		Tarnungs-Angriffe beschwören bei Feindberührung einen Meteor herauf
+		'''
+}
+
+BallisticPoisonBomb: {
+	DisplayName: Ballistische Giftbombe
+	Tooltip:
+		'''
+		Wirft eine klebrige Bombe, die in Stacheln und Giftwolken explodiert
+		Tarnungs-Angriffe werfen drei auf einmal
+		'''
+}
+
+BlastBarrel: {
+	DisplayName: Sprengfass
+	Tooltip:
+		'''
+		Wirft ein rollendes Fass, das bei Kollision mit Wänden explodiert
+		Tarnungs-Angriffe lassen das Fass zweimal abprallen, bevor es mit unterschiedlichen Effekten verschwindet
+		'Einige Leute pflegten darüber zu springen'
+		'''
+}
+
+BlazingStar: {
+	DisplayName: Flammender Stern
+	Tooltip:
+		'''
+		Wirft bis zu 3 rotglühende zurückkehrende Gleven
+		Tarnungs-Angriffe werfen drei Gleven mit unendlicher Durchdringung
+		'''
+}
+
+BloodsoakedCrasher: {
+	DisplayName: Blutsgetränkter Zertrümmerer
+	Tooltip:
+		'''
+		Wirft eine blutige Axt, die von der Schwerkraft beeinflusst wird und zweimal abprallen kann
+		Die Axt wird im Laufe der Zeit schneller, verlangsamt sich jedoch bei Treffern auf einen Feind
+		Heilt bei Treffern auf Feinde
+		Tarnungs-Angriffe lassen suchendes Blut bei Feindberührung entstehen
+		'''
+}
+
+BouncingEyeball: {
+	DisplayName: Hüpfendes Auge
+	Tooltip:
+		'''
+		Wirft ein Auge, das von Oberflächen abprallt
+		Tarnungs-Angriffe lassen die Augen viel schneller bewegen und energetischer abprallen
+		Der Rückstoß ist während eines Blutmonds viel stärker
+		'''
+}
+
+BouncySpikyBall: {
+	DisplayName: Hüpfende Stachelsphäre
+	Tooltip:
+		'''
+		Wirft eine sehr springende Kugel, die von Wänden und Feinden abprallt
+		Erfährt nach dem Abprallen von einem Feind eine geringe Steigerung des Schadens und der Geschwindigkeit
+		Tarnungs-Angriffe werfen vier auf einmal
+		'''
+}
+
+BrackishFlask: {
+	DisplayName: Trübe Flasche
+	Tooltip:
+		'''
+		Wirft eine Flasche, die in giftige Seewasserexplosionen verwandelt wird
+		Tarnungs-Angriffe beschwören einen trüben Speerspike
+		'''
+}
+
+Brimblade: {
+	DisplayName: Brimklinge
+	Tooltip:
+		'''
+		Wirft eine Klinge, die sich bei Feindtreffern teilt
+		Tarnungs-Angriffe teilen sich weiter und veranlassen den Spieler, eine Salve von Schwefel-Darts abzufeuern
+		'''
+}
+
+BurningStrife: {
+	DisplayName: Brennendes Leid
+	Tooltip:
+		'''
+		Wirft eine schattenflammende stachelige Kugel, die in Flammen ausbricht
+		Tarnungs-Angriffe lassen die Kugel verweilen und heftiger explodieren
+		'Definitiv nicht taschensicher'
+		'''
+}
+
+CelestialReaper: {
+	DisplayName: Himmlischer Schnitter
+	Tooltip:
+		'''
+		Wirft eine schnell heimkehrende Sense
+		Die Sense prallt nach dem Treffen eines Feindes bis zu sechs Mal ab
+		Tarnungs-Angriffe erzeugen schädliche Nachbilder
+		'''
+}
+
+Celestus: {
+	DisplayName: Celestus
+	Tooltip:
+		'''
+		Wirft eine hochgeschwindige Sense, die sich bei Feindtreffern in mehrere Phantom-Sensen aufteilt
+		Tarnungs-Angriffe ändern die Richtung um und heften sich an Feinde, nachdem sie zum Spieler zurückgekehrt sind
+		'''
+}
+
+Cinquedea: {
+	DisplayName: Cinquedea
+	Tooltip: Tarnungs-Angriffe heften sich nach dem Treffen eines Feindes an
+}
+
+CobaltKunai: {
+	DisplayName: Kobalt-Kunai
+	Tooltip: Tarnungs-Angriffe feuern drei suchende Kobalt-Energiebolzen ab
+}
+
+ConsecratedWater: {
+	DisplayName: Geweihtes Wasser
+	Tooltip:
+		'''
+		Wirft eine heilige Flasche Wasser, die in eine säulenförmige heilige Flamme explodiert
+		Die Säule wird zerstört, wenn darunter keine Fliesen vorhanden sind
+		Tarnungs-Angriffe erzeugen drei anstelle einer heiligen Flamme bei Berührung
+		Die Flasche ist überraschend staubig
+		'''
+}
+
+ContaminatedBile: {
+	DisplayName: Kontaminierte Galle
+	Tooltip:
+		'''
+		Wirft eine Flasche kränklich grüner, verstrahlter Galle, die bei Kollision explodiert
+		Tarnungs-Angriffe machen die Explosion viel gewalttätiger und kraftvoller
+		'''
+}
+
+CorpusAvertor: {
+	DisplayName: Corpus Avertor
+	Tooltip:
+		'''
+		Angriffe gewähren Lebensraub basierend auf dem zugefügten Schaden
+		Je niedriger dein HP, desto mehr Schaden verursacht diese Waffe und heilt den Spieler bei Treffern auf Feinde
+		Tarnungs-Angriffe werfen ein einzelnes Regenbogen umrandetes Messer
+		Bei Feindberührung steigert dieses Messer den Schaden und die Lebensregeneration aller Mitglieder deines Teams
+		Es besteht jedoch eine geringe Chance, dass es deine Gesundheit halbiert
+		'Scheint im Laufe der Zeit abgenutzt zu sein'
+		'''
+}
+
+CosmicKunai: {
+	DisplayName: Kosmische Kunai
+	Tooltip:
+		'''
+		Feuert einen schnellen Strom von kurzreichweitigen Kunai ab
+		Tarnungs-Angriffe beschwören 5 kosmische Sensen, die heimkehren und explodieren
+		'''
+}
+
+CraniumSmasher: {
+	DisplayName: Schädelzertrümmerer
+	Tooltip:
+		'''
+		Wirft Scheiben, die auf dem Boden rollen und gelegentlich eine Explosivscheibe abfeuern
+		Tarnungs-Angriffe feuern eine Explosivscheibe ab, die mehrere Feinde durchdringen kann
+		'''
+}
+
+CrushsawCrasher: {
+	DisplayName: Crushsaw-Zertrümmerer
+	Tooltip:
+		'''
+		Wirft springende Äxte
+		Tarnungs-Angriffe werfen fünf auf einmal
+		'''
+}
+
+Crystalline: {
+	DisplayName: Kristallin
+	Tooltip:
+		'''
+		Teilt sich beim Reisen in mehrere Projektile auf
+		Tarnungs-Angriffe lassen die Klinge mehr splittern und Kristalle erzeugen, wenn sie zerstört werden
+		'''
+}
+
+CrystalPiercer: {
+	DisplayName: Kristall-Durchdringer
+	Tooltip:
+		'''
+		Wirft eine Kristalllanze, die unendlich durchdringt
+		Tarnungs-Angriffe durchdringen Blöcke, ignorieren die Schwerkraft und beschwören Kristallscherben während des Fluges
+		'''
+}
+
+CursedDagger: {
+	DisplayName: Verfluchtes Messer
+	Tooltip:
+		'''
+		Wirft springende Dolche
+		Tarnungs-Angriffe werden von verfluchten Feuerbällen begleitet
+		'''
+}
+
+DeepSeaDumbbell: {
+	DisplayName: Tiefseehantel
+	Tooltip:
+		'''
+		Wirft eine Hantel, die abprallt und Gewichte bei jedem Aufprall wirft
+		Drücke <right>, um dich zu biegen und den Schaden deines nächsten Angriffs um das bis zu 5-fache zu erhöhen
+		Die Biegungen können Feinde direkt treffen
+		'''
+}
+
+DeepWounder: {
+	DisplayName: Tiefenwunde
+	Tooltip:
+		'''
+		Wirft eine abyssale Axt, die Feinden Rüstungsknirschen und Tiefendruck zufügt
+		Tarnungs-Angriffe lassen die Axt schneller geworfen werden und hinterlassen Wasser, das zusätzlich zu anderen Debuffs auch Marked for Death verursacht
+		'''
+}
+
+DefectiveSphere: {
+	DisplayName: Mangelhafte Kugel
+	Tooltip:
+		'''
+		Feuert verschiedene tödliche Kugeln mit unterschiedlichen Effekten ab
+		Bis zu fünf Kugeln können gleichzeitig geworfen werden
+		Tarnungs-Angriffe feuern alle 4 Kugeltypen auf einmal ab
+		'''
+}
+
+DeificThunderbolt: {
+	DisplayName: Göttlicher Donnerkeil
+	Tooltip:
+		'''
+		Feuert einen Blitz, um Feinde zu elektrokutieren
+		Der Blitz bewegt sich schneller, wenn es regnet
+		Beschwört Blitz aus dem Himmel bei Aufprall
+		Tarnungs-Angriffe beschwören mehr Blitz und bewegen sich schneller
+		'''
+}
+
+DesecratedWater: {
+	DisplayName: Entweihtes Wasser
+	Tooltip:
+		'''
+		Wirft eine unheilige Flasche Wasser, die in eine Explosion böser Blasen explodiert
+		Tarnungs-Angriffe beschwören zusätzliche Blasen, die Ichor und Verfluchte Inferno zufügen
+		'''
+}
+
+DukesDecapitator: {
+	DisplayName: Herzog-Entkörperer
+	Tooltip:
+		'''
+		Wirft eine Hydro-Axt, die Feinde zerschneidet, wenn sie mit ihnen in Kontakt kommt
+		Je schneller sich die Axt dreht, desto häufiger trifft sie, bevor sie verschwindet
+		Tarnungs-Angriffe erzeugen kurzreichweitige Blasen
+		'''
+}
+
+DuststormInABottle: {
+	DisplayName: Staubsturm in einer Flasche
+	Tooltip:
+		'''
+		Explodiert in eine Staubwolke
+		Tarnungs-Angriffe erzeugen eine intensivere und länger anhaltende Staubwolke
+		'''
+}
+
+DynamicPursuer: {
+	DisplayName: Dynamischer Verfolger
+	Tooltip:
+		'''
+		Wirft eine Berechnungsverarbeitungs-Diskette ab, die Elektrizität auf Feinde abfeuert
+		Tarnungs-Angriffe ermöglichen der Diskette, auf andere Ziele abzuprallen, Laser abzufeuern und eine Explosion freizusetzen
+		Wenn die Diskette kein neues Ziel findet, auf das sie abprallen kann, verfolgt sie stattdessen das ursprüngliche Ziel
+		'''
+}
+
+EclipsesFall: {
+	DisplayName: Sturz der Sonnenfinsternis
+	Tooltip:
+		'''
+		Beschwört Speere vom Himmel bei Treffer
+		Tarnungs-Angriffe spießen Feinde auf und beschwören im Laufe der Zeit einen konstanten Hagel von Speeren
+		'Wenn die Sonne sich verdunkelt, wirst du das Urteil kennen'
+		'''
+}
+
+ElementalDisk: {
+	DisplayName: Elementale Scheibe
+	Tooltip:
+		'''
+		Wirft eine Scheibe, die eine Chance hat, mehrere Scheiben zu erzeugen, wenn sich Feinde in ihrer Nähe befinden
+		Tarnungs-Angriffe fliegen langsamer, aber weiter, durchdringen Feinde und erzeugen häufiger zusätzliche Scheiben
+		'''
+}
+
+EnchantedAxe: {
+	DisplayName: Verzauberte Axt
+	Tooltip:
+		'''
+		Wirft eine Hochgeschwindigkeitsaxt, die zu dir zurückkehrt, nachdem sie eine kurze Strecke gereist ist oder eine Wand getroffen hat
+		An dem weitesten Punkt vom Spieler entfernt, wird eine magische Axt, die durch Wände reist, in Richtung des nächsten Feindes geworfen
+		Tarnungs-Angriffe lassen die Axt weiter fliegen und werfen in alle Richtungen viele andere magische Äxte aus
+		'''
+}
+
+EpidemicShredder: {
+	DisplayName: Epidemie-Schredderer
+	Tooltip:
+		'''
+		Wirft einen geplagten Bumerang, der bei Aufprall auf Kacheln oder Feinde Pestträger freisetzt
+		Tarnungs-Angriffe bewirken, dass der Bumerang ständig Pestträger freisetzt, während er reist
+		Entgegen seinem Namen wird er wahrscheinlich eine Epidemie verursachen, wenn er falsch verwendet wird
+		'''
+}
+
+Equanimity: {
+	DisplayName: Gleichmut
+	Tooltip:
+		'''
+		Wirft einen aus Licht und Dunkelheit geborenen Bumerang, der Feinde verwirrt
+		Der Bumerang erzeugt Lichtscherben, wenn er Feinde trifft, wenn er herausgeworfen wird, und feuert heimische Dunkelelemente ab, wenn er zurückkehrt
+		Tarnungs-Angriffe bewirken, dass der Bumerang bei jeder Erzeugung sowohl dunkle als auch helle Scherben erzeugt
+		'''
+}
+
+Eradicator: {
+	DisplayName: Auslöschender
+	Tooltip:
+		'''
+		Wirft eine Diskette, die Nebellaser auf nahegelegene Feinde abfeuert
+		Tarnungs-Angriffe haften an Feinden und entfesseln in alle Richtungen eine Laser-Salve
+		'''
+}
+
+ExecutionersBlade: {
+	DisplayName: Scharfrichterklinge
+	Tooltip:
+		'''
+		Wirft eine Reihe von heimkehrenden Klingen
+		Tarnungs-Angriffe beschwören bei Treffern eine Guillotine aus Klingen
+		'''
+}
+
+Exorcism: {
+	DisplayName: Exorzismus
+	Tooltip:
+		'''
+		Wirft ein heiliges Kreuz, das in eine Lichtexplosion explodiert, die nahegelegene Feinde beschädigt, nähere Feinde erleiden mehr Schaden
+		Während das Kreuz nach unten reist, nimmt der von Kreuz und Blitz zugefügte Schaden ständig zu
+		Tarnungs-Angriffe bewirken, dass das Kreuz mit vollem Schaden sofort geworfen wird. Heilige Sterne fallen, wenn das Kreuz explodiert
+		'''
+}
+
+FantasyTalisman: {
+	DisplayName: Fantasie-Talisman
+	Tooltip:
+		'''
+		Feuert Hochgeschwindigkeitstalismänner ab, die die Schwerkraft ignorieren
+		Talismänner haften an Feinden und veranlassen sie, verlorene Seelen freizusetzen
+		Tarnungs-Angriffe setzen mehr Seelen frei und lassen Seelen zurück, während sie reisen
+		'''
+}
+
+FeatherKnife: {
+	DisplayName: Federmesser
+	Tooltip:
+		'''
+		Wirft ein Messer, das Heimfedern beschwört
+		Tarnungs-Angriffe werfen eine Salve von Messern
+		'''
+}
+
+FinalDawn: {
+	DisplayName: Das letzte Morgenrot
+	Tooltip:
+		'''
+		Greife Feinde mit einem Riesensensen-Schwung an, um die Tarnung aufzufüllen
+		Drücke nach oben und Angriff, um die Sense zu werfen
+		Tarnungs-Angriffe führen einen horizontalen Schwung aus, der eine brennende Aura hinterlässt
+		Tarnungs-Angriffe, die beim Drücken nach oben ausgeführt werden, schleudern dich auf den Feind und durchschneiden ihn, wobei homing Feuerbälle entstehen
+		'Wir werden wieder in den Sonnenaufgang reiten'
+		'''
+}
+
+FishboneBoomerang: {
+	DisplayName: Fischgrätenbumerang
+	Tooltip:
+		'''
+		Tarnungs-Angriffe lassen den Bumerang zwischen Feinden abprallen
+		[c/5C95A1:Obwohl das verdampfende Seereich einen aussichtslosen Kampf führte, gaben sich seine stolzen Bewohner nicht leicht geschlagen.]
+		[c/5C95A1:Als letztes Mittel mussten sie Waffen aus den Skeletten toter Tiere anfertigen.]
+		'''
+}
+
+FrostcrushValari: {
+	DisplayName: Frostcrush-Valari
+	Tooltip:
+		'''
+		Feuert einen Langstreckenbumerang ab, der bei Treffern in Eiszapfen explodiert
+		Tarnungs-Angriffe werfen drei kürzerreichweitige Bumerangs, die einfrieren, zusammen mit einer Streuung von Eiszapfen
+		'''
+}
+
+FrostyFlare: {
+	DisplayName: Frostige Fackel
+	Tooltip:
+		'''
+		Wirf eine Fackel, die sich an Feinden festsetzt und einen Hagel auf sie regnen lässt
+		Tarnungs-Angriffe lassen Schneeflocken zurück und beschwören anstelle von Eissplittern Phantomkopien
+		'Darf nicht in die Fackelpistole eingesetzt werden'
+		'''
+}
+
+GacruxianMollusk: {
+	DisplayName: Gacruxian-Mollusk
+	Tooltip:
+		'''
+		Lässt während der Reise heimische Funken frei
+		Tarnungs-Angriffe setzen Schnecken frei, die zusätzliche Funken erzeugen
+		'''
+}
+
+GelDart: {
+	DisplayName: Gel-Dart
+	Tooltip:
+		'''
+		Wirft springende Gelpfeile
+		Tarnungs-Angriffe ignorieren die Schwerkraft und springen energischer ab
+		Zusätzlich lecken sie Schleim und bedecken Feinde mit dunklem Schlamm
+		'''
+}
+
+GhoulishGouger: {
+	DisplayName: Gespenstischer Gräber
+	Tooltip:
+		'''
+		Wirft Sätze von vier gespenstischen Sensen mit ultrahoher Geschwindigkeit
+		Tarnungs-Angriffe beschwören bei Treffern einen Wirbel von gequälten Seelen
+		'''
+}
+
+GildedDagger: {
+	DisplayName: Vergoldeter Dolch
+	Tooltip:
+		'''
+		Wirft eine glänzende Klinge, die bei Treffer zu einem anderen Feind zurückspringt
+		Tarnungs-Angriffe lassen die Klinge nach dem Zurückspringen auf Feinde zusteuern, wobei jeder Zurücksprung 20% mehr Schaden verursacht
+		Tarnungs-Angriffe durchdringen auch besser
+		'''
+}
+
+Glaive: {
+	DisplayName: Glaive
+	Tooltip:
+		'''
+		Wirft bis zu 3 scharfe, zurückkehrende Gleven
+		Tarnungs-Angriffe sind super schnell und durchdringen unendlich
+		'''
+}
+
+GleamingDagger: {
+	DisplayName: Glänzendes Dolch
+	Tooltip:
+		'''
+		Wirft eine glänzende Klinge, die bei Treffer auf einen anderen Feind abprallt
+		Tarnungs-Angriffe lassen die Klinge nach dem Abprallen auf den Feind zielen. Jeder Abpraller verursacht 20% mehr Schaden.
+		Tarnungs-Angriffe haben auch erhöhtes Durchdringen.
+		'''
+}
+
+GodsParanoia: {
+	DisplayName: Gottes Paranoia
+	Tooltip:
+		'''
+		Wirft bis zu 10 schnelle suchende Stachelsphären
+		Haftet an Feinden und beschwört einen lokalisierten Sturm aus Gottesmörder-Kunai
+		Tarnungs-Angriffe suchen schneller heim und beschwören Kunai in schnellerer Folge herbei
+		Drücke <right>, um alle vorhandenen Stachelsphären zu löschen
+		'''
+}
+
+GraveGrimreaver: {
+	DisplayName: Grab Grimreaver
+	Tooltip:
+		'''
+		Wirft eine verfluchte Sense, die heim sucht
+		Die Sense beschwört Schädel, während sie fliegt, und explodiert bei Treffer in Fledermäuse
+		Tarnungs-Angriffe rufen bei Zerstörung eine Flut von Fledermäusen und fallenden Schädeln herbei
+		Verursacht verfluchte Flammen und Verwirrung
+		'Waffe eines vornehmen Skeletts'
+		'''
+}
+
+HardenedHoneycomb: {
+	DisplayName: Gehärteter Honigwaben
+	Tooltip:
+		'''
+		Schießt einen Honigwaben, der in Fragmente zersplittert
+		Gewährt den Honig-Buff für Spieler, die er berührt
+		Tarnungs-Angriffe können von Wänden und Feinden abprallen
+		'''
+}
+
+HeavenfallenStardisk: {
+	DisplayName: Himmelsgesunkener Sternenscheibe
+	Tooltip:
+		'''
+		Wirft eine Sternenscheibe nach oben, die sich dann in Richtung deines Mauszeigers bewegt
+		Explodiert in 5 astrale Energiebolzen, wenn der Werfer sich beim Werfen vertikal bewegt
+		Tarnungs-Angriffe lassen astrale Energiebolzen vom Himmel regnen
+		'''
+}
+
+HellsSun: {
+	DisplayName: Höllensonne
+	Tooltip:
+		'''
+		Wirft bis zu 10 schwerkraftabweisende Stachelsphären
+		Emitieren einmal stationär kleine Sonnen, die bei Treffern explodieren
+		Tarnungs-Angriffe emitieren Sonnen in schnellerer Folge und dauern länger
+		Drücke <right>, um alle vorhandenen Stachelsphären zu löschen
+		'Die Unterirdische Sonne in deiner Handfläche'
+		'''
+}
+
+Hypothermia: {
+	DisplayName: Hypothermie
+	Tooltip:
+		'''
+		Wirft eine konstante Salve von schwarzen Eissplittern
+		Tarnungs-Angriffe schleudern eine Reihe von rasiermesserscharfen Eisklumpen, die bei Aufprall zerbersten
+		'''
+}
+
+Icebreaker: {
+	DisplayName: Eissprenger
+	Tooltip: Tarnungs-Angriffe lösen eine kosmische Explosion aus und frieren nahe Feinde bei Treffern ein
+}
+
+IceStar: {
+	DisplayName: Eisstern
+	Tooltip:
+		'''
+		Wirft schnelle, aber zerbrechliche suchende Eissterne
+		Tarnungs-Angriffe dauern länger und erzeugen kleinere, suchende Sterne bei ersten Treffern
+		'''
+}
+
+IchorSpear: {
+	DisplayName: Ichor-Speer
+	Tooltip:
+		'''
+		Wirft einen mit Ichor versehenen Dreizack
+		Tarnungs-Angriffe werden von Ichor-Spritzern begleitet
+		'''
+}
+
+InfernalKris: {
+	DisplayName: Infernaler Kris
+	Tooltip:
+		'''
+		Wirft ein brennendes Messer, das nach einer kurzen Strecke zu rotieren beginnt und zusätzlichen Schaden verursacht, während es sich dreht
+		Tarnungs-Angriffe lassen das Messer in Flammen aufgehen, das bei Kontakt mit Wänden und Feinden explodiert
+		'''
+}
+
+InfestedClawmerang: {
+	DisplayName: Befallener Klauwurf
+	Tooltip:
+		'''
+		Schießt einen langsamen, weitreichenden Bumerang
+		Tarnungs-Angriffe gewähren dem Benutzer bei Feindetreffern den Pilz-Buff und rufen suchende Sporen herbei
+		'''
+}
+
+IronFrancisca: {
+	DisplayName: Eisen-Francisca
+	Tooltip:
+		'''
+		Die Francisca verursachen nach dem initialen Wurf für kurze Zeit mehr Schaden
+		Tarnungs-Angriffe durchdringen bis zu 6 Mal
+		'''
+}
+
+JawsOfOblivion: {
+	DisplayName: Kiefer des Vergessens
+	Tooltip:
+		'''
+		Wirft eine enge Streuung von sechs giftigen Sensen, die an Feinden haften bleiben
+		Tarnungs-Angriffe lassen die Zähne bei Aufprall eine zerquetschende Schockwelle aussenden
+		'Du wirst ein größeres Boot brauchen'
+		'''
+}
+
+KelvinCatalyst: {
+	DisplayName: Kelvin-Katalysator
+	Tooltip:
+		'''
+		Wirft eine eisige Klinge, die sich beim Feindetreffer in mehrere Eissterne aufspaltet
+		Tarnungs-Angriffe werden kurzzeitig bewusst und rammen nahe Feinde, bevor sie zum Spieler zurückkehren
+		'''
+}
+
+Kylie: {
+	DisplayName: Kylie
+	Tooltip:
+		'''
+		Tarnungs-Angriffe werfen drei kürzer reichende Kylies anstelle einer einzelnen, weitreichenden
+		'Auch bekannt als Dowak'
+		'''
+}
+
+LeadTomahawk: {
+	DisplayName: Blei-Tomahawk
+	Tooltip:
+		'''
+		Die Tomahawks verursachen nach dem initialen Wurf für kurze Zeit mehr Schaden
+		Tarnungs-Angriffe durchdringen bis zu 6 Mal
+		'''
+}
+
+LeonidProgenitor: {
+	DisplayName: Leonid-Vorfahr
+	Tooltip:
+		'''
+		Wirft eine Bombenhülle, die explodiert und einen Meteor beschwört, der auf der Stelle einschlägt
+		Drücke <right>, um eine Streuung gravitationsbeeinflusster Kometen zu werfen, die Sterne hinterlassen, wenn sie explodieren
+		Tarnungs-Angriffe werfen bei Treffern zusätzlich Kometen aus
+		'''
+}
+
+LeviathanTeeth: {
+	DisplayName: Leviathan-Zähne
+	Tooltip:
+		'''
+		Wirft schnell verschiedene giftige Zähne, die an Feinden haften bleiben
+		Tarnungs-Angriffe werfen 6 sehr schnelle Zähne, die die Schwerkraft ignorieren und extremen Rückstoß verursachen
+		'''
+}
+
+Lionfish: {
+	DisplayName: Löwenfisch
+	Tooltip:
+		'''
+		Haftet an Feinden und injiziert ein starkes Gift
+		Tarnungs-Angriffe werden von suchenden Seeigelspitzen verfolgt
+		'''
+}
+
+LuminousStriker: {
+	DisplayName: Leuchtender Streiter
+	Tooltip:
+		'''
+		Wirft einen Sternenstaub-Speer, der von aufsteigenden Sternenstaubsplittern begleitet wird
+		Explodiert in zusätzliche Sternenstaubsplitter, nachdem er Feinde getroffen hat
+		Tarnungs-Angriffe lassen die Sternenstaubsplitter neben dem Speer fliegen, anstatt aufzusteigen
+		'Sende die Sterne dorthin zurück, wo sie hingehören'
+		'''
+}
+
+LunarKunai: {
+	DisplayName: Lunares Kunai
+	Tooltip:
+		'''
+		Wirft ein Set aus drei Kunai, die die Schwerkraft ignorieren und leicht auf Feinde zusteuern
+		Nachdem sie genügend Strecke zurückgelegt haben, laden sich die Kunai mit Lunarenergie auf, steuern weitaus aggressiver auf Feinde zu und explodieren bei Aufprall
+		Tarnungs-Angriffe werfen sofort acht aufgeladene Kunai
+		'''
+}
+
+Malachite: {
+	DisplayName: Malachit
+	Tooltip:
+		'''
+		Wirft einen Strom von Kunai, die an Feinden haften und explodieren
+		Drücke <right>, um ein einzelnes Kunai zu werfen, das durchdringt; nachdem es einen Feind durchdrungen hat, löst es bei Treffer des nächsten Feindes eine massive Explosion aus
+		Tarnungs-Angriffe feuern drei Kunai, die auf Feinde zusteuern, an ihnen haften und explodieren
+		'''
+}
+
+MangroveChakram: {
+	DisplayName: Mangroven-Chakram
+	Tooltip: Tarnungs-Angriffe hinterlassen eine Spur aus verweilenden Blumen
+}
+
+MetalMonstrosity: {
+	DisplayName: Metall-Monstrosität
+	Tooltip:
+		'''
+		Wirft eine schwere Metallkugel, die bei Aufprall zersplittert
+		Tarnungs-Angriffe bewirken, dass die Kugel während ihrer Flugbahn Stacheln freisetzt
+		'Das muss wehtun'
+		'''
+}
+
+MeteorFist: {
+	DisplayName: Meteorfaust
+	Tooltip:
+		'''
+		Feuert eine Raketenfaust ab, die mit großer Kraft explodiert
+		Tarnungs-Angriffe lassen die Faust zwischen Feinden bis zu 4 Mal hin und her springen
+		'''
+}
+
+MoltenAmputator: {
+	DisplayName: Geschmolzener Amputator
+	Tooltip:
+		'''
+		Wirft eine Sense, die bei Feindtreffern geschmolzene Klumpen abgibt
+		Tarnungs-Angriffe erzeugen periodisch fliegende geschmolzene Klumpen während des Fluges und mehr bei Treffern
+		'''
+}
+
+MonkeyDarts: {
+	DisplayName: Affenwurfgeschosse
+	Tooltip:
+		'''
+		Tarnungs-Angriffe werfen 3 hüpfende Darts mit hoher Geschwindigkeit
+		'Perfekt zum Platzenlassen'
+		'''
+}
+
+Mycoroot: {
+	DisplayName: Mykoroot
+	Tooltip:
+		'''
+		Fire a stream of short-range fungal roots
+		Stealth strikes spawn an explosion of fungi spores and grant you and all other players the Mushy buff for 15 seconds
+		'''
+}
+
+MythrilKnife: {
+	DisplayName: Mythril-Messer
+	Tooltip: Tarnungs-Angriffe sind mit tödlichen Toxinen beschichtet, verursachen verstrahlte, Gift- und Säuregiftschaden
+}
+
+NanoblackReaper: {
+	DisplayName: Nanoschwarze Sense
+	Tooltip:
+		'''
+		Löst einen Sturm aus Nanoschwarz-Energieklingen aus
+		Klingen zielen immer auf Bosse, wenn möglich
+		Tarnungs-Angriffe bewirken, dass die Sense anstelle von Energieklingen eine große Menge an nachbildenden Bildern erzeugt
+		'Sie erstickte sie in ihrem Hass'
+		'''
+}
+
+NastyCholla: {
+	DisplayName: Fiese Cholla
+	Tooltip:
+		'''
+		Wirft einen stacheligen Ball, der an allem haften bleibt
+		Explodiert nach ungefähr 3 Sekunden zu Kaktusstacheln
+		Kann Stadtbewohner verletzen
+		Tarnungs-Angriffe werfen vier auf einmal
+		'''
+}
+
+NightsGaze: {
+	DisplayName: Nachtblick
+	Tooltip:
+		'''
+		Schlagt eure Feinde mit diesem Speer der Nacht
+		Wirft einen Speer, der zerschellt, wenn er einen Feind trifft
+		Tarnungs-Angriffe bewirken, dass der Speer während des Fluges heimische Sterne beschwört
+		'''
+}
+
+Nychthemeron: {
+	DisplayName: Nychthemeron
+	Tooltip:
+		'''
+		Wirft einen stacheligen Ball, der die Schwerkraft ignoriert und ein Paar dunkle und helle Orbs beschwört, die den Spieler umkreisen
+		Sobald der stachelige Ball verschwindet, werden die Orbs auf das nächstgelegene Ziel zusteuern
+		Bis zu 10 stachelige Bälle können gleichzeitig existieren
+		Tarnungs-Angriffe werfen alle stacheligen Bälle und Orbs auf einmal
+		Drücke <right>, um alle existierenden stacheligen Bälle zurückzurufen
+		'''
+}
+
+OrichalcumSpikedGemstone: {
+	DisplayName: Orichalcum-Gespickter Edelstein
+	Tooltip: Tarnungs-Angriffe dauern länger und rufen Blütenblätter bei Feindtreffern hervor
+}
+
+PalladiumJavelin: {
+	DisplayName: Palladium-Speer
+	Tooltip: Tarnungs-Angriffe teilen sich in weitere Speere auf und steigern die Lebensregeneration bei Treffern
+}
+
+Penumbra: {
+	DisplayName: Penumbra
+	Tooltip:
+		'''
+		Wirft eine Schattenbombe, die sich in heimische Seelen verwandelt
+		Tarnungs-Angriffe lassen die Bombe am Cursor manifestieren und in weitere Seelen explodieren
+		'''
+}
+
+PhantasmalRuin: {
+	DisplayName: Phantasmalische Verwüstung
+	Tooltip:
+		'''
+		Schießt eine enorme Geisterlanze ab, die verlorene Seelen freisetzt, während sie fliegt
+		Explodiert in gequälte Seelen bei Feindtreffern
+		Tarnungs-Angriffe hinterlassen kontinuierlich spektrale Klone in ihrem Gefolge
+		'''
+}
+
+PhantomLance: {
+	DisplayName: Phantomlanze
+	Tooltip:
+		'''
+		Schießt einen spektralen Speer ab, der schnell verlorene Seelen freisetzt
+		Verringert sich mit der Zeit und verlangsamt sich
+		Später freigesetzte verlorene Seelen verursachen weniger Schaden
+		Tarnungs-Angriffe verlangsamen sich nicht und Seelen verursachen immer vollen Schaden
+		'''
+}
+
+Plaguenade: {
+	DisplayName: Seuchengranate
+	Tooltip:
+		'''
+		Lässt eine Schwarm wütender Seuchenbienen frei
+		Tarnungs-Angriffe erzeugen mehr Bienen und erzeugen eine größere Explosion
+		'''
+}
+
+PoisonPack: {
+	DisplayName: Gift-Pack
+	Tooltip:
+		'''
+		Wirft bis zu 3 giftige stachelige Bälle
+		Tarnungs-Angriffe lassen die Bälle Sporewolken freisetzen
+		Drücke <right>, um alle existierenden stacheligen Bälle zu löschen
+		'''
+}
+
+Prismalline: {
+	DisplayName: Prismalin
+	Tooltip:
+		'''
+		Wirft Dolche, die sich nach einer Weile teilen
+		Tarnungs-Angriffe explodieren zusätzlich in Prismensplitter und betäuben Feinde kurzzeitig
+		'''
+}
+
+ProfanedPartisan: {
+	DisplayName: Geheiligter Partisan
+	Tooltip:
+		'''
+		Schleudert eine unheilige Lanze, die beim Tod explodiert
+		Tarnungs-Angriffe lassen kleinere Speere entstehen, die nebenher fliegen
+		'''
+}
+
+RadiantStar: {
+	DisplayName: Strahlender Stern
+	Tooltip:
+		'''
+		Wirft Dolche, die nach einer Weile explodieren und sich teilen
+		Tarnungs-Angriffe teilen sich stärker auf und erzeugen eine verheerende Explosion, die Feinde einsaugt
+		'''
+}
+
+RefractionRotor: {
+	DisplayName: Brechungsrotor
+	Tooltip:
+		'''
+		Schleudert eine riesige prismatische Scheiben-Shuriken
+		Das Shuriken zersplittert kurz nach dem Aufprall in suchende Raketen
+		Tarnungs-Angriffe zersplittern sich in noch mehr Raketen
+		'''
+}
+
+RegulusRiot: {
+	DisplayName: Regulus-Aufruhr
+	Tooltip:
+		'''
+		Schleudert eine schnelle suchende Scheibe
+		Tarnungs-Angriffe explodieren zu Energiesternen
+		'''
+}
+
+RotBall: {
+	DisplayName: Roter Ball
+	Tooltip: Tarnungs-Angriffe erzeugen Regenwolken bei Treffern auf Feinde
+}
+
+Sacrifice: {
+	DisplayName: Opfer
+	Tooltip:
+		'''
+		Wirft Opferdolche, die sich in Feinde einlagern
+		Drücke <Rechts>, um alle steckenden Dolche zurückzuwerfen und dir Leben zu geben
+		Dolche, die an Feinden stecken, setzen im Laufe der Zeit Blutexplosionen frei
+		Tarnungs-Angriffe lagern länger ein und geben dir viel mehr Leben, wenn sie zu dir zurückkehren
+		'''
+}
+
+SandDollar: {
+	DisplayName: Sanddollar
+	Tooltip:
+		'''
+		Wirft bis zu 2 zurückkehrende Sanddollar
+		Tarnungs-Angriffe werfen 2 langstreckige Sanddollar, die bei Treffern auf Feinde in Korallensplitter explodieren
+		'''
+}
+
+Sandslasher: {
+	DisplayName: Sandschlitzer
+	Tooltip:
+		'''
+		Schleudert einen riesigen Shuriken aus verschmolzenem Sand, der von der Schwerkraft unbeeinflusst ist und sich langsam horizontal beschleunigt
+		Er verursacht mehr Schaden, abhängig von seiner horizontalen Geschwindigkeit und wie lange er in der Luft war
+		Tarnungs-Angriffe setzen periodisch Sandwolken frei
+		'''
+}
+
+ScarletDevil: {
+	DisplayName: Scharlachroter Teufel
+	Tooltip:
+		'''
+		Schleudert eine extrem schnelle Lanze, die mehr Projektile erzeugt, die sich verfolgen
+		Die Lanze erzeugt beim Treffen eines Feindes eine Scharlachexplosion
+		Tarnungs-Angriffe gewähren dir Lebensentzug und beschwören einen Stern aus Projektionen, wenn ein Feind getroffen wird
+		'Göttliche Lanze "Speer des Gungnir"'
+		'''
+}
+
+ScourgeoftheDesert: {
+	DisplayName: Geißel der Wüste
+	Tooltip:
+		'''
+		Gewinnt im Laufe der Zeit an Geschwindigkeit
+		Tarnungs-Angriffe gewinnen an Schaden, wenn sie Feinde treffen
+		'''
+}
+
+ScourgeoftheSeas: {
+	DisplayName: Geißel der Meere
+	Tooltip:
+		'''
+		Zerbricht beim Aufprall auf einen Feind zu einer giftigen Wolke
+		Tarnungs-Angriffe sind mit giftigen Toxinen beschichtet und verursachen bei Feinden einen starken Debuff
+		'''
+}
+
+SeafoamBomb: {
+	DisplayName: Gischtbombe
+	Tooltip:
+		'''
+		Wirft eine Bombe, die in eine Blase explodiert, die zusätzlichen Schaden an Feinden verursacht
+		Tarnungs-Angriffe sind schneller und explodieren in 5 Blasen
+		'''
+}
+
+SealedSingularity: {
+	DisplayName: Versiegelte Singularität
+	Tooltip:
+		'''
+		Zerbricht bei Aufprall und beschwört ein Schwarzes Loch, das nahe Feinde einsaugt
+		Tarnungs-Angriffe beschwören ein Schwarzes Loch, das länger anhält und Feinde stärker ansaugt
+		'''
+}
+
+SearedPan: {
+	DisplayName: Gebratene Pfanne
+	Tooltip:
+		'''
+		Schwingt eine Pfanne, um Feinden Geld zu stehlen
+		Tarnungs-Angriffe haben eine 1 zu 15 Chance, dass Feinde bei Treffern 1-3 Goldmünzen fallen lassen
+		'Wirtschaft auf höchstem Niveau'
+		'''
+}
+
+Seraphim: {
+	DisplayName: Seraphim
+	Tooltip:
+		'''
+		Wirft ein außergewöhnlich schnelles Messer, das exponentiell langsamer wird und sich in Licht auflöst
+		Nachdem die Auflösung beendet ist, werden 6 sich spaltende Klingen freigesetzt, die nahe Ziele zerschneiden, zusammen mit einem großen Laserstrahl
+		Tarnungs-Angriffe setzen eine Salve von 7 Lichtern frei, die sich zusammen mit dem Messer in kleinere Laserstrahlen auflösen
+		'''
+}
+
+ShardofAntumbra: {
+	DisplayName: Scherbe von Antumbra
+	Tooltip: Tarnungs-Angriffe hinterlassen suchende Sterne in ihrem Gefolge
+}
+
+ShatteredSun: {
+	DisplayName: Zersplitterte Sonne
+	Tooltip:
+		'''
+		Wirft Dolche, die sich in glühende suchende Dolche teilen
+		Tarnungs-Angriffe feuern Salven von suchenden Dolchen aus dem Spieler heraus, die Feinde einsaugen
+		'''
+}
+
+ShinobiBlade: {
+	DisplayName: Shinobi-Klinge
+	Tooltip:
+		'''
+		Schleudert eine schnelle Klinge, die Heilungskugeln beschwört, wenn sie einen Feind tötet
+		Tarnungs-Angriffe stechen den getroffenen Feind wiederholt aus zufälligen Richtungen
+		'''
+}
+
+ShockGrenade: {
+	DisplayName: Schockgranate
+	Tooltip:
+		'''
+		Wirft eine Granate, die in eine Blitzexplosion zerplatzt
+		Tarnungs-Angriffe lassen die Granate beim Explodieren eine elektrisierende Aura hinterlassen
+		'''
+}
+
+SkyfinBombers: {
+	DisplayName: Himmel-Fischbomber
+	Tooltip:
+		'''
+		Startet eine Himmelsfisch-Nuke, die sich auf Feinde unterhalb von ihr zubewegt
+		Tarnungs-Angriffe nähern sich unabhängig von der Position des Feindes schnell an
+		'Fischbomber im Anflug!'
+		'''
+}
+
+SkyStabber: {
+	DisplayName: Himmelsdurchdringer
+	Tooltip:
+		'''
+		Schleudert bis zu 4 schwerelose, stachelige Bälle
+		Tarnungs-Angriffe lassen die Bälle Federn auf Feinde regnen, wenn sie treffen
+		Drücke <Rechts>, um alle vorhandenen stacheligen Bälle zu löschen
+		'''
+}
+
+SlickCane: {
+	DisplayName: Geschmeidige Stange
+	Tooltip:
+		'''
+		Schwungvolle Bewegung mit einer Stange, um Geld von Feinden zu stehlen
+		Tarnungs-Angriffe haben eine Wahrscheinlichkeit von 1 zu 15, dass Feinde bei Treffern 1-3 Goldmünzen fallen lassen
+		'Wirtschaft auf höchstem Niveau'
+		'''
+}
+
+SludgeSplotch: {
+	DisplayName: Schlickfleck
+	Tooltip: Tarnungs-Angriffe führen dazu, dass sich der Hauptball des Schlicks bei einem Treffer aufspaltet und mehr Schaden verursacht
+}
+
+SnapClam: {
+	DisplayName: Schnappmuschel
+	Tooltip:
+		'''
+		Kann sich an Feinden festsetzen und im Laufe der Zeit Schaden verursachen
+		Tarnungs-Angriffe werfen fünf Muscheln auf einmal, die mit der Zeit erhöhten Schaden verursachen
+		'''
+}
+
+SpearofDestiny: {
+	DisplayName: Speer des Schicksals
+	Tooltip:
+		'''
+		Schleudert drei Speere, wobei die äußeren beiden Fähigkeiten zur Verfolgung haben
+		Tarnungs-Angriffe lassen alle drei Speere zur Verfolgung, ignorieren Kacheln und dringen stärker ein
+		'''
+}
+
+SpearofPaleolith: {
+	DisplayName: Speer des Paläolithikums
+	Tooltip:
+		'''
+		Schleudert einen urzeitlichen Speer, der die Rüstung von Feinden zerstört
+		Die Speere regnen Fossilsplitter aus, während sie fliegen
+		Tarnungs-Angriffe reisen langsamer, aber weiter und regnen mehr Fossilsplitter
+		'''
+}
+
+SpentFuelContainer: {
+	DisplayName: Verbrauchter Brennstoffbehälter
+	Tooltip:
+		'''
+		Wirft einen Brennstoffbehälter mit geringen Mengen an Plutonium, der eine nukleare Explosion verursacht
+		Die Explosion erfolgt nicht, wenn keine Kacheln darunter sind
+		Tarnungs-Angriffe hinterlassen nach dem Verschwinden der Explosion eine anhaltende verstrahlte Zone
+		'Krieg bleibt immer gleich'
+		'''
+}
+
+StarofDestruction: {
+	DisplayName: Stern der Zerstörung
+	Tooltip:
+		'''
+		Schleudert eine riesige zerstörerische Mine, die sich in Zerstörungsbolzen auflöst
+		Die Anzahl der Bolzen skaliert mit den getroffenen Feinden, bis zu 16
+		Tarnungs-Angriffe explodieren immer in die maximale Anzahl von Bolzen
+		'''
+}
+
+StellarKnife: {
+	DisplayName: Sternenklinge
+	Tooltip:
+		'''
+		Wirft Messer, die in der Luft stehen bleiben und dann auf Feinde zusteuern
+		Tarnungs-Angriffe werfen eine Salve von 10 Messern in einem Muster aus
+		'ZA WARUDO'
+		'''
+}
+
+StickySpikyBall: {
+	DisplayName: Klebriger Stachelball
+	Tooltip:
+		'''
+		Wirft einen stacheligen Ball, der an allem kleben bleibt
+		Tarnungs-Angriffe werfen vier auf einmal und dauern viel länger
+		'''
+}
+
+StormfrontRazor: {
+	DisplayName: Sturmfront-Rasiermesser
+	Tooltip:
+		'''
+		Wirft ein Messer, das bei Treffern Blitzschläge beschwört.
+		Tarnungs-Angriffe lassen das Messer schneller fliegen und beschwören mehrere Blitzschläge bei Treffern
+		[c/24C7F0:'Schlag und stoppe den Fluss']
+		'''
+}
+
+SubductionSlicer: {
+	DisplayName: Subduktions-Schneider
+	Tooltip:
+		'''
+		Wirft eine Sense, die bei Treffern explodiert
+		Tarnungs-Angriffe beschwören auch eine orangefarbene Feuersäule bei Treffern auf Feinde
+		'''
+}
+
+Supernova: {
+	DisplayName: Supernova
+	Tooltip:
+		'''
+		Erschafft eine massive Explosion bei Aufprall
+		Explodiert zu Stacheln und suchender Energie
+		Tarnungs-Angriffe setzen Energie frei, während sie fliegen
+		'''
+}
+
+TarragonThrowingDart: {
+	DisplayName: Tarragon-Wurfpfeil
+	Tooltip:
+		'''
+		Feuert einen durchdringenden Pfeil mit reduzierten Immunitätsrahmen ab
+		Tarnungs-Angriffe lassen bei Treffern Dornen ausbrechen
+		'''
+}
+
+TerraDisk: {
+	DisplayName: Terra-Diskus
+	Tooltip:
+		'''
+		Wirft eine Scheibe, die eine Chance hat, mehrere Scheiben zu erzeugen, wenn Feinde in ihrer Nähe sind
+		Tarnungs-Angriffe bewegen sich langsamer und werden von den kleineren Scheiben schnell umkreist
+		'''
+}
+
+TerrorTalons: {
+	DisplayName: Terror-Klauen
+	Tooltip:
+		'''
+		Schleudert kleine wankende Klauen
+		Tarnungs-Angriffe schleudern eine große, schnell fliegende Klaue, die durchbohrt
+		'''
+}
+
+TheAtomSplitter: {
+	DisplayName: Der Atomspalter
+	Tooltip:
+		'''
+		Wirft einen quantenüberlagerten Speer, der aus zahlreichen Zeitleisten gleichzeitig zuschlägt
+		Tarnungs-Angriffe führen weit mehr gleichzeitige Schläge aus
+		'''
+}
+
+TheOldReaper: {
+	DisplayName: Der alte Sensenmann
+	Tooltip:
+		'''
+		Wirft eine heimkehrende Sensen-Sense, die Feinde zerreißt
+		Tarnungs-Angriffe werfen vier auf einmal
+		'Scheibe und würfele'
+		'''
+}
+
+TheSyringe: {
+	DisplayName: Die Spritze
+	Tooltip:
+		'''
+		Wirft eine Hochgeschwindigkeitsspritze, die Schaden erhöht, während sie fliegt
+		Zerbricht in Glas und Pest-Asche bei Aufprall
+		Tarnungs-Angriffe zersplittern auch zu Pest-Bienen
+		'Ich bin mir ziemlich sicher, das ist nicht gesund'
+		'''
+}
+
+ThrowingBrick: {
+	DisplayName: Werfender Ziegel
+	Tooltip:
+		'''
+		Beweise seine Widerstandsfähigkeit, indem du ihn nach oben wirfst und mit dem Gesicht auffängst
+		Wirft einen Ziegel, der zerschellt, wenn die Tarnung voll ist
+		'''
+}
+
+TimeBolt: {
+	DisplayName: Zeitblitz
+	Tooltip:
+		'''
+		Wirft ein zeitliches Messer, das die Zeit um Feinde herum verändert
+		Tarnungs-Angriffe können mehr Feinde treffen und ein größeres Zeitfeld erzeugen
+		'Es sollte keine Grenze für menschliche Bemühungen geben'
+		'''
+}
+
+TitaniumShuriken: {
+	DisplayName: Titan-Shuriken
+	Tooltip: Tarnungs-Angriffe verhalten sich wie ein Bumerang, der Klone bei Treffern auf Feinde erzeugt
+}
+
+ToothBall: {
+	DisplayName: Zahnball
+	Tooltip: Tarnungs-Angriffe erzeugen bei Treffern auf Feinde Regenwolken
+}
+
+TotalityBreakers: {
+	DisplayName: Totality-Brecher
+	Tooltip:
+		'''
+		Explodiert in hochentzündliches schwarzes Teer
+		Schwarzteer ölt Feinde ein und setzt sie in Brand
+		Tarnungs-Angriffe verlieren schwarzen Teer, während sie fliegen
+		'Ich brauche einen größeren Brecher'
+		'''
+}
+
+ToxicantTwister: {
+	DisplayName: Toxikant-Twister
+	Tooltip:
+		'''
+		Wirft einen langsam fliegenden Bumerang
+		Nach einigen Momenten wählt der Bumerang ein Ziel und nähert sich schnell
+		Tarnungs-Angriffe nähern sich schneller und setzen Sand frei
+		'''
+}
+
+Turbulance: {
+	DisplayName: Turbulance
+	Tooltip:
+		'''
+		Schießt einen bewölkten Speer ab, der bei Treffern in Windklingen explodiert
+		Windklingen nähern sich, wenn der Speer kritisch ist
+		Tarnungs-Angriffe werden von zielsuchenden Windklingen verfolgt
+		'''
+}
+
+UrchinStinger: {
+	DisplayName: Seeigel-Stachel
+	Tooltip: Tarnungs-Angriffe haften an Feinden und setzen schwefelhaltige Blasen frei
+}
+
+UtensilPoker: {
+	DisplayName: Utensilien-Poker
+	Tooltip:
+		'''
+		Schießt zufällige Utensilien in Salven von drei ab
+		Tarnungs-Angriffe ersetzen jedes Utensil durch ein leistungsstarkes Schlachtermesser
+		'Weltraumhühner, das ist alles'
+		'''
+}
+
+Valediction: {
+	DisplayName: Abschied
+	Tooltip:
+		'''
+		Wirft eine heimkehrende Sensen-Sense
+		Tarnungs-Angriffe erzeugen bei Treffern auf Feinde sichelförmige Taifune
+		'''
+}
+
+WaveSkipper: {
+	DisplayName: Wellenüberwinder
+	Tooltip:
+		'''
+		Wirft einen Speer, der viel springt
+		Tarnungs-Angriffe werfen drei schnell fliegende Speere
+		'''
+}
+
+WebBall: {
+	DisplayName: Netzball
+	Tooltip:
+		'''
+		Wirft einen mit Netz bedeckten Ball, der Feinde in Spinnweben einhüllt, um sie zu verlangsamen
+		Tarnungs-Angriffe verlangsamen Feinde länger
+		'''
+}
+
+Wrathwing: {
+	DisplayName: Zornflügel
+	Tooltip:
+		'''
+		Wirft einen wendigen, heimkehrenden geflügelten Speer, der ständig Feuer speit
+		Tarnungs-Angriffe erzeugen bei Treffern auf Feinde Ascheneruptionen
+		'''
+}
+
+WulfrumKnife: {
+	DisplayName: Wulfrum-Messer
+	Tooltip:
+		'''
+		Schießt Wulfrum-Messer in Salven von 3 ab
+		Tarnungs-Angriffe lassen das Messer weiter fliegen und mehrere Treffer auf einmal erzielen
+		Halte <right>, um alle nahegelegenen heruntergefallenen Messer magnetisch zu dir zurückzuziehen
+		'''
+}

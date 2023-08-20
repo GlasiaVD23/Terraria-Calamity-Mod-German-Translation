@@ -1,0 +1,3999 @@
+AstralPylon: {
+	DisplayName: Astral Pylon
+	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
+CragsPylon: {
+	DisplayName: Gipfel-Pylon
+	Tooltip:
+		'''
+		Teleportiere dich zu einem anderen Pylon
+		Die Natur der Gipfel erlaubt es dir, zu diesem Pylon ohne nahegelegene Dorfbewohner zu teleportieren
+		Du kannst pro Typ nur einen platzieren und nur im passenden Biom
+		'''
+}
+
+SulphurPylon: {
+	DisplayName: Schwefel-Pylon
+	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
+SunkenPylon: {
+	DisplayName: Versunkener Pylon
+	Tooltip: "{$CommonItemTooltip.TeleportationPylon}"
+}
+
+AbyssGravel: {
+	DisplayName: Abyss-Kies
+	Tooltip: ""
+}
+
+Acidwood: {
+	DisplayName: Säureholz
+	Tooltip: ""
+}
+
+AerialiteBrick: {
+	DisplayName: Ätherit-Ziegel
+	Tooltip: ""
+}
+
+AstralBar: {
+	DisplayName: Astral-Barren
+	Tooltip: ""
+}
+
+AstralBrick: {
+	DisplayName: Astral-Ziegel
+	Tooltip: ""
+}
+
+AstralClay: {
+	DisplayName: Astral-Ton
+	Tooltip: ""
+}
+
+AstralDirt: {
+	DisplayName: Astral-Erde
+	Tooltip: ""
+}
+
+AstralGrassSeeds: {
+	DisplayName: Astral-Grassamen
+	Tooltip: Platzier Gras auf Astral-Erde
+}
+
+AstralIce: {
+	DisplayName: Astral-Eis
+	Tooltip: ""
+}
+
+AstralMonolith: {
+	DisplayName: Astral-Monolith
+	Tooltip: ""
+}
+
+AstralSand: {
+	DisplayName: Astral-Sand
+	Tooltip: ""
+}
+
+AstralSandstone: {
+	DisplayName: Astral-Sandstein
+	Tooltip: ""
+}
+
+AstralSnow: {
+	DisplayName: Astral-Schnee
+	Tooltip: ""
+}
+
+AstralStone: {
+	DisplayName: Astral-Stein
+	Tooltip: ""
+}
+
+AcidEelBanner: {
+	DisplayName: Säure-Aal-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Säure-Aal"
+}
+
+AeroSlimeBanner: {
+	DisplayName: Aero-Schleim-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Aero-Schleim"
+}
+
+AmberCrawlerBanner: {
+	DisplayName: Bernstein-Kriecher-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Bernstein-Kriecher"
+}
+
+AmethystCrawlerBanner: {
+	DisplayName: Amethyst-Kriecher-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Amethyst-Kriecher"
+}
+
+AndroombaBanner: {
+	DisplayName: Androomba-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Androomba"
+}
+
+AnthozoanCrabBanner: {
+	DisplayName: Anthozoan-Krabben-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Anthozoan-Krabbe"
+}
+
+AquaticUrchinBanner: {
+	DisplayName: Aquatischer Seeigel-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Aquatischer Seeigel"
+}
+
+AriesBanner: {
+	DisplayName: Widder-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Widder"
+}
+
+ArmoredDiggerBanner: {
+	DisplayName: Gepanzerter Gräber-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Gepanzerter Gräber"
+}
+
+AstralachneaBanner: {
+	DisplayName: Astralachnea-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Astralachnea"
+}
+
+AstralProbeBanner: {
+	DisplayName: Astral-Sonde-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Astral-Sonde"
+}
+
+AstralSlimeBanner: {
+	DisplayName: Astral-Schleim-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Astral-Schleim"
+}
+
+AtlasBanner: {
+	DisplayName: Atlas-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Atlas"
+}
+
+BabyFlakCrabBanner: {
+	DisplayName: Baby-Flak-Krabben-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Baby-Flak-Krabbe"
+}
+
+BabyGhostBellBanner: {
+	DisplayName: Baby-Geisterglocken-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Baby-Geisterglocke"
+}
+
+BelchingCoralBanner: {
+	DisplayName: Rülpsendes Korallen-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Rülpsende Koralle"
+}
+
+SightseerSpitterBanner: {
+	DisplayName: Aussichtsspucker-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Aussichtsspucker"
+}
+
+BlindedAnglerBanner: {
+	DisplayName: Blinder Angler-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Blinder Angler"
+}
+
+BloatfishBanner: {
+	DisplayName: Aufgeblähter Fisch-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Aufgeblähter Fisch"
+}
+
+BloomSlimeBanner: {
+	DisplayName: Blüten-Schleim-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Blüten-Schleim"
+}
+
+BobbitWormBanner: {
+	DisplayName: Bobbit-Wurm-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Bobbit-Wurm"
+}
+
+BohldohrBanner: {
+	DisplayName: Bohldohr-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Bohldohr"
+}
+
+BoxJellyfishBanner: {
+	DisplayName: Kastenqualle-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Kastenqualle"
+}
+
+CalamityEyeBanner: {
+	DisplayName: Katastrophenaugen-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Katastrophenaugen"
+}
+
+ChaoticPufferBanner: {
+	DisplayName: Chaotischer Kugelfisch-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Chaotischer Kugelfisch"
+}
+
+ClamBanner: {
+	DisplayName: Muschel-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Muschel"
+}
+
+CloudElementalBanner: {
+	DisplayName: Wolken-Elementar-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Wolken-Elementar"
+}
+
+CnidrionBanner: {
+	DisplayName: Cnidrion-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Cnidrion"
+}
+
+ColossalSquidBanner: {
+	DisplayName: Kolossaler Tintenfisch-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Kolossaler Tintenfisch"
+}
+
+CrimulanBlightSlimeBanner: {
+	DisplayName: Crimulanischer Seuchenschleim-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Crimulanischer Seuchenschleim"
+}
+
+CryonBanner: {
+	DisplayName: Cryon-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Cryon"
+}
+
+CryoSlimeBanner: {
+	DisplayName: Kryoschleim-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Kryoschleim"
+}
+
+CrystalCrawlerBanner: {
+	DisplayName: Kristallkriecher-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Kristallkriecher"
+}
+
+RenegadeWarlockBanner: {
+	DisplayName: Renegatenkriegsmagier-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Renegatenkriegsmagier"
+}
+
+CuttlefishBanner: {
+	DisplayName: Sepien-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Sepien"
+}
+
+DespairStoneBanner: {
+	DisplayName: Stein der Verzweiflung-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Stein der Verzweiflung"
+}
+
+DevilFishBanner: {
+	DisplayName: Teufelsfisch-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Teufelsfisch"
+}
+
+DiamondCrawlerBanner: {
+	DisplayName: Diamantkriecher-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Diamantkriecher"
+}
+
+EarthElementalBanner: {
+	DisplayName: Erd-Elementar-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Erd-Elementar"
+}
+
+EbonianBlightSlimeBanner: {
+	DisplayName: Ebonianischer Seuchenschleim-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Ebonianischer Seuchenschleim"
+}
+
+EidolistBanner: {
+	DisplayName: Eidolist-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Eidolist"
+}
+
+EidolonWyrmJuvenileBanner: {
+	DisplayName: Banner des jungen Eidolon-Wurms
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Junge Eidolon-Wurm"
+}
+
+EmeraldCrawlerBanner: {
+	DisplayName: Smaragdkriecher-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Smaragdkriecher"
+}
+
+EutrophicRayBanner: {
+	DisplayName: Eutropher Rochen-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Eutropher Rochen"
+}
+
+FearlessGoldfishWarriorBanner: {
+	DisplayName: Banner des furchtlosen Goldfischkriegers
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Furchtloser Goldfischkrieger"
+}
+
+FlakCrabBanner: {
+	DisplayName: Flak-Krabbe-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Flak-Krabbe"
+}
+
+FrogfishBanner: {
+	DisplayName: Froschfisch-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Froschfisch"
+}
+
+FusionFeederBanner: {
+	DisplayName: Fusionsfütterer-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Fusionsfütterer"
+}
+
+GammaSlimeBanner: {
+	DisplayName: Gamma-Schleim-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Gamma-Schleim"
+}
+
+GhostBellBanner: {
+	DisplayName: Geisterglocken-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Geisterglocken"
+}
+
+GiantSquidBanner: {
+	DisplayName: Riesentintenfisch-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Riesentintenfisch"
+}
+
+GnasherBanner: {
+	DisplayName: Schnapper-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Schnapper"
+}
+
+GulperEelBanner: {
+	DisplayName: Schlinger-Aal-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Schlinger-Aal"
+}
+
+HadarianBanner: {
+	DisplayName: Hadarian-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Hadarian"
+}
+
+HeatSpiritBanner: {
+	DisplayName: Hitzespiritus-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Hitzespiritus"
+}
+
+HiveBanner: {
+	DisplayName: Bienenstock-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Bienenstock"
+}
+
+IceClasperBanner: {
+	DisplayName: Eisfänger-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Eisfänger"
+}
+
+ImpiousImmolatorBanner: {
+	DisplayName: Bedenkenloser Brandschinder-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Bedenkenloser Brandschinder"
+}
+
+InfernalCongealmentBanner: {
+	DisplayName: Infernales Einfrieren-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Infernales Einfrieren"
+}
+
+IrradiatedSlimeBanner: {
+	DisplayName: Bestrahlter Schleim-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Bestrahlter Schleim"
+}
+
+LaserfishBanner: {
+	DisplayName: Laserfisch-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Laserfisch"
+}
+
+LuminousCorvinaBanner: {
+	DisplayName: Leuchtendes Corvina-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Leuchtendes Corvina"
+}
+
+MantisBanner: {
+	DisplayName: Mantis-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Mantis"
+}
+
+MantisShrimpBanner: {
+	DisplayName: Mantis-Garnele-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Mantis-Garnele"
+}
+
+MelterBanner: {
+	DisplayName: Schmelzer-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Schmelzer"
+}
+
+MirageJellyBanner: {
+	DisplayName: Miragequalle-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Miragequalle"
+}
+
+MorayEelBanner: {
+	DisplayName: Muränen-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Muräne"
+}
+
+NovaBanner: {
+	DisplayName: Nova-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Nova"
+}
+
+NuclearToadBanner: {
+	DisplayName: Atomkröten-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Atomkröten"
+}
+
+OarfishBanner: {
+	DisplayName: Ruderfisch-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Ruderfisch"
+}
+
+OrthoceraBanner: {
+	DisplayName: Orthocera-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Orthocera"
+}
+
+OverloadedSoldierBanner: {
+	DisplayName: Überlasteter Soldat-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Überlasteter Soldat"
+}
+
+PerennialSlimeBanner: {
+	DisplayName: Immergrüner Schleim-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Immergrüner Schleim"
+}
+
+PestilentSlimeBanner: {
+	DisplayName: Pestiler Schleim-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Pestiler Schleim"
+}
+
+PhantomSpiritBanner: {
+	DisplayName: Phantomgeist-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Phantomgeist"
+}
+
+PiggyBanner: {
+	DisplayName: Schweinchen-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Schweinchen"
+}
+
+PlaguebringerBanner: {
+	DisplayName: Seuchenträger-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Seuchenträger"
+}
+
+PlagueChargerBanner: {
+	DisplayName: Seuchen-Ladepferd-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Seuchen-Ladepferd"
+}
+
+PlagueshellBanner: {
+	DisplayName: Seuchenschildkröte-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Seuchenschildkröte"
+}
+
+PrismBackBanner: {
+	DisplayName: Prismenrücken-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Prismenrücken"
+}
+
+ProfanedEnergyBanner: {
+	DisplayName: Entweihte Energie-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Entweihte Energie"
+}
+
+RadiatorBanner: {
+	DisplayName: Radiator-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Radiator"
+}
+
+ReaperSharkBanner: {
+	DisplayName: Sensenhai-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Sensenhai"
+}
+
+RepairUnitBanner: {
+	DisplayName: Reparatureinheit-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Reparatureinheit"
+}
+
+RimehoundBanner: {
+	DisplayName: Frosthund-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Frosthund"
+}
+
+RotdogBanner: {
+	DisplayName: Fäulnishund-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Fäulnishund"
+}
+
+RubyCrawlerBanner: {
+	DisplayName: Rubinkriecher-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Rubinkriecher"
+}
+
+SapphireCrawlerBanner: {
+	DisplayName: Saphirkriecher-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Saphirkriecher"
+}
+
+ScornEaterBanner: {
+	DisplayName: Spottverschlinger-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Spottverschlinger"
+}
+
+ScryllarBanner: {
+	DisplayName: Skryllar-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Skryllar"
+}
+
+SeaFloatyBanner: {
+	DisplayName: Meeresschwimmer-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Meeresschwimmer"
+}
+
+SeaMinnowBanner: {
+	DisplayName: Meeressalmler-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Meeressalmler"
+}
+
+SeaSerpentBanner: {
+	DisplayName: Meeresseeschlange-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Meeresseeschlange"
+}
+
+SeaUrchinBanner: {
+	DisplayName: Meeresigel-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Meeresigel"
+}
+
+ShockstormShuttleBanner: {
+	DisplayName: Schocksturm-Shuttle-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Schocksturm-Shuttle"
+}
+
+SkyfinBanner: {
+	DisplayName: Himmelsflossen-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Himmelsflossen"
+}
+
+SightseerColliderBanner: {
+	DisplayName: Sightseer-Kollider-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Sightseer-Kollider"
+}
+
+SoulSlurperBanner: {
+	DisplayName: Seelenschlürfer-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Seelenschlürfer"
+}
+
+StellarCulexBanner: {
+	DisplayName: Sternen-Culex-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Sternen-Culex"
+}
+
+StormlionBanner: {
+	DisplayName: Sturmlöwe-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Sturmlöwe"
+}
+
+SulflounderBanner: {
+	DisplayName: Schwefelflunder-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Schwefelflunder"
+}
+
+SulphurousSkaterBanner: {
+	DisplayName: Schwefelskater-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Schwefelskater"
+}
+
+SunskaterBanner: {
+	DisplayName: Sonnenskater-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Sonnenskater"
+}
+
+TopazCrawlerBanner: {
+	DisplayName: Topas-Kriecher-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Topas-Kriecher"
+}
+
+ToxicatfishBanner: {
+	DisplayName: Giftkatzenfisch-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Giftkatzenfisch"
+}
+
+ToxicMinnowBanner: {
+	DisplayName: Giftmücke-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Giftmücke"
+}
+
+TrasherBanner: {
+	DisplayName: Trashersaurier-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Trashersaurier"
+}
+
+TrilobiteBanner: {
+	DisplayName: Trilobit-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Trilobit"
+}
+
+ViperfishBanner: {
+	DisplayName: Vipernfisch-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Vipernfisch"
+}
+
+VirulingBanner: {
+	DisplayName: Viruling-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Viruling"
+}
+
+WulfrumAmplifierBanner: {
+	DisplayName: Wulfrum-Verstärker-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Wulfrum-Verstärker"
+}
+
+WulfrumDroneBanner: {
+	DisplayName: Wulfrum-Drohne-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Wulfrum-Drohne"
+}
+
+WulfrumGyratorBanner: {
+	DisplayName: Wulfrum-Gyrator-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Wulfrum-Gyrator"
+}
+
+WulfrumHovercraftBanner: {
+	DisplayName: Wulfrum-Luftkissenfahrzeug-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Wulfrum-Luftkissenfahrzeug"
+}
+
+WulfrumRoverBanner: {
+	DisplayName: Wulfrum-Rover-Banner
+	Tooltip: "{$CommonItemTooltip.BannerBonus}Wulfrum-Rover"
+}
+
+BrimstoneSlab: {
+	DisplayName: Brimstoneplatte
+	Tooltip: ""
+}
+
+BrimstoneSlag: {
+	DisplayName: Brimstoneschlacke
+	Tooltip: ""
+}
+
+CelestialRemains: {
+	DisplayName: Himmlische Überreste
+	Tooltip: ""
+}
+
+CinderBlossomSeeds: {
+	DisplayName: Glutblüten-Samen
+	Tooltip: Platzierbar auf verbrannten Überresten
+}
+
+CryonicBrick: {
+	DisplayName: Kryonischer Ziegel
+	Tooltip: ""
+}
+
+AgedLaboratoryConsoleItem: {
+	DisplayName: Gealterte Laboratoriumskonsole
+	Tooltip: ""
+}
+
+AgedLaboratoryContainmentBoxItem: {
+	DisplayName: Gealterte Laboratoriums-Behälterbox
+	Tooltip: ""
+}
+
+AgedLaboratoryDisplayItem: {
+	DisplayName: Gealterte Laboratoriumsanzeige
+	Tooltip: ""
+}
+
+AgedLaboratoryDoorItem: {
+	DisplayName: Gealterte Laboratoriumstür
+	Tooltip: ""
+}
+
+AgedLaboratoryElectricPanelItem: {
+	DisplayName: Gealterte Laboratoriums-Elektriktafel
+	Tooltip: ""
+}
+
+AgedLaboratoryScreenItem: {
+	DisplayName: Gealterte Laboratoriumsanzeige
+	Tooltip: ""
+}
+
+AgedLaboratoryServerItem: {
+	DisplayName: Gealterter Laboratoriumsserver
+	Tooltip: ""
+}
+
+AgedLaboratoryTerminalItem: {
+	DisplayName: Gealterte Laboratoriums-Terminal
+	Tooltip: ""
+}
+
+AgedReinforcedCrateItem: {
+	DisplayName: Gealterte verstärkte Kiste
+	Tooltip: ""
+}
+
+AgedSecurityChest: {
+	DisplayName: Gealterte Sicherheitstruhe
+	Tooltip: ""
+}
+
+ChargingStationItem: {
+	DisplayName: Ladestation
+	Tooltip:
+		'''
+		Lädt Gegenstände von Draedons Arsenal mit Energiezellen auf
+		Lege sowohl einen Gegenstand als auch Energiezellen in die Ladestation, um den Gegenstand aufzuladen
+		'''
+}
+
+HazardChevronPanels: {
+	DisplayName: Gefahren-Chevron-Panele
+	Tooltip: ""
+}
+
+LabHologramProjectorItem: {
+	DisplayName: Hologrammprojektor des Labors
+	Tooltip: ""
+}
+
+LaboratoryConsoleItem: {
+	DisplayName: Laboratoriumskonsole
+	Tooltip: ""
+}
+
+LaboratoryContainmentBoxItem: {
+	DisplayName: Laboratoriums-Behälterbox
+	Tooltip: ""
+}
+
+LaboratoryDisplayItem: {
+	DisplayName: Laboratoriumsanzeige
+	Tooltip: ""
+}
+
+LaboratoryDoorItem: {
+	DisplayName: Laboratoriumstür
+	Tooltip: ""
+}
+
+LaboratoryElectricPanelItem: {
+	DisplayName: Laboratoriums-Elektriktafel
+	Tooltip: ""
+}
+
+LaboratoryPanels: {
+	DisplayName: Laboratoriums-Panele
+	Tooltip: ""
+}
+
+LaboratoryPipePlating: {
+	DisplayName: Laboratoriums-Rohrverkleidung
+	Tooltip: ""
+}
+
+LaboratoryPlating: {
+	DisplayName: Laboratoriums-Verkleidung
+	Tooltip: ""
+}
+
+LaboratoryScreenItem: {
+	DisplayName: Laboratoriumsanzeige
+	Tooltip: ""
+}
+
+LaboratoryServerItem: {
+	DisplayName: Laboratoriumsserver
+	Tooltip: ""
+}
+
+LaboratoryShelf: {
+	DisplayName: Laboratoriumsregal
+	Tooltip: ""
+}
+
+LaboratoryTerminalItem: {
+	DisplayName: Laboratoriums-Terminal
+	Tooltip: ""
+}
+
+PowerCellFactoryItem: {
+	DisplayName: Energiezellenfabrik
+	Tooltip:
+		'''
+		Produziert im Laufe der Zeit Draedon Energiezellen
+		Eine Zelle wird alle 15 Sekunden produziert
+		'''
+}
+
+ReinforcedCrateItem: {
+	DisplayName: Verstärkte Kiste
+	Tooltip: ""
+}
+
+RustedPipes: {
+	DisplayName: Verrostete Rohre
+	Tooltip: ""
+}
+
+RustedPlating: {
+	DisplayName: Verrostete Verkleidung
+	Tooltip: ""
+}
+
+RustedShelf: {
+	DisplayName: Verrostetes Regal
+	Tooltip: ""
+}
+
+SecurityChest: {
+	DisplayName: Sicherheitstruhe
+	Tooltip: ""
+}
+
+EutrophicGlass: {
+	DisplayName: Eutrophes Glas
+	Tooltip: ""
+}
+
+EutrophicSand: {
+	DisplayName: Eutropher Sand
+	Tooltip: ""
+}
+
+AbyssTreasureChest: {
+	DisplayName: Uralte Schatztruhe
+	Tooltip: ""
+}
+
+AlgalPrismTorch: {
+	DisplayName: Algenprisma-Fackel
+	Tooltip: Kann im Wasser platziert werden
+}
+
+AstralBeaconItem: {
+	DisplayName: Astrales Leuchtfeuer
+	Tooltip: Ruft Astrum Deus herbei, im Austausch gegen bestimmte Opfergaben
+}
+
+AstralChest: {
+	DisplayName: Astrale Truhe
+	Tooltip: ""
+}
+
+AstralTorch: {
+	DisplayName: Astrale Fackel
+	Tooltip: ""
+}
+
+AuricToilet: {
+	DisplayName: Aurisches WC
+	Tooltip:
+		'''
+		Das wurde von den Göttern benutzt
+		Sich auf einen solchen Thron zu setzen, wäre eine Schande für alle
+		'''
+}
+
+BabyFlakCrabCage: {
+	DisplayName: Käfig für Baby-Flak-Krabben
+	Tooltip: ""
+}
+
+BabyGhostBellJar: {
+	DisplayName: Käfig für Baby-Geisterglocken
+	Tooltip: ""
+}
+
+AquaticScourgeRelic: {
+	DisplayName: Relikt des Wasserschädlings
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+AstrumAureusRelic: {
+	DisplayName: Relikt des Astrum Aureus
+	Tooltip: ""
+}
+
+AstrumDeusRelic: {
+	DisplayName: Astrum Deus-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+BrimstoneElementalRelic: {
+	DisplayName: Brimstone Elemental-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+CalamitasCloneRelic: {
+	DisplayName: Calamitas-Klon-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+CalamitasRelic: {
+	DisplayName: Calamitas-Reliquie
+	Tooltip: ""
+}
+
+CeaselessVoidRelic: {
+	DisplayName: Ceaseless Void-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+CrabulonRelic: {
+	DisplayName: Crabulon-Reliquie
+	Tooltip: ""
+}
+
+CragmawMireRelic: {
+	DisplayName: Cragmaw Mire-Reliquie
+	Tooltip: ""
+}
+
+CryogenRelic: {
+	DisplayName: Cryogen-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+DesertScourgeRelic: {
+	DisplayName: Desert Scourge-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+DevourerOfGodsRelic: {
+	DisplayName: Devourer of Gods-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+DraedonRelic: {
+	DisplayName: Draedon-Reliquie
+	Tooltip: ""
+}
+
+DragonfollyRelic: {
+	DisplayName: Dragonfolly-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+GiantClamRelic: {
+	DisplayName: Riesige Muschel-Reliquie
+	Tooltip: ""
+}
+
+GreatSandSharkRelic: {
+	DisplayName: Großer Sandhai-Reliquie
+	Tooltip: ""
+}
+
+HiveMindRelic: {
+	DisplayName: Hive Mind-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+LeviathanAnahitaRelic: {
+	DisplayName: Leviathan und Anahita-Reliquie
+	Tooltip: ""
+}
+
+MaulerRelic: {
+	DisplayName: Mauler-Reliquie
+	Tooltip: ""
+}
+
+NuclearTerrorRelic: {
+	DisplayName: Nuklearer Terror-Reliquie
+	Tooltip: ""
+}
+
+OldDukeRelic: {
+	DisplayName: Alter Herzog-Reliquie
+	Tooltip: ""
+}
+
+PerforatorsRelic: {
+	DisplayName: Perforatoren-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+PlaguebringerGoliathRelic: {
+	DisplayName: Pestbringer-Goliath-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+PolterghastRelic: {
+	DisplayName: Poltergeist-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+ProfanedGuardiansRelic: {
+	DisplayName: Profane Wächter-Reliquie
+	Tooltip: ""
+}
+
+ProvidenceRelic: {
+	DisplayName: Providence-Reliquie
+	Tooltip: ""
+}
+
+RavagerRelic: {
+	DisplayName: Verwüster-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+SignusRelic: {
+	DisplayName: Signus-Reliquie
+	Tooltip: Ein Blick in das, was sein wird...
+}
+
+SlimeGodRelic: {
+	DisplayName: Schleimgott-Reliquie
+	Tooltip: ""
+}
+
+StormWeaverRelic: {
+	DisplayName: Sturmwirker-Reliquie
+	Tooltip: Ein Blick in das, was hätte sein können...
+}
+
+YharonRelic: {
+	DisplayName: Yharon-Reliquie
+	Tooltip: Ein Blick in das, was sein wird...
+}
+
+ChaosCandle: {
+	DisplayName: Chaos-Kerze
+	Tooltip: Die bloße Anwesenheit dieser Kerze versetzt umgebende Feinde in Wut
+}
+
+CorruptionEffigy: {
+	DisplayName: Verfall-Effigie
+	Tooltip:
+		'''
+		Wenn platziert, haben nahegelegene Spieler eine um 10 % erhöhte Bewegungsgeschwindigkeit und kritische Trefferchance
+		Nahegelegene Spieler erleiden auch eine 5%ige Verringerung ihrer Schadensreduktion
+		'''
+}
+
+AltarOfTheAccursedItem: {
+	DisplayName: Altar der Verfluchten
+	Tooltip:
+		'''
+		Biete Asche der Katastrophe an diesem Altar an, um die Hexe herbeizurufen
+		Dabei wird ein quadratischer Arena-Block um den Altar herum erzeugt
+		Während des Kampfes heilen Herz-Aufnahmen nur halb so viel
+		Die Hexe wird wütend, wenn du außerhalb der Arena bist
+		{$CommonItemTooltip.SpecialCrafting}
+		'''
+}
+
+AncientAltar: {
+	DisplayName: Antiker Altar
+	Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+AshenAltar: {
+	DisplayName: Aschen-Altar
+	Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+BotanicPlanter: {
+	DisplayName: Botanischer Pflanzgefäß
+	Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+CosmicAnvilItem: {
+	DisplayName: Kosmischer Amboss
+	Tooltip:
+		'''
+		Ein außerweltlicher Amboss, der den Druck eines stellaren Zusammenbruchs standhalten kann
+		Funktioniert auch als jede vorherige Amboss-Stufe
+		'''
+}
+
+DraedonsForge: {
+	DisplayName: Draedons Schmiede
+	Tooltip:
+		'''
+		Eine Plasma-Gitter-Nanofabrik, angetrieben von unbegrenzter Exo-Energie
+		Funktioniert gleichzeitig als jede wichtige Handwerksstation
+		'''
+}
+
+EutrophicShelf: {
+	DisplayName: Eutropher Regal
+	Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+MonolithAmalgam: {
+	DisplayName: Monolith-Amalgam
+	Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+PlagueInfuser: {
+	DisplayName: Seucheneinflößer
+	Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+ProfanedCrucible: {
+	DisplayName: Profanges Schmelztiegel
+	Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+SilvaBasin: {
+	DisplayName: Silva-Becken
+	Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+StaticRefiner: {
+	DisplayName: Statischer Raffinierer
+	Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+VoidCondenser: {
+	DisplayName: Leere-Kondensator
+	Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+WulfrumLabstationItem: {
+	DisplayName: Wulfrum-Laborstation
+	Tooltip: "{$CommonItemTooltip.SpecialCrafting}"
+}
+
+CrimsonEffigy: {
+	DisplayName: Karminrote Effigie
+	Tooltip:
+		'''
+		Wenn platziert, haben nahegelegene Spieler eine um 15 % erhöhte Schadensreduktion und Verteidigung um 10
+		Nahegelegene Spieler erleiden auch eine 10 % Verringerung ihrer maximalen Lebenspunkte
+		'''
+}
+
+ThankYouPainting: {
+	DisplayName: Danke
+	Tooltip:
+		'''
+		Danke an das gesamte Team, alle Unterstützer und diejenigen, die das Mod spielen und am Leben erhalten!
+		Der Rahmen dieses Gemäldes reicht nicht aus, um das gesamte Team aufzunehmen
+		Halte SHIFT gedrückt, um eine Liste der früheren und aktuellen Entwickler zu sehen
+		'''
+}
+
+EffigyOfDecay: {
+	DisplayName: Effigie des Verfalls
+	Tooltip:
+		'''
+		Wenn platziert, können nahegelegene Spieler unter Wasser atmen
+		Dieser Effekt funktioniert nicht in der Abyss
+		Nahegelegene Spieler sind auch immun gegen Schwefelvergiftung
+		'''
+}
+
+AbyssFountainItem: {
+	DisplayName: Abyss-Brunnen
+	Tooltip: ""
+}
+
+AstralFountainItem: {
+	DisplayName: Astral-Brunnen
+	Tooltip: ""
+}
+
+SulphurousFountainItem: {
+	DisplayName: Schwefeliger Brunnen
+	Tooltip: ""
+}
+
+SunkenSeaFountain: {
+	DisplayName: Versunkener Meeresbrunnen
+	Tooltip: ""
+}
+
+GloomTorch: {
+	DisplayName: Düster-Fackel
+	Tooltip: ""
+}
+
+LanternCenter: {
+	DisplayName: Laternenmitte
+	Tooltip: Erhellt den Nachthimmel mit festlichen Laternen
+}
+
+NavyPrismTorch: {
+	DisplayName: Marineblauer Prisma-Fackel
+	Tooltip: Kann im Wasser platziert werden
+}
+
+PiggyCage: {
+	DisplayName: Schweinekäfig
+	Tooltip: ""
+}
+
+RefractivePrismTorch: {
+	DisplayName: Brechende Prisma-Fackel
+	Tooltip: Kann im Wasser platziert werden
+}
+
+ResilientCandle: {
+	DisplayName: Robuste Kerze
+	Tooltip:
+		'''
+		Bei Platzierung blockiert die Verteidigung nahegelegener Spieler 5 % mehr Schaden
+		'Weder Regen noch Wind können ihre ewige Flamme ersticken'
+		'''
+}
+
+RustyChest: {
+	DisplayName: Rostige Truhe
+	Tooltip: ""
+}
+
+SeaMinnowJar: {
+	DisplayName: Glas mit Meereskleinfischen
+	Tooltip: ""
+}
+
+SpitefulCandle: {
+	DisplayName: Spöttische Kerze
+	Tooltip:
+		'''
+		Bei Platzierung nehmen nahegelegene Feinde 5 % mehr Schaden.
+		Dieser zusätzliche Schaden umgeht die Feind-Schadensreduktion und Verteidigung
+		'Ihre hasserfüllte Leuchtkraft flackert vor Zorn'
+		'''
+}
+
+SulphurousTorch: {
+	DisplayName: Schwefelhaltige Fackel
+	Tooltip: Kann im Wasser platziert werden
+}
+
+ThaumaticChair: {
+	DisplayName: Thaumatischer Stuhl
+	Tooltip: Eine der besten Kreationen von Chloe
+}
+
+TranquilityCandle: {
+	DisplayName: Kerze der Gelassenheit
+	Tooltip: Die bloße Anwesenheit dieser Kerze beruhigt umgebende Feinde drastisch
+}
+
+AnahitaTrophy: {
+	DisplayName: Anahita-Trophäe
+	Tooltip: ""
+}
+
+ApolloTrophy: {
+	DisplayName: Apollo-Trophäe
+	Tooltip: ""
+}
+
+AquaticScourgeTrophy: {
+	DisplayName: Trophee des aquatischen Geißels
+	Tooltip: ""
+}
+
+AresTrophy: {
+	DisplayName: Ares-Trophäe
+	Tooltip: ""
+}
+
+ArtemisTrophy: {
+	DisplayName: Artemis-Trophäe
+	Tooltip: ""
+}
+
+AstrumAureusTrophy: {
+	DisplayName: Astrum Aureus-Trophäe
+	Tooltip: ""
+}
+
+AstrumDeusTrophy: {
+	DisplayName: Astrum Deus-Trophäe
+	Tooltip: ""
+}
+
+BrimstoneElementalTrophy: {
+	DisplayName: Trophäe des Schwefel-Elementars
+	Tooltip: ""
+}
+
+CalamitasCloneTrophy: {
+	DisplayName: Trophäe des Calamitas-Klons
+	Tooltip: ""
+}
+
+CataclysmTrophy: {
+	DisplayName: Trophee des katalytischen Konstrukts
+	Tooltip: ""
+}
+
+CatastropheTrophy: {
+	DisplayName: Trophee des katastrophischen Konstrukts
+	Tooltip: ""
+}
+
+CeaselessVoidTrophy: {
+	DisplayName: Trophäe des unaufhörlichen Abgrunds
+	Tooltip: ""
+}
+
+CrabulonTrophy: {
+	DisplayName: Trophäe von Crabulon
+	Tooltip: ""
+}
+
+CragmawMireTrophy: {
+	DisplayName: Trophäe des Cragmaw-Sumpfs
+	Tooltip: ""
+}
+
+CryogenTrophy: {
+	DisplayName: Trophäe von Cryogen
+	Tooltip: ""
+}
+
+DesertScourgeTrophy: {
+	DisplayName: Trophee der Wüstengeißel
+	Tooltip: ""
+}
+
+DevourerofGodsTrophy: {
+	DisplayName: Trophee des Devourer of Gods
+	Tooltip: ""
+}
+
+DragonfollyTrophy: {
+	DisplayName: Trophäe von Dragonfolly
+	Tooltip: ""
+}
+
+GiantClamTrophy: {
+	DisplayName: Trophäe der Riesenauster
+	Tooltip: ""
+}
+
+GreatSandSharkTrophy: {
+	DisplayName: Trophee des Großen Sandhais
+	Tooltip: ""
+}
+
+HiveMindTrophy: {
+	DisplayName: Trophee des Hive Mind
+	Tooltip: ""
+}
+
+LeviathanTrophy: {
+	DisplayName: Trophee des Leviathan
+	Tooltip: ""
+}
+
+MaulerTrophy: {
+	DisplayName: Trophee des Maulers
+	Tooltip: ""
+}
+
+NuclearTerrorTrophy: {
+	DisplayName: Trophäe des nuklearen Terrors
+	Tooltip: ""
+}
+
+OldDukeTrophy: {
+	DisplayName: Trophee des Alten Herzogs
+	Tooltip: ""
+}
+
+PerforatorTrophy: {
+	DisplayName: Trophee des Perforators
+	Tooltip: ""
+}
+
+PlaguebringerGoliathTrophy: {
+	DisplayName: Trophee des Pestbringer-Goliath
+	Tooltip: ""
+}
+
+PolterghastTrophy: {
+	DisplayName: Trophäe des Polterghasts
+	Tooltip: ""
+}
+
+ProfanedGuardianTrophy: {
+	DisplayName: Trophee des Profaned Guardian
+	Tooltip: ""
+}
+
+ProvidenceTrophy: {
+	DisplayName: Trophäe von Providence
+	Tooltip: ""
+}
+
+RavagerTrophy: {
+	DisplayName: Trophee des Verwüsters
+	Tooltip: ""
+}
+
+SignusTrophy: {
+	DisplayName: Trophee von Signus
+	Tooltip: ""
+}
+
+SlimeGodTrophy: {
+	DisplayName: Trophee des Schleimgottes
+	Tooltip: ""
+}
+
+SupremeCalamitasTrophy: {
+	DisplayName: Trophee des obersten Calamitas
+	Tooltip: ""
+}
+
+SupremeCataclysmTrophy: {
+	DisplayName: Trophee des obersten katalytischen Konstrukts
+	Tooltip: ""
+}
+
+SupremeCatastropheTrophy: {
+	DisplayName: Trophee des obersten katastrophischen Konstrukts
+	Tooltip: ""
+}
+
+ThanatosTrophy: {
+	DisplayName: Trophee des Thanatos
+	Tooltip: ""
+}
+
+WeaverTrophy: {
+	DisplayName: Trophäe des Sturmgewebes
+	Tooltip: ""
+}
+
+YharonTrophy: {
+	DisplayName: Trophee von Yharon
+	Tooltip: ""
+}
+
+TwinklerInABottle: {
+	DisplayName: Twinkler in einer Flasche
+	Tooltip: ""
+}
+
+VigorousCandle: {
+	DisplayName: Kraftvolle Kerze
+	Tooltip:
+		'''
+		Bei Platzierung regenerieren nahegelegene Spieler 0,4 % ihrer maximalen Gesundheit pro Sekunde
+		Diese Regeneration ist auch während der Bewegung in voller Stärke und umgeht die Begrenzungen des Revengeance-Modus
+		'Ihre brillante Leuchtkraft durchdringt die Umgebung mit Hoffnung'
+		'''
+}
+
+WeightlessCandle: {
+	DisplayName: Gewichtslose Kerze
+	Tooltip:
+		'''
+		Bei Platzierung erhalten nahegelegene Spieler 10 % mehr Bewegungsgeschwindigkeit, 10 % mehr Flügelzeit und 5 % mehr Beschleunigung
+		'Die schwebende Flamme scheint deinen Geist zu erheben'
+		'''
+}
+
+WulfrumLureItem: {
+	DisplayName: Wulfrum-Köder
+	Tooltip:
+		'''
+		Verbraucht [i:CalamityMod/EnergyCore] Energiekerne, um ein Wulfrum-Signal auszusenden, das Wulfrum-Automaten anlockt
+		Das Signal hält 30 Sekunden lang an
+		'''
+}
+
+AbyssBathtub: {
+	DisplayName: Abyss-Badewanne
+	Tooltip: ""
+}
+
+AbyssBed: {
+	DisplayName: Abyss-Bett
+	Tooltip: ""
+}
+
+AbyssBookcase: {
+	DisplayName: Abyss-Bücherregal
+	Tooltip: ""
+}
+
+AbyssCandelabra: {
+	DisplayName: Abyss-Kandelaber
+	Tooltip: ""
+}
+
+AbyssCandle: {
+	DisplayName: Abyss-Kerze
+	Tooltip: ""
+}
+
+AbyssChair: {
+	DisplayName: Abyss-Stuhl
+	Tooltip: ""
+}
+
+AbyssChandelier: {
+	DisplayName: Abyss-Kronleuchter
+	Tooltip: ""
+}
+
+AbyssChest: {
+	DisplayName: Abyss-Truhe
+	Tooltip: ""
+}
+
+AbyssClock: {
+	DisplayName: Abyss-Uhr
+	Tooltip: ""
+}
+
+AbyssDoor: {
+	DisplayName: Abyss-Tür
+	Tooltip: ""
+}
+
+AbyssDresser: {
+	DisplayName: Abyss-Kommode
+	Tooltip: ""
+}
+
+AbyssLamp: {
+	DisplayName: Abyss-Lampe
+	Tooltip: ""
+}
+
+AbyssLantern: {
+	DisplayName: Abyss-Laterne
+	Tooltip: ""
+}
+
+AbyssSink: {
+	DisplayName: Abyss-Waschbecken
+	Tooltip: Zählt als Wasserquelle
+}
+
+AbyssSofa: {
+	DisplayName: Abyss-Sofa
+	Tooltip: ""
+}
+
+AbyssSynth: {
+	DisplayName: Abyss-Synth
+	Tooltip: ""
+}
+
+AbyssTable: {
+	DisplayName: Abyss-Tisch
+	Tooltip: ""
+}
+
+AbyssTorch: {
+	DisplayName: Abyss-Fackel
+	Tooltip: Kann im Wasser platziert werden
+}
+
+AbyssWorkBench: {
+	DisplayName: Abyss-Arbeitstisch
+	Tooltip: ""
+}
+
+SmoothAbyssGravel: {
+	DisplayName: Glatter Abyss-Kies
+	Tooltip: ""
+}
+
+SmoothAbyssGravelPlatform: {
+	DisplayName: Glatte Abyss-Kiesplattform
+	Tooltip: ""
+}
+
+AcidwoodBathtub: {
+	DisplayName: Acidwood-Badewanne
+	Tooltip: ""
+}
+
+AcidwoodBed: {
+	DisplayName: Acidwood-Bett
+	Tooltip: ""
+}
+
+AcidwoodBench: {
+	DisplayName: Acidwood-Bank
+	Tooltip: ""
+}
+
+AcidwoodBookcase: {
+	DisplayName: Acidwood-Bücherregal
+	Tooltip: ""
+}
+
+AcidwoodCandelabra: {
+	DisplayName: Säureholz-Kandelaber
+	Tooltip: ""
+}
+
+AcidwoodCandle: {
+	DisplayName: Säureholz-Kerze
+	Tooltip: ""
+}
+
+AcidwoodChair: {
+	DisplayName: Säureholz-Stuhl
+	Tooltip: ""
+}
+
+AcidwoodChandelier: {
+	DisplayName: Säureholz-Kronleuchter
+	Tooltip: ""
+}
+
+AcidwoodChest: {
+	DisplayName: Säureholz-Truhe
+	Tooltip: ""
+}
+
+AcidwoodClock: {
+	DisplayName: Säureholz-Uhr
+	Tooltip: ""
+}
+
+AcidwoodDoor: {
+	DisplayName: Säureholz-Tür
+	Tooltip: ""
+}
+
+AcidwoodDresser: {
+	DisplayName: Säureholz-Kommode
+	Tooltip: ""
+}
+
+AcidwoodLamp: {
+	DisplayName: Säureholz-Lampe
+	Tooltip: ""
+}
+
+AcidwoodLantern: {
+	DisplayName: Säureholz-Laterne
+	Tooltip: ""
+}
+
+AcidwoodPiano: {
+	DisplayName: Säureholz-Klavier
+	Tooltip: ""
+}
+
+AcidwoodPlatform: {
+	DisplayName: Säureholz-Plattform
+	Tooltip: ""
+}
+
+AcidwoodSink: {
+	DisplayName: Säureholz-Spüle
+	Tooltip: Zählt als Wasserquelle
+}
+
+AcidwoodTable: {
+	DisplayName: Säureholz-Tisch
+	Tooltip: ""
+}
+
+AcidwoodWorkBench: {
+	DisplayName: Säureholz-Arbeitstisch
+	Tooltip: ""
+}
+
+AncientBasin: {
+	DisplayName: Uraltes Becken
+	Tooltip: ""
+}
+
+AncientBathtub: {
+	DisplayName: Uralte Badewanne
+	Tooltip: ""
+}
+
+AncientBed: {
+	DisplayName: Uraltes Bett
+	Tooltip: ""
+}
+
+AncientBookcase: {
+	DisplayName: Uralter Bücherschrank
+	Tooltip: ""
+}
+
+AncientChair: {
+	DisplayName: Uralter Stuhl
+	Tooltip: ""
+}
+
+AncientChandelier: {
+	DisplayName: Uralter Kronleuchter
+	Tooltip: ""
+}
+
+AncientDoor: {
+	DisplayName: Uralte Tür
+	Tooltip: ""
+}
+
+AncientDresser: {
+	DisplayName: Uralte Kommode
+	Tooltip: ""
+}
+
+AncientLamp: {
+	DisplayName: Uralte Lampe
+	Tooltip: ""
+}
+
+AncientLantern: {
+	DisplayName: Uralte Laterne
+	Tooltip: ""
+}
+
+AncientMonolith: {
+	DisplayName: Uralter Monolith
+	Tooltip: ""
+}
+
+AncientPipeOrgan: {
+	DisplayName: Uralte Pfeifenorgel
+	Tooltip: ""
+}
+
+AncientSink: {
+	DisplayName: Uralte Spüle
+	Tooltip: Zählt als Lavazeile
+}
+
+AncientSofa: {
+	DisplayName: Uraltes Sofa
+	Tooltip: ""
+}
+
+AncientTable: {
+	DisplayName: Uralter Tisch
+	Tooltip: ""
+}
+
+AncientWorkBench: {
+	DisplayName: Uralter Arbeitstisch
+	Tooltip: ""
+}
+
+AshenAccentSlab: {
+	DisplayName: Aschfarbener Betonstein-Akzentblock
+	Tooltip:
+		'''
+		Eine Variante des Aschfarbenen Betonstein-Akzentblocks, die sich anders mit benachbarten Blöcken verbindet
+		'Beliebt bei fortgeschrittenen Baumeistern'
+		'''
+}
+
+AshenBasin: {
+	DisplayName: Aschfarbenes Becken
+	Tooltip: ""
+}
+
+AshenBathtub: {
+	DisplayName: Aschfarbene Badewanne
+	Tooltip: ""
+}
+
+AshenBed: {
+	DisplayName: Aschfarbenes Bett
+	Tooltip: ""
+}
+
+AshenBookcase: {
+	DisplayName: Aschfarbener Bücherschrank
+	Tooltip: ""
+}
+
+AshenCandelabra: {
+	DisplayName: Aschfarbener Kandelaber
+	Tooltip: ""
+}
+
+AshenCandle: {
+	DisplayName: Aschfarbene Kerze
+	Tooltip: ""
+}
+
+AshenChair: {
+	DisplayName: Aschfarbener Stuhl
+	Tooltip: ""
+}
+
+AshenChandelier: {
+	DisplayName: Aschfarbener Kronleuchter
+	Tooltip: ""
+}
+
+AshenChest: {
+	DisplayName: Aschfarbene Truhe
+	Tooltip: ""
+}
+
+AshenDoor: {
+	DisplayName: Aschfarbene Tür
+	Tooltip: ""
+}
+
+AshenDresser: {
+	DisplayName: Aschfarbene Kommode
+	Tooltip: ""
+}
+
+AshenLamp: {
+	DisplayName: Aschfarbene Lampe
+	Tooltip: ""
+}
+
+AshenLantern: {
+	DisplayName: Aschfarbene Laterne
+	Tooltip: ""
+}
+
+AshenMonolith: {
+	DisplayName: Aschfarbener Monolith
+	Tooltip: ""
+}
+
+AshenPipeOrgan: {
+	DisplayName: Aschfarbene Pfeifenorgel
+	Tooltip: ""
+}
+
+AshenPlatform: {
+	DisplayName: Aschfarbene Plattform
+	Tooltip: ""
+}
+
+AshenSink: {
+	DisplayName: Aschfarbene Spüle
+	Tooltip: Zählt als Lavazeile
+}
+
+AshenSlab: {
+	DisplayName: Aschfarbener Betonsteinblock
+	Tooltip: ""
+}
+
+AshenSofa: {
+	DisplayName: Aschfarbenes Sofa
+	Tooltip: ""
+}
+
+AshenTable: {
+	DisplayName: Aschfarbener Tisch
+	Tooltip: ""
+}
+
+AshenWorkBench: {
+	DisplayName: Aschfarbener Arbeitstisch
+	Tooltip: ""
+}
+
+SmoothBrimstoneSlag: {
+	DisplayName: Glatter Schwefelschlackenstein
+	Tooltip: ""
+}
+
+BotanicBathtub: {
+	DisplayName: Botanische Badewanne
+	Tooltip: ""
+}
+
+BotanicBed: {
+	DisplayName: Botanisches Bett
+	Tooltip: ""
+}
+
+BotanicBench: {
+	DisplayName: Botanische Bank
+	Tooltip: ""
+}
+
+BotanicBookcase: {
+	DisplayName: Botanischer Bücherschrank
+	Tooltip: ""
+}
+
+BotanicCandelabra: {
+	DisplayName: Botanischer Kandelaber
+	Tooltip: ""
+}
+
+BotanicCandle: {
+	DisplayName: Botanische Kerze
+	Tooltip: ""
+}
+
+BotanicChair: {
+	DisplayName: Botanischer Stuhl
+	Tooltip: ""
+}
+
+BotanicChandelier: {
+	DisplayName: Botanischer Kronleuchter
+	Tooltip: ""
+}
+
+BotanicChest: {
+	DisplayName: Botanische Truhe
+	Tooltip: ""
+}
+
+BotanicClock: {
+	DisplayName: Botanische Uhr
+	Tooltip: ""
+}
+
+BotanicDoor: {
+	DisplayName: Botanische Tür
+	Tooltip: ""
+}
+
+BotanicDresser: {
+	DisplayName: Botanische Kommode
+	Tooltip: ""
+}
+
+BotanicLamp: {
+	DisplayName: Botanische Lampe
+	Tooltip: ""
+}
+
+BotanicLantern: {
+	DisplayName: Botanische Laterne
+	Tooltip: ""
+}
+
+BotanicPiano: {
+	DisplayName: Botanisches Klavier
+	Tooltip: ""
+}
+
+BotanicPlatform: {
+	DisplayName: Botanische Plattform
+	Tooltip: ""
+}
+
+BotanicSink: {
+	DisplayName: Botanische Spüle
+	Tooltip: Zählt als Honigquelle
+}
+
+BotanicTable: {
+	DisplayName: Botanischer Tisch
+	Tooltip: ""
+}
+
+BotanicWorkBench: {
+	DisplayName: Botanischer Arbeitstisch
+	Tooltip: ""
+}
+
+CosmiliteBasin: {
+	DisplayName: Kosmilit-Becken
+	Tooltip: ""
+}
+
+CosmiliteBathtub: {
+	DisplayName: Kosmilite-Badewanne
+	Tooltip: ""
+}
+
+CosmiliteBed: {
+	DisplayName: Kosmilites Bett
+	Tooltip: ""
+}
+
+CosmiliteBookcase: {
+	DisplayName: Kosmilites Bücherregal
+	Tooltip: ""
+}
+
+CosmiliteBrick: {
+	DisplayName: Kosmiliter Ziegel
+	Tooltip: ""
+}
+
+CosmiliteCandelabra: {
+	DisplayName: Kosmiliter Kandelaber
+	Tooltip: ""
+}
+
+CosmiliteCandle: {
+	DisplayName: Kosmilite Kerze
+	Tooltip: ""
+}
+
+CosmiliteChair: {
+	DisplayName: Kosmiliter Stuhl
+	Tooltip: ""
+}
+
+CosmiliteChandelier: {
+	DisplayName: Kosmiliter Kronleuchter
+	Tooltip: ""
+}
+
+CosmiliteChest: {
+	DisplayName: Kosmiliter Truhe
+	Tooltip: ""
+}
+
+CosmiliteClock: {
+	DisplayName: Kosmilite Uhr
+	Tooltip: ""
+}
+
+CosmiliteDoor: {
+	DisplayName: Kosmilite Tür
+	Tooltip: ""
+}
+
+CosmiliteDresser: {
+	DisplayName: Kosmilite Kommode
+	Tooltip: ""
+}
+
+CosmiliteLamp: {
+	DisplayName: Kosmilite Lampe
+	Tooltip: ""
+}
+
+CosmiliteLantern: {
+	DisplayName: Kosmilite Laterne
+	Tooltip: ""
+}
+
+CosmilitePiano: {
+	DisplayName: Kosmilite Klavier
+	Tooltip: ""
+}
+
+CosmilitePlatform: {
+	DisplayName: Kosmilite Plattform
+	Tooltip: ""
+}
+
+CosmiliteSconce: {
+	DisplayName: Kosmilite Wandleuchter
+	Tooltip: ""
+}
+
+CosmiliteSink: {
+	DisplayName: Kosmilite Waschbecken
+	Tooltip: Zählt als Wasserquelle
+}
+
+CosmiliteSofa: {
+	DisplayName: Kosmilites Sofa
+	Tooltip: ""
+}
+
+CosmiliteTable: {
+	DisplayName: Kosmiliter Tisch
+	Tooltip: ""
+}
+
+CosmiliteWorkBench: {
+	DisplayName: Kosmilite Werkbank
+	Tooltip: ""
+}
+
+EutrophicBathtub: {
+	DisplayName: Eutrophe Badewanne
+	Tooltip: ""
+}
+
+EutrophicBed: {
+	DisplayName: Eutrophes Bett
+	Tooltip: ""
+}
+
+EutrophicBench: {
+	DisplayName: Eutrophe Bank
+	Tooltip: ""
+}
+
+EutrophicBookcase: {
+	DisplayName: Eutrophes Bücherregal
+	Tooltip: ""
+}
+
+EutrophicCandelabra: {
+	DisplayName: Eutropher Kandelaber
+	Tooltip: ""
+}
+
+EutrophicCandle: {
+	DisplayName: Eutrophe Kerze
+	Tooltip: ""
+}
+
+EutrophicChair: {
+	DisplayName: Eutropher Stuhl
+	Tooltip: ""
+}
+
+EutrophicChandelier: {
+	DisplayName: Eutropher Kronleuchter
+	Tooltip: ""
+}
+
+EutrophicChest: {
+	DisplayName: Eutrophe Truhe
+	Tooltip: ""
+}
+
+EutrophicClock: {
+	DisplayName: Eutrophe Uhr
+	Tooltip: ""
+}
+
+EutrophicDoor: {
+	DisplayName: Eutrophe Tür
+	Tooltip: ""
+}
+
+EutrophicDresser: {
+	DisplayName: Eutrophe Kommode
+	Tooltip: ""
+}
+
+EutrophicLamp: {
+	DisplayName: Eutrophe Lampe
+	Tooltip: ""
+}
+
+EutrophicLantern: {
+	DisplayName: Eutrophe Laterne
+	Tooltip: ""
+}
+
+EutrophicPiano: {
+	DisplayName: Eutrophes Klavier
+	Tooltip: ""
+}
+
+EutrophicPlatform: {
+	DisplayName: Eutrophe Plattform
+	Tooltip: ""
+}
+
+EutrophicSink: {
+	DisplayName: Eutrophes Waschbecken
+	Tooltip: Zählt als Wasserquelle
+}
+
+EutrophicTable: {
+	DisplayName: Eutropher Tisch
+	Tooltip: ""
+}
+
+EutrophicWorkBench: {
+	DisplayName: Eutrophe Werkbank
+	Tooltip: ""
+}
+
+SmoothNavystone: {
+	DisplayName: Glatter Navystone
+	Tooltip: ""
+}
+
+ExoBathtub: {
+	DisplayName: Exo-Badewanne
+	Tooltip: ""
+}
+
+ExoBed: {
+	DisplayName: Exo-Bett
+	Tooltip: ""
+}
+
+ExoBookcase: {
+	DisplayName: Exo-Bücherregal
+	Tooltip: ""
+}
+
+ExoCandelabra: {
+	DisplayName: Exo-Kandelaber
+	Tooltip: ""
+}
+
+ExoCandle: {
+	DisplayName: Exo-Kerze
+	Tooltip: ""
+}
+
+ExoChair: {
+	DisplayName: Exo-Stuhl
+	Tooltip: ""
+}
+
+ExoChandelier: {
+	DisplayName: Exo-Kronleuchter
+	Tooltip: ""
+}
+
+ExoChest: {
+	DisplayName: Exo-Truhe
+	Tooltip: ""
+}
+
+ExoClock: {
+	DisplayName: Exo-Uhr
+	Tooltip: ""
+}
+
+ExoConsole: {
+	DisplayName: Exo-Konsole
+	Tooltip: ""
+}
+
+ExoDisplay: {
+	DisplayName: Exo-Anzeige
+	Tooltip: ""
+}
+
+ExoDoor: {
+	DisplayName: Exo-Tür
+	Tooltip: ""
+}
+
+ExoDresser: {
+	DisplayName: Exo-Kommode
+	Tooltip: ""
+}
+
+ExoKeyboard: {
+	DisplayName: Exo-Tastatur
+	Tooltip: ""
+}
+
+ExoLamp: {
+	DisplayName: Exo-Lampe
+	Tooltip: ""
+}
+
+ExoLantern: {
+	DisplayName: Exo-Laterne
+	Tooltip: ""
+}
+
+ExoPlatform: {
+	DisplayName: Exo-Plattform
+	Tooltip: ""
+}
+
+ExoPlating: {
+	DisplayName: Exo-Verkleidung
+	Tooltip: ""
+}
+
+ExoPrismPanel: {
+	DisplayName: Exo-Prismenpaneel
+	Tooltip: ""
+}
+
+ExoPrismPlatform: {
+	DisplayName: Exo-Prismenplattform
+	Tooltip: ""
+}
+
+ExoScreen: {
+	DisplayName: Exo-Bildschirm
+	Tooltip: ""
+}
+
+ExoServer: {
+	DisplayName: Exo-Server
+	Tooltip: ""
+}
+
+ExoSink: {
+	DisplayName: Exo-Waschbecken
+	Tooltip: Zählt als Wasser-, Honig- und Lavaquelle
+}
+
+ExoSofa: {
+	DisplayName: Exo-Sofa
+	Tooltip: ""
+}
+
+ExoTable: {
+	DisplayName: Exo-Tisch
+	Tooltip: ""
+}
+
+ExoTerminal: {
+	DisplayName: Exo-Terminal
+	Tooltip: ""
+}
+
+ExoToilet: {
+	DisplayName: Exo-Toilette
+	Tooltip: ""
+}
+
+ExoWorkbench: {
+	DisplayName: Exo-Werkbank
+	Tooltip: ""
+}
+
+MonolithBathtub: {
+	DisplayName: Monolith-Badewanne
+	Tooltip: ""
+}
+
+MonolithBed: {
+	DisplayName: Monolith-Bett
+	Tooltip: ""
+}
+
+MonolithBench: {
+	DisplayName: Monolith-Bank
+	Tooltip: ""
+}
+
+MonolithBookcase: {
+	DisplayName: Monolith-Bücherregal
+	Tooltip: ""
+}
+
+MonolithCandelabra: {
+	DisplayName: Monolith-Kandelaber
+	Tooltip: ""
+}
+
+MonolithCandle: {
+	DisplayName: Monolith-Kerze
+	Tooltip: ""
+}
+
+MonolithChair: {
+	DisplayName: Monolith-Stuhl
+	Tooltip: ""
+}
+
+MonolithChandelier: {
+	DisplayName: Monolith-Kronleuchter
+	Tooltip: ""
+}
+
+MonolithChest: {
+	DisplayName: Monolith-Truhe
+	Tooltip: ""
+}
+
+MonolithClock: {
+	DisplayName: Monolith-Uhr
+	Tooltip: ""
+}
+
+MonolithDoor: {
+	DisplayName: Monolith-Tür
+	Tooltip: ""
+}
+
+MonolithDresser: {
+	DisplayName: Monolith-Kommode
+	Tooltip: ""
+}
+
+MonolithLamp: {
+	DisplayName: Monolith-Lampe
+	Tooltip: ""
+}
+
+MonolithLantern: {
+	DisplayName: Monolith-Laterne
+	Tooltip: ""
+}
+
+MonolithPiano: {
+	DisplayName: Monolith-Klavier
+	Tooltip: ""
+}
+
+MonolithPlatform: {
+	DisplayName: Monolith-Plattform
+	Tooltip: ""
+}
+
+MonolithSink: {
+	DisplayName: Monolith-Spüle
+	Tooltip: Zählt als Wasserquelle
+}
+
+MonolithTable: {
+	DisplayName: Monolith-Tisch
+	Tooltip: ""
+}
+
+MonolithWorkBench: {
+	DisplayName: Monolith-Werkbank
+	Tooltip: ""
+}
+
+OtherworldlyBathtub: {
+	DisplayName: Jenseitige Badewanne
+	Tooltip: ""
+}
+
+OtherworldlyBed: {
+	DisplayName: Jenseitiges Bett
+	Tooltip: ""
+}
+
+OtherworldlyBookcase: {
+	DisplayName: Jenseitiger Bücherschrank
+	Tooltip: ""
+}
+
+OtherworldlyCandelabra: {
+	DisplayName: Jenseitige Kandelaber
+	Tooltip: ""
+}
+
+OtherworldlyCandle: {
+	DisplayName: Jenseitige Kerze
+	Tooltip: ""
+}
+
+OtherworldlyChair: {
+	DisplayName: Jenseitiger Stuhl
+	Tooltip: ""
+}
+
+OtherworldlyChandelier: {
+	DisplayName: Jenseitiger Kronleuchter
+	Tooltip: ""
+}
+
+OtherworldlyChest: {
+	DisplayName: Jenseitige Truhe
+	Tooltip: ""
+}
+
+OtherworldlyClock: {
+	DisplayName: Jenseitige Uhr
+	Tooltip: ""
+}
+
+OtherworldlyDoor: {
+	DisplayName: Jenseitige Tür
+	Tooltip: ""
+}
+
+OtherworldlyDresser: {
+	DisplayName: Jenseitige Kommode
+	Tooltip: ""
+}
+
+OtherworldlyLamp: {
+	DisplayName: Jenseitige Lampe
+	Tooltip: ""
+}
+
+OtherworldlyLantern: {
+	DisplayName: Jenseitige Laterne
+	Tooltip: ""
+}
+
+OtherworldlyPiano: {
+	DisplayName: Jenseitiges Klavier
+	Tooltip: ""
+}
+
+OtherworldlyPlatform: {
+	DisplayName: Jenseitige Plattform
+	Tooltip: ""
+}
+
+OtherworldlySink: {
+	DisplayName: Jenseitige Spüle
+	Tooltip: Zählt als Wasserquelle
+}
+
+OtherworldlySofa: {
+	DisplayName: Jenseitiges Sofa
+	Tooltip: ""
+}
+
+OtherworldlyStone: {
+	DisplayName: Jenseitiger Stein
+	Tooltip: ""
+}
+
+OtherworldlyTable: {
+	DisplayName: Jenseitiger Tisch
+	Tooltip: ""
+}
+
+OtherworldlyWorkBench: {
+	DisplayName: Jenseitige Werkbank
+	Tooltip: ""
+}
+
+BrokenPlaguedBed: {
+	DisplayName: Kaputtes Geplagtes 'Bett'
+	Tooltip: ""
+}
+
+PlaguedContainmentBrick: {
+	DisplayName: Geplagter Eingrenzungsziegel
+	Tooltip: ""
+}
+
+PlaguedPlateBathtub: {
+	DisplayName: Geplagte Badewanne
+	Tooltip: ""
+}
+
+PlaguedPlateBed: {
+	DisplayName: Geplagtes 'Bett'
+	Tooltip: Zählt als Bett
+}
+
+PlaguedPlateBookcase: {
+	DisplayName: Geplagter Bücherschrank
+	Tooltip: ""
+}
+
+PlaguedPlateCandelabra: {
+	DisplayName: Geplagte Kandelaber
+	Tooltip: ""
+}
+
+PlaguedPlateCandle: {
+	DisplayName: Geplagte Kerze
+	Tooltip: ""
+}
+
+PlaguedPlateChair: {
+	DisplayName: Geplagter Stuhl
+	Tooltip: ""
+}
+
+PlaguedPlateChandelier: {
+	DisplayName: Geplagter Kronleuchter
+	Tooltip: ""
+}
+
+PlaguedPlateChest: {
+	DisplayName: Geplagte Truhe
+	Tooltip: ""
+}
+
+PlaguedPlateClock: {
+	DisplayName: Geplagte Uhr
+	Tooltip: ""
+}
+
+PlaguedPlateDoor: {
+	DisplayName: Geplagte Tür
+	Tooltip: ""
+}
+
+PlaguedPlateDresser: {
+	DisplayName: Geplagte Kommode
+	Tooltip: ""
+}
+
+PlaguedPlateLamp: {
+	DisplayName: Geplagte Lampe
+	Tooltip: ""
+}
+
+PlaguedPlateLantern: {
+	DisplayName: Geplagte Laterne
+	Tooltip: ""
+}
+
+PlaguedPlatePiano: {
+	DisplayName: Geplagtes Klavier
+	Tooltip: ""
+}
+
+PlaguedPlatePlatform: {
+	DisplayName: Geplagtes Regal
+	Tooltip: ""
+}
+
+PlaguedPlateSink: {
+	DisplayName: Geplagte Spüle
+	Tooltip: Zählt als Wasserquelle
+}
+
+PlaguedPlateSofa: {
+	DisplayName: Geplagtes Sofa
+	Tooltip: ""
+}
+
+PlaguedPlateTable: {
+	DisplayName: Geplagter Tisch
+	Tooltip: ""
+}
+
+PlaguedWorkBench: {
+	DisplayName: Geplagte Werkbank
+	Tooltip: ""
+}
+
+ProfanedBathtub: {
+	DisplayName: Entweihte Badewanne
+	Tooltip: ""
+}
+
+ProfanedBed: {
+	DisplayName: Entweihtes Bett
+	Tooltip: ""
+}
+
+ProfanedBench: {
+	DisplayName: Entweihte Bank
+	Tooltip: ""
+}
+
+ProfanedBookcase: {
+	DisplayName: Entweihter Bücherschrank
+	Tooltip: ""
+}
+
+ProfanedCandelabra: {
+	DisplayName: Entweihter Kandelaber
+	Tooltip: ""
+}
+
+ProfanedCandle: {
+	DisplayName: Entweihte Kerze
+	Tooltip: ""
+}
+
+ProfanedChair: {
+	DisplayName: Entweihter Stuhl
+	Tooltip: ""
+}
+
+ProfanedChandelier: {
+	DisplayName: Entweihter Kronleuchter
+	Tooltip: ""
+}
+
+ProfanedChest: {
+	DisplayName: Entweihte Truhe
+	Tooltip: ""
+}
+
+ProfanedClock: {
+	DisplayName: Entweihte Uhr
+	Tooltip: ""
+}
+
+ProfanedCrystal: {
+	DisplayName: Entweihter Kristall
+	Tooltip: ""
+}
+
+ProfanedDoor: {
+	DisplayName: Entweihte Tür
+	Tooltip: ""
+}
+
+ProfanedDresser: {
+	DisplayName: Entweihte Kommode
+	Tooltip: ""
+}
+
+ProfanedLamp: {
+	DisplayName: Entweihte Lampe
+	Tooltip: ""
+}
+
+ProfanedLantern: {
+	DisplayName: Entweihte Laterne
+	Tooltip: ""
+}
+
+ProfanedPiano: {
+	DisplayName: Entweihtes Klavier
+	Tooltip: ""
+}
+
+ProfanedPlatform: {
+	DisplayName: Entweihte Plattform
+	Tooltip: ""
+}
+
+ProfanedRock: {
+	DisplayName: Entweihter Felsen
+	Tooltip: ""
+}
+
+ProfanedSink: {
+	DisplayName: Entweihte Spüle
+	Tooltip: Zählt als Lavazequelle
+}
+
+ProfanedSlab: {
+	DisplayName: Entweihte Platte
+	Tooltip: ""
+}
+
+ProfanedTable: {
+	DisplayName: Entweihter Tisch
+	Tooltip: ""
+}
+
+ProfanedWorkbench: {
+	DisplayName: Entweihte Werkbank
+	Tooltip: ""
+}
+
+RunicProfanedBrick: {
+	DisplayName: Runenentweichter Ziegelstein
+	Tooltip: ""
+}
+
+EyeOfTheAccursedBanner: {
+	DisplayName: Banner des Verfluchten Auges
+	Tooltip: ""
+}
+
+LargeRitualCandle: {
+	DisplayName: Große Ritualkerze
+	Tooltip: Drücke <right>, um in einem anderen Stil zu platzieren
+}
+
+MonolithOfTheAccursed: {
+	DisplayName: Monolith des Verfluchten
+	Tooltip:
+		'''
+		Lass den Himmel in einem flammenden Rot brennen
+		Der Monolith hat zwei verschiedene Modi
+		'''
+}
+
+OccultBrickItem: {
+	DisplayName: Okkulte Ziegel
+	Tooltip: ""
+}
+
+OccultLegionnaireBanner: {
+	DisplayName: Banner des okkulten Legionärs
+	Tooltip: ""
+}
+
+OccultPlatformItem: {
+	DisplayName: Okkultes Podest
+	Tooltip: ""
+}
+
+RitualCandle: {
+	DisplayName: Ritualkerze
+	Tooltip: Drücke <right>, um in einem anderen Stil zu platzieren
+}
+
+SacrilegiousBathtub: {
+	DisplayName: Sakrilegisches Badezimmer
+	Tooltip: ""
+}
+
+SacrilegiousBed: {
+	DisplayName: Sakrilegisches Bett
+	Tooltip: ""
+}
+
+SacrilegiousBench: {
+	DisplayName: Sakrilegische Bank
+	Tooltip: ""
+}
+
+SacrilegiousBookcase: {
+	DisplayName: Sakrilegisches Bücherregal
+	Tooltip: ""
+}
+
+SacrilegiousCandelabra: {
+	DisplayName: Sakrilegisches Kerzenleuchter
+	Tooltip: ""
+}
+
+SacrilegiousCandle: {
+	DisplayName: Sakrilegische Kerze
+	Tooltip: ""
+}
+
+SacrilegiousChair: {
+	DisplayName: Sakrilegischer Stuhl
+	Tooltip: ""
+}
+
+SacrilegiousChandelier: {
+	DisplayName: Sakrilegischer Kronleuchter
+	Tooltip: ""
+}
+
+SacrilegiousChest: {
+	DisplayName: Sakrilegisches Truhen
+	Tooltip: ""
+}
+
+SacrilegiousClock: {
+	DisplayName: Sakrilegische Uhr
+	Tooltip: ""
+}
+
+SacrilegiousDoor: {
+	DisplayName: Sakrilegisches Tür
+	Tooltip: ""
+}
+
+SacrilegiousDresser: {
+	DisplayName: Sakrilegischer Schrank
+	Tooltip: ""
+}
+
+SacrilegiousLamp: {
+	DisplayName: Sakrilegische Lampe
+	Tooltip: ""
+}
+
+SacrilegiousLantern: {
+	DisplayName: Sakrilegisches Laterne
+	Tooltip: ""
+}
+
+SacrilegiousOrgan: {
+	DisplayName: Sakrilegisches Orgel
+	Tooltip: ""
+}
+
+SacrilegiousSink: {
+	DisplayName: Sakrilegisches Waschbecken
+	Tooltip: Zählt als Wasser-, Honig- und Lavaquelle
+}
+
+SacrilegiousTable: {
+	DisplayName: Sakrilegisches Tisch
+	Tooltip: ""
+}
+
+SacrilegiousWorkBench: {
+	DisplayName: Sakrilegisches Werkbank
+	Tooltip: ""
+}
+
+SilvaBathtub: {
+	DisplayName: Silvatisches Badezimmer
+	Tooltip: ""
+}
+
+SilvaBed: {
+	DisplayName: Silvatisches Bett
+	Tooltip: ""
+}
+
+SilvaBench: {
+	DisplayName: Silvatische Bank
+	Tooltip: ""
+}
+
+SilvaBookcase: {
+	DisplayName: Silvatisches Bücherregal
+	Tooltip: ""
+}
+
+SilvaCandelabra: {
+	DisplayName: Silvatisches Kerzenleuchter
+	Tooltip: ""
+}
+
+SilvaCandle: {
+	DisplayName: Silvatische Kerze
+	Tooltip: ""
+}
+
+SilvaChair: {
+	DisplayName: Silvatischer Stuhl
+	Tooltip: ""
+}
+
+SilvaChandelier: {
+	DisplayName: Silvatischer Kronleuchter
+	Tooltip: ""
+}
+
+SilvaChest: {
+	DisplayName: Silvatisches Truhen
+	Tooltip: ""
+}
+
+SilvaClock: {
+	DisplayName: Silvatische Uhr
+	Tooltip: ""
+}
+
+SilvaCrystal: {
+	DisplayName: Silvatischer Kristall
+	Tooltip: ""
+}
+
+SilvaDoor: {
+	DisplayName: Silvatische Tür
+	Tooltip: ""
+}
+
+SilvaDresser: {
+	DisplayName: Silvatischer Schrank
+	Tooltip: ""
+}
+
+SilvaLamp: {
+	DisplayName: Silvatische Lampe
+	Tooltip: ""
+}
+
+SilvaLantern: {
+	DisplayName: Silvatisches Laterne
+	Tooltip: ""
+}
+
+SilvaPiano: {
+	DisplayName: Silvatisches Klavier
+	Tooltip: ""
+}
+
+SilvaPlatform: {
+	DisplayName: Silvatisches Podest
+	Tooltip: ""
+}
+
+SilvaSink: {
+	DisplayName: Silvatisches Waschbecken
+	Tooltip: Zählt als Wasserquelle
+}
+
+SilvaTable: {
+	DisplayName: Silvatisches Tisch
+	Tooltip: ""
+}
+
+SilvaWorkBench: {
+	DisplayName: Silvatische Werkbank
+	Tooltip: ""
+}
+
+StatigelBathtub: {
+	DisplayName: Statigel-Badezimmer
+	Tooltip: ""
+}
+
+StatigelBed: {
+	DisplayName: Statigel-Bett
+	Tooltip: ""
+}
+
+StatigelBlock: {
+	DisplayName: Statigel-Block
+	Tooltip: ""
+}
+
+StatigelBookcase: {
+	DisplayName: Statigel-Bücherregal
+	Tooltip: ""
+}
+
+StatigelCandelabra: {
+	DisplayName: Statigel-Kerzenleuchter
+	Tooltip: ""
+}
+
+StatigelCandle: {
+	DisplayName: Statigel-Kerze
+	Tooltip: ""
+}
+
+StatigelChair: {
+	DisplayName: Statigel-Stuhl
+	Tooltip: ""
+}
+
+StatigelChandelier: {
+	DisplayName: Statigel-Kronleuchter
+	Tooltip: ""
+}
+
+StatigelChest: {
+	DisplayName: Statigel-Truhen
+	Tooltip: ""
+}
+
+StatigelClock: {
+	DisplayName: Statigel-Uhr
+	Tooltip: ""
+}
+
+StatigelDoor: {
+	DisplayName: Statigel-Tür
+	Tooltip: ""
+}
+
+StatigelDresser: {
+	DisplayName: Statigel-Schrank
+	Tooltip: ""
+}
+
+StatigelLamp: {
+	DisplayName: Statigel-Lampe
+	Tooltip: ""
+}
+
+StatigelLantern: {
+	DisplayName: Statigel-Laterne
+	Tooltip: ""
+}
+
+StatigelPiano: {
+	DisplayName: Statigel-Klavier
+	Tooltip: ""
+}
+
+StatigelPlatform: {
+	DisplayName: Statigel-Podest
+	Tooltip: ""
+}
+
+StatigelSink: {
+	DisplayName: Statigel-Waschbecken
+	Tooltip: Zählt als Wasserquelle
+}
+
+StatigelSofa: {
+	DisplayName: Statigel-Sofa
+	Tooltip: ""
+}
+
+StatigelTable: {
+	DisplayName: Statigel-Tisch
+	Tooltip: ""
+}
+
+StatigelWorkbench: {
+	DisplayName: Statigel-Werkbank
+	Tooltip: ""
+}
+
+StratusBathtub: {
+	DisplayName: Stratus-Badezimmer
+	Tooltip: ""
+}
+
+StratusBed: {
+	DisplayName: Stratus-Bett
+	Tooltip: ""
+}
+
+StratusBookcase: {
+	DisplayName: Stratus-Bücherregal
+	Tooltip: ""
+}
+
+StratusBricks: {
+	DisplayName: Stratus-Ziegel
+	Tooltip: ""
+}
+
+StratusCandelabra: {
+	DisplayName: Stratus-Kerzenleuchter
+	Tooltip: ""
+}
+
+StratusCandle: {
+	DisplayName: Stratus-Kerze
+	Tooltip: ""
+}
+
+StratusChair: {
+	DisplayName: Stratus-Stuhl
+	Tooltip: ""
+}
+
+StratusChandelier: {
+	DisplayName: Stratus-Kronleuchter
+	Tooltip: ""
+}
+
+StratusChest: {
+	DisplayName: Stratus-Truhen
+	Tooltip: ""
+}
+
+StratusClock: {
+	DisplayName: Stratus-Uhr
+	Tooltip: ""
+}
+
+StratusDoor: {
+	DisplayName: Stratus-Tür
+	Tooltip: ""
+}
+
+StratusDresser: {
+	DisplayName: Stratus-Schrank
+	Tooltip: ""
+}
+
+StratusLamp: {
+	DisplayName: Stratus-Lampe
+	Tooltip: ""
+}
+
+StratusLantern: {
+	DisplayName: Stratus-Laterne
+	Tooltip: ""
+}
+
+StratusPiano: {
+	DisplayName: Stratus-Klavier
+	Tooltip: ""
+}
+
+StratusPlatform: {
+	DisplayName: Stratus-Podest
+	Tooltip: ""
+}
+
+StratusSink: {
+	DisplayName: Stratus-Waschbecken
+	Tooltip: Zählt als Wasserquelle
+}
+
+StratusSofa: {
+	DisplayName: Stratus-Sofa
+	Tooltip: ""
+}
+
+StratusStarPlatformItem: {
+	DisplayName: Stratus-Stern-Podest
+	Tooltip: ""
+}
+
+StratusTable: {
+	DisplayName: Stratus-Tisch
+	Tooltip: ""
+}
+
+StratusWorkbench: {
+	DisplayName: Stratus-Werkbank
+	Tooltip: ""
+}
+
+SmoothVoidstone: {
+	DisplayName: Glatte Hohlstein
+	Tooltip: ""
+}
+
+SmoothVoidstonePlatform: {
+	DisplayName: Plattform aus glattem Hohlstein
+	Tooltip: ""
+}
+
+VoidBathtub: {
+	DisplayName: Hohlstein-Badewanne
+	Tooltip: ""
+}
+
+VoidBed: {
+	DisplayName: Hohlstein-Bett
+	Tooltip: ""
+}
+
+VoidBookcase: {
+	DisplayName: Hohlstein-Bücherregal
+	Tooltip: ""
+}
+
+VoidCandelabra: {
+	DisplayName: Hohlstein-Leuchter
+	Tooltip: ""
+}
+
+VoidCandle: {
+	DisplayName: Hohlstein-Kerze
+	Tooltip: ""
+}
+
+VoidChair: {
+	DisplayName: Hohlstein-Stuhl
+	Tooltip: ""
+}
+
+VoidChandelier: {
+	DisplayName: Hohlstein-Kronleuchter
+	Tooltip: ""
+}
+
+VoidChest: {
+	DisplayName: Hohlstein-Truhe
+	Tooltip: ""
+}
+
+VoidDoor: {
+	DisplayName: Hohlstein-Tür
+	Tooltip: ""
+}
+
+VoidDresser: {
+	DisplayName: Hohlstein-Kommode
+	Tooltip: ""
+}
+
+VoidLamp: {
+	DisplayName: Hohlstein-Lampe
+	Tooltip: ""
+}
+
+VoidLantern: {
+	DisplayName: Hohlstein-Laterne
+	Tooltip: ""
+}
+
+VoidObelisk: {
+	DisplayName: Hohlstein-Obelisk
+	Tooltip: ""
+}
+
+VoidPiano: {
+	DisplayName: Hohlstein-Klavier
+	Tooltip: ""
+}
+
+VoidSink: {
+	DisplayName: Hohlstein-Waschbecken
+	Tooltip: Zählt als Wasserquelle
+}
+
+VoidSofa: {
+	DisplayName: Hohlstein-Sofa
+	Tooltip: ""
+}
+
+VoidstoneSlab: {
+	DisplayName: Hohlstein-Platte
+	Tooltip: ""
+}
+
+VoidTable: {
+	DisplayName: Hohlstein-Tisch
+	Tooltip: ""
+}
+
+VoidWorkbench: {
+	DisplayName: Hohlstein-Werkbank
+	Tooltip: ""
+}
+
+WulfrumBathtub: {
+	DisplayName: Wulfrum-Badewanne
+	Tooltip: ""
+}
+
+WulfrumBed: {
+	DisplayName: Wulfrum-Bett
+	Tooltip: ""
+}
+
+WulfrumBookcase: {
+	DisplayName: Wulfrum-Bücherregal
+	Tooltip: ""
+}
+
+WulfrumCandelabra: {
+	DisplayName: Wulfrum-Leuchter
+	Tooltip: ""
+}
+
+WulfrumCandle: {
+	DisplayName: Wulfrum-Kerze
+	Tooltip: ""
+}
+
+WulfrumChair: {
+	DisplayName: Wulfrum-Stuhl
+	Tooltip: ""
+}
+
+WulfrumChandelier: {
+	DisplayName: Wulfrum-Kronleuchter
+	Tooltip: ""
+}
+
+WulfrumClock: {
+	DisplayName: Wulfrum-Uhr
+	Tooltip: ""
+}
+
+WulfrumDresser: {
+	DisplayName: Wulfrum-Kommode
+	Tooltip: ""
+}
+
+WulfrumLamp: {
+	DisplayName: Wulfrum-Lampe
+	Tooltip: ""
+}
+
+WulfrumLantern: {
+	DisplayName: Wulfrum-Laterne
+	Tooltip: ""
+}
+
+WulfrumPiano: {
+	DisplayName: Wulfrum-Klavier
+	Tooltip: ""
+}
+
+WulfrumPlating: {
+	DisplayName: Wulfrum-Platten
+	Tooltip: ""
+}
+
+WulfrumSink: {
+	DisplayName: Wulfrum-Waschbecken
+	Tooltip: ""
+}
+
+WulfrumSofa: {
+	DisplayName: Wulfrum-Sofa
+	Tooltip: ""
+}
+
+WulfrumTable: {
+	DisplayName: Wulfrum-Tisch
+	Tooltip: ""
+}
+
+WulfrumToilet: {
+	DisplayName: Wulfrum-Toilette
+	Tooltip: ""
+}
+
+WulfrumWorkbench: {
+	DisplayName: Wulfrum-Werkbank
+	Tooltip: ""
+}
+
+HardenedAstralSand: {
+	DisplayName: Gehärteter Astralsand
+	Tooltip: ""
+}
+
+HardenedSulphurousSandstone: {
+	DisplayName: Gehärteter Schwefelsandstein
+	Tooltip: ""
+}
+
+LivingBrimstoneFireBlock: {
+	DisplayName: Lebendiger Schwefelfeuerblock
+	Tooltip: ""
+}
+
+LivingGodSlayerFireBlock: {
+	DisplayName: Lebendiger Gottesmörder-Feuerblock
+	Tooltip: ""
+}
+
+LivingHolyFireBlock: {
+	DisplayName: Lebendiger Heiliges Feuerblock
+	Tooltip: ""
+}
+
+DraedonsAmbienceMusicBox: {
+	DisplayName: Musikbox (Draedons Ambiente)
+	Tooltip: Spielt hochtechnische Atmosphäre von PinpinNeon
+}
+
+Navystone: {
+	DisplayName: Navigationsstein
+	Tooltip: ""
+}
+
+NovaeSlag: {
+	DisplayName: Novae-Schlacke
+	Tooltip: ""
+}
+
+AerialiteOre: {
+	DisplayName: Aerialiterz
+	Tooltip: ""
+}
+
+AerialiteOreDisenchanted: {
+	DisplayName: Entzaubertes Aerialiterz
+	Tooltip: ""
+}
+
+AstralOre: {
+	DisplayName: Astralerz
+	Tooltip: ""
+}
+
+AuricOre: {
+	DisplayName: Auralerz
+	Tooltip: Durchzogen von längst verlorenen drakonischen Energien
+}
+
+CryonicOre: {
+	DisplayName: Kryonerz
+	Tooltip: ""
+}
+
+ExodiumCluster: {
+	DisplayName: Exodium-Cluster
+	Tooltip: Ein kalter Cluster aus dem großen Unbekannten
+}
+
+HallowedOre: {
+	DisplayName: Geheiligtes Erz
+	Tooltip: ""
+}
+
+InfernalSuevite: {
+	DisplayName: Infernale Suevit
+	Tooltip: ""
+}
+
+PerennialOre: {
+	DisplayName: Perenniererz
+	Tooltip: ""
+}
+
+ScoriaOre: {
+	DisplayName: Skorienstein
+	Tooltip: ""
+}
+
+UelibloomOre: {
+	DisplayName: Ueliblumenerz
+	Tooltip: ""
+}
+
+PerennialBrick: {
+	DisplayName: Perennierziegel
+	Tooltip: ""
+}
+
+PlantyMush: {
+	DisplayName: Pflanzlicher Pilz
+	Tooltip: ""
+}
+
+Cinderplate: {
+	DisplayName: Glutplatte
+	Tooltip: Sie schwingt mit übernatürlicher Energie
+}
+
+Elumplate: {
+	DisplayName: Elumplatte
+	Tooltip: Sie schwingt mit übernatürlicher Energie
+}
+
+Havocplate: {
+	DisplayName: Havocplatte
+	Tooltip: Sie resoniert mit einer jenseitigen Energie
+}
+
+Navyplate: {
+	DisplayName: Marineplatte
+	Tooltip: Sie resoniert mit einer jenseitigen Energie
+}
+
+Onyxplate: {
+	DisplayName: Onyxplatte
+	Tooltip: Sie resoniert mit einer jenseitigen Energie
+}
+
+Plagueplate: {
+	DisplayName: Pestplatte
+	Tooltip: Sie resoniert mit einer jenseitigen Energie
+}
+
+PrismShard: {
+	DisplayName: Prismenscherbe
+	Tooltip: Leuchtet unter Wasser heller
+}
+
+PyreMantle: {
+	DisplayName: Pyrenmantel
+	Tooltip: ""
+}
+
+PyreMantleMolten: {
+	DisplayName: Geschmolzener Pyrenmantel
+	Tooltip: ""
+}
+
+ScorchedBone: {
+	DisplayName: Versengter Knochen
+	Tooltip: ""
+}
+
+ScorchedRemains: {
+	DisplayName: Versengte Überreste
+	Tooltip: ""
+}
+
+ScoriaBrick: {
+	DisplayName: Skoria-Ziegel
+	Tooltip: ""
+}
+
+SeaPrism: {
+	DisplayName: Meeresprisma
+	Tooltip: ""
+}
+
+SeaPrismBrick: {
+	DisplayName: Meeresprisma-Ziegel
+	Tooltip: ""
+}
+
+SpineSapling: {
+	DisplayName: Kleiner Stachelsämling
+	Tooltip: Pflanzt Riesenspinesämlinge auf Brimstone-Schlacke
+}
+
+SulphurousSand: {
+	DisplayName: Schwefelsand
+	Tooltip: ""
+}
+
+SulphurousSandstone: {
+	DisplayName: Schwefelsandstein
+	Tooltip: ""
+}
+
+SulphurousShale: {
+	DisplayName: Schwefelschiefer
+	Tooltip: ""
+}
+
+UelibloomBrick: {
+	DisplayName: Ueliblom-Ziegel
+	Tooltip: ""
+}
+
+VernalSoil: {
+	DisplayName: Frühlingshafter Boden
+	Tooltip: ""
+}
+
+Voidstone: {
+	DisplayName: Leerenstein
+	Tooltip: ""
+}
+
+AbyssGravelWallItem: {
+	DisplayName: Abyss-Kiesmauer
+	Tooltip: ""
+}
+
+AcidwoodWallItem: {
+	DisplayName: Säureholzmauer
+	Tooltip: ""
+}
+
+AerialiteBrickWall: {
+	DisplayName: Ätherit-Ziegelmauer
+	Tooltip: ""
+}
+
+AshenSlabWall: {
+	DisplayName: Aschiger Plattwand
+	Tooltip: ""
+}
+
+AstralBrickWall: {
+	DisplayName: Astralziegelmauer
+	Tooltip: ""
+}
+
+AstralDirtWall: {
+	DisplayName: Astraldirtmauer
+	Tooltip: ""
+}
+
+AstralGrassWall: {
+	DisplayName: Astralgrasmauer
+	Tooltip: ""
+}
+
+AstralIceWall: {
+	DisplayName: Astraleismauer
+	Tooltip: ""
+}
+
+AstralMonolithWall: {
+	DisplayName: Astralmonolithmauer
+	Tooltip: ""
+}
+
+AstralSandstoneWall: {
+	DisplayName: Astralsandsteinmauer
+	Tooltip: ""
+}
+
+AstralSnowWall: {
+	DisplayName: Astralschneema
+	Tooltip: ""
+}
+
+AstralStoneWall: {
+	DisplayName: Astralsteinmauer
+	Tooltip: ""
+}
+
+BrimstoneSlabWall: {
+	DisplayName: Schwefelsteinplattenmauer
+	Tooltip: ""
+}
+
+BrimstoneSlagWall: {
+	DisplayName: Brimstone-Schlackenmauer
+	Tooltip: ""
+}
+
+CelestialRemainsWall: {
+	DisplayName: Himmlische Überreste-Wand
+	Tooltip: ""
+}
+
+CinderplateWall: {
+	DisplayName: Zinderplatte-Wand
+	Tooltip: ""
+}
+
+CosmiliteBrickWall: {
+	DisplayName: Kosmilit-Ziegelmauer
+	Tooltip: ""
+}
+
+CryonicBrickWall: {
+	DisplayName: Kryonikziegelmauer
+	Tooltip: ""
+}
+
+HazardChevronWall: {
+	DisplayName: Gefahren-Kettchenmauer
+	Tooltip: ""
+}
+
+LaboratoryPanelWall: {
+	DisplayName: Laborpanelemauer
+	Tooltip: ""
+}
+
+LaboratoryPlateBeam: {
+	DisplayName: Laborplattenbalken
+	Tooltip: ""
+}
+
+LaboratoryPlatePillar: {
+	DisplayName: Laborplattensäule
+	Tooltip: ""
+}
+
+LaboratoryPlatingWall: {
+	DisplayName: Laborplattenmauer
+	Tooltip: ""
+}
+
+RustedPlateBeam: {
+	DisplayName: Verrosteter Plattenbalken
+	Tooltip: ""
+}
+
+RustedPlatePillar: {
+	DisplayName: Verrostete Plattensäule
+	Tooltip: ""
+}
+
+RustedPlatingWall: {
+	DisplayName: Verrostete Plattenwand
+	Tooltip: ""
+}
+
+ElumplateWall: {
+	DisplayName: Elumplate Wand
+	Tooltip: ""
+}
+
+EutrophicSandWall: {
+	DisplayName: Unsichere eutrophische Sandwand
+	Tooltip: ""
+}
+
+EutrophicSandWallSafe: {
+	DisplayName: Eutrophische Sandwand
+	Tooltip: ""
+}
+
+ExoPlatingWallItem: {
+	DisplayName: Exo Plattenwand
+	Tooltip: ""
+}
+
+ExoPrismPanelWallItem: {
+	DisplayName: Exo Prismenplattenwand
+	Tooltip: ""
+}
+
+FloralWall: {
+	DisplayName: Blumenwand
+	Tooltip: ""
+}
+
+HardenedAstralSandWall: {
+	DisplayName: Gehärtete Astralsandwand
+	Tooltip: ""
+}
+
+HardenedSulphurousSandstoneWall: {
+	DisplayName: Gehärtete Schwefelsandsteinwand
+	Tooltip: ""
+}
+
+HavocplateWall: {
+	DisplayName: Havocplate Wand
+	Tooltip: ""
+}
+
+NavyplateWall: {
+	DisplayName: Navyplate Wand
+	Tooltip: ""
+}
+
+NavystoneWall: {
+	DisplayName: Unsichere Navystonewand
+	Tooltip: ""
+}
+
+NavystoneWallSafe: {
+	DisplayName: Navystonewand
+	Tooltip: ""
+}
+
+OccultBrickWallItem: {
+	DisplayName: Okkulte Ziegelwand
+	Tooltip: ""
+}
+
+OnyxplateWall: {
+	DisplayName: Onyxplate Wand
+	Tooltip: ""
+}
+
+OtherworldlyStoneWall: {
+	DisplayName: Andersweltliche Steinwand
+	Tooltip: ""
+}
+
+PerennialBrickWall: {
+	DisplayName: Ewige Ziegelwand
+	Tooltip: ""
+}
+
+PlagueContainmentCellsWall: {
+	DisplayName: Plagueplate Wand
+	Tooltip: ""
+}
+
+PlaguedPlateWall: {
+	DisplayName: Geplagte Behälterwand
+	Tooltip: ""
+}
+
+ProfanedCrystalWall: {
+	DisplayName: Entweihte Kristallwand
+	Tooltip: ""
+}
+
+ProfanedRockWall: {
+	DisplayName: Entweihte Felsenwand
+	Tooltip: ""
+}
+
+ProfanedSlabWall: {
+	DisplayName: Entweihte Plattenwand
+	Tooltip: ""
+}
+
+RunicProfanedBrickWall: {
+	DisplayName: Runische Entweihte Ziegelwand
+	Tooltip: ""
+}
+
+ScorchedBoneWall: {
+	DisplayName: Versengte Knochenwand
+	Tooltip: ""
+}
+
+ScoriaBrickWall: {
+	DisplayName: Scoria Ziegelwand
+	Tooltip: ""
+}
+
+SilvaWall: {
+	DisplayName: Silva Wand
+	Tooltip: ""
+}
+
+SmoothAbyssGravelWall: {
+	DisplayName: Glatter Abgrundkies Wand
+	Tooltip: ""
+}
+
+SmoothBrimstoneSlagWall: {
+	DisplayName: Glatter Schwefelschlacke Wand
+	Tooltip: ""
+}
+
+SmoothNavystoneWall: {
+	DisplayName: Glatte Navystonewand
+	Tooltip: ""
+}
+
+SmoothVoidstoneWall: {
+	DisplayName: Glatte Voidstonewand
+	Tooltip: ""
+}
+
+StatigelWall: {
+	DisplayName: Statigel Wand
+	Tooltip: ""
+}
+
+StratusWall: {
+	DisplayName: Stratus Wand
+	Tooltip: ""
+}
+
+SulphurousSandstoneWall: {
+	DisplayName: Schwefelsandsteinwand
+	Tooltip: ""
+}
+
+SulphurousSandWall: {
+	DisplayName: Schwefelsandwand
+	Tooltip: ""
+}
+
+SulphurousShaleWall: {
+	DisplayName: Schwefelschiefersandwand
+	Tooltip: ""
+}
+
+UelibloomBrickWall: {
+	DisplayName: Uelibloom Ziegelwand
+	Tooltip: ""
+}
+
+VoidstoneSlabWall: {
+	DisplayName: Voidstein Plattenwand
+	Tooltip: ""
+}
+
+VoidstoneWall: {
+	DisplayName: Voidstonewand
+	Tooltip: ""
+}
+
+HardenedEutrophicSand: {
+	DisplayName: Gehärteter eutrophischer Sand
+	Tooltip: ""
+}
+
+FireTurret: {
+	DisplayName: Feuerturm
+	Tooltip: ""
+}
+
+HostileFireTurret: {
+	DisplayName: Feindlicher Feuerturm
+	Tooltip: ""
+}
+
+HostileIceTurret: {
+	DisplayName: Feindlicher Eisturm
+	Tooltip: ""
+}
+
+HostileLabTurret: {
+	DisplayName: Feindlicher Laborturm
+	Tooltip: ""
+}
+
+HostileLaserTurret: {
+	DisplayName: Feindlicher Laserturm
+	Tooltip: ""
+}
+
+HostileOnyxTurret: {
+	DisplayName: Feindlicher Onyxturm
+	Tooltip: ""
+}
+
+HostilePlagueTurret: {
+	DisplayName: Feindlicher Pestturm
+	Tooltip: ""
+}
+
+HostileWaterTurret: {
+	DisplayName: Feindlicher Wasserturm
+	Tooltip: ""
+}
+
+IceTurret: {
+	DisplayName: Eisturm
+	Tooltip: ""
+}
+
+LabTurret: {
+	DisplayName: Laborturm
+	Tooltip: ""
+}
+
+LaserTurret: {
+	DisplayName: Laserturm
+	Tooltip: ""
+}
+
+OnyxTurret: {
+	DisplayName: Onyxturm
+	Tooltip: ""
+}
+
+PlagueTurret: {
+	DisplayName: Pestturm
+	Tooltip: ""
+}
+
+WaterTurret: {
+	DisplayName: Wasserturm
+	Tooltip: ""
+}

@@ -1,0 +1,1288 @@
+AcesHigh: {
+	DisplayName: Ace's High
+	Tooltip:
+		'''
+		Feuert eine Reihe von Karten ab, mit unterschiedlichen Effekten basierend auf dem Karten-Typ
+		Herzkarten gewähren Lebensraub (Lebensentzug)
+		Pik-Karten durchdringen Gegner und ignorieren Immunitätsphasen
+		Karokarten explodieren gewaltsam
+		Kreuzkarten teilen sich in drei auf
+		'''
+}
+
+AdamantiteParticleAccelerator: {
+	DisplayName: Adamantit-Teilchenbeschleuniger
+	Tooltip: Lädt auf und feuert 2 Strahlen entgegengesetzter Polaritäten ab. Ein Treffer mit der entgegengesetzten Polarität erhöht den Schaden.
+}
+
+Alluvion: {
+	DisplayName: Alluvion
+	Tooltip:
+		'''
+		Löst einen Sturzfluss von sechs Pfeilen auf einmal aus
+		Verwandelt hölzerne Pfeile in eine Kombination aus Hai-, Flut- und Taifunpfeilen
+		'''
+}
+
+AngelicShotgun: {
+	DisplayName: Angelic Shotgun
+	Tooltip:
+		'''
+		Jeder Schuss wirft einen strahlenden Lichtstrahl vom Himmel aus
+		Verwandelt Musketenkugeln in illuminierte Geschosse
+		'Kämpfen bis der Krieg gewonnen ist'
+		'''
+}
+
+Animosity: {
+	DisplayName: Animosity
+	Tooltip:
+		'''
+		Feuert ein leistungsstarkes Scharfschützengeschoss ab
+		Drücke <right>, um eine Salve von Kugeln abzufeuern
+		50 % Chance, Munition zu sparen
+		'''
+}
+
+AntiMaterielRifle: {
+	DisplayName: Anti-Materie-Gewehr
+	Tooltip:
+		'''
+		Verwandelt Musketenkugeln in .50-Kaliber-Scharfschützengeschosse, die Feinde Verteidigungen und DR zerreißen
+		Kritische Treffer setzen einen zweiten Schwarm Kugeln frei
+		'''
+}
+
+AquashardShotgun: {
+	DisplayName: Aquashard-Schrotflinte
+	Tooltip: Verwandelt Musketenkugeln in Aquasplitter, die sich beim Treffen eines Feindes aufspalten
+}
+
+Arbalest: {
+	DisplayName: Arbalest
+	Tooltip:
+		'''
+		Feuert eine Salve von 10 Pfeilen mit hoher Geschwindigkeit ab
+		Pfeile starten klein und wachsen mit kontinuierlichem Feuer
+		Pfeilschaden, Streuung und Rückstoß skalieren mit der Pfeilgröße
+		'''
+}
+
+Archerfish: {
+	DisplayName: Archerfish
+	Tooltip: Verwandelt Musketenkugeln in Wasserstrahlen
+}
+
+ArterialAssault: {
+	DisplayName: Arterial Assault
+	Tooltip:
+		'''
+		Feuert eine Kette aus 5 Pfeilen aus dem Himmel ab
+		Holzpfeile werden in suchende Blutfeuer-Pfeile umgewandelt
+		'''
+}
+
+AstralBlaster: {
+	DisplayName: Astral Blaster
+	Tooltip: Verwandelt Musketenkugeln in suchende Astralgeschosse
+}
+
+AstralRepeater: {
+	DisplayName: Astral-Bogen
+	Tooltip: Feuert eine Salve von drei Pfeilen ab
+}
+
+AstrealDefeat: {
+	DisplayName: Astreal Defeat
+	Tooltip: Alle Pfeile werden in Astreal-Pfeile umgewandelt, die Flammen abgeben, während sie fliegen
+}
+
+Auralis: {
+	DisplayName: Auralis
+	Tooltip:
+		'''
+		Feuert eine hochgeschwindige leuchtende Kugel ab, die verheerende Debuffs zufügt
+		Drücke <right>, um auszuzoomen
+		Stehenbleiben gewährt einen zunehmenden Schadensbonus von bis zu 25 %
+		Stehenbleiben für 5 Sekunden oder länger während der Verwendung der Zielfernrohrfunktion ruft eine Aurora herbei
+		Die Aurora verringert den Schaden des nächsten Projektils, das um 100 getroffen wird
+		Dieser Effekt dauert bis zu 20 Sekunden und hat eine Abklingzeit von 30 Sekunden
+		50 % Chance, Munition zu sparen
+		'''
+}
+
+AuroraBlazer: {
+	DisplayName: Aurora-Blazer
+	Tooltip:
+		'''
+		Speit Astralflammen aus, die in sternförmigen Mustern fliegen
+		60 % Chance, Munition zu sparen
+		'''
+}
+
+Barinade: {
+	DisplayName: Barinade
+	Tooltip: Verwandelt hölzerne Pfeile in elektrische Bolzenpfeile, die explodieren
+}
+
+Barinautical: {
+	DisplayName: Barinautical
+	Tooltip: Verwandelt hölzerne Pfeile in Ketten aus 3 elektrischen Bolzenpfeilen, die explodieren
+}
+
+BarracudaGun: {
+	DisplayName: Barracuda Gun
+	Tooltip: Feuert zwei Barrakudas ab, die sich an Feinden festklammern und sie zerreissen
+}
+
+BladedgeGreatbow: {
+	DisplayName: Bladedge Railbow
+	Tooltip: Feuert gleichzeitig eine Streuung von 4 Pfeilen und 2 Blättern ab
+}
+
+BlightSpewer: {
+	DisplayName: Blight Spewer
+	Tooltip: ""
+}
+
+BlissfulBombardier: {
+	DisplayName: Blissful Bombardier
+	Tooltip:
+		'''
+		Feuert Leuchtraketen ab
+		Raketen zerstören Kacheln mit kachelzerstörender Munition
+		'''
+}
+
+BloodBoiler: {
+	DisplayName: Blood Boiler
+	Tooltip:
+		'''
+		Feuert einen Strom von Lebensentzugs-Blutfeuer ab
+		Verwendet deine Gesundheit als Munition
+		25 % Chance, Munition zu sparen
+		'''
+}
+
+BlossomFlux: {
+	DisplayName: Blossom Flux
+	Tooltip:
+		'''
+		Feuert einen Strom von Blättern ab
+		Drücke <right>, um eine Sporenkugel abzufeuern, die in eine Wolke aus Sporengas explodiert
+		'''
+}
+
+BrimstoneFury: {
+	DisplayName: Schwefel-Zorn
+	Tooltip: Verwandelt hölzerne Pfeile in 3er-Streuungen von Schwefelgeschossen
+}
+
+BulletFilledShotgun: {
+	DisplayName: Kugelgefüllte Schrotflinte
+	Tooltip:
+		'''
+		Feuert eine massive Streuung von prallenden Kugeln ab
+		Verbraucht fünf Kugeln pro Verwendung
+		'Ziel? Was ist das?'
+		'''
+}
+
+Butcher: {
+	DisplayName: Metzger
+	Tooltip:
+		'''
+		Feuert Kugeln schneller und genauer ab, je länger du den Abzug gedrückt hältst
+		25% Chance, Munition zu sparen
+		'''
+}
+
+ChickenCannon: {
+	DisplayName: Hühnerkanone
+	Tooltip:
+		'''
+		Feuert Hühnerfackeln ab, die enorme Brandexplosionen erzeugen
+		Drücke <right>, um alle Luft-Raketen zu zünden
+		'''
+}
+
+ClamorRifle: {
+	DisplayName: Lärmgewehr
+	Tooltip: Verwandelt Musketenkugeln in suchende Energiebolzen
+}
+
+ClaretCannon: {
+	DisplayName: Karmesin-Kanone
+	Tooltip:
+		'''
+		Feuert Reihen von 3 Kugeln ab
+		Verwandelt Musketenkugeln in blutige Tränen, die die Gesundheit des Feindes entziehen
+		'''
+}
+
+CleansingBlaze: {
+	DisplayName: Reinigende Glut
+	Tooltip: 90% Chance, Munition zu sparen
+}
+
+ClockGatlignum: {
+	DisplayName: Uhrwerks-Gatlignum
+	Tooltip:
+		'''
+		Verwandelt Musketenkugeln in Reihen von 3 Hochgeschwindigkeitskugeln
+		33% Chance, Munition zu sparen
+		'''
+}
+
+ClockworkBow: {
+	DisplayName: Uhrwerksbogen
+	Tooltip:
+		'''
+		Halte die linke Maustaste gedrückt, um bis zu sechs Präzisionsbolzen zu laden
+		Je mehr Präzisionsbolzen geladen sind, desto stärker treffen sie
+		'''
+}
+
+Condemnation: {
+	DisplayName: Verdammung
+	Tooltip:
+		'''
+		Feuert mächtige scharlachrote Bolzen ab, durchdrungen von hasserfüllter Magie
+		Halte <left> gedrückt, um bis zu neun Bolzen für mächtiges Salvenfeuer zu laden
+		Halte <right> gedrückt, um den Repetierer vollautomatisch zu verwenden
+		'''
+}
+
+ConferenceCall: {
+	DisplayName: Konferenzanruf
+	Tooltip:
+		'''
+		Feuert eine enge Streuung von Kugeln ab, die weitere Kugeln aus dem Himmel rufen
+		50% Chance, Munition zu sparen
+		[c/768EE6:@everyone]
+		'''
+}
+
+Contagion: {
+	DisplayName: Ansteckung
+	Tooltip: Feuert Ansteckungspfeile ab, die explodierende Kugeln hinterlassen, während sie fliegen
+}
+
+ContinentalGreatbow: {
+	DisplayName: Kontinental-Großbogen
+	Tooltip:
+		'''
+		Hölzerne Pfeile werden in Brand gesteckt
+		Feuert gleichzeitig 3 Pfeile ab
+		Feuert 2 zusätzliche verfluchte, Höllenfeuer- oder Ichorpfeile ab
+		'''
+}
+
+CoralCannon: {
+	DisplayName: Korallenkanone
+	Tooltip:
+		'''
+		Hat eine 20% ige Chance, eine große Koralle abzufeuern, die Feinde betäubt
+		Verbraucht keine Munition
+		'''
+}
+
+CorinthPrime: {
+	DisplayName: Corinth Prime
+	Tooltip:
+		'''
+		Feuert eine enge Salve von 6 Hochgeschwindigkeitskugeln ab
+		Drücke <right>, um eine Granate abzufeuern
+		Die Granate löst eine massive Explosion aus, wenn sie 2 Sekunden lang nichts berührt
+		Andernfalls löst die Granate eine extrem schwache Explosion aus
+		Verwandelt Musketenkugeln in Hochgeschwindigkeits-Sprengkugeln
+		'''
+}
+
+CorrodedCaustibow: {
+	DisplayName: Verätzter Ätzungsbogen
+	Tooltip: Verwandelt hölzerne Pfeile in langsame, kraftvolle Geschosse, die eine verstrahlte Aura hinterlassen
+}
+
+CosmicBolter: {
+	DisplayName: Kosmischer Bolter
+	Tooltip:
+		'''
+		Feuert eine enge Säule von drei Pfeilen ab
+		Verwandelt hölzerne Pfeile in gleitende Energiebolzen
+		'''
+}
+
+CrackshotColt: {
+	DisplayName: Rissige Colts
+	Tooltip:
+		'''
+		Drücke <right>, um eine Kupfermünze in die Luft zu werfen
+		Ein Treffer einer Kugel auf eine Münze verursacht, dass sie in den nächsten Feind abprallt
+		Bis zu 4 Münzen können gleichzeitig geworfen werden, und Schüsse prallen von mehreren Münzen ab, wenn möglich
+		Abgeprallte Kugeln treffen immer kritisch
+		'''
+}
+
+CursedCapper: {
+	DisplayName: Verfluchter Deckel
+	Tooltip: Feuert verfluchte Kugeln ab
+}
+
+DaemonsFlame: {
+	DisplayName: Daemonenflamme
+	Tooltip:
+		'''
+		Feuert Daemonenflammen-Feuerbälle sowie 4 normale Pfeile ab
+		66% Chance, Munition zu sparen
+		'''
+}
+
+DarkechoGreatbow: {
+	DisplayName: Dunklechogroßbogen
+	Tooltip:
+		'''
+		Feuert gleichzeitig zwei Pfeile ab
+		Feuert einen zusätzlichen Kristallpfeil ab
+		'''
+}
+
+DeepcoreGK2: {
+	DisplayName: Deepcore GK2
+	Tooltip:
+		'''
+		Kugeln sind doppelt so groß und ignorieren 15 Punkte Verteidigung des Feindes
+		'Für Fels und Stein!'
+		'''
+}
+
+Deathwind: {
+	DisplayName: Todeswind
+	Tooltip:
+		'''
+		Feuert eine Streuung von 4 Pfeilen ab
+		Hölzerne Pfeile werden in Nebelpfeile umgewandelt
+		'''
+}
+
+Disseminator: {
+	DisplayName: Disseminator
+	Tooltip:
+		'''
+		Feuert eine enge Streuung von Kugeln ab, die eine große Anzahl von Kugeln aus dem Himmel rufen
+		50% Chance, Munition zu sparen
+		[c/768EE6:@everyone]
+		'''
+}
+
+DodusHandcannon: {
+	DisplayName: Dodu's Handcannon
+	Tooltip:
+		'''
+		Feuert hochexplosive Erdnussschalen ab, wortwörtlich
+		'Die Kraft der Nuss ruht in deinen Händen'
+		'''
+}
+
+DragonsBreath: {
+	DisplayName: Drachenodem
+	Tooltip:
+		'''
+		Drücke <left>, um in Zwei-Schuss-Salven zu feuern
+		Der erste Schuss ist eine Streuung von 6 normalen Kugeln
+		Der zweite Schuss ist eine enge Streuung von 6 Drachenodem-Kugeln
+		Drücke <right>, um vollautomatisch zu feuern und die Kugeln zufällig zu mischen, aber 20% weniger Schaden zufügen
+		Diese Waffe hat keine Zufälligkeit in ihrem Streuungsmuster
+		66% Chance, Munition zu sparen
+		'''
+}
+
+Drataliornus: {
+	DisplayName: Drataliornus
+	Tooltip:
+		'''
+		Feuert einen eskalierenden Strom von Feuerbällen ab
+		Feuerbälle lassen Meteoriten regnen, hinterlassen Drachenspuren und feuern zusätzliche Bolzen mit maximaler Geschwindigkeit ab
+		Schaden beim Feuern des Stroms zu erleiden, unterbricht ihn und verringert deine Flugzeit mit den Flügeln
+		Drücke <right>, um zwei verheerende Salven aus fünf verstärkten Feuerbällen abzufeuern
+		'Nur nicht getroffen werden'
+		'''
+}
+
+ElementalBlaster: {
+	DisplayName: Elementarblaster
+	Tooltip:
+		'''
+		Feuert einen Sturm von Regenbogenschüssen ab
+		Verbraucht keine Munition
+		'''
+}
+
+ElementalEruption: {
+	DisplayName: Elementareruption
+	Tooltip:
+		'''
+		Feuert eine Streuung von Regenbogenflammen ab
+		90% Chance, Munition zu sparen
+		'''
+}
+
+EternalBlizzard: {
+	DisplayName: Ewige Schneesturm
+	Tooltip: Feuert zusätzlich einen Eiszapfenpfeil ab, der beim Aufprall zerspringt
+}
+
+Eviscerator: {
+	DisplayName: Eviscerator
+	Tooltip: Verwandelt Musketenkugeln in schnell bewegliche Blutgerinnsel
+}
+
+FetidEmesis: {
+	DisplayName: Fäulnis-Erbrechen
+	Tooltip:
+		'''
+		Hat eine Chance, faulige Klumpen statt Kugeln freizusetzen
+		40% Chance, Munition zu sparen
+		'''
+}
+
+FirestormCannon: {
+	DisplayName: Feuersturmkanone
+	Tooltip:
+		'''
+		Entlässt einen konstanten Strom von bewaffneten Leuchtkugeln
+		Drücke <right>, um eine konzentrierte Streuung von Leuchtkugeln abzufeuern
+		70% Chance, Munition zu sparen
+		'''
+}
+
+FlakKraken: {
+	DisplayName: Flak Kraken
+	Tooltip: Feuert ein Energieregen, der im Laufe der Zeit mächtiger wird
+}
+
+FlakToxicannon: {
+	DisplayName: Flak-Toxicannon
+	Tooltip:
+		'''
+		Feuert schräge Schüsse in Richtung des Cursors ab
+		Kann nur in einer Kegelrichtung über dem Spieler abgefeuert werden
+		'Hoher IQ erforderlich'
+		'''
+}
+
+FlarewingBow: {
+	DisplayName: Flammenflügelbogen
+	Tooltip:
+		'''
+		Feuert eine Streuung von 4 Pfeilen ab
+		Hölzerne Pfeile werden in prallende Obsidianfledermäuse umgewandelt
+		'''
+}
+
+FlurrystormCannon: {
+	DisplayName: Schneesturmkanone
+	Tooltip:
+		'''
+		Feuert eine Kette von Schneebällen ab, die im Laufe der Zeit schneller werden
+		Hat auch eine Chance, einen Eisbrocken abzufeuern, der in Scherben zerbricht
+		50% Chance, Munition zu sparen
+		'''
+}
+
+FreedomStar: {
+	DisplayName: Freiheitsstern
+	Tooltip:
+		'''
+		Tippe <left>, um Energiekugeln abzufeuern
+		Halte <left> gedrückt, um einen Strahl zu laden und abzufeuern, der beim Treffer explodiert
+		'''
+}
+
+FrostbiteBlaster: {
+	DisplayName: Frostbite-Blaster
+	Tooltip:
+		'''
+		Feuert eine Streuung von 6 Kugeln ab
+		Verwandelt Musketenkugeln in Eiszapfen
+		'''
+}
+
+Fungicide: {
+	DisplayName: Fungizid
+	Tooltip: Verwandelt Musketenkugeln in pilzartige Geschosse, die beim Tod aufsplittern
+}
+
+Galeforce: {
+	DisplayName: Sturmkraft
+	Tooltip: Feuert eine Streuung von geringfügigem Federnschaden ab
+}
+
+GodsBellows: {
+	DisplayName: Gottes-Blasebalg
+	Tooltip: 70% Chance, Munition zu sparen
+}
+
+GoldenEagle: {
+	DisplayName: Golden Eagle
+	Tooltip: Feuert gleichzeitig 5 Kugeln ab
+}
+
+Goobow: {
+	DisplayName: Goobow
+	Tooltip: Feuert zwei Ströme von Schleim ab
+}
+
+GunkShot: {
+	DisplayName: Gunk Shot
+	Tooltip: Feuert eine Streuung von Kugeln ab
+}
+
+HalibutCannon: {
+	DisplayName: Halibut-Kanone
+	Tooltip: "[GFB]"
+	TooltipNormal: "'Ja, es ist immer noch übermächtig'"
+	TooltipGFB: "'Nein, es ist jetzt Mist'"
+}
+
+HalleysInferno: {
+	DisplayName: Halleys Inferno
+	Tooltip:
+		'''
+		Feuert einen brennenden blauen Kometen ab
+		Drücke <right>, um auszuzoomen
+		50% Chance, Munition zu sparen
+		'Halley kam früher als erwartet'
+		'''
+}
+
+HandheldTank: {
+	DisplayName: Handheld-Tank
+	Tooltip: ""
+}
+
+HavocsBreath: {
+	DisplayName: Havocs Atem
+	Tooltip: 50% Chance, Munition zu sparen
+}
+
+HeavenlyGale: {
+	DisplayName: Himmlischer Sturm
+	Tooltip:
+		'''
+		Feuert einen schnellen Strom von aufgeladenen Exokristallen ab
+		Wenn der Bogen gehalten und vor dem Feuern einige Zeit gewartet wird, werden die Kristalle stärker
+		Wenn die Kristalle ausreichend stark sind, beschwören sie über allem, was sie treffen, Ströme von Exo-Blitzen
+		'''
+}
+
+Hellborn: {
+	DisplayName: Hölle geboren
+	Tooltip:
+		'''
+		Feuert eine Streuung von 3 Kugeln ab
+		Feinde, die die Waffe berühren, während sie abgefeuert wird, lösen eine massive Explosion aus
+		Nach der Explosion erhält diese Waffe einen massiven Schadens-, Feuerraten- und Rückstoß-Boost für 10 Sekunden
+		Diese Statistikboni sinken im Laufe der Zeit langsam ab
+		Verwandelt Musketenkugeln in Explosivgeschosse
+		'''
+}
+
+Helstorm: {
+	DisplayName: Helsturm
+	Tooltip:
+		'''
+		Feuert gleichzeitig zwei Kugeln ab
+		Die Waffe verursacht auch Schaden an Feinden, die sie berühren
+		'''
+}
+
+HoarfrostBow: {
+	DisplayName: Reifbogen
+	Tooltip:
+		'''
+		Feuert gleichzeitig zwei Pfeile ab
+		Verwandelt Holzpfeile in Nebelpfeile
+		'''
+}
+
+Hydra: {
+	DisplayName: Hydra
+	Tooltip:
+		'''
+		Feuert eine Streuung von 4 giftigen Kugeln ab
+		Bildet alle 3 Sekunden einen Waffenkopf, maximal 3 Köpfe
+		Drücke <left>, um bestehende Köpfe zu feuern
+		Drücke <right>, um die Köpfe für mächtigen Explosivschaden abzufeuern
+		[c/9D80B0:Fusion von schwerer Maschinerie und Lernaeanischem Blut]
+		'''
+}
+
+Infinity: {
+	DisplayName: Unendlichkeit
+	Tooltip:
+		'''
+		Feuert eine Salve von Energieschüssen ab, die sich aufspalten und abprallen
+		Drücke <right>, um eine Salve normaler Kugeln abzufeuern
+		'Man sagt, die Unendlichkeit endet nie, doch du hältst sie in deinen Händen'
+		'''
+}
+
+Karasawa: {
+	DisplayName: Karasawa
+	Tooltip: ...Dies ist schwer... zu schwer
+}
+
+Leviatitan: {
+	DisplayName: Leviatitan
+	Tooltip: Verwandelt Musketenkugeln in toxische und normale Wasserstrahlen
+}
+
+LunarianBow: {
+	DisplayName: Lunabogen
+	Tooltip:
+		'''
+		Feuert gleichzeitig zwei Pfeile ab
+		Verwandelt Holzpfeile in gleitende Energieschüsse
+		'''
+}
+
+MagnaStriker: {
+	DisplayName: Magna-Schläger
+	Tooltip: Feuert eine Kette von Opal- und Magna-Schlägen ab
+}
+
+MagnomalyCannon: {
+	DisplayName: Magnomaly-Kanone
+	Tooltip:
+		'''
+		Startet eine leistungsstarke Exo-Rakete, um alles und jeden zu nukeln
+		Raketen sind von einer unsichtbaren schädlichen Aura umgeben und teilen sich beim Aufprall in schädliche Strahlen
+		66% Chance, Munition zu sparen
+		'''
+}
+
+Malevolence: {
+	DisplayName: Boshaftigkeit
+	Tooltip:
+		'''
+		Feuert gleichzeitig zwei Pfeile ab
+		Verwandelt Holzpfeile in Seuchenpfeile, die beim Tod in Bienen explodieren
+		'''
+}
+
+MarksmanBow: {
+	DisplayName: Scharfschützenbogen
+	Tooltip:
+		'''
+		Feuert gleichzeitig drei Pfeile ab
+		Verwandelt Holzpfeile in Spaßvogelpfeile
+		'''
+}
+
+Megalodon: {
+	DisplayName: Megalodon
+	Tooltip:
+		'''
+		Feuert abwechselnd Kugeln und druckluftbetriebene Wasserstrahlen ab
+		Druckluftbetriebene Wasserstrahlen verbrauchen keine Munition
+		'''
+}
+
+Meowthrower: {
+	DisplayName: Miauwerfer
+	Tooltip:
+		'''
+		Feuert blaue und rosa Flammen ab, die beim Treffer auf Feinde miauen
+		85% Chance, Munition zu sparen
+		'''
+}
+
+MidasPrime: {
+	DisplayName: Midas Prime
+	Tooltip:
+		'''
+		Drücke <right>, um eine Goldmünze oder Silbermünze in die Luft zu werfen
+		Wenn eine Kugel eine Münze trifft, prallt sie auf den nächstgelegenen Feind ab
+		Bis zu 4 Münzen können gleichzeitig geworfen werden, und Schüsse prallen von mehreren Münzen ab, wenn möglich
+		Abprallende Kugeln verursachen immer kritischen Schaden und zusätzlichen Schaden, der auf den verwendeten Münzen basiert
+		'''
+	UltrakillEasterEgg:
+		'''
+		DIE MENSCHHEIT IST TOT.
+		BLUT IST BRENNSTOFF.
+		DIE HÖLLE IST VOLL.
+		'''
+}
+
+MineralMortar: {
+	DisplayName: Mineralmörser
+	Tooltip: Feuert eine Onyxbombe ab, die sich beim Tod in Sandschlangen verwandelt
+}
+
+Minigun: {
+	DisplayName: Minigun
+	Tooltip: 80% Chance, Munition zu sparen
+}
+
+MolecularManipulator: {
+	DisplayName: Molekulare Manipulator
+	Tooltip:
+		'''
+		Feuert ein schnelles Null-Geschoss ab, das die NPC-Statistiken verzerrt
+		Kann man sie annullieren oder nicht? Lasst es uns herausfinden!'
+		'''
+}
+
+Monsoon: {
+	DisplayName: Monsun
+	Tooltip:
+		'''
+		Schießt eine Reihe von 5 Pfeilen ab
+		Holzpfeile werden in Taifunpfeile und Haie umgewandelt
+		'''
+}
+
+Needler: {
+	DisplayName: Needler
+	Tooltip: Konvertiert Musketenkugeln in Nadeln, die an Feinden haften und explodieren
+}
+
+NettlevineGreatbow: {
+	DisplayName: Nesselranken-Großbogen
+	Tooltip:
+		'''
+		Schießt 4 Pfeile auf einmal ab
+		Schießt 2 zusätzliche Gift- oder Chlorophyt-Pfeile ab
+		'''
+}
+
+Norfleet: {
+	DisplayName: Norfleet
+	Tooltip: Feuer alles!
+}
+
+NullificationRifle: {
+	DisplayName: Nullifikationspistole
+	Tooltip:
+		'''
+		Feuert ein schnelles Null-Geschoss ab, das die NPC-Statistiken verzerrt
+		Kann man sie annullieren oder nicht? Lasst es uns herausfinden!'
+		'''
+}
+
+OnyxChainBlaster: {
+	DisplayName: Onyx-Kettenblaster
+	Tooltip:
+		'''
+		Feuert eine Reihe von Kugeln und einen Onyxsplitter ab
+		50% Chance, Munition zu sparen
+		'''
+}
+
+Onyxia: {
+	DisplayName: Onyxia
+	Tooltip:
+		'''
+		Feuert einen Sturm von Kugeln und Onyxsplittern ab
+		50% Chance, Munition zu sparen
+		'''
+}
+
+OpalStriker: {
+	DisplayName: Opal-Schläger
+	Tooltip:
+		'''
+		Feuert eine Reihe von Opal-Schlägen ab
+		50% Chance, Munition zu sparen
+		'''
+}
+
+OverloadedBlaster: {
+	DisplayName: Überlasteter Blaster
+	Tooltip:
+		'''
+		Feuert eine große Menge an aufspringendem Schleim ab
+		33% Chance, Munition zu sparen
+		'''
+}
+
+P90: {
+	DisplayName: P90
+	Tooltip:
+		'''
+		Entfesselt einen Strom von Kugeln mit einer unglaublichen Geschwindigkeit
+		50% Chance, Munition zu sparen
+		Es ist ein Kugelschlauch.
+		'''
+}
+
+PearlGod: {
+	DisplayName: Perlgott
+	Tooltip:
+		'''
+		Feuert Schockblastgeschosse ab, die massive Explosionen auslösen und dem Gegner Leben sowie zusätzliche Kugeln rauben
+		Jeder siebte Schuss feuert einen massiven Schockstoß ab
+		'Dein Leben gehört mir...'
+		'''
+}
+
+PestilentDefiler: {
+	DisplayName: Pestilent Defiler
+	Tooltip: Konvertiert Musketenkugeln in Seuchenkugeln, die beim Tod explodieren und sich teilen
+}
+
+Phangasm: {
+	DisplayName: Phangasm
+	Tooltip:
+		'''
+		Feuert eine Streuung von 5 Pfeilen ab und gibt Phantompfeile bei Treffern ab
+		66 % Chance, Munition zu sparen
+		'''
+}
+
+Photoviscerator: {
+	DisplayName: Photoviscerator
+	Tooltip:
+		'''
+		Feuert einen Strom von Exo-Flammen und Licht ab, die in heimische Funken explodieren
+		Drücke <right>, um leitende Leuchtraketen abzufeuern, die sich an Feinden festhalten und sie verbrennen
+		90 % Chance, Munition zu sparen
+		'''
+}
+
+PlagueTaintedSMG: {
+	DisplayName: Plague Tainted SMG
+	Tooltip:
+		'''
+		Schießt Pestgeschosse ab, die bei kritischen Treffern Drohnen erzeugen
+		Geschosse verursachen mehr Schaden und Rückstoß, je näher der Feind ist
+		Drohnen erzielen immer einen kritischen Treffer, wenn sie einen befallenen Feind treffen
+		Drücke <right>, um einen Schwarm von Drohnen abzufeuern
+		'''
+}
+
+PlanetaryAnnihilation: {
+	DisplayName: Planetary Annihilation
+	Tooltip:
+		'''
+		Feuert einen Sturm von 7 Pfeilen aus dem Himmel ab
+		Holzpfeile werden in heimische Energiebolzen umgewandelt
+		'''
+}
+
+PolarisParrotfish: {
+	DisplayName: Polaris Papageifisch
+	Tooltip:
+		'''
+		Treffertreffungen gewähren Buffs für die Waffe
+		Buffs werden bei einem Treffer entfernt
+		'Er trägt das Zeichen des Nordsterns'
+		'''
+}
+
+PridefulHuntersPlanarRipper: {
+	DisplayName: Stolzer Jäger Planarischer Zerreißer
+	Tooltip:
+		'''
+		Jeder vierte Schuss verursacht 135 % Schaden
+		Wandelt Musketenkugeln in Blitzbolzen um
+		Blitzbolzen bewegen sich extrem schnell und explodieren bei Feindtötungen
+		Kritische Treffer der Blitzbolzen gewähren dem Spieler einen stapelbaren Geschwindigkeitsschub
+		Dieser stapelt sich auf bis zu 20 % Bonus-Bewegungsgeschwindigkeit und -Beschleunigung
+		Der Schub wird zurückgesetzt, wenn der Spieler ein anderes Objekt hält
+		33 % Chance, Munition zu sparen
+		'''
+}
+
+PristineFury: {
+	DisplayName: Makellose Wut
+	Tooltip:
+		'''
+		Feuert eine intensive Spirale aus Flammen ab, die in eine Feuersäule explodiert
+		Drücke <right>, um eine kurzreichweitige Wolke langlebiger Flammen abzufeuern
+		'''
+}
+
+Pumpler: {
+	DisplayName: Pumpler
+	Tooltip: Halte <left>, um bis zu fünf Kürbisgranaten auf einmal zu laden
+}
+
+RealmRavager: {
+	DisplayName: Realmschrecken
+	Tooltip:
+		'''
+		Schießt eine Salve aus 3 bis 4 Kugeln ab
+		Wandelt Musketenkugeln in Sprenggeschosse um
+		'''
+}
+
+ReedBlowgun: {
+	DisplayName: Schilfrohr-Blasrohr
+	Tooltip:
+		'''
+		Feuert einen Hochdruckstrahl von Blasen ab
+		[c/5C95A1:'Das alte Meeresreich hat nie wirklich danach gestrebt, sich über seine anfänglichen Grenzen hinaus auszudehnen.]
+		[c/5C95A1:'Sie hatten jedoch eine makellose Erfolgsbilanz bei der Abwehr von Invasionen, dank ihres unschlagbaren Vorteils im Wasser.']
+		'''
+}
+
+RubicoPrime: {
+	DisplayName: Rubico Prime
+	Tooltip:
+		'''
+		Halbautomatischer Scharfschütze, der in 5-Sekunden-Salven feuert
+		Feuert Aufprallgeschosse ab, die einen erhöhten kritischen Multiplikator haben
+		'''
+}
+
+SandstormGun: {
+	DisplayName: Sandsturmgewehr
+	Tooltip:
+		'''
+		Feuert Sandgeschosse ab, die bei Treffern explodieren und Feinde verlangsamen
+		Verwendet Sand als Munition
+		50 % Chance, Munition zu sparen
+		'''
+}
+
+ScorchedEarth: {
+	DisplayName: Verbrannte Erde
+	Tooltip:
+		'''
+		Feuert eine Salve aus vier Luft-Luft-Raketen ab, die in Clusterbomben explodieren
+		Jede Salve verbraucht jeweils zwei Raketen
+		'Verbrennt deine Ziele zu einem feinen Knusper'
+		'''
+}
+
+Scorpio: {
+	DisplayName: Skorpion
+	Tooltip:
+		'''
+		Drücke <right>, um eine Atombombe abzufeuern
+		Raketen zerstören Kacheln mit Kachel-zerstörender Munition
+		'BOOM'
+		'''
+}
+
+SDFMG: {
+	DisplayName: SDFMG
+	Tooltip:
+		'''
+		50 % Chance, Munition zu sparen
+		'Es kam aus den Rändern von Terraria'
+		'''
+}
+
+Seadragon: {
+	DisplayName: Meeresdrache
+	Tooltip:
+		'''
+		Löst eine Flut von abwechselnden Geschossen und unter Druck stehenden Wasserstrahlen aus
+		Feuert zusätzlich Raketen ab und gibt verheerende Mündungsblitze ab
+		Wasserstrahlen verbrauchen keine Munition
+		'''
+}
+
+SeasSearing: {
+	DisplayName: Meeressengend
+	Tooltip:
+		'''
+		Feuert eine Kette von Blasen ab, die bei Treffern einen Schauer von Blasen herbeirufen
+		Drücke <right>, um eine langsamere, größere Wasserexplosion abzufeuern, die einen Wasserstrudel herbeiruft
+		'''
+}
+
+SepticSkewer: {
+	DisplayName: Septischer Spieß
+	Tooltip:
+		'''
+		Startet einen spitzen Harpunen mit Gift infiziert
+		Gibt Bakterien frei, wenn sie zum Spieler zurückkehren
+		'''
+}
+
+Shadethrower: {
+	DisplayName: Schattengewehr
+	Tooltip: 66 % Chance, Munition zu sparen
+}
+
+Shellshooter: {
+	DisplayName: Muschelschütze
+	Tooltip:
+		'''
+		Feuert langsame, aber kraftvolle Pfeile ab
+		Wandelt Holzpfeile in schwere, durchdringende Muscheln um
+		'''
+}
+
+Shredder: {
+	DisplayName: Schredder
+	Tooltip:
+		'''
+		Feuert eine Salve von Energiebolzen ab, die sich teilen und abprallen
+		Drücke <right>, um eine Salve normaler Kugeln anstelle von Energiebolzen abzufeuern
+		'Die Legende, die Waffe, die mehr Frames als jede andere fallen lässt'
+		'''
+}
+
+Shroomer: {
+	DisplayName: Shroomer
+	Tooltip: Feuert Kugeln und einen extrem starken, suchenden Pilz ab
+}
+
+SlagMagnum: {
+	DisplayName: Schlacke-Magnum
+	Tooltip: Wandelt Musketenkugeln in Fossilstücke um, die sich nach dem Tod in zusätzliche Splitter teilen
+}
+
+SomaPrime: {
+	DisplayName: Soma Prime
+	Tooltip:
+		'''
+		Diese Waffe kann superkritisch sein, wenn ihre kritische Trefferchance über 100 % liegt
+		Alle abgefeuerten Kugeln verursachen Shred, eine stapelbare Blutungsschwächung
+		Shred verursacht 150 DPS pro Stapel und skaliert mit deinen Fernkampfstatistiken
+		Schadensticke von Shred können auch kritisch getroffen oder superkritisch sein
+		Ersatz für Musketenkugeln durch verbesserte Hochgeschwindigkeitsgeschosse
+		80 % Chance, Munition zu sparen
+		'''
+}
+
+SparkSpreader: {
+	DisplayName: Funkenverteiler
+	Tooltip: 70 % Chance, Munition zu sparen
+}
+
+SpectralstormCannon: {
+	DisplayName: Spektralsturmkanone
+	Tooltip:
+		'''
+		Feuert einen Sturm verlorener Seelen und Leuchtraketen ab
+		70 % Chance, Munition zu sparen
+		'''
+}
+
+SpeedBlaster: {
+	DisplayName: Schnellblaster
+	Tooltip: Feuert eine Kette von Farbexplosionen ab
+}
+
+Spyker: {
+	DisplayName: Spieker
+	Tooltip: Wandelt Musketenkugeln in Spikes um, die an Feinden haften bleiben, Kacheln zerstören und in Schrapnell explodieren
+}
+
+Starfleet: {
+	DisplayName: Starfleet
+	Tooltip: Feuert eine Streuung von Plasmablasten ab
+}
+
+Starmada: {
+	DisplayName: Starmada
+	Tooltip:
+		'''
+		Feuert eine Salve von Sternen und Plasmablasten ab
+		66 % Chance, Munition zu sparen
+		'''
+}
+
+Starmageddon: {
+	DisplayName: Starmageddon
+	Tooltip: Projiziert die Endgültigkeit der kosmischen Vernichtung mit Darksun-Kraft
+}
+
+StarSputter: {
+	DisplayName: Sternenspritzer
+	Tooltip:
+		'''
+		Feuert eine Kette von Kometen ab
+		Feuert alle vier Runden einen größeren, mächtigeren Kometen ab
+		'Schaue zu den Sternen für eine weit, weit entfernte Galaxie'
+		'''
+}
+
+StellarCannon: {
+	DisplayName: Stellar-Kanone
+	Tooltip: Startet eine explosive Sternenkrystal
+}
+
+StormDragoon: {
+	DisplayName: Sturm Dragoon
+	Tooltip:
+		'''
+		Feuert eine Reihe von Kugeln ab
+		90 % Chance, Munition zu sparen
+		'''
+}
+
+StormSurge: {
+	DisplayName: Sturmflut
+	Tooltip:
+		'''
+		Feuert eine blaue Schockwelle ab, die durch Blöcke hindurchgeht
+		Verbraucht keine Munition
+		'Fürchte den Sturm'
+		'''
+}
+
+SulphuricAcidCannon: {
+	DisplayName: Schwefelsäurekanone
+	Tooltip: Feuert einen sauren Schuss ab, der an Feinden haften bleibt und sie auflöst
+}
+
+SurgeDriver: {
+	DisplayName: Surge Driver
+	Tooltip:
+		'''
+		Drücke <left>, um einen Laserstrahl freizusetzen, der bei Kollision explodiert
+		Drücke <right>, um eine Salve von Laserstrahlen freizusetzen, die bei Treffern auf Feinde homing Energie freisetzen
+		'''
+}
+
+Svantechnical: {
+	DisplayName: Svantechnical
+	Tooltip:
+		'''
+		Feuert mehrere Salven von Kugeln ab
+		Drücke <right>, um herauszuzoomen
+		'''
+}
+
+TelluricGlare: {
+	DisplayName: Telluric Glanz
+	Tooltip: Feuert Salven von vier kolossalen strahlenden Pfeilen ab, die durch Wände gehen können
+}
+
+TerraFlameburster: {
+	DisplayName: Terra Flammburster
+	Tooltip: 80% Chance, Munition zu sparen
+}
+
+TheBallista: {
+	DisplayName: Die Ballista
+	Tooltip: Verwandelt Holzpfeile in Großpfeile, die Feindrüstungen zerschmettern und in Scherben zerbrechen
+}
+
+TheHive: {
+	DisplayName: Das Bienenhaus
+	Tooltip:
+		'''
+		Startet eine Vielzahl von Raketen, die sich in freundliche Bienen auflösen
+		Raketen zerstören Kacheln mit zerstörerischer Munition
+		'''
+}
+
+TheJailor: {
+	DisplayName: Der Kerkermeister
+	Tooltip: Lässt elektrische Minen nach außen frei, die sich durch Bögen miteinander verbinden
+}
+
+TheMaelstrom: {
+	DisplayName: Der Mahlstrom
+	Tooltip: Feuert aufgeladene Reaper-Haie ab, die beim Aufprall auf Wasser explodieren
+}
+
+ThePack: {
+	DisplayName: Das Rudel
+	Tooltip: Feuert große suchende Raketen ab, die bei Nähe zu einem Feind in mehrere suchende Miniraketen explodieren
+}
+
+TheSevensStriker: {
+	DisplayName: Der Siebener-Schütze
+	Tooltip:
+		'''
+		Drücke <left>, um 1 Münze zu verbrauchen und eine Spielautomatenrunde zu spielen
+		Die Qualität des Ergebnisses hängt von der verwendeten Münze ab
+		Drücke <right>, um eine Salve von Münzen schnell abzufeuern
+		Die Münzsalve hat eine 80% ige Chance, Munition zu sparen und wird keine Platinmünzen abfeuern
+		'Eine Waffe für einen großartigen Revolverhelden
+		Geschmiedet von den Armen eines Mannes ohne Namen'
+		'''
+}
+
+TheStorm: {
+	DisplayName: Der Sturm
+	Tooltip:
+		'''
+		Feuert eine Streuung von Pfeilen vom Himmel ab
+		Verwandelt Holzpfeile in Blitzbolzen
+		'''
+}
+
+TitaniumRailgun: {
+	DisplayName: Titangewehr
+	Tooltip:
+		'''
+		Halte gedrückt, um einen verheerenden Titanblitz aufzuladen
+		Eine längere Haltezeit erhöht die Leistung und somit den Schaden, die Größe und die Rückstoßwirkung
+		Die Leistung ist begrenzt, wenn die Visiere der Kanone vollständig konvergiert sind
+		'''
+}
+
+Toxibow: {
+	DisplayName: Toxibogen
+	Tooltip: Verwandelt Holzpfeile in langsame Pfeile, die verstrahlen
+}
+
+TyrannysEnd: {
+	DisplayName: Tyrannys Ende
+	Tooltip:
+		'''
+		Verwandelt Musketenkugeln in .70-Kaliber-Scharfschützenmunition, die die Verteidigung und Schadensreduktion des Feindes umgeht
+		Verursacht Todmarkierung bei Feindtreffern
+		Kritische Treffer beschwören eine Schwarm von zusätzlichen Kugeln
+		'Durchdringe das Herz selbst des am stärksten gepanzerten Feindes'
+		'''
+}
+
+Ultima: {
+	DisplayName: Ultima
+	Tooltip:
+		'''
+		Wirft einen kontinuierlichen Strom von Plasmablitzen
+		Im Laufe der Zeit werden die Blitze durch leistungsstarke Laser ersetzt
+		Die Blitze verwandeln sich in feste Strahlen, während du weiter schießt
+		90% ige Chance, Munition zu sparen
+		'''
+}
+
+UniversalGenesis: {
+	DisplayName: Universale Genesis
+	Tooltip:
+		'''
+		Firet eine Streuung von Kugeln aus der Waffe und einen Schwarm Sterne, die auf den Cursor herabregnen
+		Verwandelt Musketenkugeln in Sternrufer-Schüsse, die zusätzliche Sterne bei Feindtreffern beschwören
+		50% ige Chance, Munition zu sparen
+		'Lasst den sternenklaren Himmel auf eure Feinde herabfallen'
+		'''
+}
+
+Voidragon: {
+	DisplayName: Voidrache
+	Tooltip:
+		'''
+		Firet Void-Blasts, die sich alle anderen Schussfolgen in die Luft sprengen
+		Schießt bei jedem Schuss Dämonenflammententakel
+		75% ige Chance, Munition zu sparen
+		'''
+}
+
+Vortexpopper: {
+	DisplayName: Wirbelpoppler
+	Tooltip: Feuert überall Blasen ab, die in Kugeln platzen
+}
+
+WulfrumBlunderbuss: {
+	DisplayName: Wulfrum Donnerbüchse
+	Tooltip:
+		'''
+		Verbraucht Wulfrum-Schrott oder Silbermünzen, um abzufeuern
+		Die Streuung des Schusses kann durch weiteres Zielen verringert werden, mit weniger Schaden als Kosten
+		Ignoriert 3 Punkte der Feind-Verteidigung
+		[c/83B87E:'Das Gute an Wulfrum ist, dass es zwar schnell zerbricht, aber noch schneller wiederverwendet werden kann.]
+		[c/83B87E:Tatsächlich wird ein Roboter oft gleich nach dem Ausfallen zu Munition verarbeitet.']
+		'''
+}

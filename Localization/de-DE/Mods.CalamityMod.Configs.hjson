@@ -1,0 +1,406 @@
+CalamityConfig: {
+	DisplayName: Hauptkonfiguration
+
+	Headers: {
+		ExpertMaster: Änderungen für Experten- und Meistermodus
+		Gameplay: Allgemeine Gameplay-Änderungen
+		Graphics: Grafikänderungen
+		Revengeance: Änderungen für Rache-Modus
+		UI: UI-Änderungen
+		BaseBoosts: Basisstatistik-Verbesserungen
+	}
+
+	AdrenalineMeterPosX: {
+		Label: "[i:LaserRuler] Position des Adrenalin-Messers auf der X-Achse"
+		Tooltip:
+			'''
+			Die X-Position des Adrenalin-Messers, gemessen als Prozentsatz der Bildschirmbreite.
+			Der Balken kann mit der Maus verschoben werden, wenn die Positionen gesperrt sind.
+			'''
+	}
+
+	AdrenalineMeterPosY: {
+		Label: "[i:LaserRuler] Position des Adrenalin-Messers auf der Y-Achse"
+		Tooltip:
+			'''
+			Die Y-Position des Adrenalin-Messers, gemessen als Prozentsatz der Bildschirmhöhe.
+			Der Balken kann mit der Maus verschoben werden, wenn die Positionen gesperrt sind.
+			'''
+	}
+
+	Afterimages: {
+		Label: "[i:SteampunkGoggles] Nachbilder"
+		Tooltip:
+			'''
+			Aktiviert das Rendern von Nachbildern für Calamity-NPCs, Projektile usw.
+			Deaktivieren, um die Leistung zu verbessern.
+			'''
+	}
+
+	BossesStopWeather: {
+		Label: "[i:CalamityMod/TorrentialTear] Bossgegner stoppen das Wetter"
+		Tooltip:
+			'''
+			Wenn aktiviert, stoppen viele Endspiel-Bossgegner jeglichen Regen und das zugehörige Wetter, wenn sie erscheinen.
+			Aktivieren, wenn du Performance-Probleme während Endspiel-Bosskämpfen hast.
+			'''
+	}
+
+	BossHealthBarExtraInfo: {
+		Label: "[i:CalamityMod/EncryptedSchematicPlanetoid] Zusätzliche Informationen zur Boss-Lebensleiste"
+		Tooltip:
+			'''
+			Fügt Calamitys Boss-Lebensleiste zusätzliche Informationen hinzu.
+			Dies zeigt entweder die genaue Gesundheit des Bosses oder die Anzahl der verbleibenden Teile oder Segmente an.
+			'''
+	}
+
+	BossHealthBoost: {
+		Label: "[i:LifeCrystal] Erhöhung des Boss-Gesundheitsbonus in Prozent"
+		Tooltip:
+			'''
+			Erhöht global die Gesundheit aller Bossgegner um den angegebenen Prozentsatz.
+			Dies addiert sich zu Multiplayer-Boss-Gesundheitsboni.
+			Beeinflusst keine bereits erschienenen Bossgegner.
+			'''
+	}
+
+	BossZen: {
+		Label: "[i:CalamityMod/ZenPotion] Bossgegner reduzieren die Spawngeschwindigkeit drastisch"
+		Tooltip:
+			'''
+			Alle lebenden Bossgegner reduzieren drastisch die Spawngeschwindigkeit regulärer Gegner.
+			Dies verhindert auch, dass Schleimregen während eines Bosskampfs auftritt.
+			'''
+	}
+
+	ChargeMeter: {
+		Label: "[i:CalamityMod/DraedonPowerCell] Anzeigen des Ladungsmessers"
+		Tooltip:
+			'''
+			Aktiviert das UI für den Ladungsmesser, der die aktuelle Ladung der vom Spieler gehaltenen Waffe anzeigt.
+			Der Ladungsmesser ist immer verborgen, wenn keine Waffe gehalten wird, die eine Aufladung erfordert.
+			'''
+	}
+
+	ChargeMeterPosX: {
+		Label: "[i:LaserRuler] Position des Ladungsmessers auf der X-Achse"
+		Tooltip:
+			'''
+			Die X-Position des Ladungsmessers, gemessen als Prozentsatz der Bildschirmbreite.
+			Der Balken kann mit der Maus verschoben werden, wenn die Positionen gesperrt sind.
+			'''
+	}
+
+	ChargeMeterPosY: {
+		Label: "[i:LaserRuler] Position des Ladungsmessers auf der Y-Achse"
+		Tooltip:
+			'''
+			Die Y-Position des Ladungsmessers, gemessen als Prozentsatz der Bildschirmhöhe.
+			Der Balken kann mit der Maus verschoben werden, wenn die Positionen gesperrt sind.
+			'''
+	}
+
+	ChilledWaterRework: {
+		Label: "[i:ArcticDivingGear] Überarbeitung von gekühlten Wassers"
+		Tooltip: Wenn aktiviert, entzieht Wasser in den Schnee- und Eisbiomen dem Spieler schnell den Atem, anstatt zu kühlen.
+	}
+
+	CooldownDisplay: {
+		Label: "[i:CalamityMod/NebulousCore] Anzeigemodus des Abkühlungsracks"
+		Tooltip:
+			'''
+			Fügt das Abkühlungsrack hinzu, das alle wichtigen Abklingzeiten direkt unter Buffs und Debuffs anzeigt.
+			Setze dies auf 1, um das Abkühlungsrack im kompakten Modus anzuzeigen, und auf 0, um es vollständig auszublenden.
+			'''
+	}
+
+	DebuffDisplay: {
+		Label: "[i:FlaskofIchor] Anzeigen der Gegnerdebuffs"
+		Tooltip: Fügt eine Reihe von Debuff-Symbolen über allen Bossen und Mini-Bossen hinzu.
+	}
+
+	EarlyHardmodeProgressionRework: {
+		Label: "[i:Pwnhammer] Überarbeitung des Früh-Hardmode-Fortschritts"
+		Tooltip:
+			'''
+			Dämonenaltäre erzeugen nicht länger Erze und Karmin/Verderbnis-Blöcke, wenn sie zerstört werden.
+			Die Fleischwand erzeugt beim ersten Besiegen Kobalt- und Palladium-Erz.
+			Der erste Mech-Boss, den du bekämpfst, hat 20% weniger HP und Schaden und erzeugt beim ersten Besiegen Mythril- und Oreichalkos-Erz.
+			Der zweite Mech-Boss, den du bekämpfst, hat 10% weniger HP und Schaden und erzeugt beim ersten Besiegen Adamantit- und Titan-Erz.
+			Der dritte Mech-Boss erzeugt beim ersten Besiegen Heiligeserz.
+			'''
+	}
+
+	FasterBaseSpeed: {
+		Label: "[i:HermesBoots] Erhöhung der Grundbewegungsgeschwindigkeit"
+		Tooltip:
+			'''
+			Erhöht die Grundbewegungsgeschwindigkeit des Spielers erheblich, indem ihm immer +50% Bewegungsgeschwindigkeit gegeben wird.
+			Diese Einstellung hat keine Wirkung, wenn die Mod Terraria Overhaul geladen ist.
+			Calamity ist auf diese Einstellung ausgelegt.
+			'''
+	}
+
+	FasterFallHotkey: {
+		Label: "[i:CalamityMod/BallAndChain] Schnelleres Fallen aktivieren"
+		Tooltip:
+			'''
+			Wenn aktiviert, kannst du die NACH-UNTEN-Taste gedrückt halten, während du in der Luft bist, um schneller nach unten zu beschleunigen.
+			Diese Konfiguration erhöht nicht deine maximale Fallgeschwindigkeit, sondern wie schnell du sie erreichen kannst.
+			Calamity ist auf diese Einstellung ausgelegt.
+			'''
+	}
+
+	FasterJumpSpeed: {
+		Label: "[i:FrogLeg] Erhöhung der Grundsprunggeschwindigkeit"
+		Tooltip:
+			'''
+			Erhöht leicht die Grundsprunggeschwindigkeit des Spielers.
+			Calamity ist auf diese Einstellung ausgelegt.
+			'''
+	}
+
+	FasterTilePlacement: {
+		Label: "[i:ArchitectGizmoPack] Erhöhung der Grundbau-Geschwindigkeit"
+		Tooltip:
+			'''
+			Erhöht erheblich, wie schnell der Spieler Felder und Wände platzieren kann.
+			Diese Konfiguration addiert sich zu den Effekten des Ziegellegers, des Tragbaren Zementmischers und anderer Accessoires.
+			'''
+	}
+
+	FlightBar: {
+		Label: "[i:CalamityMod/DrewsWings] Flugleistenanzeige"
+		Tooltip: Aktiviert die UI der Flugleiste, die die Flugfähigkeiten des Spielers anzeigt
+	}
+
+	FlightBarPosX: {
+		Label: "[i:LaserRuler] X-Position der Flugleiste"
+		Tooltip:
+			'''
+			Die X-Position der Flugleiste, gemessen als % deiner Bildschirmhöhe.
+			Die Anzeige kann mit der Maus verschoben werden. Wenn die Position der Anzeige fixiert ist.
+			'''
+	}
+
+	FlightBarPosY: {
+		Label: "[i:LaserRuler] Y-Position der Flugleiste"
+		Tooltip:
+			'''
+			Die Y-Position der Flugleiste, gemessen als % deiner Bildschirmhöhe.
+			Die Anzeige kann mit der Maus verschoben werden. Wenn die Position der Anzeige fixiert ist.
+			'''
+	}
+
+	ForceTownSafety: {
+		Label: "[i:Sunflower] Erzwingen der Stadtsicherheit"
+		Tooltip:
+			'''
+			Wirkt den Experten- und Meistermodus entgegen, der das Spawnen von Feinden in der Nähe von Städten erlaubt, indem die Spawngeschwindigkeiten stark reduziert werden.
+			Dies kann unbeabsichtigte Nebeneffekte haben, wie zum Beispiel die Erschwernis des Auffindens von Kreaturen.
+			'''
+	}
+
+	HigherJumpHeight: {
+		Label: "[i:ShinyRedBalloon] Erhöhung der Grundsprunghöhe"
+		Tooltip:
+			'''
+			Erhöht die Grundsprunghöhe des Spielers um 10%, sodass er 7 Felder hoch springen kann.
+			Calamity ist auf diese Einstellung ausgelegt.
+			'''
+	}
+
+	MeterPosLock: {
+		Label: "[i:GemLockTopaz] Sperren der Position von Messanzeigen"
+		Tooltip:
+			'''
+			Verhindert das Klicken auf die Messanzeigen für Tarnung, Ladung, Wut und Adrenalin.
+			Dadurch können sie nicht mehr mit der Maus verschoben werden.
+			'''
+	}
+
+	NerfExpertDebuffs: {
+		Label: "[i:AnkhCharm] Entfernung der erhöhten Debuff-Dauer im Expertenmodus"
+		Tooltip:
+			'''
+			Deaktiviert die Verdopplung der Dauer von Debuffs auf den Spieler im Expertenmodus (und die Verdreifachung im Meistermodus).
+			Calamity ist auf diese Einstellung ausgelegt.
+			'''
+	}
+
+	ParticleLimit: {
+		Label: "[i:FragmentStardust] Maximale Partikelanzahl"
+		Tooltip:
+			'''
+			Setzt das Maximum an Partikeleffekten fest, die gleichzeitig existieren können.
+			Partikel sind separat von Staub und Eingeweiden.
+			Drehe sie herunter, um die Leistung zu verbessern.
+			'''
+	}
+
+	RageMeterPosX: {
+		Label: "[i:LaserRuler] Position des Wut-Messers auf der X-Achse"
+		Tooltip:
+			'''
+			Die X-Position des Wut-Messers, gemessen als Prozentsatz der Bildschirmbreite.
+			Der Balken kann mit der Maus verschoben werden, wenn die Positionen gesperrt sind.
+			'''
+	}
+
+	RageMeterPosY: {
+		Label: "[i:LaserRuler] Position des Wut-Messers auf der Y-Achse"
+		Tooltip:
+			'''
+			Die Y-Position des Wut-Messers, gemessen als Prozentsatz der Bildschirmhöhe.
+			Der Balken kann mit der Maus verschoben werden, wenn die Positionen gesperrt sind.
+			'''
+	}
+
+	RemoveReforgeRNG: {
+		Label: "[i:TinHammer] Entferne der Zufälliges Nachschmieden"
+		Tooltip:
+			'''
+			Entfernt die Zufälligkeit beim Nachschmieden beim Goblin-Tüftlers für Waffen und Accessoires.
+			Deaktiviere dies, wenn du Mods verwendest, die die Nachschmieden bereits ändern, um Konflikte zu vermeiden.
+			'''
+	}
+
+	RipperMeterShake: {
+		Label: "[i:CalamityMod/RedLightningContainer] Wackeln der Wut- und Adrenalin-Messer"
+		Tooltip:
+			'''
+			Wie stark die Wut- und Adrenalin-Messer beim Gebrauch wackeln.
+			Setze es auf null, um das Wackeln vollständig zu deaktivieren.
+			'''
+	}
+
+	Screenshake: {
+		Label: "[i:CalamityMod/WavePounder] Bildschirmwackeln"
+		Tooltip: Aktiviere oder deaktiviere alle Bildschirmwackel-Effekte.
+	}
+
+	ShopNewAlert: {
+		Label: "[i:GoldChest] Benachrichtigung über neue Shop-Inventare"
+		Tooltip: Fügt ein Symbol hinzu, das über Stadt NPCs erscheint, wenn sie neue Gegenstände in ihren Läden haben.
+	}
+
+	SpeedrunTimer: {
+		Label: "[i:Stopwatch] Anzeigen des Speedrun-Timers"
+		Tooltip:
+			'''
+			Aktiviert einen Ingame-Speedrun-Timer, der die Ingame-Zeit bis auf Millisekunden anzeigt.
+			Eine zweite Zeile zeigt die Zeit deines jüngsten Boss-Todes an.
+			Die Zeit wird pro Spieler verfolgt und zählt nur die Zeit, während du in einer Welt geladen bist.
+			'''
+	}
+
+	SpeedrunTimerPosX: {
+		Label: "[i:LaserRuler] Position des Speedrun-Timers auf der X-Achse"
+		Tooltip:
+			'''
+			Die X-Position des Speedrun-Timers, gemessen als Prozentsatz der Bildschirmbreite.
+			Der Balken kann mit der Maus verschoben werden, wenn die Positionen gesperrt sind.
+			'''
+	}
+
+	SpeedrunTimerPosY: {
+		Label: "[i:LaserRuler] Position des Speedrun-Timers auf der Y-Achse"
+		Tooltip:
+			'''
+			Die Y-Position des Speedrun-Timers, gemessen als Prozentsatz der Bildschirmhöhe.
+			Der Balken kann mit der Maus verschoben werden, wenn die Positionen gesperrt sind.
+			'''
+	}
+
+	StealthInvisibility: {
+		Label: "[i:CalamityMod/StealthHairDye] Unsichtbarkeit bei Tarnung"
+		Tooltip:
+			'''
+			Aktiviert das allmähliche Unsichtbarwerden des Spielers, wenn die Schufttarnung steigt.
+			Dieser Effekt ähnelt optisch der Tarnung der PilzmitRüstung.
+			'''
+	}
+
+	StealthMeter: {
+		Label: "[i:CalamityMod/EclipseMirror] Anzeigen des Tarnungsmeter"
+		Tooltip:
+			'''
+			Aktiviert das Tarnungsmeter-UI, das den aktuellen Tarnungslevel des Spielers anzeigt.
+			Das Tarnungsmeter ist immer verborgen, wenn keine Schuftrüstung getragen wird.
+			'''
+	}
+
+	StealthMeterPosX: {
+		Label: "[i:LaserRuler] Position des Tarnungsmeter auf der X-Achse"
+		Tooltip:
+			'''
+			Die X-Position des Tarnungsmeter, gemessen als Prozentsatz der Bildschirmbreite.
+			Der Balken kann mit der Maus verschoben werden, wenn die Positionen gesperrt sind.
+			'''
+	}
+
+	StealthMeterPosY: {
+		Label: "[i:LaserRuler] Position des Tarnungsmeter auf der Y-Achse"
+		Tooltip:
+			'''
+			Die Y-Position des Tarnungsmeter, gemessen als Prozentsatz der Bildschirmhöhe.
+			Der Balken kann mit der Maus verschoben werden, wenn die Positionen gesperrt sind.
+			'''
+	}
+
+	SulphuricWaterMeterPosX: {
+		Label: "[i:LaserRuler] Position des Schwefelwasser-Giftmessers auf der X-Achse"
+		Tooltip:
+			'''
+			Die X-Position des Schwefelwasser-Giftmessers, gemessen als Prozentsatz der Bildschirmbreite.
+			Der Balken kann mit der Maus verschoben werden, wenn die Positionen gesperrt sind.
+			'''
+	}
+
+	SulphuricWaterMeterPosY: {
+		Label: "[i:LaserRuler] Position des Schwefelwasser-Giftmessers auf der Y-Achse"
+		Tooltip:
+			'''
+			Die Y-Position des Schwefelwasser-Giftmessers, gemessen als Prozentsatz der Bildschirmhöhe.
+			Der Balken kann mit der Maus verschoben werden, wenn die Positionen gesperrt sind.
+			'''
+	}
+
+	PotionSelling: {
+		Label: "[i:SpelunkerPotion] Verkauf von Tränken durch Stadt NPCs"
+		Tooltip:
+			'''
+			Ermöglicht es Stadt NPCs, verschiedene Tränke zu verkaufen.
+			Bestimmte Tränke werden nach dem Besiegen bestimmter Bosse verkauft.
+			'''
+	}
+
+	TownNPCSpawnRateMultiplier: {
+		Label: "[i:GuideVoodooDoll] Multiplikator für die Spawnwarscheinlichkeit von Stadt NPCs"
+		Tooltip:
+			'''
+			Multipliziert direkt die Warscheinlichkeit, mit der Stadt NPCs erscheinen und wieder erscheinen.
+			Dies reduziert Wartezeiten, wenn ein Boss oder ein Ereignis deine gesamte Stadt auslöscht.
+			'''
+	}
+
+	TownNPCsSpawnAtNight: {
+		Label: "[i:ClothierVoodooDoll] Stadt NPCs erscheinen bei Nacht"
+		Tooltip: Wenn aktiviert, können Stadt NPCs und der Greis bei Nacht erscheinen und wieder erscheinen.
+	}
+
+	VanillaCooldownDisplay: {
+		Label: "[i:HealingPotion] Anzeigen der Abklingzeiten für Vanilla-Debuffs"
+		Tooltip:
+			'''
+			Fügt das Abkühlungsrad für Vanilla-Debuffs Trankkrankheit und Absolutes Chaos hinzu.
+			Diese werden nicht aus deiner Buff-Liste entfernt, können jedoch die Sichtbarkeit verbessern.
+			'''
+	}
+
+	WikiStatusMessage: {
+		Label: "[i:Book] Wiki-Statusmeldung"
+		Tooltip: Aktiviere oder deaktiviere die Statusmeldung zur offiziellen Calamity Wiki, die beim Betreten der Welt angezeigt wird.
+	}
+}

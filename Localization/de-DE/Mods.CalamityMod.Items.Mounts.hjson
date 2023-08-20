@@ -1,0 +1,63 @@
+Brimrose: {
+	DisplayName: Brimrose
+	Tooltip: Beschwört eine Brimrose zum Fliegen.
+}
+
+ExoThrone: {
+	DisplayName: Exo Box
+	Tooltip:
+		'''
+		Materialisiert einen recht gemütlichen und extrem wendigen fliegenden Exo Thron
+		Halte [KEY] gedrückt, während Sie auf dem Thron sitzen, um sich langsamer und präziser zu bewegen.
+		"Ein bequemer Gamer ist ein gefährlicher Gamer"
+		'''
+}
+
+Fabsol: {
+	DisplayName: Prinzessiningeist in einer Flasche
+	Tooltip:
+		'''
+		Beschwört den Geist von Cirrus, die betrunkene Prinzessin, in ihrer Alicorngestalt
+		Beim aufsteigen verwandelt sich Cirrus, beim absteigen verwandelt sie sich zurück
+		'''
+}
+
+FollyFeed: {
+	DisplayName: Folly Feed
+	Tooltip: Beschwört eine Monstrosität
+}
+
+GazeOfCrysthamyr: {
+	DisplayName: Der Blick des Crysthamyr
+	Tooltip:
+		'''
+		Beschwört einen Schattendrachen
+		Halte W, um schneller aufzusteigen
+		'''
+}
+
+TheCartofGods: {
+	DisplayName: Der Wagen der Götter
+	Tooltip: ""
+}
+
+OnyxExcavatorKey: {
+	DisplayName: Onyx Bohrerschlüssel
+	Tooltip:
+		'''
+		Beschwört einen Bohrer, um die Welt zu durchbohren, damit ihr die ganze nette Weltgeneration zerstören könnt.
+		Mit völliger Missachtung aller Lebewesen, die diese Gebiete bewohnen, bin ich mir sicher das die EPA und PETA
+		danach mit Ihnen sprechen möchte.
+		Die Zerstörungskraft skaliert mit der stärksten Spitzhacke in deinem Inventar
+		'''
+}
+
+SuspiciousLookingJellyBean: {
+	DisplayName: Verdächtig aussehender Jelly Bean
+	Tooltip: JELLY BEAN
+}
+
+TundraLeash: {
+	DisplayName: Tundra Leine
+	Tooltip: Beschwört einen Rimehound mount zum reiten
+}

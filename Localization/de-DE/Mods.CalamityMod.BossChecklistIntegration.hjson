@@ -1,0 +1,19 @@
+AcidRainT1: {
+	EntryName: Saurer Regen
+	SpawnInfo: Benutzt ein [i:CalamityMod/CausticTear] oder warte bis er natürlich vorkommt nachdem das Auge von Cthulhu besiegt wurde.
+}
+
+AcidRainT2: {
+	EntryName: Saurer Regen (Stufe 2)
+	SpawnInfo: Benutzt ein [i:CalamityMod/CausticTear] oder warte bis er natürlich vorkommt nachdem die Wassergeißel besiegt wurde.
+}
+
+AcidRainT3: {
+	EntryName: Saurer Regen (Stufe 3)
+	SpawnInfo: Benutzt ein [i:CalamityMod/CausticTear] oder warte bis er natürlich vorkommt nachdem der Polterghast besiegt wurde.
+}
+
+BossRush: {
+	EntryName: Boss Rush
+	SpawnInfo: Benutzt ein [i:CalamityMod/Terminus] was man tief unten in den Abyssalen Weiten findet.
+}

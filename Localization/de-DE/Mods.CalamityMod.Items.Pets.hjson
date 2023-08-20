@@ -1,0 +1,198 @@
+AbyssShellFossil: {
+	DisplayName: Abyss Muschelfossil
+	Tooltip:
+		'''
+		Ein Fossil eines prähistorischen Lebewesens, lange vergessen in der tiefen Abgrunds
+		Ruft einen Haustier-Escargidolon-Schneckenbegleiter herbei, der dir folgt
+		Verringert leicht die Fähigkeit von Kreaturen, dich im Abgrund zu bemerken, wenn es ausgerüstet ist
+		'''
+}
+
+BearsEye: {
+	DisplayName: Bärenauge
+	Tooltip: Ruft einen Haustier-Wächterengel herbei
+}
+
+BloodyVein: {
+	DisplayName: Blutige Ader
+	Tooltip: Ruft einen amalgamierten Fleischhaufen herbei
+}
+
+BrimstoneJewel: {
+	DisplayName: Schwefeljuwel
+	Tooltip:
+		'''
+		'Die ultimative Belohnung für die Niederlage eines solchen Biests...
+		Wer hätte gedacht, dass sie so verdammt niedlich sein würde!'
+		'''
+}
+
+CharredRelic: {
+	DisplayName: Versengtes Relikt
+	Tooltip: Enthält eine geringe Menge Schwefel
+}
+
+ChromaticOrb: {
+	DisplayName: Chromatische Kugel
+	Tooltip:
+		'''
+		Ruft ein altes Drachenlicht-Haustier herbei, das in der Nähe Feinde und Gefahrenquellen hervorhebt
+		Bietet eine geringe Menge Licht im Abgrund
+		'Es leuchtet warm in deiner Hand'
+		'''
+}
+
+CosmicPlushie: {
+	DisplayName: Kosmisches Plüschtier
+	Tooltip:
+		'''
+		Ruft den Verschlinger der Kosmos...?
+		Unterdrückt freundliche Rote Teufel
+		'Scharfe Gegenstände möglicherweise enthalten'
+		'''
+}
+
+EnchantedButterfly: {
+	DisplayName: Verzauberte Schmetterling
+	Tooltip:
+		'''
+		Ruft ein geheimnisvolles Libellenlicht-Haustier herbei
+		Bietet eine geringe Menge Licht im Abgrund
+		'Füttere ihn mit Schmetterlingen, um ihn stark zu halten!'
+		'''
+}
+
+ForgottenDragonEgg: {
+	DisplayName: Vergessenes Drachenei
+	Tooltip: Ruft Akato, Sohn von Yharon, an deine Seite
+}
+
+FoxDrive: {
+	DisplayName: Fuchs-Antrieb
+	Tooltip:
+		'''
+		Enthält 1 Datei:
+		'Fox.cs'
+		'''
+}
+
+GeyserShell: {
+	DisplayName: Geysir-Muschel
+	Tooltip: Ruft eine kleine Flak-Einsiedlerkrebs herbei
+}
+
+HermitsBoxofOneHundredMedicines: {
+	DisplayName: Einsiedlers Kiste mit Hundert Medikamenten
+	Tooltip:
+		'''
+		Ruft den Dritten Weisen herbei
+		Benutze den Gegenstand, indem du <right> in der Hotbar drückst, um den Segen des Dritten Weisen umzuschalten
+		Mit dem Segen wird der Spieler mit vollem Leben statt mit der Hälfte spawnen
+		'Während das Eis in den Quellen schmilzt
+		Und die Wellen das alte Mooshaar waschen...
+		Danke, Auf Wiedersehen'
+		'''
+}
+
+JoyfulHeart: {
+	DisplayName: Freudiges Herz
+	Tooltip: Es ist seltsam warm. Zieht das Verbotene an
+}
+
+Levi: {
+	DisplayName: Levi
+	Tooltip: Ruft ein Baby-Leviathan-Haustier herbei
+}
+
+LittleLight: {
+	DisplayName: Kleines Licht
+	Tooltip:
+		'''
+		Ruft eine kleine Konstruktion herbei, die dir folgt und eine große Menge Licht spendet
+		Bietet eine große Menge Licht im Abgrund
+		'Es hat dich lange gesucht'
+		'''
+}
+
+McNuggets: {
+	DisplayName: McNuggets
+	Tooltip: "'Diese Hühnernuggets sind nicht zum Essen gedacht!'"
+}
+
+PineapplePet: {
+	DisplayName: Ananas
+	Tooltip: Ruft eine Ananas herbei
+}
+
+PlagueCaller: {
+	DisplayName: Pestrufer
+	Tooltip: Ruft ein Baby-Pestbringer-Haustier herbei
+}
+
+PrimroseKeepsake: {
+	DisplayName: Primel-Erinnerungsstück
+	Tooltip: Haben sie gerade...?
+}
+
+RadiatingCrystal: {
+	DisplayName: Strahlender Kristall
+	Tooltip:
+		'''
+		Ruft ein Strahlerlicht-Haustier herbei
+		Bietet eine geringe Menge Licht im Abgrund
+		'Der Kristall enthält Spuren von Holothurin'
+		'''
+}
+
+RomajedaOrchid: {
+	DisplayName: Romajeda-Orchidee
+	Tooltip: Ruft einen niemals vergessenen Freund herbei
+}
+
+RottingEyeball: {
+	DisplayName: Verrottendes Auge
+	Tooltip: Ruft eine korrupte Ansammlung herbei
+}
+
+StrangeOrb: {
+	DisplayName: Seltsame Kugel
+	Tooltip:
+		'''
+		Ruft ein Miniatur-Ozean-Geist-Licht-Haustier herbei
+		Bietet eine große Menge Licht unter Wasser
+		'''
+}
+
+SuspiciousLookingNOU: {
+	DisplayName: Verdächtig aussehendes NEIN DU
+	Tooltip:
+		'''
+		Ruft einen Lil Lorde herbei, der Licht spendet
+		'Es lebt!'
+		'''
+}
+
+TheEtomer: {
+	DisplayName: Der Etomer
+	Tooltip:
+		'''
+		Ruft einen elektrischen Unruhestifter herbei
+		Eine kleine Notiz ist angehängt:
+		'Danke, Aloe! Von Ben sehr geschätzt'
+		'''
+}
+
+ThiefsDime: {
+	DisplayName: Diebesdime
+	Tooltip:
+		'''
+		Ruft Goldie die Schuftnmünze herbei, um nahegelegene Münzen zu sammeln und deinen Weg zu erhellen
+		Bietet eine geringe Menge Licht im Abgrund
+		'Einst wertlose Schätze, jetzt ein Relikt der Gesellschaft eines Diebes'
+		'''
+}
+
+TrashmanTrashcan: {
+	DisplayName: Mülltonne
+	Tooltip: Ruft den Müllmann herbei
+}

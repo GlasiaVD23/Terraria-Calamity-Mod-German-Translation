@@ -1,0 +1,311 @@
+Abombination: {
+	DisplayName: Abombination
+	Tooltip:
+		'''
+		Ruft den Pestbringer Goliath herbei, wenn im Dschungel verwendet
+		Wird wuetend außerhalb des Dschungels
+		Nicht verbrauchbar
+		'''
+}
+
+AstralChunk: {
+	DisplayName: Astrale Brocken
+	Tooltip:
+		'''
+		Ruft Astrum Aureus herbei, wenn in der Astralen Infektion verwendet
+		Wird wuetend tagsüber außerhalb der Astralen Infektion
+		Nicht verbrauchbar
+		'''
+}
+
+BloodwormItem: {
+	DisplayName: Blutwurm
+	Tooltip:
+		'''
+		Ruft den Alten Herzog herbei, wenn als Köder im Schwefelmeer verwendet
+		Wird wuetend außerhalb des Schwefelmeeres
+		'''
+}
+
+BloodyWormFood: {
+	DisplayName: Blutiger Wurmköder
+	Tooltip:
+		'''
+		Ruft den Perforator-Schwarm herbei, wenn in der Purpur verwendet
+		Wird wuetend außerhalb der Untergrund-Purpur
+		Nicht verbrauchbar
+		'''
+}
+
+CeremonialUrn: {
+	DisplayName: Zeremonielle Urne
+	Tooltip:
+		'''
+		Verwenden Sie sie am Altar des Verfluchten, um die Höchste Hexe Calamitas herbeizurufen
+		Nicht verbrauchbar
+		'''
+}
+
+CharredIdol: {
+	DisplayName: Verkohltes Idol
+	Tooltip:
+		'''
+		Ruft die Brimstone Elementar herbei, wenn in den Schwefelkrägen verwendet
+		Wird wuetend außerhalb der Schwefelkrägen
+		Nicht verbrauchbar
+		'Benutzen auf eigene Gefahr'
+		'''
+}
+
+CosmicWorm: {
+	DisplayName: Kosmischer Wurm
+	Tooltip:
+		'''
+		Ruft den Verschlinger der Götter herbei
+		Nicht verbrauchbar
+		'''
+}
+
+CryoKey: {
+	DisplayName: Kryo-Schlüssel
+	GFBName: Pyro-Schlüssel
+	Tooltip:
+		'''
+		[SPAWN]
+		Wird wuetend außerhalb der Tundra
+		Nicht verbrauchbar
+		'''
+	SpawnNormal: Ruft Cryogen herbei, wenn in der Tundra verwendet
+	SpawnGFB: Ruft Pyrogen...? herbei, wenn in der Tundra verwendet
+}
+
+DeathWhistle: {
+	DisplayName: Todespfeife
+	Tooltip:
+		'''
+		Ruft den Ravager herbei
+		Nicht verbrauchbar
+		Eine sehr alte Tempelpfeife
+		'''
+}
+
+DecapoditaSprout: {
+	DisplayName: Decapodita-Spross
+	Tooltip:
+		'''
+		Ruft Krabulon herbei, wenn im Pilz-Biom verwendet
+		Wird wuetend außerhalb des Untergrund-Pilz-Bioms
+		Nicht verbrauchbar
+		'''
+}
+
+DesertMedallion: {
+	DisplayName: Wüstenmedaillon
+	Tooltip:
+		'''
+		Ruft die Wüstengeißel herbei, wenn in der Wüste verwendet
+		Wird wuetend außerhalb der Wüste
+		Nicht verbrauchbar
+		'''
+}
+
+EidolonTablet: {
+	DisplayName: Eidolon-Tablette
+	Tooltip:
+		'''
+		Ruft den Lunatic Cultist herbei
+		Nicht verbrauchbar
+		'''
+}
+
+ExoticPheromones: {
+	DisplayName: Exotische Pheromone
+	Tooltip:
+		'''
+		Ruft die Drachenfalter herbei, wenn im Dschungel verwendet
+		Wird wuetend außerhalb des Dschungels
+		Nicht verbrauchbar
+		Speziell formuliert, um drakonische Hybriden anzulocken
+		'''
+}
+
+EyeofDesolation: {
+	DisplayName: Auge der Verwüstung
+	// The GFB tag generates a new line below when placed at the end of a line
+	Tooltip:
+		'''
+		Ruft den Calamitas Klon herbei, wenn nachts verwendet[GFB]
+		Wird wuetend tagsüber
+		Nicht verbrauchbar
+		'Heute Nacht wird schrecklich...'
+		'''
+	GFBInfo: Erzeugt eine quadratische Arena aus Blöcken, in deren Zentrum du stehst.
+}
+
+CausticTear: {
+	DisplayName: Ätzende Träne
+	Tooltip:
+		'''
+		Verursacht einen sauren Platzregen im Schwefelmeer
+		Nicht verbrauchbar
+		'''
+}
+
+MartianDistressRemote: {
+	DisplayName: Marsianischer Hilferuf-Sender
+	Tooltip:
+		'''
+		Ruft die Marsianische Verrücktheit herbei
+		Nicht verbrauchbar
+		'''
+}
+
+NecroplasmicBeacon: {
+	DisplayName: Nekroplasmischer Leuchtfeuer
+	Tooltip:
+		'''
+		Ruft Polterghast herbei, wenn in der Verlies verwendet
+		Wird wuetend in großen Räumen
+		Nicht verbrauchbar
+		'Es ist unheimlich'
+		'''
+}
+
+NO: {
+	DisplayName: NEIN
+	Tooltip: DU
+}
+
+OldPowerCell: {
+	DisplayName: Alte Energiezelle
+	Tooltip:
+		'''
+		Ruft den Golem herbei, wenn im Dschungeltempel verwendet
+		Wird wuetend außerhalb des Dschungeltempels
+		Nicht verbrauchbar
+		'''
+}
+
+OverloadedSludge: {
+	DisplayName: Überlasteter Schlamm
+	Tooltip:
+		'''
+		Ruft den Schleimgott herbei
+		Nicht verbrauchbar
+		'Es sieht verdorben aus'
+		'''
+}
+
+Portabulb: {
+	DisplayName: Tragknospe
+	Tooltip:
+		'''
+		Ruft Plantera herbei, wenn im Dschungel verwendet
+		Wird wuetend außerhalb des Untergrund-Dschungels
+		Nicht verbrauchbar
+		'''
+}
+
+ProfanedCore: {
+	DisplayName: Entweihter Kern
+	Tooltip:
+		'''
+		Ruft Providence herbei, wenn in Heilgen oder Unterwelt verwendet
+		Einzigartiger Beutezug ändert sich je nach dem bekämpften Biom
+		Wird wuetend bei Kämpfen während der Nachtzeit
+		Nicht verbrauchbar
+		Der Kern der entweihten Flamme
+		'''
+}
+
+ProfanedShard: {
+	DisplayName: Entweihter Splitter
+	Tooltip:
+		'''
+		[SPAWN]
+		Wird wuetend außerhalb des Heilgen oder Unterwelt
+		Nicht verbrauchbar
+		Ein Splitter der entweihten Flamme
+		'''
+	SpawnNormal: Ruft die Entweihten Wächter herbei, wenn in Heilgen oder Unterwelt während des Tages verwendet
+	SpawnRemix: Ruft die Entweihten Wächter herbei, wenn in Heilgen oder Unterwelt verwendet
+}
+
+RuneofKos: {
+	DisplayName: Rune von Kos
+	Tooltip:
+		'''
+		Enthält die von den Wächtern des kosmischen Verschlingers unerbittlich gejagte Macht
+		[SPAWN]
+		Nicht verbrauchbar
+		Ein Relikt der entweihten Flamme
+		'''
+	SpawnInfo: Wenn es in bestimmten Gebieten der Welt eingesetzt wird, wird es sie freisetzen
+	SpawnVoid:
+		'''
+		Ruft den Grenzenlose Leere herbei
+		Wird wuetend an der Oberfläche
+		'''
+	SpawnSignus: Ruft Signus, Gesandter des Verschlingers herbei
+	SpawnWeaver: Ruft den Sturmweber herbei
+}
+
+SandstormsCore: {
+	DisplayName: Sandsturm-Kern
+	Tooltip:
+		'''
+		Ruft den Großen Sandhai herbei, wenn im [BIOM] verwendet
+		Nicht verbrauchbar
+		'''
+}
+
+Seafood: {
+	DisplayName: Meeresfrüchte
+	Tooltip:
+		'''
+		Ruft die Wassergeißel herbei, wenn im Schwefelmeer verwendet
+		Wird wuetend außerhalb des Schwefelmeeres
+		Nicht verbrauchbar
+		'''
+}
+
+Starcore: {
+	DisplayName: Sternenkern
+	Tooltip:
+		'''
+		Ruft Astrum Deus am Astralen Leuchtfeuer herbei, wird aber nicht verbraucht
+		Wird wuetend tagsüber
+		'Mögen die Sterne deinen Weg leiten'
+		'''
+}
+
+Teratoma: {
+	DisplayName: Teratoma
+	Tooltip:
+		'''
+		Ruft den Bienenmagen herbei, wenn in der Verderbnis verwendet
+		Wird wuetend außerhalb der Untergrund-Verderbnis
+		Nicht verbrauchbar
+		'''
+}
+
+Terminus: {
+	DisplayName: Terminus
+	GFBName: Ogskule
+	Tooltip:
+		'''
+		Aktiviert den Boss Rush Modus, bei erneuter Verwendung wird der Boss Rush Modus deaktiviert
+		Während des Boss Rush werden alle Käbel und drahtgebundenen Geräte deaktiviert
+		'''
+}
+
+YharonEgg: {
+	DisplayName: Gesegnetes Phönix-Ei
+	Tooltip:
+		'''
+		Ruft Yharon, den Drachen der Wiedergeburt, herbei
+		Wird wütend außerhalb der Feuerwände
+		Nicht verbrauchbar
+		Ein Abbild eines Phoenix-Dracheneis, das zur Anbetung verwendet wird
+		'''
+}

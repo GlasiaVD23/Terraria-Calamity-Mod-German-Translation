@@ -1,0 +1,1976 @@
+Abaddon: {
+	DisplayName: Abaddon
+	Tooltip: Gewährt Immunität gegen Brimstone Flames und Searing Lava
+}
+
+AbyssalAmulet: {
+	DisplayName: Abyssales Amulett
+	Tooltip:
+		'''
+		Angriffe fügen den Crush-Depth-Debuff hinzu
+		Gewährt Immunität gegen den Crush-Depth-Debuff
+		Während im Abyss erhältst du 10% erhöhte maximale Lebenspunkte
+		'''
+}
+
+AbyssalDivingGear: {
+	DisplayName: Abyssale Tauchausrüstung
+	Tooltip:
+		'''
+		Reduziert den durch den Druck des Abyss verursachten Schaden, während du außer Atem bist
+		Entfernt den Blutungseffekt, der durch den Abyss verursacht wird
+		Gewährt die Fähigkeit zu schwimmen und verlängert die Unterwasseratmung erheblich
+		Bietet Unterwasserlicht und extra Mobilität auf Eis
+		Bietet eine mäßige Menge Licht im Abyss
+		Verringert erheblich den Atemverlust im Abyss
+		'''
+}
+
+AbyssalDivingSuit: {
+	DisplayName: Abyssaler Tauchanzug
+	Tooltip:
+		'''
+		Verwandelt den Träger in einen gepanzerten Taucher
+		Erhöht die maximale Bewegungsgeschwindigkeit und Beschleunigung unter Wasser, du bewegst dich jedoch außerhalb des Wassers langsam
+		Die gepanzerten Platten des Anzugs erhöhen die Schadensreduktion um 15%
+		Die Platten nehmen nur Schaden, wenn der erlittene Schaden über 50 liegt
+		Nachdem der Anzug zu viel Schaden genommen hat, dauert es 3 Minuten, bis die gepanzerten Platten regenerieren
+		Reduziert den durch den Druck des Abyss verursachten Schaden, während du außer Atem bist
+		Entfernt den Blutungseffekt, der durch den Abyss in allen Schichten außer dem Void verursacht wird
+		Gewährt die Fähigkeit zu schwimmen und verlängert die Unterwasseratmung erheblich
+		Bietet Unterwasserlicht und extra Mobilität auf Eis
+		Bietet eine mäßige Menge Licht im Abyss
+		Verringert erheblich den Atemverlust im Abyss
+		Verringert die Fähigkeit von Kreaturen, dich im Abyss zu erkennen
+		Verringert die Verteidigungsreduktion, die der Abyss verursacht
+		Gewährt Immunität gegen das schwefelhaltige Wasser
+		Ermöglicht es dir, schneller in Flüssigkeiten zu fallen
+		'''
+}
+
+AbyssalMirror: {
+	DisplayName: Abyss-Spiegel
+	Tooltip:
+		'''
+		Reduziert die Aggression von Feinden erheblich, auch im Abyss
+		Stealth erzeugt 25% schneller, wenn du still stehst, und 12% schneller, während du dich bewegst
+		Gewährt die Fähigkeit, Angriffen auszuweichen, indem du eine Wolke aus lumenylischer Flüssigkeit freisetzt, die in der Nähe befindliche Feinde schädigt und betäubt
+		Das Ausweichen eines Angriffs gewährt viel Stealth, hat jedoch eine Abklingzeit von 90 Sekunden
+		Diese Abklingzeit wird mit allen anderen Ausweichmanövern und Reflexen geteilt
+		'Im Abyss erreicht kein Licht die Tiefen des Ozeans'
+		'''
+}
+
+AeroStone: {
+	DisplayName: Aero-Stein
+	Tooltip:
+		'''
+		Erhöht die Flugzeit, Bewegungsgeschwindigkeit und Sprunggeschwindigkeit um 10%
+		Eines der alten Relikte
+		'''
+}
+
+Affliction: {
+	DisplayName: Affliction
+	Tooltip:
+		'''
+		Gibt dir und allen anderen Spielern in deinem Team +1 Lebensregeneration,
+		+10% maximale Lebenspunkte, 7% Schadensreduktion, 13 Verteidigung und 10% erhöhten Schaden
+		'''
+}
+
+AlchemicalFlask: {
+	DisplayName: Alchemistische Flasche
+	Tooltip:
+		'''
+		Alle Angriffe fügen die Seuche hinzu und gewähren Immunität gegen die Seuche
+		Geschosse erzeugen Seuchen-Suchende bei Feindtreffern
+		'''
+}
+
+AlluringBait: {
+	DisplayName: Verlockender Köder
+	Tooltip:
+		'''
+		30 erhöhte Angelkraft
+		Erhöht die Chance erheblich, Zutatenfisch zu fangen
+		Zutatenfisch-Ausbeute wird erhöht
+		'''
+}
+
+AmalgamatedBrain: {
+	DisplayName: Amalgamierter Gehirn
+	Tooltip:
+		'''
+		10% erhöhter Schaden
+		Schatten regnen herab, wenn du getroffen wirst
+		Gewährt die Fähigkeit, Angriffen auszuweichen
+		Das Ausweichen hat eine Abklingzeit von 90 Sekunden, die mit allen anderen Ausweichmanövern und Reflexen geteilt wird
+		Erhöht vorübergehend die kritische Trefferchance und den Beschwörungsschaden nach einem Ausweichmanöver
+		Du wirst nahegelegene Feinde verwirren, wenn du getroffen wirst
+		'''
+}
+
+AmbrosialAmpoule: {
+	DisplayName: Ambrosiales Ampullen
+	Tooltip:
+		'''
+		Du strahlst Licht aus
+		5% erhöhte Schadensreduktion und erhöhte Lebensregeneration
+		Gewährt Immunität gegen die Frost-, Gekühlte, Frostbrand-, Verfluchter Inferno- und Brennende Blut-Debuffs
+		'''
+}
+
+AmidiasPendant: {
+	DisplayName: Amidias' Anhänger
+	Tooltip: Lässt periodisch Prisma-Scherben herabregnen, die Feinde kurzzeitig betäuben können
+}
+
+AmidiasSpark: {
+	DisplayName: Amidias' Funken
+	Tooltip: Schaden nehmen setzt einen Funkenstoß frei
+}
+
+AncientFossil: {
+	DisplayName: Antikes Fossil
+	Tooltip: Erhöht das Bergbautempo um 10%
+}
+
+AnechoicPlating: {
+	DisplayName: Anechoic-Platten
+	Tooltip:
+		'''
+		Verringert die Fähigkeit von Kreaturen, dich im Abyss zu erkennen
+		Verringert die Verteidigungsreduktion, die der Abyss verursacht
+		'''
+}
+
+AngelicAlliance: {
+	DisplayName: Himmlische Allianz
+	Tooltip:
+		'''
+		Rufe die Macht des Himmels herauf, um deine Angriffe und Diener zu stärken
+		Mut, Erleuchtung, Glückseligkeit. Vereint im Urteil
+		+2 maximale Diener, 15% erhöhter Beschwörungsschaden und 8% erhöhter Schaden für alle anderen Klassen
+		Die Lebensregeneration wird beim Springen gesteigert
+		Drücke [TASTE], um dich selbst für 15 Sekunden mit Göttlichkeit zu umgeben
+		Während du unter dem Einfluss von Göttlichem Segen stehst, wird für jeden Diener, den du hast, ein Erzengel herbeigerufen, um dir im Kampf zu helfen
+		Jeder beschworene Engel heilt dich sofort um zwei Lebenspunkte
+		Alle Dienerangriffe fügen Verbrennungslähmung hinzu, und du erhältst einen flachen Gesundheitsschub von vier Gesundheitspunkten pro Sekunde
+		Dieser Effekt hat eine Abklingzeit von 1 Minute
+		'''
+}
+
+AngelTreads: {
+	DisplayName: Engelstritte
+	Tooltip:
+		'''
+		36% erhöhte Laufbeschleunigung
+		Erhöhte Flugzeit
+		Größere Mobilität auf Eis
+		Wasser- und Lavagang
+		Immunität gegen den On Fire!-Debuff
+		Vorübergehende Immunität gegen Lava
+		'Extremer Speed!'
+		'''
+}
+
+AquaticEmblem: {
+	DisplayName: Aquatisches Emblem
+	Tooltip:
+		'''
+		Meisten Ozean-Feinde werden freundlich und gewähren Wasseratmung
+		Beim Tauchen steigert sich langsam deine Verteidigung im Laufe der Zeit, verlangsamt jedoch auch die Bewegungsgeschwindigkeit
+		Die Verteidigungssteigerung und die Bewegungsgeschwindigkeitsreduzierung verschwinden langsam, während du außerhalb des Wassers bist
+		Die maximale Verteidigungssteigerung beträgt 50, die maximale Bewegungsgeschwindigkeitsreduzierung beträgt 10%
+		Bietet eine kleine Menge Licht im Abyss
+		Verringert mäßig den Atemverlust im Abyss
+		'''
+}
+
+AquaticHeart: {
+	DisplayName: Aquatisches Herz
+	Tooltip:
+		'''
+		Verwandelt den Träger in ein lichtemittierendes Wasserwesen
+		Die folgenden Effekte sind erst aktiv, nachdem Skeletron besiegt wurde:
+		Wow, du kannst jetzt schwimmen!
+		Tauchen gibt Ocean's Blessing, was die maximale Geschwindigkeit und Beschleunigung um 15% erhöht
+		Verringert erheblich den Atemverlust und bietet eine kleine Menge Licht im Abyss
+		Für Feinde, die dich berühren, wird der Glacial State ausgelöst
+		Du hast eine Eisschicht um dich herum, die 20% des Schadens absorbiert, jedoch nach einem Treffer zerbricht
+		Nach 30 Sekunden wird sich der Eis-Schild regenerieren
+		'''
+}
+
+ArchaicPowder: {
+	DisplayName: Archaisches Pulver
+	Tooltip:
+		'''
+		Erhöht das Bergbautempo um 15%
+		5% erhöhte Schadensreduktion und +10 Verteidigung, während du unter Tage oder in der Unterwelt bist
+		'''
+}
+
+AsgardianAegis: {
+	DisplayName: Asgardischer Aegis
+	Tooltip:
+		'''
+		Gewährt Immunität gegen Rückstoß
+		Immunität gegen die meisten Debuffs
+		+40 maximale Lebenspunkte und erhöhte Lebensregeneration
+		Gewährt einen kosmischen Inferno-Dash, der durch Feinde durchschlagen kann, ohne Schaden zu nehmen
+		Kann verwendet werden, um Feinde zu rammen
+		+20 Verteidigung, während du in Flüssigkeit untergetaucht bist
+		'''
+}
+
+AsgardsValor: {
+	DisplayName: Asgards Tapferkeit
+	Tooltip:
+		'''
+		Gewährt Immunität gegen Rückstoß
+		Immunität gegen die meisten Debuffs
+		+16 Verteidigung, während du in Flüssigkeit untergetaucht bist
+		+20 maximale Lebenspunkte
+		Gewährt einen heiligen Flammen-Dash, der durch Feinde durchschlagen kann, ohne Schaden zu nehmen
+		'''
+}
+
+AstralArcanum: {
+	DisplayName: Astrales Arkana
+	Tooltip:
+		'''
+		Gewährt Immunität gegen den astralen Infektionsdebuff
+		Steigert die Lebensregeneration selbst bei schädlichen Debuffs
+		Während du unter dem Einfluss eines schädlichen Debuffs stehst, erhältst du 15 Verteidigung
+		Drücke [TASTE], um die Teleportations-Benutzeroberfläche zu aktivieren, solange keine Bosse am Leben sind
+		'''
+}
+
+BadgeofBravery: {
+	DisplayName: Abzeichen der Tapferkeit
+	Tooltip:
+		'''
+		Erhöht den Nahkampfschaden und die Nahkampf-Krit-Chance um 10%
+		+5 Nahkampf-Rüstungsdurchdringung
+		'''
+}
+
+BlazingCore: {
+	DisplayName: Lodernnder Kern
+	Tooltip:
+		'''
+		Der sengende Kern der Profaned Goddess
+		Drücken von [TASTE] aktiviert Elysian Guard, umgibt dich mit leuchtendem Profaned-Kristall
+		Wirst du kurz nach der Einkapselung getroffen, wird der Kristall zerschmettert
+		Nach dem Zerschmettern spiralenförmige Wellen heiliger Sterne nach außen und der Schaden, den du erlitten hättest, wird auf 1 reduziert
+		Nach dem Zerschmettern geht dieser Schadensreduktionseffekt in den Abklingmodus
+		Wenn eine weitere Einkapselung während des Abklingmodus zerschmettert wird, werden Heilstars zwischen die Wellen von Sternen eingestreut
+		Der Schaden eines Treffers wird während des Abklingmodus nicht reduziert
+		Stellt im Abyss eine moderate Menge Licht bereit
+		'''
+}
+
+BloodflareCore: {
+	DisplayName: Blutflammender Kern
+	Tooltip:
+		'''
+		Du verlierst bis zu der Hälfte deiner Verteidigung nach einem Treffer
+		Verlorene Verteidigung regeneriert sich im Laufe der Zeit
+		Du gewinnst 1 Gesundheit für jede 1 Verteidigung, die während der Regeneration zurückgewonnen wird
+		'''
+}
+
+BloodPact: {
+	DisplayName: Blutpakt
+	Tooltip:
+		'''
+		Verdoppelt dein maximales HP
+		Du erleidest 25% der Zeit kritischen Schaden
+		Nach einem kritischen Treffer erhältst du für zehn Sekunden verschiedene Buffs
+		Alle während dieses Zeitraums konsumierten Heiltränke heilen 50% mehr Gesundheit
+		'''
+}
+
+BloodstainedGlove: {
+	DisplayName: Blutbefleckter Handschuh
+	Tooltip: Stealth-Angriffe haben +8 Rüstungsdurchdringung und heilen um 2 HP
+}
+
+BloodyWormScarf: {
+	DisplayName: Blutiger Wurmschal
+	Tooltip:
+		'''
+		7% erhöhte Schadensreduktion
+		10% erhöhter Nahkampfschaden
+		'''
+}
+
+BloodyWormTooth: {
+	DisplayName: Blutiger Wurmzahn
+	Tooltip: 10% erhöhter Nahkampfschaden
+}
+
+BloomStone: {
+	DisplayName: Blütenstein
+	Tooltip:
+		'''
+		Du regenerierst schnell Leben, während du auf dem Boden stehst
+		Dieser Effekt funktioniert am besten während des Tages
+		Blumen wachsen, wenn du auf Gras stehst
+		Zufällige Färbepflanzen wachsen, während du auf graslosem Erdboden stehst
+		Eines der antiken Relikte
+		'''
+}
+
+BlunderBooster: {
+	DisplayName: Blunder-Booster
+	Tooltip:
+		'''
+		12% erhöhter Schaden der Schuftn und 15% erhöhte Geschwindigkeit der Schuftnprojektile
+		Tarnung generiert 10% schneller
+		Beschwört eine rote Blitzaura, die den Spieler umgibt und nahegelegene Feinde elektrisiert
+		Drücke [TASTE], um 25% deiner maximalen Tarnung zu verbrauchen und einen schnellen Aufwärts-/Diagonalsprint auszuführen, der eine Spur von Blitzschlägen hinterlässt
+		Dieser Effekt hat eine Abklingzeit von 1 Sekunde, bevor er erneut verwendet werden kann
+		'''
+}
+
+Calamity: {
+	DisplayName: Katastrophe
+	Tooltip:
+		'''
+		Entzünde deinen Cursor mit den Flammen der Hexe, um ihn in eine lodernde Aura zu hüllen
+		Feinde, die die Aura berühren, erleiden enormen Schaden und sind mit dem Vulnerability Hex belegt
+		Ausrüsten in einem Nebenslot, um den Cursor ohne Schaden zu ändern
+		Diese Änderungen wirken in Verbindung mit dem Regenbogen-Cursor
+		'''
+}
+
+CelestialJewel: {
+	DisplayName: Himmlischer Juwel
+	Tooltip:
+		'''
+		Steigert Lebensregeneration selbst unter den Auswirkungen eines schädlichen Debuffs
+		Während der Auswirkungen eines schädlichen Debuffs gewinnst du 11 Verteidigung
+		Drücke [TASTE], um dich an einen zufälligen Ort zu teleportieren, solange keine Bosse am Leben sind
+		'''
+}
+
+ChaosStone: {
+	DisplayName: Chaos-Stein
+	Tooltip:
+		'''
+		Manakrankheit durch das Trinken von Manatränken wird durch Mana Burn ersetzt
+		Mana Burn verursacht im Laufe der Zeit Schaden, der von der Intensität des Debuffs abhängt
+		Dieser Debuff reduziert nicht deinen Magieschaden
+		Eines der antiken Relikte
+		'''
+}
+
+CoinofDeceit: {
+	DisplayName: Münze des Betrugs
+	Tooltip:
+		'''
+		Stealth-Angriffe verbrauchen nur 85% deiner maximalen Tarnung
+		6% erhöhte Schuftn-Krit-Chance
+		'''
+}
+
+CoreOfTheBloodGod: {
+	DisplayName: Kern des Blutgottes
+	Tooltip:
+		'''
+		Steigert dein max HP um 15%
+		Heiltränke sind 25% effektiver
+		Halbiert den Kontakt-Schaden von Feinden
+		Nachdem du Kontakt-Schaden erlitten hast, hat dieser Effekt eine Abklingzeit von 20 Sekunden
+		'''
+}
+
+CorrosiveSpine: {
+	DisplayName: Ätzende Wirbelsäule
+	Tooltip:
+		'''
+		5% erhöhte Bewegungsgeschwindigkeit
+		Alle Schuftnwaffen verursachen Gift und erzeugen bei Treffern auf Feinden radioaktive Wolken
+		Du lässt überall eine Menge Wolken frei, wenn du triffst
+		'''
+}
+
+CorruptFlask: {
+	DisplayName: Verderbter Flachmann
+	Tooltip:
+		'''
+		4% erhöhte Schadensreduktion und +6 Verteidigung im Verderben
+		Gewährt Immunität gegen den Fluch des verfluchten Infernos
+		'''
+}
+
+CounterScarf: {
+	DisplayName: Konter-Schal
+	Tooltip:
+		'''
+		10% erhöhter wahrer Nahkampfschaden
+		Gewährt die Fähigkeit zu sprinten; durch das Sprinten in einen Angriff wirst du ihm ausweichen
+		Nach einem erfolgreichen Ausweichen musst du 30 Sekunden warten, bevor du erneut ausweichen kannst
+		'''
+}
+
+CrawCarapace: {
+	DisplayName: Kriechpanzer
+	Tooltip:
+		'''
+		5% erhöhter Schaden
+		Feinde, die dich treffen, erleiden Schaden und sind mit Armor Crunch belegt
+		'''
+}
+
+Baroclaw: {
+	DisplayName: Baroklaue
+	Tooltip:
+		'''
+		8% erhöhter Schaden
+		Feinde, die dich treffen, erleiden hohen Schaden und sind lange mit Armor Crunch belegt
+		'''
+}
+
+CrimsonFlask: {
+	DisplayName: Scharlachroter Flachmann
+	Tooltip:
+		'''
+		4% erhöhte Schadensreduktion und +6 Verteidigung in der Verderbnis
+		Gewährt Immunität gegen das Fließen des brennenden Bluts
+		'''
+}
+
+CrownJewel: {
+	DisplayName: Kronjuwel
+	Tooltip:
+		'''
+		Steigert Lebensregeneration selbst unter den Auswirkungen eines schädlichen Debuffs
+		Während der Auswirkungen eines schädlichen Debuffs gewinnst du 8 Verteidigung
+		'''
+}
+
+CryoStone: {
+	DisplayName: Kryostein
+	Tooltip:
+		'''
+		Eines der antiken Relikte
+		Multipliziert den Schaden aller Debuffs basierend auf Kälte um 1,5
+		Erschafft um dich herum einen rotierenden Eisschild, der Feinde bei Berührung schädigt und verlangsamt
+		'''
+}
+
+DaawnlightSpiritOrigin: {
+	DisplayName: Ursprung des Daawnlight-Geistes
+	Tooltip:
+		'''
+		Alle nahegelegenen Feinde und Bosse sind mit Zielscheiben markiert
+		Fernangriffe, die eine Zielscheibe treffen, haben immer kritische Treffer und verursachen massiven Schaden
+		Wenn eine Zielscheibe getroffen wird, verschwindet sie und eine neue erscheint woanders
+		Explosionen oder große Projektile können keine Zielscheiben treffen
+		Auf von geworfenen Münzen abgeprallte Schüsse zielen auf Zielscheiben, verwenden jedoch einen niedrigeren kritischen Multiplikator
+		Alle Fernkampf-kritischen Trefferchance-Steigerungen werden in zusätzlichen kritischen Trefferschaden umgewandelt
+		Alle Fernkampfwaffen verursachen umso mehr kritischen Trefferschaden, je langsamer sie sind
+		Beschwört einen heldenhaften Geist aus einer anderen Welt, wenn die Sichtbarkeit des Accessoires aktiviert ist
+		Der heroische Geist wird auch beschworen, wenn dieses Accessoire in Nebenslots platziert wird
+		'Ein Strang eines verlorenen Kosmos bleibt zurück und wartet auf seinen Meister'
+		'''
+}
+
+DarkGodsSheath: {
+	DisplayName: Hülle des dunklen Gottes
+	Tooltip:
+		'''
+		+10 maximale Tarnung
+		Mobile Tarnungsgenerierung beschleunigt sich, während du nicht angreifst
+		Stealth-Angriffe verbrauchen nur 50% deiner maximalen Tarnung
+		6% erhöhter Schaden der Schuftn und 6% erhöhte Schuftn-Krit-Chance
+		'''
+}
+
+DarkSunRing: {
+	DisplayName: Dunkler Sonnenring
+	Tooltip:
+		'''
+		12% erhöhter Schaden
+		+1 Lebensregeneration und +2 maximale Diener
+		Erhöhte Diener-Rückstoßkraft
+		Während des Tages hat der Spieler +4 Lebensregeneration
+		Während der Nacht hat der Spieler +20 Verteidigung
+		Während einer Sonnenfinsternis hat der Spieler +2 Lebensregeneration und +10 Verteidigung
+		'Enthält die Kraft der dunklen Sonne'
+		'''
+}
+
+DeadshotBrooch: {
+	DisplayName: Deadshot-Brosche
+	Tooltip:
+		'''
+		10% erhöhter Fernkampfschaden, 5% erhöhte Fernkampf-Krit-Chance und 20% reduzierter Munitionsverbrauch
+		Erhöht stark die Geschwindigkeit aller Fernkampfprojektile
+		'''
+}
+
+DeepDiver: {
+	DisplayName: Tiefseetaucher
+	Tooltip:
+		'''
+		15% erhöhter Schaden, Bewegungsgeschwindigkeit und +15 Verteidigung unter Wasser
+		Während du unter Wasser bist, erhältst du die Fähigkeit, große Entfernungen zu sprinten
+		'''
+}
+
+DeificAmulet: {
+	DisplayName: Gottheit-Amulett
+	Tooltip:
+		'''
+		Lässt Sterne fallen und gewährt erhöhte Immunitätszeit bei Schaden
+		Gewährt Lebensregeneration und reduziert die Abklingzeit von Heiltränken
+		'''
+}
+
+DepthCharm: {
+	DisplayName: Tiefenamulett
+	Tooltip:
+		'''
+		Reduziert den durch den Druck der Tiefe verursachten Schaden, wenn du außer Atem bist
+		Entfernt den Blutungseffekt, der durch die oberen Schichten der Tiefe verursacht wird
+		'''
+}
+
+DimensionalSoulArtifact: {
+	DisplayName: Artefakt der dimensionalen Seele
+	Tooltip:
+		'''
+		Macht
+		Steigert den gesamten Schaden um 25%, aber zu welchem Preis?
+		Erhöht den erlittenen Schaden um 15%
+		'''
+}
+
+DraedonsHeart: {
+	DisplayName: Draedons Herz
+	Tooltip:
+		'''
+		{0}% reduzierter Kontakt-Schaden durch Feinde
+		Reduziert Verteidigungs-Schaden um {1}%
+		[NANODESC]
+		Bei vollen Nanomaschinen drücke [KEY], um {2} Lebenspunkte über {3} zu heilen. {^3:second;seconds}
+		Während der Heilung erleidest du [DR]% weniger Schaden
+		'Nanomachines, son'	
+		'''
+	NanomachinesAdd:
+		'''
+		Fügt den Nanomaschinenmeter hinzu
+		Nanomaschinen sammeln sich mit der Zeit an, während man gegen Bosse kämpft
+		Die Einnahme von Schaden stoppt die Akkumulation für {0} {^0:second;seconds}
+		'''
+	NanomachinesReplace:
+		'''
+		Ersetzt Adrenalin durch den Nanomaschinenmeter
+		Im Gegensatz zu Adrenalin verliert man keine Nanomaschinen, wenn man Schaden nimmt, aber sie sammeln sich für {0} {^0:second;seconds}} nicht mehr an.
+		'''
+}
+
+DragonScales: {
+	DisplayName: Drachenschuppen
+	Tooltip:
+		'''
+		Rogue-Projektile erzeugen langsame Feuerbälle, während sie fliegen
+		Stealth-Angriffe erzeugen Infernados beim Tod
+		+10% maximale Lauftempo und Beschleunigung
+		Gewährt Immunität gegen Drachenfeuer
+		'Nur ein lebender Drache hält wahren Schatz'
+		'''
+}
+
+DynamoStemCells: {
+	DisplayName: Dynamo-Stammzellen
+	Tooltip:
+		'''
+		10% erhöhtes Lauftempo
+		Distanzwaffen haben eine Chance, Mini-Schwärmer abzufeuern
+		Gewährt Immunität gegen Drachenfeuer und Elektrifiziert
+		'''
+}
+
+EclipseMirror: {
+	DisplayName: Spiegel der Finsternis
+	Tooltip:
+		'''
+		+10 maximales Stealth
+		6% erhöhter Schaden für Schleich-Angriffe und 6% erhöhte kritische Schleich-Angriffs-Chance
+		Verringert Feindesaggression erheblich, selbst in der Tiefe
+		Stealth erzeugt 25% schneller, wenn du still stehst
+		Mobile Stealth-Generierung beschleunigt sich beim Nichtangreifen
+		Stealth-Angriffe verbrauchen nur 50% deines maximalen Stealths
+		Gewährt die Fähigkeit, Angriffe in einem Ausbruch von Dunkellicht zu meiden, der in einem weiten Bereich extremen Schaden verursacht
+		Das Meiden eines Angriffs gewährt vollen Stealth, hat jedoch eine Abklingzeit von 90 Sekunden
+		Diese Abklingzeit wird mit allen anderen Ausweichmanövern und Reflexionen geteilt
+		'Seine Reflexion zeigt nichts als Dunkelheit'
+		'''
+}
+
+EldritchSoulArtifact: {
+	DisplayName: Eldritch Seelenartefakt
+	Tooltip:
+		'''
+		Erhöht Nahkampftempo um 10%, Distanzgeschwindigkeit um 25%, Schleich-Regeneration um 15%, maximale Diener um 1 und verringert Mana-Kosten um 25%
+		Gewährt Immunität gegen Flüstertod
+		Wissen
+		'''
+}
+
+ElectriciansGlove: {
+	DisplayName: Elektriker-Handschuh
+	Tooltip:
+		'''
+		Stealth-Angriffe beschwören Funken bei Treffern gegen Feinde
+		Stealth-Angriffe haben auch +8 Rüstungsdurchdringung, verursachen 8% mehr Schaden und heilen um 2 TP
+		'''
+}
+
+ElementalGauntlet: {
+	DisplayName: Elementar-Handschuh
+	Tooltip:
+		'''
+		Nahkampf-Angriffe und Projektile verursachen Höllenfeuer
+		15% erhöhtes Nahkampftempo, Schaden und 5% erhöhte kritische Nahkampf-Angriffs-Chance
+		20% erhöhter wahrer Nahkampfschaden
+		Erhöhte Nahkampf-Rückstoßkraft
+		Aktiviert automatisches Schwingen für Nahkampfwaffen
+		Vergrößert die Größe von Nahkampfwaffen
+		'''
+}
+
+ElementalQuiver: {
+	DisplayName: Elementarer Köcher
+	Tooltip:
+		'''
+		15% erhöhter Distanzschaden, 5% erhöhte kritische Distanz-Angriffs-Chance und 20% verringerte Munitionsnutzung
+		Gewährt eine 20% Chance, keine Pfeile zu verbrauchen
+		Erhöht erheblich die Geschwindigkeit aller Distanz-Projektile
+		'''
+}
+
+ElysianAegis: {
+	DisplayName: Elysianisches Schild
+	Tooltip:
+		'''
+		Gewährt Immunität gegen Rückstoß und die Brennende, In Flammen! und Heilige Flammen-Debuffs
+		+30 maximales Leben
+		Gewährt einen verbesserten heiligen Flammen-Dash, der dich ohne Schaden durch Feinde hindurchschlagen kann
+		Kann verwendet werden, um Feinde zu rammen
+		Gesegnet durch die Profanflamme
+		'''
+}
+
+EnchantedPearl: {
+	DisplayName: Verzauberte Perle
+	Tooltip:
+		'''
+		Erhöht die Angel-Fertigkeit
+		Erhöht die Chance, Kisten zu fangen
+		'''
+}
+
+EtherealExtorter: {
+	DisplayName: Ätherischer Erpresser
+	Tooltip:
+		'''
+		Rogue-Projektile explodieren beim Tod in heimische Seelen
+		8% erhöhter Schaden für Schleich-Angriffe und +10 maximales Stealth
+		'''
+}
+
+EtherealTalisman: {
+	DisplayName: Ätherischer Talisman
+	Tooltip:
+		'''
+		15% erhöhter Magieschaden, 5% erhöhte kritische Magie-Angriffs-Chance und 10% verringerte Mananutzung
+		+150 maximales Mana
+		Erhöht die Aufnahmereichweite für Manasterne
+		Du verwendest automatisch Mana-Tränke, wenn nötig, wenn die Sichtbarkeit aktiviert ist
+		'''
+}
+
+EvasionScarf: {
+	DisplayName: Ausweich-Schal
+	Tooltip:
+		'''
+		15% erhöhter wahrer Nahkampfschaden
+		Gewährt die Fähigkeit, auszuweichen; Bei einem erfolgreichen Ausweichen verursacht das Hineinrasen in einen Angriff, dass du ihm ausweichst
+		Nach einem erfolgreichen Ausweichen musst du 30 Sekunden warten, bevor du wieder ausweichen kannst
+		'''
+}
+
+EyeoftheStorm: {
+	DisplayName: Auge des Sturms
+	Tooltip: Ruft ein Wolken-Elementarwesen herbei, das für dich kämpft
+}
+
+FeatherCrown: {
+	DisplayName: Federkrone
+	Tooltip:
+		'''
+		15% erhöhte Geschwindigkeit der Schleich-Projektile
+		Schleich-Angriffe lassen Federn vom Himmel fallen, wenn sie auf Feinde treffen
+		'''
+}
+
+FilthyGlove: {
+	DisplayName: Dreckiger Handschuh
+	Tooltip: Schleich-Angriffe haben +8 Rüstungsdurchdringung und verursachen 8% mehr Schaden
+}
+
+FlameLickedShell: {
+	DisplayName: Flamme-Geleckte Schale
+	Tooltip:
+		'''
+		35% verringerte Bewegungsgeschwindigkeit
+		Feinde erleiden Schaden, wenn sie dich treffen
+		Du bewegst dich schneller und verlierst 18 Verteidigung für 3 Sekunden, wenn du Schaden nimmst
+		Gewährt Immunität gegen Lava und Rüstungsverringerung
+		'''
+}
+
+FleshTotem: {
+	DisplayName: Fleisch-Totem
+	Tooltip:
+		'''
+		Halbiert Feindekontaktschaden
+		Wenn du Schaden nimmst, hat dieser Effekt eine Abklingzeit von 20 Sekunden
+		'''
+}
+
+FrostBarrier: {
+	DisplayName: Frostbarriere
+	Tooltip:
+		'''
+		Du frierst Feinde in deiner Nähe ein, wenn du getroffen wirst
+		Du bist immun gegen den Gefroren-Debuff
+		'''
+}
+
+FrostFlare: {
+	DisplayName: Frost-Flare
+	Tooltip:
+		'''
+		Alle Angriffe und Projektile verursachen Frostbrand
+		Immunität gegen Frostbrand, Eingefroren und Gefroren
+		Wenn du über 75% Leben hast, erhältst du 10% erhöhten Schaden
+		Wenn du unter 25% Leben hast, erhältst du 20 Verteidigung und 15% erhöhte maximale Bewegungsgeschwindigkeit und Beschleunigung
+		Gewährt Widerstand gegen Kälte-Angriffe
+		'''
+}
+
+FungalClump: {
+	DisplayName: Pilzklumpen
+	Tooltip:
+		'''
+		Ruft einen Pilzklumpen herbei, der für dich kämpft
+		Der Klumpen haftet an Feinden und stiehlt ihr Leben für dich
+		'''
+}
+
+FungalSymbiote: {
+	DisplayName: Pilz-Symbiont
+	Tooltip:
+		'''
+		Du lässt Pilze auf dem Gras unter dir wachsen
+		Das Verzehren von Pilzen gewährt den Mushy-Buff, der die Verteidigung um 6 erhöht und die Lebensregeneration um 2
+		Alle pilzbasierten Waffen verursachen 10% mehr Schaden und emittieren nicht schädigende Pilze
+		'''
+}
+
+Gehenna: {
+	DisplayName: Gehenna
+	Tooltip: Lässt gelegentlich Schwefelfeuerbälle vom Himmel fallen
+}
+
+GiantPearl: {
+	DisplayName: Riesige Perle
+	Tooltip:
+		'''
+		Du hast eine Lichtaura um dich herum
+		Feinde innerhalb der Aura werden verlangsamt
+		Funktioniert nicht, solange ein Boss am Leben ist
+		Gewährt eine geringe Menge an Licht in der Tiefe
+		'''
+}
+
+GiantShell: {
+	DisplayName: Riesige Schale
+	Tooltip:
+		'''
+		10% verringerte Ausweichgeschwindigkeit
+		Wenn du getroffen wirst, wird die Ausweichstrafe aufgehoben und die Verteidigung wird für 5 Sekunden verringert
+		'''
+}
+
+GiantTortoiseShell: {
+	DisplayName: Riesige Schildkrötenschale
+	Tooltip:
+		'''
+		5% erhöhte Schadensreduktion
+		15% verringerte Ausweichgeschwindigkeit
+		Wenn du getroffen wirst, wird die Ausweichstrafe aufgehoben und die Verteidigung sowie die Schadensreduktion für 5 Sekunden verringert
+		'''
+}
+
+GladiatorsLocket: {
+	DisplayName: Gladiatorenhalskette
+	Tooltip:
+		'''
+		Feinde lassen bei ihrem Tod eine Heilungskugel fallen
+		Du erhältst eine Erhöhung deines Schadens und deiner Bewegungsgeschwindigkeit, je niedriger deine Gesundheit ist, bis zu 20%
+		'''
+}
+
+GloveOfPrecision: {
+	DisplayName: Handschuh der Präzision
+	Tooltip: Verringert die Schleich-Angriffs-Geschwindigkeit um 15%, erhöht jedoch den Schaden um 13%, die kritische Chance um 15% und die Geschwindigkeit um 25%
+}
+
+GloveOfRecklessness: {
+	DisplayName: Handschuh der Tollkühnheit
+	Tooltip:
+		'''
+		Erhöht die Schleich-Angriffs-Geschwindigkeit um 15%, verringert jedoch den Schaden um 13%
+		15% erhöhte Schleich-Regeneration
+		Fügt Rogue-Waffen Ungenauigkeit hinzu
+		'''
+}
+
+GodlySoulArtifact: {
+	DisplayName: Göttliches Seelenartefakt
+	Tooltip:
+		'''
+		Für jeden beschworenen Feuerdrakonid erhältst du einen Diener-Slot
+		Loyalität
+		'''
+}
+
+GrandGelatin: {
+	DisplayName: Großes Gelatine
+	Tooltip:
+		'''
+		10% erhöhtes Lauftempo und Sprungtempo
+		Das Verwenden eines Heiltranks beschwört eine reinigende Aura
+		Wenn du in die Aura gehst, werden alle Debuffs entfernt und Verteidigungs-Schaden einmalig reduziert
+		Die Aura gewährt allen Spielern, die sich innerhalb befinden, 8 Sekunden lang erhöhte Lebensregeneration
+		'''
+}
+
+GravistarSabaton: {
+	DisplayName: Gravistar-Sabaton
+	Tooltip:
+		'''
+		20% erhöhtes Sprungtempo
+		Gewährt Immunität gegen Fallschaden
+		Halte UNTEN gedrückt, um deine maximale Fallgeschwindigkeit zu erhöhen
+		Halte [TASTE] 1 Sekunde lang gedrückt, während du in der Luft bist, um einen Superspeed-Slam aufzuladen
+		Während des Schlages rammen Feinde durch dich hindurch und verursachen keinen Kontakt-Schaden
+		Sobald du den Boden erreichst, erzeugst du eine Explosion zu deinen Füßen
+		Die Explosion skaliert sowohl im Schaden als auch in der Größe, je länger du für den Slam auflädst
+		Vorübergehendes 40% erhöhtes Sprungtempo nach dem Schlagen auf den Boden
+		'''
+}
+
+HallowedRune: {
+	DisplayName: Geweihte Rune
+	Tooltip:
+		'''
+		Wann immer deine Diener einen Feind treffen, erhältst du einen zufälligen Buff. Stapelt sich nicht mit Downgrades.
+		Diese Buffs erhöhen entweder deine Verteidigung, den Beschwörungsschaden oder die Lebensregeneration für eine Weile.
+		Wenn du den offensiven Buff hast, werden Feinde, die von Dienern getroffen werden, manchmal von Sternen getroffen.
+		'''
+}
+
+HarpyRing: {
+	DisplayName: Harpy-Ring
+	Tooltip:
+		'''
+		10% erhöhte Bewegungsgeschwindigkeit
+		Erhöht die maximale Flugzeit um 20%
+		'''
+}
+
+HeartofDarkness: {
+	DisplayName: Herz der Dunkelheit
+	Tooltip:
+		'''
+		Du gewinnst ständig Wut über die Zeit
+		Wut verblasst nicht, wenn du außerhalb des Kampfes bist
+		Revengeance-Drop
+		'''
+}
+
+HeartoftheElements: {
+	DisplayName: Herz der Elemente
+	Tooltip:
+		'''
+		Beschwört alle Elementare, um dich zu schützen
+		'Das Herz der Welt'
+		'''
+}
+
+HideofAstrumDeus: {
+	DisplayName: Haut von Astrum Deus
+	Tooltip:
+		'''
+		Beim Schaden nehmen oder wenn du einen wahren Nahkampfschlag austeilst, fallen immense Mengen an Astralsternen vom Himmel.
+		Schaden nehmen erhöht den wahren Nahkampfschaden um 50%.
+		Die Dauer des Buffs hängt von der Schadenshöhe ab, den du genommen hast – je höher der Schaden, desto länger der Buff.
+		Bietet Immunität gegen die Astralinvasion, Verflucht in Flammen!, In Flammen! und Frostverbrennung
+		Feinde nehmen Schaden, wenn sie dich treffen, und sind vom Astralinfektions-Debuff betroffen
+		'''
+}
+
+HoneyDew: {
+	DisplayName: Honigtau
+	Tooltip:
+		'''
+		5% erhöhte Schadensreduktion, +9 Verteidigung und erhöhte Lebensregeneration im Dschungel
+		Immunität gegen Gift und Gift
+		Honigähnliche Lebensregeneration ohne Geschwindigkeitsstrafe
+		Die meisten Bienen/Hornissen-Feinde und Projektile richten 75% Schaden an dir an
+		'''
+}
+
+HowlsHeart: {
+	DisplayName: Howls Herz
+	Tooltip:
+		'''
+		Beschwört Howl, um für dich zu kämpfen, Calcifer, um dir den Weg zu beleuchten, und Turnip-Head, um dich zu begleiten.
+		Das Platzieren dieses Accessoires in den Ausrüstungsplätzen ruft das Trio ohne Kampf- oder Erkundungsfunktionen herbei.
+		'''
+}
+
+InkBomb: {
+	DisplayName: Tintenbombe
+	Tooltip:
+		'''
+		Wirft bei Treffern mehrere Tintenbomben, die in einer verwirrenden Tintenwolke explodieren.
+		Du erhältst viel Stealth, wenn du getroffen wirst.
+		Dieser Effekt hat eine Abklingzeit von 20 Sekunden, bevor er erneut auftreten kann.
+		'''
+}
+
+IronBoots: {
+	DisplayName: Eisenstiefel
+	Tooltip: Erlaubt dir, schneller in Flüssigkeiten zu fallen.
+}
+
+JellyChargedBattery: {
+	DisplayName: Geleegeladene Batterie
+	Tooltip:
+		'''
+		+1 maximale Diener und 7% Beschwörungsschaden
+		Dienerangriffe lassen Energieorbs entstehen und fügen Gegnern Elektrisiert hinzu.
+		'''
+}
+
+Laudanum: {
+	DisplayName: Laudanum
+	Tooltip:
+		'''
+		Wandelt bestimmte Debuffs in Buffs um und verlängert ihre Dauer.
+		Von den betroffenen Debuffs: Dunkelheit, Blackout, Verwirrung, Langsam, Schwach,
+		Gebrochene Rüstung, Rüstungszusammenbruch, Vereist, Ichor und Blockiert
+		Revengeance-Drop
+		'''
+}
+
+LeviathanAmbergris: {
+	DisplayName: Leviathan-Ambergris
+	Tooltip:
+		'''
+		Du hinterlässt giftiges Meerwasser, während du dich bewegst.
+		30% erhöhte Bewegungsgeschwindigkeit, 10% mehr Schaden und +10 Verteidigung, während du in Flüssigkeiten eingetaucht bist.
+		Wenn du Schaden erleidest, während du in Flüssigkeiten eingetaucht bist, erhältst du für kurze Zeit eine schädliche Aura.
+		Wenn du außerhalb von Flüssigkeiten bist, erhöht sich der Schaden um 5% und die Schadensreduktion um 5%.
+		'''
+}
+
+LifeJelly: {
+	DisplayName: Lebensgelée
+	Tooltip:
+		'''
+		Das Verwenden eines Heiltranks beschwört eine anhaltende Aura.
+		Die Aura gewährt allen Spielern, die sich darin befinden, erhöhte Lebensregeneration für 5 Sekunden.
+		'''
+}
+
+LivingDew: {
+	DisplayName: Lebender Tau
+	Tooltip:
+		'''
+		5% erhöhte Schadensreduktion, +5 Verteidigung und erhöhte Lebensregeneration im Dschungel.
+		Immunität gegen Gift
+		'''
+}
+
+LumenousAmulet: {
+	DisplayName: Lumenöser Amulett
+	Tooltip:
+		'''
+		Angriffe verursachen den Crush-Depth-Debuff.
+		Gewährt Immunität gegen den Crush-Depth-Debuff.
+		Während der Abgrund-Dämmerung erhältst du 25% erhöhtes maximales Leben.
+		Bietet im Abgrund eine moderate Lichtmenge.
+		'''
+}
+
+LuxorsGift: {
+	DisplayName: Luxors Geschenk
+	Tooltip:
+		'''
+		Waffen feuern einzigartige Projektile basierend auf dem Schadenstyp, den sie haben.
+		Einige Waffen können diesen Bonus nicht erhalten.
+		'''
+}
+
+CleansingJelly: {
+	DisplayName: Reinigungsgelée
+	Tooltip:
+		'''
+		Das Verwenden eines Heiltranks beschwört eine reinigende Aura.
+		Beim Betreten der Aura werden alle Debuffs entfernt und einmalig Verteidigungsschaden reduziert.
+		'''
+}
+
+ManaPolarizer: {
+	DisplayName: Mana-Polarisator
+	Tooltip:
+		'''
+		Erhöht die maximale Mana um 50 und den Magieschaden um 6%.
+		Lebensregeneration wird um 3 verringert, wenn das Mana über 50% seiner maximalen Kapazität liegt.
+		Gewährt Spektrum-Heilung; die geheilte Menge skaliert mit deinem Mana.
+		Die Heilung funktioniert nur, wenn du eine magische Waffe in der Hand hältst.
+		Je mehr Mana du hast, desto mehr heilst du.
+		'''
+}
+
+MarniteRepulsionShield: {
+	DisplayName: Marnite-Abstoßungsschild
+	Tooltip:
+		'''
+		Feinde hinter dir werden von Hochstoß-Strahlen aus harter Lichtkraft getroffen.
+		[c/FFF191:Vorsicht vor Hinterhältigen!]
+		'''
+}
+
+MirageMirror: {
+	DisplayName: Spiegelschein
+	Tooltip:
+		'''
+		Verringert die Feindseligkeit der Feinde außerhalb des Abgrunds.
+		Stealth wird 25% schneller generiert, wenn du still stehst, und 12% schneller, während du dich bewegst.
+		'Biege Licht um dich herum'
+		'''
+}
+
+MoonstoneCrown: {
+	DisplayName: Mondstein-Krone
+	Tooltip:
+		'''
+		15% erhöhte Geschwindigkeit der Schuftnprojektile.
+		Stealth-Angriffe beschwören bei Treffern Lunarschleudern.
+		Schuftnprojektile beschwören sehr selten Mondbindungen hinter sich.
+		'''
+}
+
+MutatedTruffle: {
+	DisplayName: Mutierter Trüffel
+	Tooltip:
+		'''
+		Beschwört einen kleinen Alten Herzog, der für dich kämpft.
+		Bewegt sich viel schneller, wenn du weniger als 50% Leben hast.
+		'''
+}
+
+Nanotech: {
+	DisplayName: Nanotechnologie
+	Tooltip:
+		'''
+		Schuftnprojektile erzeugen Nanoklingen, während sie sich bewegen.
+		Stealth-Angriffe beschwören bei Treffern Nanobeamen und Funken.
+		Stealth-Angriffe haben +15 Rüstungsdurchdringung, fügen 5% mehr Schaden zu und heilen um 2 HP.
+		15% erhöhter Schuftnschaden und 15% erhöhte Schuftngeschwindigkeit.
+		Ein Stealth-Angriff gewährt einen 12%igen Krit-Bonus auf Nicht-Stealth-Angriffe.
+		Dieser Krit-Bonus lässt über 5 Sekunden nach.
+		'''
+}
+
+NebulousCore: {
+	DisplayName: Nebelkern
+	Tooltip:
+		'''
+		10% erhöhter Schaden.
+		Beschwört schwebende Nebelsterne zum Schutz vor dir.
+		Du überlebst einen Angriff, der dich getötet hätte, und wirst um 100 HP geheilt.
+		Dieser Effekt hat eine Abklingzeit von 90 Sekunden.
+		'''
+}
+
+NecklaceofVexation: {
+	DisplayName: Halskette der Quälerei
+	Tooltip:
+		'''
+		20% erhöhter Schaden, wenn du weniger als 50% Leben hast.
+		Alle Angriffe fügen säurehaltiges Gift hinzu, während du Reaver-Rüstung trägst.
+		Revengeance
+		'''
+}
+
+NuclearFuelRod: {
+	DisplayName: Kernbrennstab
+	Tooltip:
+		'''
+		Diener setzen bei Treffern eine strahlende Aura frei.
+		+1 maximale Diener.
+		Gewährt Immunität gegen Strahlung.
+		'''
+}
+
+Nucleogenesis: {
+	DisplayName: Nukleogenese
+	Tooltip:
+		'''
+		Erhöht die maximale Anzahl der Diener um 4; stapelt sich nicht mit Downgrades.
+		Gewährt Immunität gegen Schattenflamme und Strahlung.
+		15% erhöhter Beschwörungsschaden.
+		Erhöhte Diener-Rückstoßkraft.
+		Diener fügen verschiedene Debuffs zu.
+		Diener erzeugen bei Treffern schädigende Funken.
+		'''
+}
+
+OccultSkullCrown: {
+	DisplayName: Krone des Okkultschädels
+	Tooltip:
+		'''
+		Du gewinnst ständig Wut über die Zeit, und Wut verblasst nicht, wenn du außerhalb des Kampfes bist.
+		Wandelt bestimmte Debuffs in Buffs um und verlängert ihre Dauer.
+		Von den betroffenen Debuffs: Dunkelheit, Blackout, Verwirrung, Langsam, Schwach,
+		Gebrochene Rüstung, Rüstungszusammenbruch, Vereist, Ichor und Blockiert.
+		Adrenalin lädt 20% schneller auf.
+		Erhöht deine maximale Bewegungsgeschwindigkeit und Beschleunigung um 5%.
+		'Nur ein Narr würde das jemals tragen...'
+		Revengeance-Gegenstand
+		'''
+}
+
+OceanCrest: {
+	DisplayName: Ozean-Kranz
+	Tooltip: Die meisten Ozean-Feinde werden freundlich und gewährt Atemluft unter Wasser.
+}
+
+OldDie: {
+	DisplayName: Alte Münze
+	Tooltip:
+		'''
+		Erhöht das Glück um 20%.
+		'Glücklicherweise betrifft dich der Fluch nicht. Meistens...'
+		'''
+}
+
+OldDukeScales: {
+	DisplayName: Schuppen des alten Herzogs
+	Tooltip:
+		'''
+		10% erhöhte Schadensreduktion.
+		10% erhöhte maximale Bewegungsgeschwindigkeit und Beschleunigung.
+		25% erhöhte Schubgeschwindigkeit und -länge.
+		Gibt dir eine Anzeige für die Ausdauer auf der Abklingungsleiste.
+		Das Verwenden einer beliebigen Ausdauerbewegung verbraucht 20% deiner Ausdauer.
+		Die Ausdauer erholt sich allmählich auf 100%, nachdem du 1 Sekunde lang nicht ausgewichen bist.
+		Die Ausdauer erholt sich schneller, wenn du still stehst.
+		Wenn deine Ausdauer 0% erreicht, wirst du erschöpft.
+		[c/CE0E18:Während der Erschöpfung werden die Schadensreduktions- und Bewegungsboni dieses Gegenstands aufgehoben.]
+		[c/CE0E18:Bei Erschöpfung wird die Bewegungsgeschwindigkeit um 30% und die Schubgeschwindigkeit um 50% reduziert.]
+		Dieser Debuff dauert an, bis deine Ausdauer wieder 100% erreicht.
+		'''
+}
+
+OrnateShield: {
+	DisplayName: Verziertes Schild
+	Tooltip:
+		'''
+		8% erhöhte Schadensreduktion und +20 Gesundheit, während du die Daedalus-Rüstung trägst.
+		Gewährt eine Frost-Dash, die durch Feinde hindurchschlagen kann, ohne Schaden zu nehmen.
+		'''
+}
+
+PearlofEnthrallment: {
+	DisplayName: Perle der Verzauberung
+	Tooltip:
+		'''
+		Beschwört ein Wasserelementar, das für dich kämpft.
+		Der Elementar bleibt über dir und schießt Wasserlanzen, Eismist und Violinschlüssel auf nahe Feinde.
+		'''
+}
+
+PermafrostsConcoction: {
+	DisplayName: Trank der Permafrost
+	Tooltip:
+		'''
+		Erhöht das maximale Mana um 50 und verringert die Mana-Kosten um 15%.
+		Erhöht die Lebensregeneration mit abnehmender Gesundheit.
+		Erhöht die Lebensregeneration bei jeder Feuerdebuff-Beeinträchtigung.
+		Du überlebst tödlichen Schaden und wirst mit 30% Gesundheit nach einer Abklingzeit von 3 Minuten wiederbelebt.
+		Du bist nach der Wiederbelebung 3 Sekunden lang von einer Eisbarriere umgeben.
+		'''
+}
+
+PhantomicArtifact: {
+	DisplayName: Phantasmatisches Artefakt
+	Tooltip:
+		'''
+		Wann immer deine Diener einen Feind treffen, erhältst du einen zufälligen phantasmatischen Buff. Stapelt sich nicht mit Downgrades.
+		Diese Buffs erhöhen entweder deine Verteidigung, den Beschwörungsschaden oder die Lebensregeneration für eine Weile.
+		Wenn du den offensiven Buff hast, werden Feinde, die von Dienern getroffen werden, manchmal von phantasmatischen Messern getroffen.
+		Wenn du den regenerativen Buff hast, erscheint gelegentlich ein phantasmatisches Herz, das massive Lebensregeneration gewährt.
+		Wenn du den defensiven Buff hast, absorbiert ein phantasmatischer Bollwerk 20% des Schadens des nächsten Projektils, das es trifft, und zerbricht dabei.
+		'''
+}
+
+PlaguedFuelPack: {
+	DisplayName: Pestverseuchter Kraftstoffpack
+	Tooltip:
+		'''
+		8% erhöhter Schuftnschaden und 15% erhöhte Geschwindigkeit der Schuftnprojektile.
+		Stealth wird 10% schneller generiert.
+		Drücke [TASTE], um 25% deines maximalen Stealth zu verbrauchen und einen schnellen Aufwärts-/Diagonal-Dash auszuführen, der eine Spur pestverseuchter Wolken hinterlässt.
+		Dieser Effekt hat eine Abklingzeit von 1 Sekunde, bevor er erneut verwendet werden kann.
+		'''
+}
+
+PlagueHive: {
+	DisplayName: Seuchenkönigreich
+	Tooltip:
+		'''
+		Alle Angriffe fügen die Pest hinzu und gewähren Immunität gegen die Pest.
+		Setzt Bienen frei, wenn du Schaden erleidest, die die Pest zufügen.
+		Projektile erzeugen bei Treffern Pestsucher.
+		'''
+}
+
+ProfanedSoulArtifact: {
+	DisplayName: Artefakt der Entweihungseele
+	Tooltip:
+		'''
+		Beschwört einen Heilungswächter, der alle paar Sekunden eine bestimmte Menge an Gesundheit heilt.
+		Beschwört einen Verteidigungswächter, der deine Bewegungsgeschwindigkeit und Schadensresistenz erhöht.
+		Beschwört einen Offensivwächter, der deine Dienerplätze erhöht.
+		Wenn du getroffen wirst, verschwinden die meisten ihrer Effekte für 5 Sekunden.
+		Reinheit
+		'''
+}
+
+ProfanedSoulCrystal: {
+	DisplayName: Profanierte Seelenkristall
+	Tooltip:
+		'''
+		Verwandelt dich in einen Abgesandten der profanen Göttin
+		[STATUS]
+		'''
+	ExoMechsLock: "[c/F05A5A:Die Seele in diesem Kristall wurde von überwältigenden Energiewellen gefährlicher Mechanationen verunreinigt]"
+	CalamitasLock: "[c/F05A5A:Die Seele in diesem Kristall wurde von der mächtigen Magie einer obersten Hexe verunreinigt]"
+	Reject: Händler werden eine verunreinigte Seele wie diese ablehnen.
+	FullTooltip:
+		'''
+		Erfordert 10 Diener-Slots, um die folgenden Effekte zu gewähren
+		Alle nicht-Beschwörungswaffen werden in leistungsstarke Beschwörungsvarianten umgewandelt
+		Fällt das Leben unter 50%, werden diese Angriffe verstärkt
+		[c/F05A5A:Verwandelt Nahkampfangriffe in ein Sperrfeuer von Speeren]
+		[c/3A83E4:Verwandelt Magieangriffe in einen kraftvollen spaltenden Feuerball für {0} Mana pro Einsatz]
+		[c/85E092:Verwandelt Distanzangriffe in ein Hagel von Feuerbällen und Meteoren]
+		[c/E94571:Verwandelt Schleich-Angriffe in eine tödliche kristalline Spirale]
+		Ruft die profanen Babys herbei und verstärkt sie, damit sie an deiner Seite kämpfen
+		Gewährt Buffs abhängig von der Tageszeit
+		In Erinnerung, es war ein langweiliges Leben
+		[c/FFBF49:Und so verbrennen wir alles im Namen der Reinheit]
+		'''
+}
+
+QuiverofNihility: {
+	DisplayName: Köcher der Nichtigkeit
+	Tooltip:
+		'''
+		Erhöht die kritische Trefferchance von Distanzangriffen um 5%
+		Ruft einen Ring aus vier Void-Feldern herbei, die dich umkreisen
+		Pfeile, die durch diese Felder hindurchfliegen, erhalten einen Schadensbonus von 100% und verdoppeln ihre Geschwindigkeit
+		'Gefüllt mit einer Substanz, die dunkler ist als der Nachthimmel'
+		'''
+}
+
+RadiantOoze: {
+	DisplayName: Strahlender Schleim
+	Tooltip: Du strahlst Licht aus und regenerierst nachts schneller Leben
+}
+
+RaidersTalisman: {
+	DisplayName: Talisman des Plünderers
+	Tooltip:
+		'''
+		Wenn ein Schleich-Angriff gelandet wird, gewährt er einen 12%igen kritischen Bonus für nicht-schleichende Angriffe
+		Dieser kritische Bonus verfällt über 5 Sekunden
+		'''
+}
+
+RampartofDeities: {
+	DisplayName: Bollwerk der Gottheiten
+	Tooltip:
+		'''
+		Löst Sterne aus und gewährt erhöhte Immunitätszeit bei Schaden
+		Bietet Lebensregeneration und reduziert die Abklingzeit von Heiltränken
+		Deckt 15% des Schadens ab, der an Spieler in deinem Team verursacht wird
+		Dieser Effekt ist nur über 25% Leben aktiv
+		Gewährt Immunität gegen Rückstoß
+		Umhüllt den Besitzer, wenn er unter 50% Leben fällt, und reduziert den erlittenen Schaden
+		'''
+}
+
+ReaperToothNecklace: {
+	DisplayName: Halskette des Sensenmanns
+	Tooltip:
+		'''
+		Erhöht den Schaden um 15%
+		Erhöht die Rüstungsdurchdringung um 15
+		'Eine gruselige Trophäe vom ultimativen Raubtier'
+		'''
+}
+
+Regenator: {
+	DisplayName: Regenerator
+	Tooltip:
+		'''
+		Verbessert die Lebensregeneration erheblich
+		Jedoch kann deine Gesundheit 50% ihres Maximums nicht überschreiten
+		'''
+}
+
+RogueEmblem: {
+	DisplayName: Emblem des Schleichens
+	Tooltip: Erhöht den Schleichschaden um 15%
+}
+
+RoseStone: {
+	DisplayName: Rosenstein
+	Tooltip:
+		'''
+		Ruft ein Schwefelelementar herbei, das für dich kämpft
+		Eines der alten Relikte
+		'''
+}
+
+RottenBrain: {
+	DisplayName: Faulendes Gehirn
+	Tooltip:
+		'''
+		Erhöht den Schaden um 10%, wenn du unter 75% Leben bist
+		Verringert die Bewegungsgeschwindigkeit um 5%, wenn du unter 50% Leben bist
+		Schatten regnen herab, wenn du getroffen wirst
+		'''
+}
+
+RottenDogtooth: {
+	DisplayName: Fauliger Hundezahn
+	Tooltip: Bewirkt, dass Schleich-Angriffe Rüstungszerschmettern auslösen und 8% mehr Schaden verursachen
+}
+
+RoverDrive: {
+	DisplayName: Rover-Antrieb
+	Tooltip:
+		'''
+		Aktiviert eine Schutzmatrix, die 40 Schaden absorbieren kann und 10 Verteidigung gewährt
+		Die Systeme sind jedoch launisch und der Schild benötigt 10 Sekunden, um sich nach dem Bruch aufzuladen
+		Wird während des Aufladens getroffen, wird der Aufladevorgang um 50% reduziert
+		Kann auch bei einem Extraktinator zerlegt werden
+		'''
+}
+
+RuinMedallion: {
+	DisplayName: Medaillon der Zerstörung
+	Tooltip:
+		'''
+		Schleichangriffe verbrauchen nur 75% deines maximalen Schleiches
+		Erhöht den Schleichschaden um 6% und die kritische Schleichchance um 6%
+		'''
+}
+
+RustyMedallion: {
+	DisplayName: Rostiges Medaillon
+	Tooltip:
+		'''
+		Lässt die meisten Distanzwaffen Säuredroplets vom Himmel regnen
+		Gewährt Immunität gegen Bestrahlt
+		'''
+}
+
+SandCloak: {
+	DisplayName: Sandumhang
+	Tooltip:
+		'''
+		Erhöht die Bewegungsgeschwindigkeit um 5%
+		Drücke [TASTE], um 10% deines maximalen Schleiches zu verbrauchen, um einen schützenden Staubschleier zu erzeugen, der +6 Verteidigung und +2 Lebensregeneration gewährt
+		Dieser Effekt hat eine Abklingzeit von 30 Sekunden, bevor er erneut verwendet werden kann
+		'''
+}
+
+SandSharkToothNecklace: {
+	DisplayName: Halskette des Sandhais
+	Tooltip:
+		'''
+		Erhöht die Rüstungsdurchdringung um 10
+		Erhöht den Schaden um 6%
+		'''
+}
+
+ScuttlersJewel: {
+	DisplayName: Juwel des Krabblers
+	Tooltip:
+		'''
+		Schleichangriff-Projektile erzeugen einen Juwelenspike, wenn sie zerstört werden
+		Kann auch bei einem Extraktinator zerlegt werden
+		'''
+}
+
+ShatteredCommunity: {
+	DisplayName: Zersplitterte Gemeinschaft
+	Tooltip:
+		'''
+		'Von unbekanntem Hass ruiniert, enthält es immer noch (zum größten Teil) die Macht der Gemeinschaft...'
+		Erhöht den Schaden um 10% und die kritische Trefferchance um 5%
+		Erhöht die maximale Gesundheit um 10%, die Schadensreduzierung um 5%, die Verteidigung um 10 und die Lebensregeneration um 2
+		Erhöht die Bewegungsgeschwindigkeit um 10% und die Flugzeit um 20%
+		[WUTBESCHREIBUNG]
+		Schaden zu nehmen erzeugt Wut, dieser Effekt wird durch deine Verteidigungsstatistiken nicht behindert
+		Während der Wut-Modus aktiv ist, erzeugt das Schaden nehmen nur noch halb so viel Wut
+		Füge Schaden mit dem Wut-Modus zu, um deinen Zorn weiter zu stärken
+		Aktuelles Level: [LEVEL] (+[LEVEL]% Wut-Modus-Schaden)
+		Fortschritt zum nächsten Level: [FORTSCHRITT]%
+		Gesamter Wut-Modus-Schaden: [SCHADEN]
+		'''
+	RageAdd:
+		'''
+		Fügt die Wut-Anzeige hinzu, die im Laufe der Zeit generiert wird
+		Wut generiert schneller in der Nähe von Feinden
+		Wenn Wut maximal ist, drücke {0} für einen vorübergehenden Schadensbonus
+		'''
+	RageModified: Du generierst Wut im Laufe der Zeit und Wut verschwindet nicht im Kampf
+}
+
+ShieldoftheHighRuler: {
+	DisplayName: Schild des Hohen Herrschers
+	Tooltip:
+		'''
+		Gewährt Immunität gegen Rückstoß
+		Immun gegen die meisten Debuffs
+		+10 maximales Leben
+		Gewährt einen verbesserten Schild des Cthulhu-Stoß
+		Wenn du auf einen Feind triffst, wird die Verzögerung, bevor du erneut stoßen kannst, um 50% reduziert
+		Wenn du von einem Projektil getroffen wirst und darauf zielst, wird der Schaden um 15% reduziert
+		'Für das Schicksal des Königreichs'
+		'''
+}
+
+ShieldoftheOcean: {
+	DisplayName: Schild des Ozeans
+	Tooltip:
+		'''
+		Erhöht die Verteidigung um 5, wenn du in Flüssigkeit eingetaucht bist
+		Erhöht die Bewegungsgeschwindigkeit und die Lebensregeneration beim Tragen der Victide-Rüstung
+		'''
+}
+
+SigilofCalamitas: {
+	DisplayName: Sigill der Calamitas
+	Tooltip:
+		'''
+		Erhöht den Magieschaden um 15% und verringert den Manaverbrauch um 10%
+		+100 maximales Mana
+		Erhöht die Aufsammelreichweite für Manasterne
+		'''
+}
+
+SilencingSheath: {
+	DisplayName: Verstummende Scheide
+	Tooltip: +10 maximales Schleichen
+}
+
+SpectralVeil: {
+	DisplayName: Spektraler Schleier
+	Tooltip:
+		'''
+		Drücke [TASTE], um 25% deines maximalen Schleiches zu verbrauchen und einen Mittelstreckenteleport durchzuführen, der dich vorübergehend unverwundbar macht
+		Wenn du etwas ausweichst, während du unverwundbar bist, erhältst du sofort vollen Schleich
+		Teleportation ist deaktiviert, während der Chaoszustand aktiv ist
+		Schleich generiert 15% schneller
+		'Innen im Mantel sind lauter Zähne...'
+		'''
+}
+
+SpelunkersAmulet: {
+	DisplayName: Amulett des Höhlenforschers
+	Tooltip: Effekt eines Höhlenforschers und 10% erhöhte Abbau-Geschwindigkeit
+}
+
+SpiritGlyph: {
+	DisplayName: Geistglyph
+	Tooltip:
+		'''
+		Wann immer deine Diener einen Feind treffen, erhältst du einen zufälligen Buff
+		Diese Buffs werden entweder deine Verteidigung, den Beschwörungsschaden oder die Lebensregeneration für eine Weile erhöhen
+		'''
+}
+
+StarbusterCore: {
+	DisplayName: Starbuster-Kern
+	Tooltip:
+		'''
+		Summons lösen bei Treffern eine astrale Explosion aus
+		+1 maximales Diener
+		'''
+}
+
+StarTaintedGenerator: {
+	DisplayName: Sternenverseuchter Generator
+	Tooltip:
+		'''
+		+2 maximale Diener, stapelt sich nicht mit Abstufungen
+		7% erhöhter Beschwörungsschaden
+		Diener-Angriffe erzeugen astrale Explosionen und verursachen mehrere Debuffs
+		Gewährt Immunität gegen Bestrahlt
+		'''
+}
+
+StatisBlessing: {
+	DisplayName: Statis' Segen
+	Tooltip:
+		'''
+		Erhöht maximale Diener um 2 und den Beschwörungsschaden um 10%
+		Erhöht den Diener-Nachstoß
+		Diener verursachen heilige Flammen beim Treffer
+		'''
+}
+
+StatisCurse: {
+	DisplayName: Statis' Fluch
+	Tooltip:
+		'''
+		Erhöht maximale Diener um 3, stapelt sich nicht mit Abstufungen
+		10% erhöhter Beschwörungsschaden
+		Erhöht den Diener-Nachstoß
+		Diener verursachen heilige Flammen und Schattenflammen beim Treffer
+		Gewährt Immunität gegen Schattenflamme
+		'''
+}
+
+StatisNinjaBelt: {
+	DisplayName: Statis' Ninja-Gürtel
+	Tooltip:
+		'''
+		6% erhöhte Sprunggeschwindigkeit und erlaubt ständiges Springen
+		Gewährt die Fähigkeit zu schwimmen
+		Erhöht die Sturzschadensresistenz um 35 Blöcke
+		Kann an Wänden klettern, sich schnell bewegen und Angriffen ausweichen
+		Das Ausweichen hat eine Abklingzeit von 90 Sekunden
+		Diese Abklingzeit wird mit allen anderen Ausweichmanövern und Reflektionen geteilt
+		'''
+}
+
+StatisVoidSash: {
+	DisplayName: Statis' Leeren-Schärpe
+	Tooltip:
+		'''
+		Erhöht die Sprunggeschwindigkeit um 12% und erlaubt ständiges Springen
+		Gewährt Immunität gegen Sturzschaden
+		Kann an Wänden klettern, sich schnell bewegen und Angriffen ausweichen
+		Das Ausweichen hat eine Abklingzeit von 90 Sekunden
+		Diese Abklingzeit wird mit allen anderen Ausweichmanövern und Reflektionen geteilt
+		Beim Ausweichen hinterlässt du nachspähende Sensen
+		'''
+}
+
+// Be warned translators, this thing fucking sucks
+StatMeter: {
+	DisplayName: Statistik-Anzeige
+	FoolsName: Nudelsieb
+	Tooltip:
+		'''
+		Zeigt nahezu alle Spielerstatistiken an
+		Angezeigte offensive/nützliche Statistiken variieren je nach gehaltenem Gegenstand
+		[REV]
+		[ITEMS]
+		[GENERIC]
+		[ABYSS]
+		'''
+	RevStats:
+		'''
+		Wut Schadensbonus: {0}% | Wut Modus Dauer: {1} Sekunden
+		Adrenalin Schadensbonus: {2}% | Adrenalin DR Bonus: {3}%
+		'''
+
+	ClassNameOverride: {
+		// Default: true damage
+		// Generic: classless damage
+		NoSpeed: " (keine Geschwindigkeit)"
+		SummonMeleeSpeed: " (Peitsche)"
+	}
+
+	DamageStats:
+		'''
+		Klasse: {0}
+		Schaden: {1}
+		Rüstungsdurchdringung: {2}
+		'''
+	DamageBase: "[{0} Basis] +"
+	DamageNormal: "{0}%"
+	DamageMult: " x{0}"
+	DamageFlat: " {0} fest"
+	Crit: " | Kritische Trefferchance: {0}%"
+	AttackSpeed: Angriffsgeschwindigkeit: {0}%
+	WhipMeleeInheritance: " [{0}% von Nahkampf]"
+	// Class stats
+	RangedStats: Munitionsverbrauch Chance: {0}
+	MagicStats: Manaverbrauch: {0}% | Mana Regeneration: {1}
+	SummonStats: Diener-Slots: {0} | Wachposten-Slots: {1}
+	WhipStats: Peitschenreichweite: {0}%
+	RogueStats:
+		'''
+		Maximales Schleichen: {0} | Regeneration im Stehen: {1} / Sekunde | Regeneration in Bewegung: {2} / Sekunde
+		Schleichen-Geschwindigkeitsbonus: {3}%
+		'''
+	RogueConsumption: " | Verbrauchschance von Schuftwaffen: {0}%"
+	// Utility stats
+	ToolRange: Werkzeug-Reichweitenbonus: ({0}, {1})
+	MiningSpeed: " | Abbau-Geschwindigkeit: {0}%"
+	PlacementRange: Platzierungs-Reichweitenbonus: ({0}, {1})
+	TileSpeed: " | Blockplatzierungs-Geschwindigkeit: {0}%"
+	WallSpeed: " | Wandplatzierungs-Geschwindigkeit: {0}%"
+	// Other stats
+	GenericStats:
+		'''
+		Verteidigung: {0} | DR: {1}% | Lebensregeneration: {2}
+		Bewegungsgeschwindigkeit: {3}% | Sprungkraft: {4}%
+		'''
+	FlightTime: " | Flugzeit der Flügel: {0} Sekunden"
+	MiscStats: Aggro: {0} | Glück: {1}%
+	AbyssStats:
+		'''
+		Abyss Lichtstärke: {0}
+		Atemverlust pro Takt: {1} | Atemverlustgeschwindigkeit: {2}
+		Lebensverlust pro Takt bei null Atem: {3}
+		Verteidigungsverlust durch Druck: {4}
+		'''
+	AbyssStatsHidden: Abyss-Statistiken werden nur im Abyss angezeigt
+}
+
+StressPills: {
+	DisplayName: Stresspillen
+	Tooltip:
+		'''
+		Adrenalin lädt 20% schneller auf
+		Erhöht deine maximale Bewegungsgeschwindigkeit und Beschleunigung um 5%
+		Revengeance-Beute
+		'''
+}
+
+SupremeBaitTackleBoxFishingStation: {
+	DisplayName: Ultimativer Köder-Tackle-Box-Angelstation
+	Tooltip:
+		'''
+		Erhöht die Angel-Fähigkeit um 80
+		Angelschnur wird niemals reißen und die Chance auf Köderverbrauch verringern
+		Erhöht die Chance, Kisten zu fangen
+		Ermöglicht das Angeln in Lava
+		Sonartrank-Effekt
+		Das ultimative Angel-Accessoire
+		'''
+}
+
+TheAbsorber: {
+	DisplayName: Der Absorber
+	Tooltip:
+		'''
+		10% erhöhte Bewegungs- und Sprunggeschwindigkeit
+		Feinde erleiden immensen Schaden, wenn sie dich berühren, und sind von einem Debuff betroffen, der die Schadensreduktion erheblich verringert
+		Verwenden eines Heiltranks erzeugt eine Reinigungsaura
+		Betreten der Aura entfernt einmal alle Debuffs und Verteidigungsschaden
+		Die Aura bietet stark erhöhte Lebensregeneration, Schaden und Schadensreduktion für alle Spieler darin für 15 Sekunden
+		5% des Schadens von Feindangriffen wird absorbiert und in Heilung umgewandelt
+		'''
+}
+
+TheAmalgam: {
+	DisplayName: Das Amalgam
+	Tooltip:
+		'''
+		Verlängert die Dauer von Trank-Buffs um 100%, und Trank-Buffs bleiben auch nach dem Tod aktiv
+		15% erhöhter Schaden
+		Schatten regnen herab, wenn du getroffen wirst
+		Gewährt die Fähigkeit, Angriffen auszuweichen
+		Der Ausweichvorgang hat eine Abklingzeit von 90 Sekunden, die mit allen anderen Ausweichen und Reflektionen geteilt wird
+		Erhöht vorübergehend die kritische Trefferchance und den Beschwörungsschaden nach einem Ausweichen
+		In der Nähe befindliche Feinde erhalten verschiedene Debuffs im Zusammenhang mit Krankheiten, wenn du getroffen wirst
+		'''
+}
+
+TheBee: {
+	DisplayName: Die Biene
+	Tooltip:
+		'''
+		Bei vollem HP wird dein Schaden basierend auf deiner Schadensreduktion erhöht
+		Der erlittene Schaden bei vollem HP wird halbiert
+		Dies hat eine Abklingzeit von 10 Sekunden
+		'''
+}
+
+TheCamper: {
+	DisplayName: Der Camper
+	Tooltip:
+		'''
+		Du verursachst 90% weniger Schaden, wenn du dich nicht bewegst
+		Stillstehen gewährt Buff(s), abhängig davon, welche Waffe du hältst
+		Stillstehen erzeugt eine schädliche Aura um dich herum
+		Während der Bewegung regenerierst du Gesundheit, als ob du stillstehen würdest
+		Stellt im Abyss eine kleine Menge Licht bereit
+		'Im Ruhen mögen wir den Sieg finden'
+		'''
+}
+
+TheCommunity: {
+	DisplayName: Die Gemeinschaft
+	Tooltip:
+		'''
+		[STATISTIKEN]
+		'Das Herz (vieler) der Terraria-Gemeinschaft'
+		[c/B00BA5:Vielen Dank an alle meine Unterstützer, die diese Mod zur Realität gemacht haben!]
+		'''
+	StatsList:
+		'''
+		Erhöht den Schaden um {0}% und die kritische Trefferchance um {1}%
+		Erhöht die maximale Gesundheit um {2}%, die Schadensreduktion um {3}% und die Verteidigung um {4}
+		Erhöht die Lebensregeneration um {5} unter dem Einfluss von Schadens-über-Zeit-Effekten
+		Erhöht die Bewegungsgeschwindigkeit um {6}% und die Flugzeit um {7}%
+		Werde stärker, wenn du Bosse besiegst ({8}% Stärke)
+		'''
+}
+
+TheEvolution: {
+	DisplayName: Die Evolution
+	Tooltip:
+		'''
+		Du reflektierst Projektile, wenn sie dich treffen
+		Reflektierte Projektile verursachen dir keinen Schaden
+		Dieser Reflektor hat eine Abklingzeit von 90 Sekunden, die mit allen anderen Ausweichen und Reflektionen geteilt wird
+		Wenn dieser Effekt ausgelöst wird, erhältst du 5 Sekunden lang einen Gesundheitsregenerations-Boost
+		Wenn dich der gleiche Projektiltyp eines Feindes erneut trifft, widerstehst du seinem Schaden um 15%
+		'''
+}
+
+TheFirstShadowflame: {
+	DisplayName: Die Erste Schattenflamme
+	Tooltip:
+		'''
+		Erhöht die maximalen Diener um 1, und Diener fügen Feinden den Schattenflammen-Debuff zu
+		Gewährt Immunität gegen Schattenflammen
+		'''
+}
+
+TheSponge: {
+	DisplayName: Der Schwamm
+	Tooltip: AUSSER BETRIEB
+}
+
+TheTransformer: {
+	DisplayName: Der Transformator
+	Tooltip:
+		'''
+		Verstärkt den Schaden aller elektrizitätsbasierten Debuffs um 1.5
+		Beim Erleiden von Schaden wird eine Funkenexplosion ausgelöst
+		Immunität gegen Elektrisiert, und du widerstehst allen elektrischen Projektilschäden und Feindesschäden
+		Feindliche Geschosse verursachen dir nur halben Schaden und werden mit 800% ihres ursprünglichen Schadens auf den Feind zurückgeworfen
+		'''
+}
+
+ToxicHeart: {
+	DisplayName: Giftiges Herz
+	Tooltip:
+		'''
+		Ruft um dich herum eine Seuchenaura herbei, die nahegelegene Feinde schädigt
+		Macht dich immun gegen den Seuchen-Debuff
+		Verstärkt den Schaden aller krankheitsbasierten Debuffs um 1.5
+		'''
+}
+
+TrinketofChi: {
+	DisplayName: Talisman der Chi-Energie
+	Tooltip:
+		'''
+		Bietet 10% Schadensreduktion, nachdem du 15 Sekunden lang nicht getroffen wurdest; dieser Effekt wird beim Treffen aufgehoben
+		Bietet 2 Lebensregeneration für dich und alle in deinem Team
+		'''
+}
+
+UnstableGraniteCore: {
+	DisplayName: Instabiler Granitekern
+	Tooltip:
+		'''
+		Gewinne periodisch ein instabiles Energiefeld, das nahegelegene Feinde wiederholt mit elektrischer Energie angreift
+		Die elektrische Energie ignoriert eine beträchtliche Menge an Feindesverteidigung
+		'''
+}
+
+VampiricTalisman: {
+	DisplayName: Vampirischer Talisman
+	Tooltip:
+		'''
+		Wurfgeschosse gewähren Lebensentzug bei kritischen Treffern
+		Erhöht den Schaden mit Wurfgeschossen um 12%
+		'''
+}
+
+AbandonedWulfrumHelmet: {
+	DisplayName: Verlassener Wulfrumhelm
+	Tooltip:
+		'''
+		Ein abgenutzter und verrosteter Helm, der älteren Modellen der Wulfrum-Rüstung ähnelt
+		Verwandelt den Träger in einen Wulfrum-Roboter
+		Kann auch als normaler Helm im Helmslot getragen werden
+		[c/83B87E:'Diese recht schwache Rüstung wurde häufig von Plünderern und Räubern getragen.]
+		[c/83B87E: Ihre Vielseitigkeit und ihre gängige Natur führten dazu, dass sie als Währung in Geschäften verwendet wurde.']
+		'''
+}
+
+Popo: {
+	DisplayName: Magischer Schal und Hut
+	Tooltip:
+		'''
+		Verwandelt den Träger in einen Schneemann
+		'Lasst die Dämonen nicht eure Nase stehlen'
+		'''
+}
+
+VeneratedLocket: {
+	DisplayName: Verehrtes Amulett
+	Tooltip:
+		'''
+		12% erhöhter Schaden mit Wurfgeschossen
+		Verwenden einer Wurfgeschoss-Waffe beschwört eine Kopie des Projektils, die vom Himmel fällt
+		Stealth-Angriffe erzeugen einen kreisförmigen Fächer aus suchenden Kosmilith-Messern
+		Du wirst niemals alleine sein, egal wohin du gehst
+		'''
+}
+
+VitalJelly: {
+	DisplayName: Vitales Gelee
+	Tooltip: 10% erhöhte Bewegungs- und Sprunggeschwindigkeit
+}
+
+VoidofCalamity: {
+	DisplayName: Leere der Verheerung
+	Tooltip:
+		'''
+		Lässt gelegentlich Schwefelfeuerbälle vom Himmel fallen
+		12% erhöhter Schaden
+		Alle Angriffe fügen Brimstone Flames zu
+		Schwefelfeuer regnet nach dem Treffen herab
+		Gewährt Immunität gegen Lava, Brennen, In Flammen!, Brimstone Flames und Searing Lava
+		'''
+}
+
+VoidofExtinction: {
+	DisplayName: Leere der Auslöschung
+	Tooltip:
+		'''
+		Wirft gelegentlich Schwefelfeuerbälle vom Himmel
+		12% erhöhter Schaden
+		Alle Angriffe fügen Brimstone Flames zu
+		Schwefelfeuer regnet nach dem Treffen herab
+		Gewährt Immunität gegen Lava, Brennen, In Flammen!, Brimstone Flames und Searing Lava
+		'''
+}
+
+VoltaicJelly: {
+	DisplayName: Voltaisches Gelee
+	Tooltip:
+		'''
+		+1 maximale Diener
+		Diener-Angriffe fügen Elektrifiziert zu
+		'''
+}
+
+WarbanneroftheSun: {
+	DisplayName: Kriegsbanner der Sonne
+	Tooltip:
+		'''
+		Erhöht den Nahkampfschaden, wahren Nahkampfschaden und die Nahkampfgeschwindigkeit, je näher du an Feinden bist
+		Die maximale Erhöhung beträgt 20% erhöhten Nahkampfschaden, wahren Nahkampfschaden und Nahkampfgeschwindigkeit
+		'''
+}
+
+WifeinaBottle: {
+	DisplayName: Elementar in einer Flasche
+	Tooltip: Ruft einen Sandelementar herbei, der für dich kämpft
+}
+
+WifeinaBottlewithBoobs: {
+	DisplayName: Seltene Elementar in einer Flasche
+	Tooltip:
+		'''
+		Ruft einen Sandelementar herbei, um dich zu heilen
+		;D
+		'''
+}
+
+WulfrumAcrobaticsPack: {
+	DisplayName: Wulfrum-Akrobatik-Pack
+	Tooltip:
+		'''
+		Verwandelt ausgerüstete Greifhaken in eine Wulfrum-Schleuder
+		Die Schleuder ermöglicht fortschrittliche Seil-Schwingungsphysik
+		Grappelt automatisch an nahegelegene Wände, wenn ein tödlicher Fall erkannt wird
+		Dieses Sicherheitsmerkmal wird nicht aktiviert, wenn NACH UNTEN gehalten wird
+		8% erhöhte Bewegungsgeschwindigkeit
+		'''
+}
+
+WulfrumBattery: {
+	DisplayName: Wulfrum-Batterie
+	Tooltip:
+		'''
+		Verleiht deinen Beschwörungen Wulfrum-Energie, die es ihnen ermöglicht, Licht um sie herum auszustrahlen
+		7% erhöhter Beschwörungsschaden
+		50% Chance, einen zusätzlichen Schrott zu erhalten, wenn du Wulfrum-Roboter tötest
+		Kann auch an einem Extractinator zerschrottet werden
+		'''
+}
+
+YharimsGift: {
+	DisplayName: Yharims Gabe
+	Tooltip:
+		'''
+		Flammende Meteore regnen nach dem Treffen herab
+		Explodierender Drachensand bleibt zurück, wenn du dich bewegst
+		Schaden und Bewegungsgeschwindigkeit um 15% erhöht
+		Die Macht, einen Gott zu töten, pulsiert in diesem Artefakt
+		'''
+}
+
+YharimsInsignia: {
+	DisplayName: Yharims Insignie
+	Tooltip:
+		'''
+		10% erhöhter Schaden, wenn du unter 50% Lebenspunkten bist
+		15% erhöhter Nahkampf- und wahrer Nahkampfschaden
+		Alle Nahkampfangriffe fügen Heilige Flammen zu
+		Erhöhte Nahkampf-Rückstoßwirkung
+		'''
+}

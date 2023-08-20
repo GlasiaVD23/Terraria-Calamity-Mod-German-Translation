@@ -1,0 +1,169 @@
+AerialiteDye: {
+	DisplayName: Aerialite Farbstoff
+	Tooltip: ""
+}
+
+AstralBlueDye: {
+	DisplayName: Astralblau Farbstoff
+	Tooltip: ""
+}
+
+AstralDye: {
+	DisplayName: Astralfleisch Farbstoff
+	Tooltip: ""
+}
+
+AstralOrangeDye: {
+	DisplayName: Astralorange Farbstoff
+	Tooltip: ""
+}
+
+AstralSwirlDye: {
+	DisplayName: Astralwirbel Farbstoff
+	Tooltip: ""
+}
+
+AuricDye: {
+	DisplayName: Auric Farbstoff
+	Tooltip: ""
+}
+
+BloodflareDye: {
+	DisplayName: Bloodflare Farbstoff
+	Tooltip: ""
+}
+
+BlueCosmicFlameDye: {
+	DisplayName: Blauer kosmische Flammen Farbstoff
+	Tooltip: ""
+}
+
+BlueStatigelDye: {
+	DisplayName: Blauer Statigel Farbstoff
+	Tooltip: ""
+}
+
+BrimflameDye: {
+	DisplayName: Brimflamme Farbstoff
+	Tooltip: ""
+}
+
+CalamitousDye: {
+	DisplayName: Verheerender Farbstoff
+	Tooltip: ""
+}
+
+CeaselessDye: {
+	DisplayName: Unaufhörlicher Farbstoff
+	Tooltip: ""
+}
+
+CosmiliteDye: {
+	DisplayName: Cosmilite Farbstoff
+	Tooltip: ""
+}
+
+CryonicDye: {
+	DisplayName: Kryonischer Farbstoff
+	Tooltip: ""
+}
+
+DefiledFlameDye: {
+	DisplayName: Verschmutzte Flammen Farbstoff
+	Tooltip: ""
+}
+
+DragonSoulDye: {
+	DisplayName: Drachenseelen Farbstoff
+	Tooltip: ""
+}
+
+ElementalDye: {
+	DisplayName: Elementarer Farbstoff
+	Tooltip: ""
+}
+
+EndothermicDye: {
+	DisplayName: Endothermischer Farbstoff
+	Tooltip: ""
+}
+
+ExoDye: {
+	DisplayName: Exo Farbstoff
+	Tooltip: ""
+}
+
+AdrenalineHairDye: {
+	DisplayName: Adrenalin Haar Farbstoff
+	Tooltip: ""
+}
+
+RageHairDye: {
+	DisplayName: Wut Haar Farbstoff
+	Tooltip: ""
+}
+
+StealthHairDye: {
+	DisplayName: Tarn Haar Farbstoff
+	Tooltip: ""
+}
+
+WingTimeHairDye: {
+	DisplayName: Flügelzeit Haare Farbstoff
+	Tooltip: ""
+}
+
+NightmareDye: {
+	DisplayName: Alptraum Farbstoff
+	Tooltip: ""
+}
+
+PolterplasmDye: {
+	DisplayName: Polterplasma Farbstoff
+	Tooltip: ""
+}
+
+PinkCosmicFlameDye: {
+	DisplayName: Pinke kosmische Flamme Farbstoff
+	Tooltip: ""
+}
+
+PinkStatigelDye: {
+	DisplayName: Pink Statigel Farbstoff
+	Tooltip: ""
+}
+
+ProfanedFlameDye: {
+	DisplayName: Entweihte Flammen Farbstoff
+	Tooltip: ""
+}
+
+ProfanedMoonlightDye: {
+	DisplayName: Profanierter Mondlicht Farbstoff
+	Tooltip: ""
+}
+
+ReaverDye: {
+	DisplayName: Reaver Farbstoff
+	Tooltip: ""
+}
+
+ShadowspecDye: {
+	DisplayName: Shadowspec Farbstoff
+	Tooltip: ""
+}
+
+SlimeGodDye: {
+	DisplayName: Schleimgott Farbstoff
+	Tooltip: ""
+}
+
+StratusDye: {
+	DisplayName: Stratus Farbstoff
+	Tooltip: ""
+}
+
+SwirlingCosmicFlameDye: {
+	DisplayName: Wirbelnde kosmische Flammen Farbstoff
+	Tooltip: ""
+}

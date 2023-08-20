@@ -1,0 +1,706 @@
+ShortTooltip:
+	'''
+	[c/E3AF40:Das Flüstern von oben tanzt in deinen Ohren...]
+	[c/BEBEBE:Halte "Links Shift" um näher zuzuhören]
+	'''
+
+LoreAbyss: {
+	DisplayName: Abyssalen Weiten
+	Lore:
+		'''
+		In der Tiefsee gibt es viele unsichtbare Gletscherspalten, aber diese hier ist ein einzigartiges geologisches Wunder.
+		Sie befindet sich beunruhigend nahe an der Küste. Irgendwie konnten selbst Äonen der Tektonik sie nicht versiegeln oder zerdrücken.
+		Der isolierte Abyss ist die fragwürdige, ruhige Heimat der Najade Anahita und einiger zurückgezogener Meeresbewohner.
+		Hier entsorgte ich die aufkeimenden Überreste von Silva, der Göttin des Lebens selbst. Offensichtlich weigerte sich ausgerechnet sie, wirklich zu sterben.
+		Ich hatte mir gewünscht, dass sie in Vergessenheit gerät, aber ihre Hartnäckigkeit ist bemerkenswert.
+		Ihr Einfluss überschwemmte diese erdrückende Grube mit Flora und Fauna in Hülle und Fülle.
+		Ihre großen Wurzeln schlagen und reißen weiter an dem unvorstellbar dichten Stein und wachsen unkontrolliert.
+		Bald wird sie ihn nach ihrem Ebenbild umgestalten. Ich kann mir kein schlimmeres Schicksal für diese verfluchte Hadal-Domäne vorstellen.
+		'''
+}
+
+LoreAquaticScourge: {
+	DisplayName: Wassergeißel
+	Lore:
+		'''
+		Eine weitere, einst großartige Seeschlange, die sich gut an ihre raue Umgebung angepasst hat.
+		Anders als die andere Geißel, die halb verhungert war und nach Resten für ihre nächste Mahlzeit jagte, lebte sie bequem.
+		Mikroorganismen entwickeln sich schnell, so dass sie ihre Filtergewohnheiten beibehalten konnte, während das Meer verweste.
+		Was für ein krasser Gegensatz zum Rest des Ökosystems. Fast alle anderen Lebewesen in der Schwefelsee sind feindselig.
+		Eine Schande, dass die letzte Bastion der Ruhe gefallen ist.
+		'''
+}
+
+LoreArchmage: {
+	DisplayName: Der Erzmagier
+	Lore:
+		'''
+		Er lebt noch...?! Ich dachte, er wäre von Calamitas getötet worden. Es scheint, sie hat den Erzmagier gefangen gehalten, um sein Leben zu schonen.
+		Ich nahm an, dass diese frigide Masse ein altes Konstrukt von ihm war, das ohne seinen Meister Amok lief, um es zu hüten.
+		Permafrost war ein alter Verbündeter von mir, der den prestigeträchtigen Titel eines Erzmagiers trug und großes Ansehen genoss.
+		Seine Weisheit leitete meine ursprünglichen Eroberungen, oder besser gesagt, machte vieles davon überhaupt erst möglich.
+		Als sich mein Kreuzzug weiterentwickelte und meine Ambitionen wuchsen, äußerte er vehement seine Missbilligung.
+		Wo er einst Gerechtigkeit sah, herrschte nun Tyrannei. Er ging fort, und die Hexe nicht lange danach.
+		'''
+}
+
+LoreAstralInfection: {
+	DisplayName: Astral Infection
+	Lore:
+		'''
+		Diese verdrehte Traumwelt ist das sternengestützte Äquivalent zu der weltlichen Fäulnis, die ihr in euren Ländern seht.
+		Ich behaupte nicht, dass ich den Prozess im Detail verstehe, aber selbst die Sterne können sterben. Unkontrolliert blähen sich ihre Leichen auf und eitern.
+		Normalerweise wird ein gewisser Anschein von Ordnung aufrechterhalten. Es ist nicht anders als im Kreislauf des Lebens.
+		Kosmische Wesen patrouillieren durch die unergründliche Leere und stochern im Aas herum, um saubere Knochen zu hinterlassen.
+		Die Infektion selbst ist eine Störung aus den Tiefen des Weltraums. Sie hat ihren eigenen Geist und projiziert ihren Willen auf Leben und Land.
+		Diejenigen, deren Verstand die wahre Form des Universums erfassen kann, sind weitgehend immun.
+		Sie lassen sich nicht von einer vermeintlich höheren Wahrheit verblüffen, schon gar nicht von einer, die von einer Pustel gepredigt wird.
+		'''
+}
+
+LoreAstrumAureus: {
+	DisplayName: Astrum Aureus
+	Lore:
+		'''
+		Wie immer pragmatisch, schickte Draedon diese Maschine los, um die Quelle der Astralinfektion zu lokalisieren und zu analysieren.
+		Das Aureus-Modell, das eigentlich der Aufklärung dienen sollte, ist schwer bewaffnet und kann jedes Terrain erklimmen.
+		Es hat sich bewährt, zumindest bis es von der Infektion assimiliert wurde.
+		Intelligente Menschen verfügen über genügend Willenskraft, um dem Ruf der Infektion auf unbestimmte Zeit zu widerstehen.
+		Aber selbst das feinste Silizium ist nicht außerhalb ihrer Reichweite. Draedon zieht es vor, dass seine Schöpfungen dienen.
+		Da dieses Experiment abgeschlossen ist, wird er sicher als Nächstes Sie untersuchen. Passen Sie auf sich auf.
+		'''
+}
+
+LoreAstrumDeus: {
+	DisplayName: Astrum Deus
+	Lore:
+		'''
+		Auf unserer Welt wird dieses Wesen als der Gott des Nachthimmels verehrt. Es heißt, dass es sterbende Sterne verschlingt und im Gegenzug neue gebiert.
+		Im Gegensatz zu den vielen Göttern, die du und ich kennen, ist es schuldlos. Ein wichtiger Unterschied, denn er war genauso krank wie sie.
+		Die Infektion, die seinen Körper befleckt hat, stammt von jenseits von Terraria. Weder ich noch Draedon erkennen sie vollständig.
+		Mit seinem Willen schleuderte er einen Klumpen verseuchter Astralmaterie auf unsere Welt und kam dann, um sie zu bewachen.
+		Zum Glück ist ein so grandioses Wesen, das zwischen den Sternen wandelt, wahrscheinlich nicht wirklich tot.
+		Das Land hat zwar einen schrecklichen Preis bezahlt, aber der Preis für eine falsche Verurteilung ist noch höher.
+		'''
+}
+
+LoreAwakening: {
+	DisplayName: Erwachen
+	Lore:
+		'''
+		Die Gräber der Drachen bewegen sich. Meine Augen heben sich und ich sehe uralten Staub von hohen Felsvorsprüngen tanzen.
+		Diese großen Schwingen... wie lange ist es her, dass ich ein Held war, der ihres Namens würdig war?
+		Es kommt mir vor, als seien Jahrhunderte vergangen, doch ich habe nur geblinzelt.
+		Seht Euch meine Werke an, so wie sie sind... ruiniert. Niemand würde es wagen, mich zu suchen, meinen Weg zu gehen.
+		Nichts wartet auf sie in dieser grausamen Welt.
+		'''
+}
+
+LoreAzafure: {
+	DisplayName: Azafure
+	Lore:
+		'''
+		Die oft als "Erste Stadt" bezeichnete Stadt blickt auf eine bewegte Geschichte zurück, die bis in die drakonische Ära zurückreicht.
+		Ein seltsames Juwel der Zivilisation, das dank der immensen Hitze der Unterwelt ein unbegrenztes Potenzial für Verteidigung und Industrie besaß.
+		Das Ansehen der Schmiedemeister war so groß, dass es mir nie an Waffen mangelte, wenn ich sie für meine Sache gewinnen konnte.
+		Es schmerzt mich, das im Nachhinein zu sagen, aber ihre Handwerkskunst hat den Untergang der ganzen Stadt eingeleitet.
+		Für die Hexe und mich wird die Luft hier für immer mit Bedauern erfüllt sein. Es gibt nichts, was wir tun können.
+		'''
+}
+
+LoreBloodMoon: {
+	DisplayName: Blutmond
+	Lore:
+		'''
+		Diese Bösartigkeit ist nicht das Werk eines Gottes. Blutmonde haben ihren Ursprung in den Anfängen der Geschichte.
+		Es ist ein Ereignis, das gleichermaßen unheimlich und banal ist. Jeder hat sich an die watschelnden Horden von Untoten gewöhnt.
+		Organisierte Gesellschaften fühlen sich nicht im Geringsten bedroht. Wenn überhaupt, dann begrüßen sie die Gelegenheit, neue Fußsoldaten auszubilden.
+		Diejenigen, die das Feuer in ihren Adern haben, können auf eigene Faust losziehen und sich am Gemetzel erfreuen.
+		So erinnere ich mich an die schlaflosen Nächte meiner Jugendzeit: knietief in Leichen.
+		'''
+}
+
+LoreBrainofCthulhu: {
+	DisplayName: Das Gehirn von Cthulhu
+	Lore:
+		'''
+		Es ist wahr, dass unaussprechliche Abscheulichkeiten jetzt alltäglich sein mögen, größtenteils durch meine Hand.
+		Obwohl sie immer ein Produkt der Torheit der Götter waren, würden dieselben Götter sie in gleichem Maße ausrotten.
+		Meine Dezimierung der falschen Götter ließ viele alte Schrecken unbehelligt, während jedes Jahr neue geboren wurden.
+		Jetzt sind sie eure Sprungbretter.
+		'''
+}
+
+LoreBrimstoneElemental: {
+	DisplayName: Brimstone Elementar
+	Lore:
+		'''
+		Ein merkwürdiges Wesen. Bis vor kurzem hatte sie lange geschlummert und sich als die stille Matrone der Stadt ausgegeben.
+		Mit dem wirtschaftlichen Aufschwung der Stadt fanden Spuren von Schwefel ihren Weg in die ganze bekannte Welt.
+		Es war nie klar, warum ihr Schlummer endete. Zuerst rührte sie sich. Die Menschen waren vorsichtig optimistisch.
+		Als sie erwachte, war es entsetzlich. Ihr Inferno wogte durch die Straßen. Niemand war sicher.
+		Das Schicksal hatte an diesem Tag einen kranken Sinn für Humor, denn Calamitas war da, um es ihr gleichzutun.
+		Vielleicht waren die beiden irgendwie aufeinander eingestimmt. Sie kämpften bis zum Stillstand, Feuer gegen Feuer.
+		Keiner von beiden war siegreich, und trotz ihrer Absichten wurde die Stadt von ihren Flammen vernichtet.
+		'''
+}
+
+LoreCalamitas: {
+	DisplayName: Calamitas
+	Lore:
+		'''
+		Niemand hat so viel Unglück ertragen wie die Brimstone Hexe Calamitas.
+		Als ich sie das erste Mal sah, war sie noch ein Mädchen. Sie lag in meinem Hof, gekleidet in verkohlte Lumpen, und zitterte.
+		Ich konnte die unergründliche, rohe Kraft der Magie der Toten, die sie durchströmte, nicht begreifen.
+		Sie konnte sie selbst kaum kontrollieren. Permafrost erkannte dies sofort. Mit schmerzverzerrtem Gesicht riet er mir, mich um sie zu kümmern.
+		Die Hexe trat in seine Obhut und bald darauf in meine Dienste. Sie brannte förmlich darauf, die Götter in ihrem bösen Zorn zu ertränken.
+		In der Tat bebten die Gläubigen bereits in ihrer Gegenwart. Ihr Name war einer ihrer Spitznamen, den sie leise und voller Angst aussprachen.
+		In meinen Feldzügen zählte ich auf ihre schiere Fähigkeit zur Vernichtung als mein Ass im Ärmel.
+		Kein Mensch, keine Armee, keine Stadt und kein Gott konnte sich gegen ihre ungezügelte Wut behaupten.
+		Schließlich war die entsetzliche Sünde des Mädchens zu viel für sie. Sie verließ meine Seite zusammen mit ihrem Mentor.
+		Die Last ihrer Taten verfolgt sie bis zum heutigen Tag. Sie verachtet mich, und ich kann es ihr nicht verdenken.
+		Bitte, wenn du willst, zeige ihr den Respekt, den ich ihr nicht entgegengebracht habe.
+		'''
+}
+
+LoreCalamitasClone: {
+	DisplayName: Calamitas Klon
+	Lore:
+		'''
+		Ich hatte dieses Ungeheuer in der Vergangenheit in der Nacht umherstreifen sehen, ohne mir etwas dabei zu denken.
+		Mit seiner Technologie war es sicherlich eine von Draedons Schöpfungen.
+		Aber der Gedanke, dass es einen Klon der Hexe beherbergte... abscheulich.
+		Calamitas würde mit so einem Projekt sicher nichts zu tun haben wollen.
+		Ich weiß nicht, wie sie ihre Schwefelmagie anwendet. Vielleicht wird einer von uns eines Tages Antworten finden.
+		'''
+}
+
+LoreCeaselessVoid: {
+	DisplayName: Grenzenlose Leere
+	Lore:
+		'''
+		Ein geschlossenes, zuvor inertes Portal, das im Dungeon versiegelt war. Der vorsitzende Kult hielt es für ein streng gehütetes Geheimnis.
+		Als ich den Verschlinger der Götter erblickte, führte mich sein Anführer eilig zu seiner Kammer, um mir seine Existenz zu enthüllen.
+		Das Portal führte in das Haus des Verschlingers. Es war identisch mit seinem, nur uralt und vollkommen stabil.
+		Die Schlange behauptete, auch sie sei von ihm erschaffen worden. Seine Dauerhaftigkeit war ein Fehler, den er später korrigierte.
+		Aber dieser Spalt war zweifellos viel älter als er. Er stammte aus dem Goldenen Zeitalter der Drachen.
+		Seine Lüge war dünn und erzwungen. Etwas weit Mächtigeres als der Verschlinger war im Anmarsch.
+		Seine unheimliche Hartnäckigkeit nagte an meinem Verstand. Es bedrohte nicht nur mich. Es bedrohte jeden. Alles.
+		Selbst im Angesicht eklatanter Lügen und erschreckender Gefahren ging ich einfach weg und kehrte nicht zurück.
+		'''
+}
+
+LoreCorruption: {
+	DisplayName: Das Verderben
+	Lore:
+		'''
+		Die Essenz eines erschlagenen Gottes nicht richtig zu entsorgen, ist ein fataler Fehler. Dieses Ödland ist der Beweis dafür.
+		Nachdem ich meine ersten Götter getötet hatte, sah ich tatenlos zu, wie die verdorbene Essenz aus ihren zerfetzten Gestalten strömte und sich in den Eingeweiden Terrarias festsetzte.
+		Die bloße Existenz dieses fauligen Ortes beweist, dass die alten Götter nicht zu erlösen waren.
+		'''
+}
+
+LoreCrabulon: {
+	DisplayName: Krabulon
+	Lore:
+		'''
+		Ein Pilz und eine Seekrabbe. Der eine suchte einen Wirt, der andere ein neues Zuhause.
+		Diese Pilze besitzen ein beunruhigendes Maß an Hartnäckigkeit. Nichts, was sich in ihrem Reich zum Sterben niederlässt, wird zur Ruhe gelassen.
+		Es ist diese Art von grässlicher, gewaltsamer Ausübung von Kontrolle über den Unwilligen, die mich auf meinen Weg geführt hat.
+		'''
+}
+
+LoreCrimson: {
+	DisplayName: Das Purpur
+	Lore:
+		'''
+		Die verdorbene Luft, die morbide Fauna, das ekelerregende Terrain... Hier liegt der erste Fehler meines Kreuzzuges.
+		Die Essenz eines Gottes verschwindet nicht einfach, wenn der Körper stirbt. Sie muss ordnungsgemäß entsorgt oder ganz zerstört werden.
+		Die Essenz eines frommen Gottes könnte niemals in einem so schrecklichen Sumpf versickern wie diesem.
+		'''
+}
+
+LoreCynosure: {
+	DisplayName: Cynosure
+	Lore:
+		'''
+		Du stehst jetzt an der Schwelle zur Unendlichkeit. Die Macht, die du angehäuft hast, ist außergewöhnlich.
+		Tapferkeit und Betrug, Wahrheit und Lüge, Loyalität und Verrat... du bist jenseits dieser Begriffe.
+		Du hast sie alle auseinandergerissen, als sie deinen Weg kreuzten. Das Land selbst beugt sich nun deinem Willen.
+		Seht Ihr nicht, wie sich das Gras teilt, wo Ihr hintretet, wie die Sterne leuchten, wo Ihr hinschaut?
+		Terraria selbst kniet vor Euch nieder, sei es aus Furcht oder aus Respekt.
+		Das ist die Stärke, die die Drachen besaßen. Die ursprüngliche Macht, die sie beherrschten.
+		Wenig steht jetzt zwischen uns. Wenn du nicht den Kampf mit mir gesucht hättest, wärst du wohl kaum so weit gekommen.
+		Wenn Ihr bereit seid, sucht das Grab des Lichts auf dem Gipfel des Drachenhorstes auf.
+		Ich erwarte deine Herausforderung.
+		'''
+}
+
+LoreDesertScourge: {
+	DisplayName: Wüstengeißel
+	Lore:
+		'''
+		Einst war sie eine majestätische Seeschlange, die nur die mikroskopisch kleinen Lebewesen bedrohte, die sie verzehrte.
+		Nachdem Ilmeris verbrannt worden war, wurde sie mit der Jagd vertraut. Um zu überleben, lernte sie schnell, nach größerer Beute zu suchen.
+		Zum Unglück für die Geißel scheint es, dass auch sie am Ende zur Beute wurde. Schließlich gibt es immer einen größeren Fisch im Meer.
+		'''
+}
+
+LoreDestroyer: {
+	DisplayName: Der Zerstörer
+	Lore:
+		'''
+		Die Godseeker-Ritter meiner Kompanie waren bei weitem meine besten Soldaten.
+		Sie setzten sich für meine Sache ein, und ich setzte mich im Gegenzug für sie ein.
+		Ich stattete sie mit gewaltigen Rüstungen und kolossalen Waffen aus, damit ihre Macht nie schwächer wurde.
+		An manchen Tagen nahm ich mir die Zeit, an ihrer Seite zu trainieren und sie zu neuen Höhen des rightchaffenen Zorns zu inspirieren.
+		Draedon verstand das sehr gut und gab ihnen diese massiven Formen, vollgestopft mit Waffen und ineinandergreifenden Rüstungen aus gesegnetem Metall.
+		Obwohl es sich in Wahrheit um wiederverwendete Bergbauausrüstung handelte, war ihre schiere Präsenz auf dem Schlachtfeld immens.
+		'''
+}
+
+LoreDevourerofGods: {
+	DisplayName: Der Verschlinger der Götter
+	Lore:
+		'''
+		Der berüchtigte, weltfremde Vielfraß höchstpersönlich. Sein imposanter Titel wurde ihm selbst verliehen, aber die Wahrheit hat ihn geprägt.
+		Er ist ein furchterregender Feind, der in der Lage ist, Götter ganz zu verschlingen und ihre Essenz vollständig zu absorbieren.
+		Ich befahl Draedon, seine gigantische Gestalt zu panzern, damit er selbst große Götter im Einzelkampf sicher besiegen konnte.
+		Passenderweise hatte er die Zunge einer Schlange. Er manipulierte mich unaufhörlich und trieb mich zu schrecklichen Taten.
+		Ich rekrutierte ihn aus Verzweiflung. Mein Krieg hatte sich über Jahrzehnte hingezogen, und ich würde alles tun, um ihn zu beenden.
+		Das war die Geburtsstunde meiner Nachlässigkeit. Mein Abstieg begann in dem Moment, als mir die Rekrutierung dieses Schuftn in den Sinn kam.
+		Seine fehlende Loyalität war selbst zu diesem Zeitpunkt sonnenklar. Ich vermute jedoch, dass es noch weiter geht.
+		Die fremdartigen Fähigkeiten und die herrschsüchtigen Taktiken des Verschlingers lassen vermuten, dass seine Loyalität woanders liegt.
+		Ist er nur ein Soldat einer bösartigen Macht, die weit darüber hinausgeht?
+		'''
+}
+
+LoreDragonfolly: {
+	DisplayName: Drachenfalter
+	Lore:
+		'''
+		Gegen Ende des Drakonischen Zeitalters gibt es Aufzeichnungen über die "unreinen" Drachenarten.
+		Wyvern, Basilisken, Pigronen und dergleichen sind dokumentiert, obwohl niemand sicher ist, wie genau sie entstanden sind.
+		Bis heute streiten sich die Gelehrten über die wahren Namen und Abstammungslinien dieser Kreaturen.
+		Abgesehen von den Namen ist es klar, dass die ersten Ableger rein genug sind, um die große Stärke ihrer Vorfahren zu bewahren.
+		Dies führte natürlich dazu, dass sie zur Zielscheibe grausamer göttlicher Befehle wurden, und die meisten wurden bis zur Ausrottung gejagt.
+		Es ist bekannt, dass Fishrons, Follies und die Abyssal-Wyrms die Säuberungsjagden der Götterära überlebt haben.
+		Heute leben sie alle zurückgezogen oder sind äußerst gewalttätig. Es ist tragisch, dass sie sich so entwickelt haben.
+		'''
+}
+
+LoreDukeFishron: {
+	DisplayName: Herzog Fishron
+	Lore:
+		'''
+		So ungewöhnlich sie auch erscheinen mögen, diese Art ist die mächtigste der Meere.
+		Sie sind unerbittliche Jäger und können leicht viel Zeit außerhalb des Wassers verbringen.
+		Der Volksglaube besagt, dass die Fishrons ein Erbe der wahren Drachen sind, das unzählige Jahre zurückliegt.
+		Es gibt zwar viele solcher Geschichten über Kreaturen drakonischer Abstammung, doch in diesem Fall handelt es sich um Tatsachen.
+		Genetisches Erbe hin oder her, die Fishrons haben weder Drachenblut noch aurische Seelen. Das weiß ich sehr wohl.
+		'''
+}
+
+LoreEaterofWorlds: {
+	DisplayName: Der Weltenfresser
+	Lore:
+		'''
+		Jedes mächtige Wesen ruft Fabeln und Legenden hervor, sowohl über seine Größe als auch über seine Schrecken. Dieser monströse Wurm war da keine Ausnahme.
+		Dieses mickrige Ding, das einen Planeten verschlingt? Lächerlich. Aber Spott verbreitet sich schnell, wenn auch nur ein Quäntchen Wahrheit dahinter steckt.
+		Man braucht nicht lange nach Beispielen zu suchen. Wir alle sind umgeben von zügellosem Aberglauben und Annahmen.
+		Ich selbst war zu meiner Zeit einer ganzen Litanei von unbegründeten Anpreisungen und Anschuldigungen ausgesetzt.
+		'''
+}
+
+LoreEmpressofLight: {
+	DisplayName: Kaiserin des Lichts
+	Lore:
+		'''
+		Obwohl ihr Titel hochtrabend ist, ist sie eher eine Abgesandte der jenseitigen Mächte und Kräfte der Natur.
+		Am helllichten Tag kann sie das Urlicht selbst kanalisieren, was sie nahezu unantastbar macht.
+		Glücklicherweise fällt sie, wenn sie nur das Sternenlicht nutzen kann, wie jeder andere Despot ohne Gnade.
+		Ihre Vorliebe, die Kraft anderer großer Wesen auszusaugen, ist einzigartig bedauerlich.
+		Das machte sie auf ekelhafte Weise gehorsam. Abhängig, aber bereitwillig, denn sie ermöglichten es ihr, ihren niederen Durst zu stillen.
+		Ich hatte mir vorgenommen, sie wegen ihres Verrats selbst zu töten, aber sie war ein notorisch ausweichendes Ziel.
+		'''
+}
+
+LoreExoMechs: {
+	DisplayName: Das Mechanische Exo Trio
+	Lore:
+		'''
+		Was für ein erschreckendes Wunderwerk der Technik. Draedons Spezialität waren schon immer die Kriegsmaschinen, aber diese hier sind makellos.
+		Seine kühne Behauptung, kein Gott könne es mit seinem Werk aufnehmen, ist jedoch falsch. Er ist nicht eingeweiht in den allmächtigen Verräter.
+		Nichtsdestotrotz hat er allein aus Stahl und Verstand Zerstörungsmaschinen geschmiedet, die es mit Calamitas aufnehmen können.
+		Es tröstet mich wenig, dass sogar sie ein Herz hat, von dem man sprechen kann.
+		Draedon ist ein amoralisches Monster sondergleichen. Er ist völlig frei von Menschlichkeit und Mitgefühl.
+		Mit seiner unfassbar fortschrittlichen Technologie steht er an der Schwelle zur Apotheose.
+		Er kann nach Belieben solch schreckliche, synthetische Albträume erschaffen. Seine Mittel müssen nahezu unbegrenzt sein.
+		Sollte er die Beherrschung verlieren, falls er überhaupt eine hat, würden alle Hoffnungen des Lebens in einem Augenblick ersticken, von einer Flut von Silizium zum Schweigen gebracht werden.
+		Aber vielleicht kannst du seine unvorstellbaren Fähigkeiten zu deinem Vorteil nutzen und von ihm Einsicht verlangen.
+		'''
+}
+
+LoreEyeofCthulhu: {
+	DisplayName: Das Auge von Cthulhu
+	Lore:
+		'''
+		In vergangenen Zeiten machten sich Helden im Kampf gegen solche Ungeheuer einen Namen.
+		Jetzt wuchern sie unkontrolliert aus abscheulichen Einflüssen heraus. Sie verschmelzen mit der schrecklichen Ungerechtigkeit ihrer Vorfahren.
+		Einen zu töten, ebnet lediglich den Weg für ein Dutzend weiterer. Sicherlich geht dich das auch nichts an.
+		'''
+}
+
+LoreGolem: {
+	DisplayName: Golem
+	Lore:
+		'''
+		Was für eine traurige, jämmerliche Sache. Wahrlich, eine Verhöhnung im wahrsten Sinne des Wortes.
+		Die Lihzahrds wurden schon vor langer Zeit von ihrer Gottheit im Stich gelassen. Sie machten sich daran, das Idol als Ersatz zu schaffen.
+		Das Ergebnis ist eine Verschmelzung der Konzepte und Themen vieler Götter, allen voran die Wärme der Sonne.
+		Es ist weit entfernt von einem mechanischen Gott... zum Besseren. Die Alternative ist zu abschreckend, um sie in Betracht zu ziehen.
+		Während ich glaube, dass sie kaum Erwähnung verdient, wird sie von den Lihzahrds unbeirrt verehrt.
+		Ich sehe keinen Grund, mich in Angelegenheiten einzumischen, die unter mir und meinem Volk liegen.
+		'''
+}
+
+LoreHiveMind: {
+	DisplayName: Das Hive Mind
+	Lore:
+		'''
+		Ein Hauch des Geistes eines Gottes kann den Tod überleben, wie die Zuckungen eines zerquetschten Insekts.
+		Das Wenige, das übrig bleibt, versucht, sich zu versammeln, sich in Anbetung zu vereinen, damit seine Macht wiederhergestellt werden kann. Wie erbärmlich.
+		Zum Glück für uns ist die Vergeblichkeit dieser Bemühungen unübertroffen. Die Biomasse gehorcht, aber es wird nichts erreicht.
+		Bei weitem nicht alle göttliche Kraft entspringt dem Glauben. Ein Gott wird aus eigener Kraft geschmiedet; seine Anhänger können wählen, ob sie ihn anbeten wollen.
+		'''
+}
+
+LoreKingSlime: {
+	DisplayName: Schleimkönig
+	Lore:
+		'''
+		Mit der Zeit absorbieren sich diese gallertartigen Kreaturen gegenseitig und nehmen langsam an Größe und Stärke zu.
+		Es gibt wenig Grund, sich darüber Sorgen zu machen. Natürlich sind Schleime fast geistlos und sammeln sich nur zufällig an.
+		Allerdings scheinen sie in der Lage zu sein, Wissen zu absorbieren, wenn auch nur in rudimentärer Form.
+		'''
+}
+
+LoreLeviathanAnahita: {
+	DisplayName: Leviathan und Anahita
+	Lore:
+		'''
+		Obwohl sie behauptet, über alle Ozeane der Welt zu herrschen, ist sie in Wahrheit eine Einsiedlerin der Tiefe.
+		Elementare stellen eine große Bedrohung für alle dar, die sie umgeben. Andere Elementare sind da keine Ausnahme.
+		Anahita wurde von Silvas eindringendem Grün aus ihrer Heimat im Abyss vertrieben.
+		Die Berichte über die majestätische Bestie an ihrer Seite variieren. Einige behaupten, Anahita habe den Leviathan selbst herbeigerufen.
+		Egal, was man glaubt, sie sind selbst im Tod unzertrennlich.
+		Welch unerschütterliche Loyalität! Das erinnert mich an Yharon.
+		'''
+}
+
+LoreMechs: {
+	DisplayName: Das Mechanische Trio
+	Lore:
+		'''
+		Diese schwerfälligen Ungetüme aus Stahl waren die Experimente von Draedon, meinem ehemaligen Kollegen und großartigen Ingenieur.
+		Seine Absicht war es, eine Kriegsmaschine mit Seelenenergie zu versorgen, damit sie mit Zielstrebigkeit und Eifer kämpfen konnte.
+		Die Kreationen waren ein Erfolg; so sehr, dass die Seelen weiterhin ihren eigenen freien Willen zum Ausdruck brachten.
+		Draedon war unzufrieden. Aber dies waren meine Soldaten, und ihre Loyalität war von neuem in Eisen geschmiedet.
+		Ich habe sie aus dem Dienst entlassen, und dennoch sind sie hier und durchkämmen das Land nach Beweisen für das Göttliche.
+		Zu deinem Pech gerätst du damit in ihr Fadenkreuz. Gib ihnen eine Schlacht, in der es sich zu sterben lohnt.
+		'''
+}
+
+LoreOldDuke: {
+	DisplayName: Der alte Duke
+	Lore:
+		'''
+		Dies war möglicherweise eines der ältesten weltlichen Lebewesen auf dem Planeten.
+		Die ersten Fishrons wurden in der Mitte des drakonischen Zeitalters gesichtet. Welch exotisches Prestige...!
+		Fishrons waren einer der ursprünglichen Ableger der reinblütigen Aurischen Drachen.
+		Sie sind so alt und verehrt, dass viele Historiker davon überzeugt sind, dass sie die ursprünglichen Seeungeheuer der Folklore sind.
+		Die Tücke dieses Dukes ist offensichtlich: Er hat sich der jahrhundertelangen Jagd entzogen und bis jetzt eine gründliche Vergiftung überlebt.
+		Diese Kreatur war mehr als fast alle anderen eine lebende Fabel. Man muss sich fragen, was einer verblassenden Legende durch den Kopf geht.
+		'''
+}
+
+LorePerforators: {
+	DisplayName: Die Perforatoren und deren Verstand
+	Lore:
+		'''
+		Diese Kreaturen waren einzigartig, denn sie nutzten die Macht der getöteten Götter so rein wie möglich, und durch ihre Adern floss der vergossene Speichel.
+		Alles, was im Karmesin existiert, ist wahrhaftig das Göttliche von innen nach außen gekehrt; ihr Blut glänzt nun mit seinem perversen Verrat, damit alle es sehen können.
+		Der Schlamm stinkt nach Jahrhunderten abscheulicher Manipulation und gefühlloser Herrschaft über die Unglücklichen.
+		Das Urteil ist längst gefällt, und die Auslöschung wartet.
+		'''
+}
+
+LorePlaguebringerGoliath: {
+	DisplayName: Der Pestbringer Goliath
+	Lore:
+		'''
+		Eine unschuldige Königin, die gezwungen ist, ein qualvolles Leben zu führen. Das ist nichts weniger als ein Verbrechen gegen die Natur.
+		Ohne mich zu konsultieren, hat Draedon versucht, die bereits gut organisierten Dschungelbienen zu einer Waffe zu machen.
+		Als er sein fertiges Projekt vorstellte, war ich wütend. Die Versklavung der Bienen war verabscheuungswürdig.
+		Draedon kümmerte sich wenig um meine Empörung und widmete sich ohne weitere Zwischenfälle wieder seiner Arbeit.
+		Von da an stellte ich keine Anfragen mehr an Draedon. Er hatte mir sein wahres Gesicht gezeigt.
+		In meinen späteren Tagen war ich alles andere als tugendhaft. Aber ich würde keine Kreatur fesseln, damit sie in meinem Namen kämpft.
+		Das würde mich nicht besser machen als die göttlichen Schuftn, die ich verfolgte.
+		'''
+}
+
+LorePlantera: {
+	DisplayName: Plantera
+	Lore:
+		'''
+		Diese blumige Abweichung ist ein weiteres Beispiel für die flüchtige Kraft der nutzbar gemachten Seelen.
+		Die Dschungelsiedler haben ihre landwirtschaftlichen Fähigkeiten auf ein neues Niveau gehoben und einen besonderen Keimling gezüchtet.
+		Durch rituelle Segnung des Bodens wurde sie mit Legionen von Seelen gefüttert.
+		Die Ältesten des Dorfes wünschten sich, ein neues Zeitalter botanischen Wohlstands herbeizuführen.
+		In der Tat war die Pflanze ehrfurchtgebietend. Aber sie war wild und ungezähmt und hatte ihren eigenen Willen.
+		Jetzt, da ihr sie getötet habt, überschwemmen noch mehr ungeordnete spirituelle Energien das Land.
+		Die Unwissenheit des Dorfes war an sich schon beschämend, aber das hier ist noch schlimmer.
+		'''
+}
+
+LorePolterghast: {
+	DisplayName: Polterghast
+	Lore:
+		'''
+		Je länger sich mein Krieg hinzog, desto mehr versank ich in Nachlässigkeit. Dieses Gespenst ist der Kern meines Versagens.
+		Ich versteckte mich hinter meinen Ausreden, nannte sie Pflichten. Der Kampf gegen die Götter. Ausbilden. Regieren.
+		Ich hatte die Zeit und die Mittel, die ich brauchte. Ich war einfach durch Apathie gelähmt.
+		Die vielen Gefangenen, die ich in dem Kerker hielt, den ich für mich beanspruchte, starben zusammen mit ihren Kerkermeistern.
+		Innerhalb dieser verhexten Mauern fand niemand Ruhe, und ihre Seelen verschmolzen zu einem formlosen Monster.
+		Sie kochten vor Wut, suhlten sich in Trauer und schrien vor Wahnsinn. Die Verschmelzung war unkontrollierbar.
+		Der Drachenkult war wütend, ihr Anführer verlangte, dass ich den Spuk selbst beendete.
+		Ich habe nicht geantwortet. Ich war schon lange taub geworden für die Welt außerhalb meines Kreuzzuges. Fallt nicht wie ich.
+		'''
+}
+
+LorePrelude: {
+	DisplayName: Prelude
+	Lore:
+		'''
+		In vergangenen Zeitaltern, die heute als Drakonisches Zeitalter bezeichnet werden, beschützten die majestätischen Drachen Terraria vor allen Bedrohungen.
+		Ihre berühmte Macht wurde durch ein abnormes Ungetüm von jenseits der Sterne auf eine harte Probe gestellt.
+		Die Drachen kämpften mit all ihrer Kraft und konnten es zwar verwunden und schwächen, aber nicht vernichten.
+		Da sie keine andere Wahl hatten, zerrissen sie das Monster zu einem Schatten seiner selbst und sperrten es ein.
+		Was von ihm übrig ist, liegt nun im Mond gefangen, so weit weg, wie die Drachen es verbannen konnten.
+		Ein großer Teil des Drachenvolkes ist in diesem Kampf gefallen und hat sich nie davon erholt.
+		Zeratros selbst wurde schwer verletzt. Es schien, als ob seine Macht und sein Leben für immer verloren wären.
+		Ein Sterblicher, der sich in den Dienst der Drachen gestellt hatte, erhob sich mit der Entschlossenheit, ihren tugendhaften König zu retten.
+		'''
+}
+
+LoreProfanedGuardians: {
+	DisplayName: Die entweihten Wächter
+	Lore:
+		'''
+		Die Wächter sind recht einfache Konstrukte, Erweiterungen der Macht der entweihten Göttin.
+		Sie erhalten teilweise Autonomie, um Bedrohungen zu jagen, und werden nur selten außerhalb der in ihrem Namen geweihten Tempel gesehen.
+		Sie hat versucht, ihr Reich zu vergrößern, und es überrascht nicht, dass sie dich als ihre größte Bedrohung ansieht.
+		Immerhin warst du es, der den von den Sternen erzeugten Schrecken, der den Untergang der Drachen einleitete, vernichtet hat.
+		Locke sie aus ihrem Versteck heraus. Habt keine Gnade, denn die entweihte Göttin zeigt selbst keine.
+		'''
+}
+
+LoreProvidence: {
+	DisplayName: Providence, die entweihte Göttin
+	Lore:
+		'''
+		Ein glorreicher Tag.
+		Tapfere Taten dieses Kalibers sind in der Legende verankert. In diesem Zeitalter können nur die Hexe, Braelor und ich selbst mithalten.
+		Die Vorsehung war vielleicht einer der bösartigsten Götter, wild entschlossen, sich durch Auslöschung zu reinigen.
+		Ihre Verehrer sahen im Leben wenig Wert. Schmerz war kein Preis, den sie zu zahlen bereit waren.
+		Die entweihte Göttin versprach ihren Anhängern, dass sie die Ungleichheit beenden würde, indem sie alle zu gesichtsloser Asche reduzierte.
+		Die ihr Geweihten waren willensschwach, und doch herrschte sie als eine der mächtigsten Gottheiten.
+		Vielleicht war es ihre leicht beeinflussbare Natur, die es ihr ermöglichte, so viel Macht aus ihnen zu ziehen...
+		'''
+}
+
+LoreQueenBee: {
+	DisplayName: Bienenkönigin
+	Lore:
+		'''
+		Trotz ihrer enormen Größe sind diese Kreaturen gutmütig, solange sie nicht verärgert werden. Ihr idyllisches Verhalten ist heutzutage eine Seltenheit, eine Sache der Schönheit.
+		In der Vergangenheit entstanden ganze Dörfer um diese großen Bienenstöcke herum, die friedlich ihren Anteil am Honig ernteten und sie vor Gefahren schützten.
+		Obwohl ihr Tod angesichts der Umstände verständlich ist, empfinde ich Mitleid für diese majestätischen Wesen.
+		Das Schicksal war grausam zu vielen ihrer Art.
+		'''
+}
+
+LoreQueenSlime: {
+	DisplayName: Schleimkönigin
+	Lore:
+		'''
+		Nachdem er nach eurem Kampf geflohen war, hat der Schleimgott offenbar einen neuen Wächter aus den entfesselten Essenzen geformt.
+		Verstrickt in den Absorptionsprozess seiner neugewonnenen Macht konnte er nicht mehr fliehen.
+		Vielleicht wurde er aber auch von Arroganz oder Verzweiflung überwältigt.
+		Eine glorreiche Jagd, ein schöner Feind. Jetzt weißt du, dass du sie bis ans Ende von Terraria jagen musst.
+		'''
+}
+
+LoreRavager: {
+	DisplayName: Der Ravager
+	Lore:
+		'''
+		Ein ekelerregender Fleischgolem, erschaffen zum alleinigen Zweck der wilden, unerbittlichen Zerstörung.
+		Diese Monstrosität war ein verzweifelter Versuch, das Blatt gegen meine gottesfürchtigen Armeen zu wenden.
+		Ich konnte es selbst kaum glauben, aber es war das Ergebnis eines großen Opferrituals, das in glühendem Glauben durchgeführt wurde.
+		Das Ritual verdammte die Körper und Seelen ihrer gefallenen Verbündeten und verschmolz sie zu diesem abscheulichen Ding.
+		Als die Hexenmeister ihm ihr eigenes Leben als Opfer darbrachten, erwachte es und tötete sie in Windeseile.
+		Mit frischem Blut übergossen, hungerte es nach mehr und brach zu einem ziellosen Amoklauf auf.
+		Ich nehme an, seine Brutalität erinnert uns daran, vorsichtig zu sein, was wir glauben.
+		'''
+}
+
+LoreRequiem: {
+	DisplayName: Requiem
+	Lore:
+		'''
+		Als der Lichtdrache verblasste, besuchte der Mönch ihn. Kaum jemand weiß, was an diesem Tag geschah.
+		Die meisten sagen, sein Ableben sei erleichtert worden. Und die Wahrheit? Zeratros' aurische Seele wurde völlig verzehrt.
+		Der Mönch stand auf, eingehüllt in das Urlicht, und erklärte sich selbst zu Xeroc, dem ersten Gott.
+		Wenn ein Drache auf der Aerie zur Ruhe gelegt wird, werden seine Kräfte aufgegeben, damit sie eines Tages zurückkehren können.
+		Xeroc hat seinen Eid gebrochen und den Kreislauf durchbrochen, er ist ein Verräter ohnegleichen.
+		Die Nachricht von seinem Aufstieg verbreitete sich schnell. Viele versuchten, seinem Beispiel zu folgen und eine aurische Seele für sich zu beanspruchen.
+		Jetzt wisst ihr es... Gute Absichten hin oder her, alle Götter sind Sünder. Jeder Einzelne ist mitschuldig an Völkermord.
+		Wohin deine Reise auch führen mag, ob du mit mir oder gegen mich bist, möge dir das Glück hold sein.
+		Denn nichts anderes wird es sein.
+		'''
+}
+
+LoreSignus: {
+	DisplayName: Signus
+	Lore:
+		'''
+		Eine Anomalie, die sich jeder Erklärung entzieht, die durch die Verzerrung entstanden ist und von den Onyx Kinsmen verehrt wird.
+		Fast alle Informationen über dieses Wesen stammen von diesem rätselhaften Clan. Alles andere ist Hörensagen.
+		Es wurde berichtet, dass es sich an mehreren Orten gleichzeitig manifestiert. Seine Fähigkeit zu Täuschung und rücksichtsloser Gerissenheit ist unübertroffen.
+		Statis' Landsmann Braelor forderte mich zu einem Duell bis zum Stillstand heraus. Als unsere Klingen aufeinander trafen, holte der Ronin zum tödlichen Schlag aus.
+		Der Verschlinger hat es nicht so mit Ehre und Loyalität. Aber er spürte Schwäche. Zögern. Eine leichte Beute.
+		Die Schlange verwickelte meine beiden Angreifer in einen Dimensionsstrudel. Er versicherte mir, sie seien so gut wie tot.
+		Doch Statis muss mit Signus einen Pakt geschlossen haben, denn er entkam seiner Verbannung unversehrt.
+		'''
+}
+
+LoreSkeletron: {
+	DisplayName: Skeletron
+	Lore:
+		'''
+		Ein bedauernswerter alter Mann, verflucht von einer noch älteren Sekte, der beim Eindringen in ihre alte Bibliothek erwischt wurde.
+		Sie waren einst meine Freunde. Ihr Anführer ist vernarrt in Drachen und träumt davon, einen wiederzuerwecken.
+		Die Mauern dieses Ortes sind noch mehr verflucht. Die Magie ist längst verblasst, und die Soldaten sind verrottet.
+		Erwartet nicht, dass ihr viel aus diesen zerfledderten Büchern lernt. Sie wurden mit fehlgeleitetem Eifer verfasst.
+		'''
+}
+
+LoreSkeletronPrime: {
+	DisplayName: Skeletron Prime
+	Lore:
+		'''
+		Einige Seelen waren so von Hass erfüllt, dass sie versprachen, alles in meinem Namen zu tun.
+		Ihre Hingabe war untrüglich. Unbedingt. Keine Grausamkeit war ihnen zu groß; ihre Rache kannte keine Grenzen.
+		Ich organisierte sie zu Schocktruppen, die wegen ihrer Flammenwerfer und Brandbomben gefürchtet waren.
+		Sie machten Gotteshäuser dem Erdboden gleich und fackelten die falschen Gläubigen ab, denn sie waren Experten darin, den Glauben mit Flammen zu zerstören.
+		Draedon verstand das gut. Für sie schuf er ein Gesicht, das so düster war, dass es die Vergessenheit selbst heraufbeschwor.
+		'''
+}
+
+LoreSlimeGod: {
+	DisplayName: Der Schleimgott
+	Lore:
+		'''
+		Ein alter Clan verehrte dieses Ding einst als Musterbeispiel für das Gleichgewicht der Natur. Jetzt ist seine Reinheit durch frisch aufgesaugten Dreck besudelt.
+		Das gallertartige Wesen kennt den letzten überlebenden Sippenangehörigen weder noch kümmert es sich um ihn.
+		Eine solche Tragödie ist bei der Anbetung nur allzu üblich.
+		Leider ist der Schleimgott weise genug, um feige zu sein und vor Schlachten zu fliehen, die er nicht gewinnen kann, wenn seine Diener zerstört werden.
+		Vielleicht ist euch das Glück hold, wenn ihr ihn unbemerkt erwischt.
+		'''
+}
+
+LoreStormWeaver: {
+	DisplayName: Sturmweber
+	Lore:
+		'''
+		Diese Bestie ist zwar von geringerer Statur als der Verschlinger, aber dennoch eine große Gefahr für sich selbst.
+		Sie gehören eindeutig zur selben Art. Sogar diese Schlange war dafür bekannt, dass sie ganze Wyvern verschlingt.
+		Über das Reich oder den Raum, aus dem der Große Verschlinger stammt, ist sehr wenig bekannt.
+		Selbst Draedon und seine obsessiven Forschungen waren nicht in der Lage, seine wahre Natur herauszufinden.
+		Der Weber schlüpfte durch einen Spalt, den der Verschlinger an diesem Ort geöffnet hatte, und beobachtet ihn seitdem.
+		Seiner Meinung nach könnten die ähnlichen Kräfte der kleinen Schlange dazu führen, dass sie zu bedrohlich für ihn ist, um sie am Leben zu lassen.
+		Er hält sich für unbesiegbar. Er ahnt nicht, dass er schon einmal in einer ähnlichen Lage war.
+		'''
+}
+
+LoreSulphurSea: {
+	DisplayName: Schwefelmeer
+	Lore:
+		'''
+		Dieses Meer war noch nie angenehm, obwohl es schon weitaus bessere Tage gesehen hat.
+		Die unaufhörlichen Abgase der Industrie von Azafure überschwemmen das Wasser mit ätzenden Ionen.
+		Und doch hat sich das zähe Leben angepasst. Zweifellos mit Hilfe von Silva, die sich in die Unterwelt eingegraben hat.
+		Lange Zeit als unbewohnbar angesehen, führte der weitere Verfall dazu, dass Draedon es als Müllhalde auswies.
+		Die jahrelange unvorsichtige Entsorgung von Massenmüll hat die Verwandlung der Küste nun unumkehrbar gemacht.
+		'''
+}
+
+LoreTwins: {
+	DisplayName: Die Zwillinge
+	Lore:
+		'''
+		Nicht jede Kriegsführung ist ein offener Kampf. Logistik und Intelligenz sind ausschlaggebend für den Sieg.
+		Diese Maschinen sind meine besten Späher und Agenten, wiedergeboren in einer Form, die ihnen unübertroffene Macht verleiht.
+		Bogenschützen oder Scharfschützen, Spione oder Attentäter. Ein Feind ist nur so sicher, wie man ihn sein lässt.
+		Draedon wusste genau, dass der einzige faire Kampf der ist, den man gewinnt.
+		Seine Hilfe war unfehlbar, sein Kalkül kalt und grausam.
+		Nicht einmal das ausweichendste Ziel hatte eine Chance.
+		'''
+}
+
+LoreUnderworld: {
+	DisplayName: Die Unterwelt
+	Lore:
+		'''
+		Der höllische Ruf, den die Unterwelt genießt, ist eher eine moderne Sache.
+		Die Ascheschichten, die die ehemals großen Städte ersticken, sind noch warm.
+		Die herrschsüchtigen Götter wünschten sich, dass ich für ihre Sache eintrete und ihre Gesellschaft von hier aus regiere.
+		Doch von Magma umgeben, brannte Azafure einfach nieder, als ihre Wünsche nicht erfüllt wurden.
+		Das ist der unglückliche Preis des Krieges, obwohl ich es nicht bereue, für mein Volk gekämpft zu haben.
+		'''
+}
+
+LoreWallofFlesh: {
+	DisplayName: Die Fleischwand
+	Lore:
+		'''
+		Die Essenz eines erschlagenen Gottes zu enthalten, ist keine Kleinigkeit. Es ist vielmehr ein gewaltiges, grässliches Konstrukt.
+		Die Mauer wurde mit fauligen Sehnen und noch fauligerer Magie zusammengezurrt und bildete ein rudimentäres Gefängnis aus Fleisch.
+		Sie erfüllte ihren Zweck: die Ausbreitung ungebührlichen göttlichen Einflusses zu verhindern.
+		Ohne diesen alchemistischen Durchbruch wäre die Welt, für die ich kämpfte, vielleicht in dem Gemetzel untergegangen, das ich anrichtete.
+		Meine Methoden haben sich seitdem weiterentwickelt. Ich muss solche Essenzen nicht mehr enthalten, wenn sie verschlungen werden können.
+		Mögest du meine Tapferkeit im Kampf gegen den daraus resultierenden Energieausstoß kanalisieren.
+		'''
+}
+
+LoreYharon: {
+	DisplayName: Yharon, Prächtiger Phönix
+	Lore:
+		'''
+		Die Rückkehr des Zeitalters der Drachen ist gescheitert. Einfach so ist es nur noch Asche im Wind...
+		Yharon war der letzte der aurischen Drachen. Als Phönix gehört die Wiedergeburt zu seinem Machtbereich.
+		Die Götter dachten, er sei mit dem Rest seiner Art ausgerottet worden, aber er kehrte als Ei zurück, versteckt auf der Aerie.
+		Ich war dazu bestimmt, seine aurische Seele zu verzehren, als er schlüpfte, und für immer als Gottkönig zu herrschen.
+
+		[c/FCA92B:Das Schicksal ist für die Schwachen.]
+
+		Ich habe ihre Launen zurückgewiesen und ihren Plan durchkreuzt. Ich wurde wegen Hochverrats zum Tode verurteilt.
+		Ihre sanftmütigen, eingeschworenen Schweine warfen sowohl Yharons Ei als auch mich in das Magma der Hölle.
+		Die intensive Hitze vernarbte mich auf abscheuliche Weise, brachte aber Yharon neu zur Welt. Er erhob sich, umhüllt von Feuer, und rettete mir das Leben.
+		Von diesem Tag an waren unsere Seelen eins. Er erzählte mir die Geschichte von Zeratros und dem Völkermord an seiner Art.
+		Ich versprach ihm, dass ich für Gerechtigkeit sorgen würde. So begann der Krieg, und Yharon rief alle als Leuchtfeuer der Hoffnung zusammen.
+		Nun ist diese Hoffnung längst verdorrt. Ich bin nur noch eine Schale des Helden, der ich einst war, und dies ist der endgültige Beweis.
+		Yharon mag zurückkehren, was er auch tut, aber er hat sich von mir verabschiedet.
+		'''
+}

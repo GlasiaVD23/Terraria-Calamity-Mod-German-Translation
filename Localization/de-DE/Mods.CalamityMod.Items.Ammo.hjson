@@ -1,0 +1,169 @@
+AccelerationRound: {
+	DisplayName: Beschleunigungskugel
+	Tooltip: Gewinnt mit der Zeit an Geschwindigkeit
+}
+
+ArcticArrow: {
+	DisplayName: Arktispfeil
+	Tooltip: Friert Feinde für kurze Zeit ein
+}
+
+AstralSolution: {
+	DisplayName: Astrale Lösung
+	Tooltip:
+		'''
+		Verwendet vom Clentaminato
+		Verbreitet die Astral Infektion
+		'''
+}
+
+BloodfireArrow: {
+	DisplayName: Blutfeuerpfeil
+	Tooltip: Heilt dich beim treffen eines gegners um einen kleinen Betrag
+}
+
+BloodfireBullet: {
+	DisplayName: Blutfeuerkugel
+	Tooltip:
+		'''
+		Beschleunigt deine Lebensregeneration bei einem Treffer
+		Verursacht Bonusschaden basierend auf deiner aktuellen Lebensregeneration
+		'''
+}
+
+BloodRune: {
+	DisplayName: Blutrune
+	Tooltip:
+		'''
+		Verwendet vom Eissperrfeuer
+		Gefunden in einer Art von Runenlandschaft
+		'''
+}
+
+BubonicRound: {
+	DisplayName: Bubonischekugel
+	Tooltip:
+		'''
+		Bricht bei Kontakt in eine ansteckende Seuche aus
+		Ignoriert 25% der gegnerischen Verteidigung
+		'''
+}
+
+ElysianArrow: {
+	DisplayName: Elysiumpfeil
+	Tooltip: Beschwört beim Tod Meteore vom Himmel
+}
+
+EnhancedNanoRound: {
+	DisplayName: Verbesserte Nanokugel
+	Tooltip: Verwirrt Feinde und setzt eine Wolke von Naniten frei, wenn Feinde sterben
+}
+
+FlashRound: {
+	DisplayName: Blitzkugel
+	Tooltip: Verursacht eine erschütternde Explosion, die Gegner in einem großen Bereich für kurze Zeit verwirrt
+}
+
+GodSlayerSlug: {
+	DisplayName: God Slayer Kugel
+	Tooltip:
+		'''
+		Schwere Munition mit unbegrenzter Durchschlagskraft, die die Raumzeit zerreißt
+		Nachdem ein Schuss einen Treffer gelandet hat, trifft es auf eine Wand oder hat keine Ziele mehr, die es durchdringen kann,
+		bewegt es sich rückwärts durch den Raum, lädt sich auf und explodiert beim Aufprall.
+		'''
+}
+
+HolyFireBullet: {
+	DisplayName: Heilige Feuerkugel
+	Tooltip: Explosive heilige Kugeln
+}
+
+HyperiusBullet: {
+	DisplayName: Hyperiuskugel
+	Tooltip:
+		'''
+		Deine Feinde könnten eine schlechte Zeit haben
+		Erschaft zusätzliche Kugeln bei gegnerischen Treffern
+		'''
+}
+
+IcicleArrow: {
+	DisplayName: Eiszapfenpfeil
+	Tooltip: Zerbricht beim Aufprall in Scherben
+}
+
+IcyBullet: {
+	DisplayName: Die andere Kugeleis
+	Tooltip:
+		'''
+		Kann bis zu drei Mal treffen
+		Zerbricht beim letzten Aufprall in Eissplitter
+		'''
+}
+
+MarksmanRound: {
+	DisplayName: Scharfschützenkugel
+	Tooltip:
+		'''
+		Eine sorgfältig gefertigte Kugel, die von Münzen aus der Luft abprallen kann
+		Dadurch können andere Waffen die von Crackshot Colt und Midas Prime geworfenen Münzen nutzen.
+		'''
+}
+
+MortarRound: {
+	DisplayName: Mörtelkugel
+	Tooltip:
+		'''
+		Großer Explosionsradius. Zerstört Felder
+		Verwendet von normalen Schusswaffen
+		'''
+}
+
+NapalmArrow: {
+	DisplayName: Napalmpfeil
+	Tooltip: Explodiert in Feuersplitter
+}
+
+RubberMortarRound: {
+	DisplayName: Gummimörtelkugel
+	Tooltip:
+		'''
+		Großer Explosionsradius
+		Zerstört Felder nach jedem abprallen.
+		Verwendet von normalen Schusswaffen
+		'''
+}
+
+SuperballBullet: {
+	DisplayName: Superballkugel
+	Tooltip: Prallt mit extremen Geschwindigkeiten ab
+}
+
+TerraArrow: {
+	DisplayName: Terrapfeil
+	Tooltip: Bewegt sich unglaublich schnell und explodiert in weitere Pfeile, wenn er eine bestimmte Geschwindigkeit erreicht
+}
+
+TerraBullet: {
+	DisplayName: Terrakugel
+	Tooltip: Explodiert und zerfällt beim Tod in zielsuchenden Terrasplitter
+}
+
+VanquisherArrow: {
+	DisplayName: Bezwingerpfeil
+	Tooltip:
+		'''
+		Durchdringt Felder
+		Bringt beim flug zusätzliche Zielsuchpfeile hervor
+		'''
+}
+
+VeriumBullet: {
+	DisplayName: Veriumkugel
+	Tooltip:
+		'''
+		Es gibt kein Entkommen!
+		Kommt zurück nach dem Angriff auf einen Feind
+		'''
+}

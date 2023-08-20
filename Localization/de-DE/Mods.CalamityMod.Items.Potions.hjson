@@ -1,0 +1,386 @@
+AnechoicCoating: {
+	DisplayName: Schallabsorbierende Beschichtung
+	Tooltip: Reduziert die Fähigkeit von Kreaturen, dich in der Tiefe zu bemerken
+}
+
+AstralInjection: {
+	DisplayName: Astrale Injektion
+	Tooltip: Verursacht Mannekrankung und verletzt dich bei Verwendung, aber du regenerierst Mana extrem schnell, selbst während der Bewegung oder beim Zaubern von Zauberformeln
+}
+
+AureusCell: {
+	DisplayName: Aureus-Zelle
+	Tooltip: Gewährt erhöhte Manaregeneration und magische Kraft
+}
+
+Baguette: {
+	DisplayName: Baguette
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MinorStats}
+		Verstärkt die Effekte von Rotwein
+		[c/FCE391:'je suis Monte']
+		'''
+}
+
+BlasphemousDonut: {
+	DisplayName: Blasphemischer Donut
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MediumStats}
+		'Keine Sorge, er ist völlig essbar'
+		'''
+}
+
+BoundingPotion: {
+	DisplayName: Sprungtrank
+	Tooltip: 5% erhöhte Sprunggeschwindigkeit, 25 zusätzliche Blöcke Fallwiderstand und erhöhte Sprunghöhe
+}
+
+CalciumPotion: {
+	DisplayName: Calciumtrank
+	Tooltip: Gewährt Immunität gegen Sturzschaden
+}
+
+CeaselessHungerPotion: {
+	DisplayName: Trank des unaufhörlichen Hungers
+	Tooltip: Verursacht, dass du alle Gegenstände in der Welt aufsaugst
+}
+
+DeliciousMeat: {
+	DisplayName: Köstliches Fleisch
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MediumStats}
+		'So unglaublich lecker'
+		'''
+}
+
+Fabsoup: {
+	DisplayName: Topf des Schmerzes
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MajorStats}
+		'hrngh, Suppe'
+		'''
+}
+
+FlaskOfBrimstone: {
+	DisplayName: Flasche mit Schwefel
+	Tooltip: Nahkampf-, Peitschen- und Schuftnangriffe fügen Schwefelflammen zu
+}
+
+FlaskOfCrumbling: {
+	DisplayName: Flasche mit Verfall
+	Tooltip: Nahkampf-, Peitschen- und Schuftnangriffe fügen Feind Panzerknirschen zu
+}
+
+FlaskOfHolyFlames: {
+	DisplayName: Flasche mit heiligen Flammen
+	Tooltip: Nahkampf-, Peitschen- und Schuftnangriffe fügen Heilige Flammen hinzu
+}
+
+GravityNormalizerPotion: {
+	DisplayName: Trank des Schwerkraftnormalisierers
+	Tooltip: Deaktiviert die geringe Schwerkraft des Weltraums und gewährt Immunität gegen den verzerrten Effekt
+}
+
+HadalStew: {
+	DisplayName: Hadal-Eintopf
+	Tooltip:
+		'''
+		Gibt nur [S] Sekunden Potion Sickness
+		{$CommonItemTooltip.MediumStats}
+		{$CommonItemTooltip.MinuteDuration}
+		'''
+}
+
+OmegaHealingPotion: {
+	DisplayName: Omega-Heiltrank
+	Tooltip: ""
+}
+
+PhotosynthesisPotion: {
+	DisplayName: Trank der Fotosynthese
+	Tooltip:
+		'''
+		Du regenerierst Leben schnell, wenn du dich nicht bewegst, dieser Effekt ist während des Tages fünfmal so stark
+		Fallengelassene Herzen heilen mehr TP
+		'''
+}
+
+PotionofOmniscience: {
+	DisplayName: Trank der Allwissenheit
+	Tooltip:
+		'''
+		Markiert nahegelegene Kreaturen, feindliche Projektile,
+		Gefahrenquellen und Schätze
+		'''
+}
+
+ShadowPotion: {
+	DisplayName: Schattentrunk
+	Tooltip:
+		'''
+		Verwandelt den Spieler in einen Schatten mit leuchtenden Augen
+		Schuftnwaffen lassen Projektile beim Treffer entstehen
+		8% erhöhte Schleichgenerierung
+		Visuelle Effekte können mit der Stealth-Invisibility-Konfiguration deaktiviert werden
+		'''
+}
+
+SoaringPotion: {
+	DisplayName: Schwebetrank
+	Tooltip:
+		'''
+		10% erhöhte Flugzeit und horizontale Fluggeschwindigkeit
+		Stellt einen Bruchteil deiner Flugzeit nach einem echten Nahkampftreffer wieder her
+		Die Menge der wiederhergestellten Flugzeit skaliert mit deinen Nahkampfstatistiken und deiner Waffenschwunggeschwindigkeit
+		'''
+}
+
+SulphurskinPotion: {
+	DisplayName: Schwefelhauttrank
+	Tooltip: Reduziert die Auswirkungen der schwefelhaltigen Gewässer
+}
+
+SupremeHealingPotion: {
+	DisplayName: Höchster Heiltrank
+	Tooltip: ""
+}
+
+SupremeManaPotion: {
+	DisplayName: Höchster Manatrank
+	Tooltip: ""
+}
+
+TeslaPotion: {
+	DisplayName: Tesla-Trank
+	Tooltip:
+		'''
+		Ruft eine Aura von Elektrizität herbei, die Feinde elektrifiziert und verlangsamt
+		Auraschaden ist bei Bossen reduziert
+		Reduziert die Dauer des Elektrifiziert-Debuffs
+		'''
+}
+
+ZenPotion: {
+	DisplayName: Zen-Trank
+	Tooltip: Verringert die Feindesspawngeschwindigkeit erheblich
+}
+
+ZergPotion: {
+	DisplayName: Zerg-Trank
+	Tooltip: Erhöht die Feindesspawngeschwindigkeit erheblich
+}
+
+// Drunk Princess Shop Items
+BloodyMary: {
+	DisplayName: Blutiger Maria
+	Tooltip:
+		'''
+		10% erhöhter Schaden und Bewegungsgeschwindigkeit während eines Blutmonds
+		Reduziert die Lebensregeneration um 4 und die Verteidigung um 4%
+		[c/B00BA5:'Extra scharf... und blutig!']
+		'''
+}
+
+CaribbeanRum: {
+	DisplayName: Karibischer Rum
+	Tooltip:
+		'''
+		Erhöht die Lebensregeneration um 2, die Bewegungsgeschwindigkeit um 10% und die Flugzeit der Flügel um 20%
+		Macht dich schwebend und reduziert die Verteidigung um 10%
+		[c/B00BA5:'Warum ist der Rum weg?']
+		'''
+}
+
+CinnamonRoll: {
+	DisplayName: Zimtschnecke
+	Tooltip:
+		'''
+		Erhöht die Manaregeneration und multipliziert den Schaden aller feuereffektbasierten Debuffs um das 1,5-fache
+		Reduziert die Verteidigung um 10%
+		[c/B00BA5:'Ein köstlicher Zimtwhisky mit einem Hauch von Cream Soda.']
+		'''
+}
+
+Everclear: {
+	DisplayName: Everclear
+	Tooltip:
+		'''
+		25% erhöhter Schaden
+		Reduziert die Lebensregeneration um 10 und die Verteidigung um 30%
+		[c/B00BA5:'Das ist der stärkste Schnaps, den ich habe. Geh vorsichtig damit um.']
+		'''
+}
+
+EvergreenGin: {
+	DisplayName: Evergreen-Gin
+	Tooltip:
+		'''
+		Multipliziert den Schaden aller krankheits- und wassereffektbasierten Debuffs um das 1,25-fache
+		Reduziert die Lebensregeneration um 1
+		[c/B00BA5:'Es schmeckt nach einem Weihnachtsbaum, wenn du dir das vorstellen kannst.']
+		'''
+}
+
+FabsolsVodka: {
+	DisplayName: Fabsols Wodka
+	Tooltip:
+		'''
+		8% erhöhter Schaden, aber Verteidigung um 10% reduziert
+		Erhöht die Immunitätszeit nach einem Treffer
+		Dieser magische Schnaps wird von denen mit einem anspruchsvollen Gaumen sehr geschätzt
+		'''
+}
+
+Fireball: {
+	DisplayName: Feuerball
+	Tooltip:
+		'''
+		Multipliziert den Schaden aller feuereffektbasierten Debuffs um das 1,25-fache
+		Reduziert die Lebensregeneration um 1
+		[c/B00BA5:'Ein köstlicher Zimtwhisky.']
+		'''
+}
+
+GrapeBeer: {
+	DisplayName: Traubenbier
+	Tooltip:
+		'''
+		Reduziert die Verteidigung um 3% für 15 Sekunden
+		[c/B00BA5:'Dieser Mist ist abscheulich, aber vielleicht magst du ihn.']
+		'''
+}
+
+Margarita: {
+	DisplayName: Margarita
+	Tooltip:
+		'''
+		Halbiert die Dauer der meisten schädlichen Debuffs
+		Reduziert die Verteidigung um 6% und die Lebensregeneration um 1
+		3 Minuten Dauer
+		[c/B00BA5:'Eines der besten Getränke, die je erfunden wurden. Genieße es, solange es dauert.']
+		'''
+}
+
+Moonshine: {
+	DisplayName: Mondbrei
+	Tooltip:
+		'''
+		Erhöht die Verteidigung um 10 und die Schadensreduktion um 3%
+		Reduziert die Lebensregeneration um 1
+		[c/B00BA5:'Dieser Stoff ist ziemlich stark, aber ich bin sicher, du kannst damit umgehen.']
+		'''
+}
+
+MoscowMule: {
+	DisplayName: Moscow Mule
+	Tooltip:
+		'''
+		Erhöht den Schaden um 9%, den Rückstoß um 50% und die kritische Trefferchance um 3%
+		Reduziert die Lebensregeneration um 4
+		[c/B00BA5:'Ich habe einmal gehört, dass der Kupferbecher giftig sein kann, und ich habe ihnen gesagt: 'Hör zu, Dummkopf, ich vergifte mich schon selbst!']
+		'''
+}
+
+OddMushroom: {
+	DisplayName: Seltsamer Pilz
+	Tooltip:
+		'''
+		Verursacht, dass du viele falsche, lebhafte Kopien aller nahegelegenen Einheiten siehst
+		[c/C4232C:Diese visuellen Effekte können für einige Übelkeit oder anderweitig unangenehm sein]
+		'Trippig'
+		'''
+}
+
+RedWine: {
+	DisplayName: Rotwein
+	Tooltip:
+		'''
+		Reduziert die Lebensregeneration um 1 für 15 Sekunden
+		[c/B00BA5:'Zu trocken für meinen Geschmack.']
+		'''
+}
+
+Rum: {
+	DisplayName: Rum
+	Tooltip:
+		'''
+		Erhöht die Lebensregeneration um 2 und die Bewegungsgeschwindigkeit um 10%
+		Reduziert die Verteidigung um 5%
+		[c/B00BA5:'Süß und kräftig, genau wie ich es mag.']
+		'''
+}
+
+Screwdriver: {
+	DisplayName: Schraubenzieher
+	Tooltip:
+		'''
+		Multipliziert den Schaden durchdringender Projektile um das 1,05-fache
+		Reduziert die Lebensregeneration um 1
+		[c/B00BA5:'Hast du eine Schraube locker?']
+		'''
+}
+
+StarBeamRye: {
+	DisplayName: Sternenstrahl-Roggen
+	Tooltip:
+		'''
+		Erhöht die maximale Mana um 50, den Magieschaden um 8%,
+		und reduziert den Mana-Verbrauch um 10%
+		Reduziert die Verteidigung um 6% und die Lebensregeneration um 2
+		[c/B00BA5:'Hergestellt aus einigen Sachen, die ich in der Nähe des Einschlagortes des Astralen Meteors gefunden habe. Keine Sorge, es ist sicher, vertrau mir...']
+		'''
+}
+
+Tequila: {
+	DisplayName: Tequila
+	Tooltip:
+		'''
+		Erhöht den Rückstoß um 10%, die kritische Trefferchance um 4% und die Verteidigung um 5 während des Tages
+		Reduziert die Lebensregeneration um 1
+		[c/B00BA5:'Großartig zum Mischen von Tagesgetränken.']
+		'''
+}
+
+TequilaSunrise: {
+	DisplayName: Tequila Sunrise
+	Tooltip:
+		'''
+		Erhöht den Rückstoß um 20%, die kritische Trefferchance um 8% und die Verteidigung um 10 während des Tages
+		Reduziert die Lebensregeneration um 2
+		[c/B00BA5:'Das beste Tagesgetränk, das ich je hatte.']
+		'''
+}
+
+Vodka: {
+	DisplayName: Wodka
+	Tooltip:
+		'''
+		Erhöht den Schaden um 6% und die kritische Trefferchance um 2%
+		Reduziert die Lebensregeneration um 1 und die Verteidigung um 5%
+		[c/B00BA5:'Die Nummer eins für die Herstellung großartiger Mixgetränke.']
+		'''
+}
+
+Whiskey: {
+	DisplayName: Whiskey
+	Tooltip:
+		'''
+		Erhöht den Schaden um 4%, den Rückstoß um 20% und die kritische Trefferchance um 2%
+		Reduziert die Verteidigung um 5%
+		[c/B00BA5:'Das brennende Gefühl macht es schmackhafter.']
+		'''
+}
+
+WhiteWine: {
+	DisplayName: Weißwein
+	Tooltip:
+		'''
+		Erhöht den Magieschaden um 8%
+		Reduziert die Verteidigung um 6% und die Lebensregeneration um 1
+		[c/B00BA5:'Ich habe einmal eine ganze Tonne davon in einer Nacht getrunken, ich konnte mich am nächsten Tag nicht mehr erinnern, wer ich war.']
+		'''
+}

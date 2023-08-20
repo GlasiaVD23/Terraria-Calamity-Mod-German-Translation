@@ -1,0 +1,308 @@
+AerospecBreastplate: {
+	DisplayName: Aerospec-Brustplatte
+	Tooltip: Erhöhte kritische Trefferchance um 3%
+	CommonSetBonus:
+		'''
+		Wenn du über 25 Schaden in einem Treffer nimmst, fallen schwebende Federn aus
+		Ermöglicht schnelleres Fallen und deaktiviert Fallschaden
+		'''
+}
+
+AerospecHat: {
+	DisplayName: Aerospec-Hut
+	Tooltip: 8% erhöhter Magieschaden und +20 maximales Mana
+	SetBonus: 5% erhöhte Bewegungsgeschwindigkeit und erhöhte kritische Trefferchance im Magiestil
+}
+
+AerospecHeadgear: {
+	DisplayName: Aerospec-Kopfbedeckung
+	Tooltip: 8% erhöhter Schuftnschaden und 5% erhöhte Bewegungsgeschwindigkeit
+	SetBonus:
+		'''
+		5% erhöhte Bewegungsgeschwindigkeit und erhöhte kritische Trefferchance im Schuftnstil
+		+80 maximale Tarnung
+		'''
+}
+
+AerospecHelm: {
+	DisplayName: Aerospec-Helm
+	Tooltip: 8% erhöhter Nahkampfschaden
+	SetBonus:
+		'''
+		5% erhöhte Bewegungsgeschwindigkeit und erhöhte kritische Trefferchance im Nahkampf
+		Gegner greifen dich wahrscheinlicher an
+		'''
+}
+
+AerospecHelmet: {
+	DisplayName: Aerospec-Helm
+	Tooltip: 5% erhöhte Bewegungsgeschwindigkeit und Beschwörungsschaden
+	SetBonus:
+		'''
+		11% erhöhter Beschwörungsschaden und +1 maximale Dieneranzahl
+		Beschwört eine Walküre, die dich beschützt
+		'''
+}
+
+AerospecHood: {
+	DisplayName: Aerospec-Kapuze
+	Tooltip: 8% erhöhter Fernkampfschaden
+	SetBonus: 5% erhöhte Bewegungsgeschwindigkeit und erhöhte kritische Trefferchance im Fernkampf
+}
+
+AerospecLeggings: {
+	DisplayName: Aerospec-Hose
+	Tooltip: Erhöhte Bewegungsgeschwindigkeit um 12%
+}
+
+DesertProwlerHat: {
+	DisplayName: Wüstenstreuner-Hut
+	Tooltip: 4% erhöhte kritische Trefferchance im Fernkampf und 20% Chance, keine Munition zu verbrauchen
+	SetBonus: Fernkampfangriffe fügen zusätzlichen flachen Schaden von {0} zu
+	AbilityBrief: Sandsmoke Bomb - Doppelklick auf UNTEN, um dich in eine kleine Sandschicht zu hüllen
+	AbilityDescription:
+		'''
+		Während der Sandnebel aktiv ist, gewinnst du erhöhte Beweglichkeit, aber stark reduzierte Verteidigung
+		Das Verwenden einer Fernkampfwaffe zerstreut den Sandmantel sofort, garantiert aber einen Superkritischen Treffer für {0}% Schaden
+		Der Superkritische Treffer gilt nur, solange der resultierende Treffer {1} Schaden nicht überschreitet
+		Das Töten eines Feindes mit diesem Schuss verkürzt die Abklingzeit der Fähigkeit auf {2} Sekunden
+		'''
+}
+
+DesertProwlerPants: {
+	DisplayName: Wüstenstreuner-Hose
+	Tooltip: Erhöhte Bewegungsgeschwindigkeit um 10% und Immunität gegen den "Mighty Wind"-Debuff
+}
+
+DesertProwlerShirt: {
+	DisplayName: Wüstenstreuner-Hemd
+	Tooltip: 5% erhöhte kritische Trefferchance im Fernkampf
+}
+
+MarniteArchitectHeadgear: {
+	DisplayName: Marnite-Architekten-Kopfbedeckung
+	Tooltip: Erhöhtes Setzen von Blöcken und Werkzeugreichweite um 5
+	AbilityBrief: Marnite Lift - Du kannst einen Lift unter deinen Füßen beschwören, um höher zu gelangen
+	AbilityDescription:
+		'''
+		Der Lift wird beschworen, wenn die Mount-Hotkey gedrückt wird [c/D4C870:ohne Ausrüstung eines Mounts]
+		Durch Drücken der Tasten Hoch und Runter kann die Höhe des Lifts geändert werden
+		'''
+}
+
+MarniteArchitectToga: {
+	DisplayName: Marnite-Architekten-Toga
+	Tooltip: Erhöhte Geschwindigkeit des Setzens von Fliesen um 50%
+}
+
+SnowRuffianChestplate: {
+	DisplayName: Schnee-Raufbold-Brustplatte
+	Tooltip: 3% erhöhte kritische Trefferchance im Schuftnstil
+}
+
+SnowRuffianGreaves: {
+	DisplayName: Schnee-Raufbold-Beinschützer
+	Tooltip: Erhöhte Bewegungsgeschwindigkeit um 5%
+}
+
+SnowRuffianMask: {
+	DisplayName: Schnee-Raufbold-Maske
+	Tooltip: 2% erhöhter Schuftnschaden
+	SetBonus:
+		'''
+		5% erhöhter Schuftnschaden
+		+50 maximale Tarnung
+		Du kannst gleiten, um Fallschaden zu verhindern
+		'''
+}
+
+StatigelArmor: {
+	DisplayName: Statigel-Rüstung
+	Tooltip: 5% erhöhte kritische Trefferchance
+	CommonSetBonus:
+		'''
+		Wenn du über 100 Schaden in einem Treffer nimmst, wirst du für eine verlängerte Zeit immun gegen Schaden
+		Gewährt einen zusätzlichen Sprung und erhöhte Sprunghöhe
+		12% erhöhte Sprunggeschwindigkeit
+		'''
+}
+
+StatigelGreaves: {
+	DisplayName: Statigel-Beinschützer
+	Tooltip: 5% erhöhter Schaden und Bewegungsgeschwindigkeit
+}
+
+StatigelHeadMagic: {
+	DisplayName: Statigel-Kappe
+	Tooltip:
+		'''
+		10% erhöhter Magieschaden und 10% reduzierter Manaverbrauch
+		7% erhöhte kritische Trefferchance im Magiestil und +30 maximales Mana
+		'''
+}
+
+StatigelHeadMelee: {
+	DisplayName: Statigel-Helm
+	Tooltip:
+		'''
+		10% erhöhter Nahkampfschaden und Nahkampfgeschwindigkeit
+		7% erhöhte kritische Trefferchance im Nahkampf
+		'''
+	SetBonus: Gegner zielen eher auf dich
+}
+
+StatigelHeadRanged: {
+	DisplayName: Statigel-Kopfbedeckung
+	Tooltip:
+		'''
+		10% erhöhter Fernkampfschaden
+		7% erhöhte kritische Trefferchance im Fernkampf
+		'''
+}
+
+StatigelHeadRogue: {
+	DisplayName: Statigel-Maske
+	Tooltip:
+		'''
+		10% erhöhter Schuftnschaden und 34% Chance, keine Schuftngegenstände zu verbrauchen
+		7% erhöhte kritische Trefferchance im Schuftnstil und 5% erhöhte Bewegungsgeschwindigkeit
+		'''
+	SetBonus: +90 maximale Tarnung
+}
+
+StatigelHeadSummon: {
+	DisplayName: Statigel-Kapuze
+	Tooltip: Erhöhter Minion-Rückstoß
+	SetBonus:
+		'''
+		18% erhöhter Beschwörungsschaden und +1 maximale Dieneranzahl
+		Beschwört einen Mini-Schleim-Gott, der für dich kämpft. Der Typ hängt von der Weltquelle des Bösen ab
+		'''
+}
+
+SulphurousBreastplate: {
+	DisplayName: Schwefelige Brustplatte
+	Tooltip: 8% erhöhter Schuftnschaden und 5% erhöhte kritische Trefferchance im Schuftnstil
+}
+
+SulphurousHelmet: {
+	DisplayName: Schwefeliger Helm
+	Tooltip:
+		'''
+		4% erhöhter Schuftnschaden
+		2% erhöhte kritische Trefferchance im Schuftnstil
+		Gewährt Unterwasseratmung
+		'''
+	SetBonus:
+		'''
+		+70 maximale Tarnung
+		Angriffe von Feinden verursachen Gift
+		Gewährt einen zusätzlichen Sprung, der eine schwefelige Blase beschwört
+		Ermöglicht erhöhte Unterwasserbeweglichkeit und verringert die Schwere der schwefeligen Gewässer
+		'''
+}
+
+SulphurousLeggings: {
+	DisplayName: Schwefelige Beinschützer
+	Tooltip:
+		'''
+		Bewegungsgeschwindigkeit um 10% erhöht
+		Bewegungsgeschwindigkeit um 35% erhöht, während in Flüssigkeit eingetaucht
+		'''
+}
+
+VictideBreastplate: {
+	DisplayName: Victide-Brustplatte
+	Tooltip:
+		'''
+		5% erhöhte Schadensreduktion und kritische Trefferchance
+		+5 Verteidigung und 10% erhöhte Schadensreduktion, während in Flüssigkeit eingetaucht
+		'''
+	CommonSetBonus:
+		'''
+		+3 Lebensregeneration und 10% erhöhter Magieschaden, während in Flüssigkeit eingetaucht
+		Beim Verwenden einer Waffe hast du eine 10%ige Chance, ein zurückkehrendes Seashell-Projektil zu werfen
+		Dieses Seashell verursacht wahren Schaden und profitiert nicht von einer Schadensklasse
+		Ermöglicht erhöhte Unterwasserbeweglichkeit und verringert leicht den Atemverlust in der Tiefe
+		'''
+}
+
+VictideGreaves: {
+	DisplayName: Victide-Beinschützer
+	Tooltip:
+		'''
+		Bewegungsgeschwindigkeit um 8% erhöht
+		Bewegungsgeschwindigkeit um 30% erhöht, während in Flüssigkeit eingetaucht
+		'''
+}
+
+VictideHeadMagic: {
+	DisplayName: Victide-Hermit-Helm
+	Tooltip: 5% erhöhter Magieschaden
+	// SetBonus: +3 life regen and 10% increased magic damage while submerged in liquid
+}
+
+VictideHeadMelee: {
+	DisplayName: Victide-Shellmet
+	Tooltip: 5% erhöhter Nahkampfschaden
+	SetBonus: Gegner zielen eher auf dich
+}
+
+VictideHeadRanged: {
+	DisplayName: Victide-Coral-Turban
+	Tooltip: 5% erhöhter Fernkampfschaden
+	// SetBonus: +3 life regen and 10% increased ranged damage while submerged in liquid
+}
+
+VictideHeadRogue: {
+	DisplayName: Victide-Kopfkrabbe
+	Tooltip: 5% erhöhter Schuftnschaden
+	SetBonus: +60 maximale Tarnung
+}
+
+VictideHeadSummon: {
+	DisplayName: Victide-Maske
+	Tooltip: 10% erhöhter Beschwörungsschaden
+	SetBonus:
+		'''
+		+1 maximale Dieneranzahl
+		Beschwört eine Meeresschnecke, die dich beschützt
+		'''
+}
+
+WulfrumFusionCannon: {
+	DisplayName: Experimentelles Wulfrum-Fusions-Array
+	Tooltip:
+		'''
+		Schießt schnelle Salven von mittelreichweitigen Kugeln
+		Ignoriert 10 Punkte Verteidigung des Feindes
+		[c/878787:'Wer braucht Peitschen, wenn man einfach selbst die Beschwörung werden kann?']
+		'''
+}
+
+WulfrumHat: {
+	DisplayName: Wulfrum-Hut & Schutzbrille
+	Tooltip:
+		'''
+		10% erhöhter Beschwörungsschaden
+		Kommt mit Haarverlängerungen
+		'''
+	SetBonus: +1 maximale Dieneranzahl
+	AbilityBrief: Wulfrum-Bastion - Doppelklick auf UNTEN, während nicht beritten, um die Wulfrum-Panzerung zu tragen
+	AbilityDescription:
+		'''
+		Während die Rüstung aktiv ist, kannst du nur die integrierte Fusionskanone verwenden, aber deine Verteidigungsstatistiken werden erhöht
+		Das Herbeirufen der Rüstung verbraucht ein Stück von {0}, und die Rüstung verliert schneller an Haltbarkeit, wenn sie getroffen wird
+		'''
+	ShiftToExpand: Halte SHIFT gedrückt, um die Statistiken der Fusionskanone anzuzeigen
+}
+
+WulfrumJacket: {
+	DisplayName: Wulfrum-Jacke
+	Tooltip: 5% erhöhte Schadensreduktion
+}
+
+WulfrumOveralls: {
+	DisplayName: Wulfrum-Hose
+	Tooltip: Erhöhte Bewegungsgeschwindigkeit um 5%
+}

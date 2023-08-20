@@ -1,0 +1,581 @@
+AuricTeslaBodyArmor: {
+	DisplayName: Auric Tesla-Körperpanzer
+	Tooltip:
+		'''
+		+100 maximales Leben
+		8 % erhöhter Schaden und 5 % erhöhte kritische Trefferchance
+		'''
+}
+
+AuricTeslaCuisses: {
+	DisplayName: Auric Tesla-Beinschienen
+	Tooltip:
+		'''
+		10 % erhöhte Bewegungsgeschwindigkeit
+		12 % erhöhter Schaden und 5 % erhöhte kritische Trefferchance
+		Effekt wie fliegender Teppich
+		'''
+}
+
+AuricTeslaHoodedFacemask: {
+	DisplayName: Auric Tesla-Kapuzen-Gesichtsmaske
+	Tooltip: 30 % erhöhter Fernkampfschaden und kritische Trefferchance
+	SetBonus: Effekte der Ranged-Tarragon-, Bloodflare- und God-Slayer-Rüstungen
+}
+
+AuricTeslaPlumedHelm: {
+	DisplayName: Auric Tesla Gefiederte Helm
+	Tooltip:
+		'''
+		20 % erhöhter Schaden und kritische Trefferchance für Schuftn
+		5 % erhöhte Bewegungsgeschwindigkeit
+		'''
+	SetBonus:
+		'''
+		Effekte der Schuftn-Tarragon-, Bloodflare- und God-Slayer-Rüstungen
+		+130 maximale Heimlichkeit
+		'''
+}
+
+AuricTeslaRoyalHelm: {
+	DisplayName: Auric Tesla Königlicher Helm
+	Tooltip:
+		'''
+		20 % erhöhter Nahkampfschaden
+		10 % erhöhte Nahkampf kritische Trefferchance
+		'''
+	SetBonus:
+		'''
+		Effekte der Nahkampf-Tarragon-, Bloodflare- und God-Slayer-Rüstungen
+		Gegner zielen eher auf dich
+		28 % erhöhte Nahkampfgeschwindigkeit
+		'''
+}
+
+AuricTeslaSpaceHelmet: {
+	DisplayName: Auric Tesla Raumhelm,
+	Tooltip: 15 % erhöhter Beschwörungsschaden,
+	SetBonus:
+		'''
+		Effekte der Beschwörer-Tarragon-, Bloodflare- und Silva-Rüstungen
+		Maximale Laufgeschwindigkeit und Beschleunigung um 5 % erhöht
+		+6 maximale Diener und 75 % erhöhter Beschwörungsschaden
+		'''
+}
+
+AuricTeslaWireHemmedVisage: {
+	DisplayName: Auric Tesla Drahtgesäumtes Gesicht,
+	Tooltip: 30 % erhöhter Magieschaden, 20 % erhöhte kritische Trefferchance für Magie, +100 maximales Mana und 20 % verringerte Mana-Nutzung,
+	SetBonus:
+		'''
+		Effekte der Magie-Tarragon-, Bloodflare- und Silva-Rüstungen
+		Maximale Laufgeschwindigkeit und Beschleunigung um 5 % erhöht
+		'''
+}
+
+BloodflareBodyArmor: {
+	DisplayName: Bloodflare Körperpanzer
+	Tooltip:
+		'''
+		12 % erhöhter Schaden und 8 % erhöhte kritische Trefferchance
+		+40 maximales Leben
+		'''
+	CommonSetBonus:
+		'''
+		Stark erhöhte Lebensregeneration
+		Gegner unter 50 % Leben lassen ein Herz fallen, wenn sie getroffen werden
+		Dieser Effekt hat eine Abklingzeit von 5 Sekunden
+		'''
+}
+
+BloodflareCuisses: {
+	DisplayName: Bloodflare Beinschienen
+	Tooltip: 17 % erhöhte Bewegungsgeschwindigkeit, 10 % erhöhter Schaden und 7 % erhöhte kritische Trefferchance
+}
+
+BloodflareHeadMagic: {
+	DisplayName: Bloodflare Hydra-Kapuze
+	Tooltip: 20 % erhöhter Magieschaden, 10 % erhöhte kritische Trefferchance für Magie, +100 maximales Mana und 17 % verringerte Mana-Nutzung
+	SetBonus:
+		'''
+		Magische Waffen feuern alle 1,67 Sekunden geisterhafte Bolzen ab
+		Magische kritische Treffer verursachen alle 2 Sekunden Flammenexplosionen
+		'''
+}
+
+BloodflareHeadMelee: {
+	DisplayName: Bloodflare Widdermaske
+	Tooltip: 10 % erhöhter Nahkampfschaden
+	SetBonus:
+		'''
+		18 % erhöhte Nahkampfgeschwindigkeit
+		Gegner zielen eher auf dich
+		Wahre Nahkampftreffer heilen dich
+		Nach 15 Treffern mit wahrhaftigem Nahkampf wirst du für 5 Sekunden in einen Blutrausch verfallen
+		Währenddessen erhältst du 25 % erhöhten Nahkampfschaden, kritische Trefferchance und Kontakt-Schaden wird halbiert
+		Dieser Effekt hat eine Abklingzeit von 30 Sekunden
+		'''
+}
+
+BloodflareHeadRanged: {
+	DisplayName: Bloodflare Gehörnter Helm
+	Tooltip: 10 % erhöhter Fernkampfschaden und kritische Trefferchance
+	SetBonus:
+		'''
+		Drücke {0}, um die verlorenen Seelen des Poltergeists freizusetzen, um deine Feinde zu zerstören
+		Dieser Effekt hat eine Abklingzeit von 30 Sekunden
+		Fernkampfwaffen feuern alle 2,5 Sekunden Blutexplosionskugeln ab
+		'''
+}
+
+BloodflareHeadRogue: {
+	DisplayName: Bloodflare Koboldmaske
+	Tooltip:
+		'''
+		10 % erhöhter Schaden und kritische Trefferchance für Schuftn
+		5 % erhöhte Bewegungsgeschwindigkeit
+		'''
+	SetBonus:
+		'''
+		+120 maximale Heimlichkeit
+		Über 80 % Leben erhöht deine Verteidigung um 30 und Schuftn-Krit. um 5 %
+		Unter 80 % Leben erhöht dein Schuftnschaden um 10 %
+		Schuftn kritische Treffer haben eine 50%ige Chance, dich zu heilen
+		'''
+}
+
+BloodflareHeadSummon: {
+	DisplayName: Bloodflare Wyvern-Helm
+	Tooltip: 5 % erhöhter Beschwörungsschaden
+	SetBonus:
+		'''
+		50 % erhöhter Beschwörungsschaden und +3 maximale Diener
+		Beschwört Poltergeist-Minen, die dich umkreisen
+		Bei 90 % Leben und mehr erhältst du 10 % erhöhten Beschwörungsschaden
+		Bei 50 % Leben und weniger erhältst du 20 Verteidigung und 2 Lebensregeneration
+		'''
+}
+
+DemonshadeBreastplate: {
+	DisplayName: Demonshade Brustplatte
+	Tooltip:
+		'''
+		25 % erhöhte Nahkampfgeschwindigkeit, 15 % erhöhter Schaden und kritische Trefferchance
+		Gegner erleiden ungeheuren Schaden, wenn sie dich berühren
+		Erhöhtes maximales Leben und Mana um 200
+		Stehe still, um die Schatten zu absorbieren und deine Lebensregeneration zu steigern
+		'''
+}
+
+DemonshadeGreaves: {
+	DisplayName: Demonshade Beinschienen
+	Tooltip: Schattengeschwindigkeit
+}
+
+DemonshadeHelm: {
+	DisplayName: Demonshade Helm
+	Tooltip: 30 % erhöhter Schaden und 15 % erhöhte kritische Trefferchance,
+	SetBonus:
+		'''
+		100 % erhöhter Beschwörungsschaden und +10 maximale Diener
+		Schattenstrahlen und Dämonensensen werden abgefeuert, wenn du getroffen wirst
+		Ein freundlicher roter Teufel begleitet dich
+		Drücke {0}, um nahe Feinde mit einem dunklen Magiespruch für 10 Sekunden in Wut zu versetzen
+		Dies lässt sie 2,25-fachen Gesamtschaden erleiden, aber sie fügen dir 1,25-fachen Schaden zu
+		'''
+}
+
+EmpyreanCloak: {
+	DisplayName: Empyrean Umhang
+	Tooltip:
+		'''
+		Rüstung des Kosmos
+		+20 maximales Leben
+		7 % erhöhter Schaden und kritische Trefferchance für Schuftn
+		'''
+}
+
+EmpyreanCuisses: {
+	DisplayName: Empyrean Beinschienen
+	Tooltip:
+		'''
+		5 % erhöhter Schaden und kritische Trefferchance für Schuftn
+		15 % erhöhte Bewegungsgeschwindigkeit
+		'''
+}
+
+EmpyreanMask: {
+	DisplayName: Empyrean Maske
+	Tooltip:
+		'''
+		11 % erhöhter Schaden und kritische Trefferchance für Schuftn
+		5 % erhöhte Bewegungsgeschwindigkeit
+		'''
+	SetBonus:
+		'''
+		9 % erhöhter Schaden und Geschwindigkeit für Schuftn
+		+115 maximale Heimlichkeit
+		Schuftn-Projektile haben spezielle Effekte bei Treffern auf Feinde
+		Mit kosmischer Wut und Zorn erfüllt, wenn du Schaden erleidest
+		'''
+}
+
+FearmongerGreathelm: {
+	DisplayName: Fearmonger Großhelm
+	Tooltip:
+		'''
+		Pure Angst strahlt aus deinen Augen
+		+60 maximales Mana und 10 % verringerte Mana-Nutzung
+		10 % erhöhter Beschwörungsschaden
+		'''
+	SetBonus:
+		'''
+		20 % erhöhter Beschwörungsschaden und +2 maximale Diener
+		Diener verursachen keinen reduzierten Schaden mehr, wenn sie Nicht-Beschwörungswaffen führen
+		Immunität gegen alle Formen von Frost und Flammen
+		Alle Angriffe der Diener gewähren kolossale Lebensregeneration
+		15 % erhöhte Schadensreduktion während der Kürbis- und Frostmonde
+		Diese zusätzliche Schadensreduktion ignoriert die weiche Obergrenze
+		'''
+}
+
+FearmongerGreaves: {
+	DisplayName: Fearmonger Beinschienen
+	Tooltip:
+		'''
+		6 % erhöhter Schaden
+		50 % erhöhter Diener-Rückstoß
+		10 % erhöhte Bewegungsgeschwindigkeit
+		Wenn du Schaden erleidest, erhöht sich deine Bewegungsgeschwindigkeit 4 Sekunden lang um 40 %
+		'''
+}
+
+FearmongerPlateMail: {
+	DisplayName: Fearmonger Plattenschutz
+	Tooltip:
+		'''
+		+100 maximales Leben und 8 % erhöhte Schadensreduktion
+		5 % erhöhter Schaden und kritische Trefferchance
+		'''
+}
+
+GemTechBodyArmor: {
+	DisplayName: Gem Tech Körperpanzer
+	Tooltip: "'Du bist tief genug gesunken, dass ich dich erreichen kann.'"
+}
+
+GemTechHeadgear: {
+	DisplayName: Gem Tech Kopfbedeckung
+	Tooltip: "'Der Teufel sagte: Freu dich über deinen Sieg; Du hast deine Verdammnis verdient. Pack deine Sachen und geh.'"
+	AbilityBrief: Machtmagie - Sechs Edelsteinfragmente kreisen träge um dich; eines für jede Klasse und ein Grundedelstein
+	AbilityDescription:
+		'''
+		Jeder aktive Edelstein gewährt einen Bonus für seine entsprechende Klasse, während der defensive Edelstein Verteidigungsboni gewährt
+		Kräftige Treffer von Feinden lösen Edelsteine aus, die sich ins nächste Ziel stürzen und enormen Schaden verursachen
+		Verlorene Edelsteine regenerieren sich nach einer Weile
+		Der verlorene Edelstein entspricht der Klasse der Waffe, die du benutzt hast, also bereite dich auf einige Waffenwechselaktionen vor!
+		'''
+	GeneralGemInfo:
+		'''
+		Ein Edelstein geht verloren, wenn du mehr als {0} Schaden in einem einzigen Treffer erleidest.
+		Die Art des verlorenen Edelsteins entspricht der Klasse des vorherigen, als du ihn benutzt hast.
+		Wenn der betreffende Edelstein bereits verloren gegangen ist, geht stattdessen der Grundedelstein verloren.
+		Wenn ein Edelstein verloren geht, bricht er ab und zielt auf den nächstgelegenen Feind oder Boss, sofern einer vorhanden ist, und fügt ihm einen Grundschaden von {1} zu.
+		Edelsteine haben eine Verzögerung von {2} Sekunden, bevor sie wieder auftauchen."
+		'''
+	RedGemInfo: "[i:Ruby] Der rote Edelstein gewährt {0} maximale Heimlichkeit, erhöhte Schuftn-Statistiken und macht Heimlichkeit nur mit Schuftnwaffen verbrauchbar"
+	YellowGemInfo: "[i:Topaz] Der gelbe Edelstein bietet erhöhte Nahkampfstatistiken und veranlasst Nahkampfangriffe, Splitter freizusetzen, wenn sie mit einer Abklingzeit getroffen werden. Diese Abklingzeit ist kürzer für echte Nahkampfangriffe"
+	GreenGemInfo: "[i:Emerald] Der grüne Edelstein bietet erhöhte Fernkampfstatistiken und bewirkt, dass Flechettes schnell auf Ziele zufliegen, wenn sie durch ein Fernkampfprojektil beschädigt werden"
+	BlueGemInfo: "[i:Sapphire] Der blaue Edelstein gewährt {0} zusätzliche maximale Diener, erhöhten Beschwörungsschaden und hebt die Beschwörungsschadenstrafe auf, wenn Nicht-Beschwörungswaffen geführt werden"
+	PurpleGemInfo: "[i:Amethyst] Der violette Edelstein gewährt {0} zusätzliches maximales Mana, erhöhte Magiestatistiken und lässt Mana schnell regenerieren, wenn du eine Nicht-Magiewaffe hältst"
+	PinkGemInfo: "[i:Diamond] Der rosa Grundedelstein gewährt {0} zusätzliche Verteidigung, zusätzliche Schadensreduktion, erhöhte Bewegungsgeschwindigkeit, Sprunggeschwindigkeit und +{1} Lebensregeneration"
+	GemBonusInfo:
+		'''
+		Wenn alle Edelsteine gleichzeitig existieren, gewährst du deinem Charakter +{0} Lebensregeneration für {1} Sekunden, nachdem du ein Ziel getroffen hast
+		Dies erhöht sich auf +{2} Lebensregeneration, wenn während dieser {1}-Sekunden-Periode eine Waffe einer anderen Klasse verwendet wird, und gilt für {3} Sekunden
+		'''
+}
+
+GemTechSchynbaulds: {
+	DisplayName: Gem Tech Schynbaulds
+	Tooltip: "'Wenn sie dir weh tun, tritt sie um.'"
+}
+
+GodSlayerChestplate: {
+	DisplayName: God Slayer Brustplatte
+	Tooltip:
+		'''
+		+60 maximales Leben
+		Feinde nehmen Schaden, wenn sie dich treffen
+		11 % erhöhter Schaden und 6 % erhöhte kritische Trefferchance
+		'''
+	CommonSetBonus:
+		'''
+		Ermöglicht dir, in 8 Richtungen eine immense Distanz zu sprinten
+		Drücke {0}, während du die Bewegungstasten in die Richtung gedrückt hältst, in die du sprinten möchtest
+		Feinde, die du durchläufst, erleiden massiven Schaden
+		Während des Sprints bist du gegen die meisten Debuffs immun
+		Der Sprint hat eine Abklingzeit von {1} Sekunden
+		'''
+}
+
+GodSlayerHeadMelee: {
+	DisplayName: Gotttöter Gehörnter Großhelm
+	Tooltip:
+		'''
+		14 % erhöhter Nahkampfschaden
+		7 % erhöhte kritische Trefferchance im Nahkampf
+		'''
+	SetBonus:
+		'''
+		20 % erhöhte Nahkampfgeschwindigkeit
+		Feinde zielen wahrscheinlicher auf dich
+		Wenn du über 80 Schaden durch einen Treffer erleidest, löst du einen Schwarm hochschadenverursachender Gotttöter-Darts aus
+		Feinde erleiden viel Schaden, wenn sie dich treffen
+		Ein Angriff, der 80 Schaden oder weniger verursachen würde, wird auf 1 Schaden reduziert
+		'''
+}
+
+GodSlayerHeadRanged: {
+	DisplayName: God Slayer Helm
+	Tooltip: 14 % erhöhter Fernkampfschaden und erhöhte kritische Trefferchance
+	SetBonus: Bei Verwendung von Fernkampfwaffen schießt du alle 2,5 Sekunden eine Gottesmörder-Schrapnellkugel ab
+}
+
+GodSlayerHeadRogue: {
+	DisplayName: Gottesmörder-Maske
+	Tooltip:
+		'''
+		14 % erhöhter Schaden und kritische Trefferchance für Schuftnschaden
+		5 % erhöhte Bewegungsgeschwindigkeit
+		'''
+	SetBonus:
+		'''
+		+120 maximales Schleichen
+		Wenn du volles HP hast, werden alle deine Schuftnstatistiken um 10 % erhöht
+		Wenn du über 80 Schaden in einem Treffer erleidest, erhältst du zusätzliche Immunitätsrahmen
+		'''
+}
+
+GodSlayerLeggings: {
+	DisplayName: Gottesmörder-Beinschienen
+	Tooltip:
+		'''
+		5 % erhöhte Bewegungsgeschwindigkeit
+		10 % erhöhter Schaden und kritische Trefferchance
+		'''
+}
+
+OmegaBlueChestplate: {
+	DisplayName: Omega-Blaue Brustplatte
+	Tooltip:
+		'''
+		12 % erhöhter Schaden und 8 % erhöhte kritische Trefferchance
+		Deine Angriffe verursachen Tiefendruck
+		Keine positive Lebensregeneration
+		'''
+}
+
+OmegaBlueHelmet: {
+	DisplayName: Omega-Blaue Helm
+	Tooltip:
+		'''
+		Du kannst dich frei durch Flüssigkeiten bewegen
+		12 % erhöhter Schaden und 8 % erhöhte kritische Trefferchance
+		'''
+	SetBonus:
+		'''
+		Erhöht die Rüstungsdurchdringung um 15
+		10 % erhöhter Schaden und kritische Trefferchance und +2 maximale Diener
+		Kurzreichweiten-Tentakel heilen dich, indem sie Feindesleben aussaugen
+		Drücke {0}, um 5 Sekunden lang wahnsinnige Abyssal-Macht zu aktivieren
+		Wahnsinnige Abyssal-Macht erhöht Schaden, kritische Trefferchance und Tentakelaggression/-reichweite
+		Dieser Effekt hat eine Abklingzeit von 25 Sekunden
+		'''
+}
+
+OmegaBlueTentacles: {
+	DisplayName: Omega-Blaue Tentakel
+	Tooltip:
+		'''
+		12 % erhöhte Bewegungsgeschwindigkeit
+		12 % erhöhter Schaden und kritische Trefferchance
+		'''
+}
+
+PrismaticGreaves: {
+	DisplayName: Prismatische Beinschienen
+	Tooltip:
+		'''
+		10 % erhöhter Magieschaden und 12 % erhöhte kritische Magietrefferchance
+		20 % verringerter nicht-magischer Schaden
+		10 % erhöhte Flugzeit und 2 % erhöhte Sprunggeschwindigkeit
+		'''
+}
+
+PrismaticHelmet: {
+	DisplayName: Prismatischer Helm
+	Tooltip:
+		'''
+		18 % erhöhter Magieschaden und 12 % erhöhte kritische Magietrefferchance
+		20 % verringerter nicht-magischer Schaden
+		Feinde mit weniger als 500 maximalen Lebenspunkten verursachen keinen Kontaktsschaden
+		Dies tritt nicht auf, solange ein Boss lebt
+		'''
+	SetBonus:
+		'''
+		+40 maximale Mana und 15 % verringerte Manakosten
+		Erhöhte Mana-Regenerationsrate
+		Drücke {0}, um für die nächsten 5 Sekunden einen Hagel aus Todeslasern auf den Cursor loszulassen
+		Dies hat eine Abklingzeit von 30 Sekunden
+		'''
+}
+
+PrismaticRegalia: {
+	DisplayName: Prismatische Regalien
+	Tooltip:
+		'''
+		12 % erhöhter Magieschaden und 15 % erhöhte kritische Magietrefferchance
+		20 % verringerter nicht-magischer Schaden
+		+20 maximale Lebenspunkte und +40 maximales Mana
+		Magische Angriffe feuern gelegentlich ein Paar suchender Raketen ab
+		'''
+}
+
+SilvaArmor: {
+	DisplayName: Silva-Rüstung
+	Tooltip:
+		'''
+		+80 maximale Lebenspunkte
+		12 % erhöhter Schaden und 8 % erhöhte kritische Trefferchance
+		'''
+	CommonSetBonus:
+		'''
+		Alle Projektile erzeugen Heilungsblattkugeln bei Treffern auf Feinde
+		Maximale Laufgeschwindigkeit und Beschleunigung um 5 % erhöht
+		Wenn du auf 1 HP reduziert wirst, stirbst du nicht durch weiteren Schaden für 8 Sekunden
+		Dieser Effekt hat eine Abklingzeit von 5 Minuten. Die Abklingzeit verringert sich nicht, wenn Bosse oder Events aktiv sind.
+		'''
+}
+
+SilvaHeadMagic: {
+	DisplayName: Silva-Maskenmütze
+	Tooltip:
+		'''
+		23 % erhöhter Magieschaden und 13 % erhöhte kritische Magietrefferchance
+		+100 maximales Mana und 19 % verringerte Mananutzung
+		'''
+	SetBonus: Magische Projektile, die nicht durchdringen können, lösen gelegentlich mächtige Explosionen von Naturenergie aus
+}
+
+SilvaHeadSummon: {
+	DisplayName: Silva-Hornkapuze
+	Tooltip: 10 % erhöhter Beschwörungsschaden
+	SetBonus:
+		'''
+		65 % erhöhter Beschwörungsschaden und +5 maximale Diener
+		Beschwört ein antikes Blattprisma herbei, um deine Feinde mit Lebensenergie zu bombardieren
+		'''
+}
+
+SilvaLeggings: {
+	DisplayName: Silva-Beinschienen
+	Tooltip:
+		'''
+		10 % erhöhte Bewegungsgeschwindigkeit
+		12 % erhöhter Schaden und kritische Trefferchance
+		'''
+}
+
+TarragonBreastplate: {
+	DisplayName: Tarragon-Brustpanzer
+	Tooltip:
+		'''
+		10 % erhöhter Schaden und 5 % erhöhte kritische Trefferchance
+		+2 Lebensregeneration und +40 maximale Lebenspunkte
+		'''
+	CommonSetBonus:
+		'''
+		Verringert die Feindesspawngeschwindigkeit
+		Erhöhte Reichweite für das Aufnehmen von Herzen
+		Feinde haben die Chance, zusätzliche Herzen beim Tod fallen zu lassen
+		'''
+}
+
+TarragonHeadMagic: {
+	DisplayName: Tarragon-Maske
+	Tooltip:
+		'''
+		20 % erhöhter Magieschaden und 10 % erhöhte kritische Magietrefferchance
+		5 % verringerte Schadensreduktion, +100 maximales Mana und 15 % verringerte Mananutzung
+		'''
+	SetBonus:
+		'''
+		Bei jedem 5. kritischen Treffer wirst du einen Blättersturm abfeuern
+		Magische Projektile heilen dich bei Treffern auf Feinde
+		Die geheilte Menge basiert auf dem Projektilschaden
+		'''
+}
+
+TarragonHeadMelee: {
+	DisplayName: Tarragon-Helm
+	Tooltip:
+		'''
+		10 % erhöhter Nahkampfschaden
+		5 % erhöhte kritische Nahkampftrefferchance
+		5 % erhöhte Schadensreduktion
+		'''
+	SetBonus:
+		'''
+		15 % erhöhte Nahkampfgeschwindigkeit
+		Feinde haben eine höhere Wahrscheinlichkeit, dich anzugreifen
+		Du hast eine 25%ige Chance, einen Lebensregenerations-Buff zu erhalten, wenn du Schaden nimmst
+		Drücke {0}, um dich in Lebensenergie zu hüllen, die den Kontaktsschaden von Feinden stark reduziert, und zwar für 10 Sekunden
+		Dies hat eine Abklingzeit von 30 Sekunden
+		'''
+}
+
+TarragonHeadRanged: {
+	DisplayName: Tarragon-Gesicht
+	Tooltip:
+		'''
+		10 % erhöhter Fernkampfschaden und kritische Trefferchance
+		5 % verringerte Schadensreduktion
+		'''
+	SetBonus: Fernkampfprojektile teilen sich in suchende Lebensenergie und Blätter beim Tod
+}
+
+TarragonHeadRogue: {
+	DisplayName: Tarragon-Helm
+	Tooltip:
+		'''
+		10 % erhöhter Schaden und kritische Trefferchance für Schuftn
+		5 % verringerte Schadensreduktion und Bewegungsgeschwindigkeit
+		'''
+	SetBonus:
+		'''
+		+115 maximale Tarnung
+		Nach jedem 25. kritischen Treffer von Schuftn erhältst du 3 Sekunden Immunität gegen Schaden
+		Dieser Effekt kann nur einmal alle 30 Sekunden auftreten
+		Während du von einem Debuff betroffen bist, erhältst du 10 % erhöhten Schaden für Schuftn
+		'''
+}
+
+TarragonHeadSummon: {
+	DisplayName: Tarragon-Hörnerhelm
+	Tooltip: 5 % verringerte Schadensreduktion und erhöhter Beschwörungsschaden
+	SetBonus:
+		'''
+		50 % erhöhter Beschwörungsschaden und +3 maximale Diener
+		Beschwört eine Lebensaura um dich herum herbei, die nahegelegene Feinde angreift
+		'''
+}
+
+TarragonLeggings: {
+	DisplayName: Tarragon-Beinschienen
+	Tooltip:
+		'''
+		10 % erhöhte Bewegungsgeschwindigkeit
+		8 % erhöhter Schaden und kritische Trefferchance
+		'''
+}

@@ -1,0 +1,304 @@
+// Critters
+AndroombaItem: {
+	DisplayName: "{$Mods.CalamityMod.NPCs.Androomba.DisplayName}"
+	Tooltip:
+		'''
+		Drücke <right> auf den Roomba, um eine Lösung einzufügen
+		Wenn eine Lösung eingefügt ist, wird der Roomba anfangen, seinen Inhalt zu verbreiten
+		'''
+}
+
+BabyFlakCrabItem: {
+	DisplayName: "{$Mods.CalamityMod.NPCs.BabyFlakCrab.DisplayName}"
+	Tooltip: ""
+}
+
+BabyGhostBellItem: {
+	DisplayName: "{$Mods.CalamityMod.NPCs.BabyGhostBell.DisplayName}"
+	Tooltip: ""
+}
+
+NanodroidDysfunctionalItem: {
+	DisplayName: Dysfunktionaler Nanodroid
+	Tooltip: ""
+}
+
+NanodroidItem: {
+	DisplayName: "{$Mods.CalamityMod.NPCs.Nanodroid.DisplayName}"
+	Tooltip: ""
+}
+
+NanodroidPlagueGreenItem: {
+	DisplayName: Grüner Pest-Nanodroid
+	Tooltip: ""
+}
+
+NanodroidPlagueRedItem: {
+	DisplayName: Roter Pest-Nanodroid
+	Tooltip: ""
+}
+
+PiggyItem: {
+	DisplayName: "{$Mods.CalamityMod.NPCs.Piggy.DisplayName}"
+	Tooltip: ""
+}
+
+RepairUnitItem: {
+	DisplayName: "{$Mods.CalamityMod.NPCs.RepairUnitCritter.DisplayName}"
+	Tooltip: ""
+}
+
+SeaMinnowItem: {
+	DisplayName: "{$Mods.CalamityMod.NPCs.SeaMinnow.DisplayName}"
+	Tooltip: ""
+}
+
+TwinklerItem: {
+	DisplayName: "{$Mods.CalamityMod.NPCs.Twinkler.DisplayName}"
+	Tooltip: ""
+}
+
+// Permanent Boosters
+BloodOrange: {
+	DisplayName: Blutorange
+	Tooltip:
+		'''
+		Erhöht dauerhaft maximales Leben um {0}
+		Kann nur einmal verwendet werden und erfordert die maximale Anzahl verzehrter Lebensfrüchte
+		Hat einen deutlich süßen Geschmack und ein starkes Aroma
+		'''
+}
+
+CelestialOnion: {
+	DisplayName: Himmlische Zwiebel
+	Tooltip:
+		'''
+		Erhöht dauerhaft die Anzahl der Accessory-Slots
+		Dieser Gegenstand hat im Meistermodus keine Wirkung
+		Alien-Kraft pulsiert in seinen Schichten
+		'''
+}
+
+CometShard: {
+	DisplayName: Kometensplitter
+	Tooltip:
+		'''
+		Erhöht dauerhaft maximales Mana um {0}
+		Kann nur einmal verwendet werden und erfordert die maximale Anzahl verzehrter Manakristalle
+		'''
+}
+
+Dragonfruit: {
+	DisplayName: Drachenfrucht
+	Tooltip:
+		'''
+		Erhöht dauerhaft maximales Leben um {0}
+		Kann nur einmal verwendet werden und erfordert die maximale Anzahl verzehrter Lebensfrüchte
+		Obwohl etwas fade, ist der Geschmack, der beschrieben werden kann, einzigartig
+		'''
+}
+
+Ectoheart: {
+	DisplayName: Ectoherz
+	Tooltip:
+		'''
+		Erhöht dauerhaft Schaden im Adrenalinmodus um 15% und Schadensreduktion um 5%
+		Revengeance-Beute
+		'''
+}
+
+Elderberry: {
+	DisplayName: Holunderbeere
+	Tooltip:
+		'''
+		Erhöht dauerhaft maximales Leben um {0}
+		Kann nur einmal verwendet werden und erfordert die maximale Anzahl verzehrter Lebensfrüchte
+		Ein herb-saurer Geschmack mit einer etwas erdigen Note
+		'''
+}
+
+ElectrolyteGelPack: {
+	DisplayName: Elektrolyt-Gel-Pack
+	Tooltip:
+		'''
+		Erhöht dauerhaft Schaden im Adrenalinmodus um 15% und Schadensreduktion um 5%
+		Revengeance-Beute
+		'''
+}
+
+EtherealCore: {
+	DisplayName: Ätherkern
+	Tooltip:
+		'''
+		Erhöht dauerhaft maximales Mana um {0}
+		Kann nur einmal verwendet werden und erfordert die maximale Anzahl verzehrter Manakristalle
+		'''
+}
+
+InfernalBlood: {
+	DisplayName: Höllisches Blut
+	Tooltip:
+		'''
+		Erhöht dauerhaft die Dauer des Rage-Modus um 1 Sekunde
+		Revengeance-Beute
+		'''
+}
+
+MiracleFruit: {
+	DisplayName: Wunderfrucht
+	Tooltip:
+		'''
+		Erhöht dauerhaft maximales Leben um {0}
+		Kann nur einmal verwendet werden und erfordert die maximale Anzahl verzehrter Lebensfrüchte
+		Erfrischend und kühl, vielleicht sogar ein wenig minzig
+		'''
+}
+
+MushroomPlasmaRoot: {
+	DisplayName: Pilz-Plasma-Wurzel
+	Tooltip:
+		'''
+		Erhöht dauerhaft die Dauer des Rage-Modus um 1 Sekunde
+		Revengeance-Beute
+		'''
+}
+
+PhantomHeart: {
+	DisplayName: Phantomherz
+	Tooltip:
+		'''
+		Erhöht dauerhaft maximales Mana um {0}
+		Kann nur einmal verwendet werden und erfordert die maximale Anzahl verzehrter Manakristalle
+		'''
+}
+
+RedLightningContainer: {
+	DisplayName: Behälter für Rote Blitze
+	Tooltip:
+		'''
+		Erhöht dauerhaft die Dauer des Rage-Modus um 1 Sekunde
+		Revengeance-Beute
+		'''
+}
+
+StarlightFuelCell: {
+	DisplayName: Sternenlicht-Brennstoffzelle
+	Tooltip:
+		'''
+		Erhöht dauerhaft Schaden im Adrenalinmodus um 15% und Schadensreduktion um 5%
+		Revengeance-Beute
+		'''
+}
+
+// Spawn Blockers
+AntiCystOintment: {
+	DisplayName: Anti-Zysten-Salbe
+	Tooltip: Markieren Sie diesen Gegenstand als Favorit, um das Spawnen von Perforator-Zysten in Ihrer Nähe zu verhindern
+}
+
+AntiTumorOintment: {
+	DisplayName: Anti-Tumor-Salbe
+	Tooltip: Markieren Sie diesen Gegenstand als Favorit, um das Spawnen von Bienenstock-Tumoren in Ihrer Nähe zu verhindern
+}
+
+BleachBall: {
+	DisplayName: Bleichball
+	Tooltip: Markieren Sie diesen Gegenstand als Favorit, um das natürliche Spawnen der Aquatic Scourge in Ihrer Nähe zu verhindern
+}
+
+BrokenWaterFilter: {
+	DisplayName: Defekter Wasserfilter
+	Tooltip: Markieren Sie diesen Gegenstand als Favorit, um das natürliche Spawnen von Säureregen zu deaktivieren
+}
+
+SirenproofEarMuffs: {
+	DisplayName: Sirenensichere Ohrschützer
+	Tooltip: Markieren Sie diesen Gegenstand als Favorit, um das Spawnen von Anahita in Ihrer Nähe zu verhindern
+}
+
+VoodooDemonVoodooDoll: {
+	DisplayName: Voodoo-Dämonen-Voodoo-Puppe
+	Tooltip: Markieren Sie diesen Gegenstand als Favorit, um das Spawnen von Voodoo-Dämonen in Ihrer Nähe zu verhindern
+}
+
+// Uncategorized
+AlicornonaStick: {
+	DisplayName: Alicornona-Stick
+	Tooltip: "'Herzlichen Glückwunsch, du bist ein Gewinner! Hier ist mein Kopf auf einem Stock.'"
+}
+
+BallAndChain: {
+	DisplayName: Ball und Kette
+	Tooltip:
+		'''
+		Markieren Sie diesen Gegenstand als Favorit, um jede durch Ausrüstung gewährte Dashing-Funktion zu deaktivieren
+		'So schwer...'
+		'''
+}
+
+BrimstoneLocus: {
+	DisplayName: Schwefel-Locus
+	Tooltip:
+		'''
+		[c/C61B40:'Ich kann nicht nur deine Ausrüstung mit mächtiger Magie verstärken,]
+		[c/C61B40:sondern auch einige deiner Waffen in völlig neue Formen transzendieren.]
+		[c/C61B40:Solche Gegenstände werden sichtbar, solange sich dieser Gegenstand in deinem Inventar befindet.']
+		'''
+}
+
+MomentumCapacitor: {
+	DisplayName: Momentum-Kondensator
+	Tooltip:
+		'''
+		Während du den Momentum-Kondensator benutzt,
+		wird deine Höchstgeschwindigkeit kontinuierlich und unkontrollierbar erhöht
+		Dieser Effekt funktioniert nur, wenn keine Bosse am Leben sind
+		'''
+}
+
+NormalityRelocator: {
+	DisplayName: Normality-Relokator
+	Tooltip:
+		'''
+		Drücke [TASTE], um zur Position der Maus zu teleportieren
+		Die Fallgeschwindigkeit wird für 30 Frames nach dem Teleportieren verdoppelt
+		Die Teleportation ist während des Chaos-Status deaktiviert
+		Funktioniert im Inventar
+		'Ich werde im Handumdrehen da sein'
+		'''
+}
+
+RelicOfConvergence: {
+	DisplayName: Relikt der Konvergenz
+	Tooltip:
+		'''
+		Erzeugt einen profanen Kristall, der Energie auflädt
+		Das Halten des Kristalls verlangsamt den Spieler
+		Am Ende seines Lebens heilt der Kristall den Spieler um 70 HP
+		'''
+}
+
+Rock: {
+	DisplayName: Kieselsteinchen
+	Tooltip: Das erste Objekt, das Xeroc je erschaffen hat
+}
+
+SulphurousSeaWorldSideChanger: {
+	DisplayName: Weltseitenwechsler des Schwefelmeers
+	Tooltip:
+		'''
+		Benutzen und spawnen Sie dies, wenn Ihr normaler Ozean als Schwefelmeer zählt
+		Dies wird auch das Abyss beheben, wenn es kaputt ist
+		'''
+}
+
+SuperDummy: {
+	DisplayName: Superdummy
+	Tooltip:
+		'''
+		Erzeugt einen Superdummy
+		Regeneriert 1 Million Leben pro Sekunde
+		Stirbt nicht, wenn er Schaden durch Debuffs über Zeit erleidet
+		Rechtsklicken, um alle Superdummies zu töten
+		'''
+}

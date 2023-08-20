@@ -1,0 +1,5 @@
+displayName = Calamity German Translation
+author = deckenid
+version = 1.0
+modReferences = CalamityMod
+translationMod = true

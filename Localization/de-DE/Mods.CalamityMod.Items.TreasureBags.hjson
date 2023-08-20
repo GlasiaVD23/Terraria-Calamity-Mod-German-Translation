@@ -1,0 +1,169 @@
+// Boss Bags
+AquaticScourgeBag: {
+	DisplayName: Schatzbeutel (Wassergeißel)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+AstrumAureusBag: {
+	DisplayName: Schatzbeutel (Astrum Aureus)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+AstrumDeusBag: {
+	DisplayName: Schatzbeutel (Astrum Deus)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+BrimstoneWaifuBag: {
+	DisplayName: Schatzbeutel (Brimstone Elementar)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CalamitasCloneBag: {
+	DisplayName: Schatzbeutel (Calamitas Klon)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CalamitasCoffer: {
+	DisplayName: Schatztruhe (Calamitas)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CeaselessVoidBag: {
+	DisplayName: Schatzbeutel (Grenzenlose Leere)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CrabulonBag: {
+	DisplayName: Schatzbeutel (Krabulon)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CryogenBag: {
+	DisplayName: Schatzbeutel (Cryogen)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+DesertScourgeBag: {
+	DisplayName: Schatzbeutel (Wüstengeißel)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+DevourerofGodsBag: {
+	DisplayName: Schatzbeutel (Der Verschlinger der Götter)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+DraedonBag: {
+	DisplayName: Schatzbeutel (Exo Mechs)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+DragonfollyBag: {
+	DisplayName: Schatzbeutel (Der Drachenfalter)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+HiveMindBag: {
+	DisplayName: Schatzbeutel (Das Hive Mind)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+LeviathanBag: {
+	DisplayName: Schatzbeutel (Leviathan und Anahita)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+OldDukeBag: {
+	DisplayName: Schatzbeutel (Der alte Duke)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+PerforatorBag: {
+	DisplayName: Schatzbeutel (Die Perforatoren)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+PlaguebringerGoliathBag: {
+	DisplayName: Schatzbeutel (Der Pestbringer Goliath)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+PolterghastBag: {
+	DisplayName: Schatzbeutel (Polterghast)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+ProvidenceBag: {
+	DisplayName: Schatzbeutel (Providence, die entweihte Göttin)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+RavagerBag: {
+	DisplayName: Schatzbeutel (Ravager)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SignusBag: {
+	DisplayName: Schatzbeutel (Abgesandter des Verschlingers)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SlimeGodBag: {
+	DisplayName: Schatzbeutel(Der Schleimgott)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+StormWeaverBag: {
+	DisplayName: Schatzbeutel (Sturmweber)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+YharonBag: {
+	DisplayName: Schatzbeutel (Yharon)
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+// Miscellaneous Bags
+AbyssalTreasure: {
+	DisplayName: Der Schatz des Abgrunds
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+BleachedAnglingKit: {
+	DisplayName: Gebleichtes Angel Kit
+	Tooltip:
+		'''
+		Kann verschiedene arten von Angelausrüstung enthalten
+		{$CommonItemTooltip.RightClickToOpen}
+		'''
+}
+
+FleshyGeode: {
+	DisplayName: Fleischige Geode
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+NecromanticGeode: {
+	DisplayName: Nekromantische Geode
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SandyAnglingKit: {
+	DisplayName: Sandiges Angeln Kit
+	Tooltip:
+		'''
+		Kann verschiedene arten von Angelausrüstung enthalten
+		{$CommonItemTooltip.RightClickToOpen}
+		'''
+}
+
+StarterBag: {
+	DisplayName: Starterbeutel
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SulphuricTreasure: {
+	DisplayName: Schwefeliger Schatz
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}

@@ -1,0 +1,85 @@
+Aestheticus: {
+	DisplayName: Aestheticus
+	Tooltip:
+		'''
+		Feuert Kristalle ab, die explodieren und Gegner verlangsamen
+		Diese Waffe skaliert mit all euren Schadenswerten auf einmal
+		'''
+}
+
+EyeofMagnus: {
+	DisplayName: Das Auge von Magnus
+	Tooltip:
+		'''
+		Feuert starke Zielsuchstrahlen ab, die den gegnerischen Schutz verringern
+		Heilt Mana und Gesundheit bei einem Treffer
+		Diese Waffe skaliert mit all euren Schadenswerten auf einmal
+		'''
+}
+
+GoldenGun: {
+	DisplayName: Goldene Gewehr
+	Tooltip: Schießt eine gerade Linie aus reinem Ichor
+}
+
+LunicEye: {
+	DisplayName: Lunic Auge
+	Tooltip:
+		'''
+		Feuert zielsuchenden Lunic Strahlen ab, die den gegnerischen Schutz verringern
+		Diese Waffe skaliert mit all euren Schadenswerten auf einmal
+		'''
+}
+
+RelicOfDeliverance: {
+	DisplayName: Relikt der Erlösung
+	Tooltip:
+		'''
+		Drücke <left>  um einen Speerangriff aufzuladen
+		Drücke <left> erneut, um die Ladung zu benutzten und dich in richtung des Cursor zu fliegen
+		Drücke <left> während des flugs um in richtung des Cursor zu fliegen
+		Hälst du was anderes in der Hand wird der flug abgebrochen
+		'''
+}
+
+RelicOfResilience: {
+	DisplayName: Relikt der Unverwüstlichkeit
+	Tooltip:
+		'''
+		Beschwört ein Artefakt bei der Mausposition
+		Das Artefakt wird von Feinden und allen Projektilen beschädigt
+		Bei der Zerstörung explodiert das Artefakt in rotierende Scherben
+		Befindet sich ein Gegner im Bereich der Scherben, wird sein nächster Angriff um 45% schwächer
+		Dieser Effekt hat eine Abklingzeit
+		Nach 5 Sekunden fügen sich die Scherben zusammen und bilden das ursprüngliche Artefakt
+		Diese Reformation kann 3 Mal stattfinden, bevor du erneut beschworen werden muss
+		Du erhältst eine Abklingzeit von 5 Sekunden, wenn du ein neues Artefakt beschwörst
+		Wenn ein Artefakt bereits beschworen ist, wird es bei erneuter Verwendung beim Cursor erscheinen
+		'''
+}
+
+Skynamite: {
+	DisplayName: Skynamite
+	Tooltip:
+		'''
+		Wirft einen schwebenden Sprengstoff, der der Schwerkraft trotzt
+		"Man braucht kein Aerodynamikstudium, um das zu benutzen..."
+		'''
+}
+
+StarStruckWater: {
+	DisplayName: Sternenwasser
+	Tooltip: Verbreitet die Astralinfektion auf bestimmte Blöcke
+}
+
+YanmeisKnife: {
+	DisplayName: Yanmeis Messer
+	Tooltip:
+		'''
+		Wenn du einen Boss, einen Miniboss oder seine Diener triffst, verkrüppelst du den Gegner.
+		Du erhaltet außerdem 10 Sekunden lang erhöhte Bewegungsgeschwindigkeit und erhöhten Schaden.
+		"Ein Messer aus einer unbekannten Welt
+		Ein Besitzer, dessen Herz rein und frei von Makel ist
+		Ein Herz aus Eisen und Tapferkeit"
+		'''
+}

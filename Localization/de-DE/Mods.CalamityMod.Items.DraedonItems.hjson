@@ -1,0 +1,227 @@
+DraedonPowerCell: {
+	DisplayName: Draedon Energiezelle
+	Tooltip:
+		'''
+		Wird verwendet, um Draedons Waffen an einer Ladestation aufzuladen.
+		Kann auch vom Extraktinator für Ersatzteile verarbeitet werden.
+		'''
+}
+
+// Codebreaker Pieces
+AdvancedDisplay: {
+	DisplayName: Fortgeschrittener Bildschirm
+	Tooltip:
+		'''
+		Kann auf den Codebreaker platziert werden.
+		Ermöglicht das Entschlüsseln des Unterwelt-Schemas.
+		Dadurch kannst du lernen, wie man neue Dinge herstellt.
+		'''
+}
+
+AuricQuantumCoolingCell: {
+	DisplayName: Aurische Quantenkühlzelle
+	Tooltip:
+		'''
+		Kann im Codebreaker platziert werden, um ihn zu vervollständigen.
+		Verringert die Entschlüsselungszeit erheblich.
+		Das Abschließen des Codebreakers ermöglicht es Ihnen, Kontakt mit seinem ursprünglichen Schöpfer aufzunehmen.
+		[c/8B00000:Ein Versuch, dies zu tun, könnte schwerwiegende Folgen haben.]
+		'''
+}
+
+CodebreakerBase: {
+	DisplayName: Codebreaker-Basis
+	Tooltip: ""
+}
+
+DecryptionComputer: {
+	DisplayName: Entschlüsselungscomputer
+	Tooltip:
+		'''
+		Kann auf den Codebreaker platziert werden.
+		Ermöglicht das Entschlüsseln des Planetoid-Schemas.
+		Dadurch kannst du lernen, wie man neue Dinge herstellt.
+		'''
+}
+
+LongRangedSensorArray: {
+	DisplayName: Langstrecken-Sensorarray
+	Tooltip:
+		'''
+		Kann auf den Codebreaker platziert werden.
+		Ermöglicht das Entschlüsseln des Dschungel-Schemas.
+		Dadurch kannst du lernen, wie man neue Dinge herstellt.
+		'''
+}
+
+VoltageRegulationSystem: {
+	DisplayName: Spannungsregelsystem
+	Tooltip:
+		'''
+		Kann auf den Codebreaker platziert werden.
+		Ermöglicht das Entschlüsseln des Eisbiom-Schemas.
+		Dadurch kannst du lernen, wie man neue Dinge herstellt.
+		'''
+}
+
+// Draedon Logs
+DraedonsLogHell: {
+	DisplayName: Umweltverschmutzungsprotokoll
+	Tooltip:
+		'''
+		[Umgebungsprotokoll] - Verschmutzung und 'Fleischwand'
+		Klicke, um den Inhalt anzuzeigen
+		'''
+	ContentPage1: Die Unterwelt ist ein Reich mit einer Geschichte, die mehr als ein Jahrtausend zurückreicht, als die Klippen zum ersten Mal besiedelt wurden, und ermöglicht einen Blick sowohl in die moderne als auch in die antike Welt gleichzeitig. Vor meinem Beitritt zu Yharims Streitkräften war Azafure das Zentrum wissenschaftlicher Fortschritte in dieser Welt. Sprengstoffe, Schusswaffen, Schmiedetechniken und sogar ganze Schulen der Magie haben hier ihre Wurzeln. Zweifellos hat die Stadt stark von der Tatsache profitiert, dass Schmieden in der Unterwelt trivial ist, zusammen mit einer Fülle von Nahrung durch Silvas Essenz, die aus der Abyss herabtropft. Aufgrund dessen hat sie trotz gelegentlicher Angriffe von Dämonen prosperiert.
+	ContentPage2: Azafure ist nicht ohne Konsequenzen existiert. Eine Gesellschaft dieser Größe hinterlässt ökologische Spuren. Dies ist am deutlichsten im Meer hoch über der Stadt zu sehen, das passenderweise als Schwefelmeer bekannt ist. Schwefeldämpfe wurden in der Stadt so intensiv, dass sie über einen Prozess ähnlich der Osmose durch die Abyss aufstiegen und schließlich das Meer erreichten. Die Reduzierung der Verschmutzung, die die Stadt erzeugt, insbesondere durch das Schmieden, ist ein Ziel, das Yharim möchte, dass ich Priorität einräume. Ich sehe wenig Notwendigkeit darin, aber es ist ein Forschungsfeld, dem nur wenige in dieser Welt nachgegangen sind. Ich werde keine Gelegenheit für wissenschaftliche Durchbrüche verschwenden.
+	ContentPage3: Ein bestimmtes Wesen hier hat mein Interesse geweckt: Eine massive Mauer aus biologischem Material liegt an diesem Ort, erschaffen vor vielen Jahren von den größten Magiern, die Azafure zu bieten hat. Es ist ein lebendes Wesen, wenn auch nur knapp. Es hat weder Schmerz noch Emotion und verbreitet Schrecken bei allen, die ihre Augen darauf richten. Die Stadt schützt es durch hohe Sicherheitsmaßnahmen, daher hatten nur wenige außer den engsten Verbündeten des Godseekers die Gelegenheit, es zu beobachten. Solange Azafure weiterhin besteht, wird es unwahrscheinlich sein, dass es jemals wirklich freigelassen wird. Dennoch würde mich faszinieren, die Auswirkungen seiner Freilassung auf die Welt zu sehen.
+}
+
+DraedonsLogJungle: {
+	DisplayName: Protokoll der Plagen-Nanomaschinen
+	Tooltip:
+		'''
+		[Nanomaschinen-Experimentierergebnisse] - 'Die Plage'
+		Klicke, um den Inhalt anzuzeigen
+		'''
+	ContentPage1: Es wäre nicht übertrieben, den Dschungel als den Mittelpunkt dieses Planeten zu bezeichnen. Alles dreht sich um ihn, und niemand kennt ihn nicht. Es bereitet mir Unbehagen, die unbequemen, rohen Formen der Lebewesen zu sehen, die auf ihren Reisen über ihn hinwegziehen. Zum Glück bieten diese Labore alles, was ich für meine Forschung brauche und mehr. Es besteht kaum die Notwendigkeit, die Oberfläche zu besuchen, abgesehen von Yharims Beschwörungen.
+	ContentPage2: Wenige reisen hierhin, und noch weniger unternehmen die Expedition, um bis zu dieser Forschungsstation vorzudringen. Daher habe ich begonnen, diese Isolation zu nutzen, um fortgeschrittene Nanotechnologie zur Kontrolle von biologischen Verstandeszuständen zu entwickeln. Ich wünsche mir, dass sie in der Lage ist, sich von Organismus zu Organismus auszubreiten, eine perfekte Mischung aus Virus und Nanotechnologie. Doch selbst mit meinen neu entwickelten Technologien war es eine mühsame Aufgabe. Weitere Experimente und Forschung sind erforderlich.
+	ContentPage3: Fortgesetzte Experimente haben signifikante Ergebnisse gebracht. Mit einer mechanisch modifizierten Königin-Biene als Hauptwirt könnte sie als Kern eines Schwarmbewusstseins derjenigen dienen, die von meiner Plage berührt wurden. Yharim war jedoch empört, als er von meinen Experimenten hier erfuhr, und verurteilte sie als unmenschlich. Nach einem kurzen verbalen Konflikt verließ er wortlos den Ort, und ich habe seitdem nichts von ihm gehört. Glücklicherweise muss ich mich nicht mehr auf den Gottesschlächter verlassen, und das tue ich auch schon seit Jahren nicht mehr.
+}
+
+DraedonsLogPlanetoid: {
+	DisplayName: Protokoll der Niedrigen-Orbit-Studie
+	Tooltip:
+		'''
+		[Weltraum- und Bodenuntersuchung] - Niedrige Terraria-Umlaufbahn
+		Klicke, um den Inhalt anzuzeigen
+		'''
+	ContentPage1: Hoch über den Himmelsinseln, die vor langer Zeit emporgehoben wurden, liegt ein faszinierendes geologisches Phänomen. Im Gegensatz zu den Inseln scheinen ihre Luftaufenthalte jedoch natürlicher entstanden zu sein. Ich spekuliere, dass sie sich vor langer Zeit gebildet haben, als die Welt in ihrer Kindheit war, basierend auf Bodenproben, die ich genommen habe, während ich das Pflanzenwachstum in der oberen Atmosphäre getestet habe. Vielleicht entstanden diese "Planetoiden", wie sie oft genannt werden, durch Meteoriteneinschläge, die Materie hoch in die Atmosphäre schleuderten. Dies würde gleichzeitig viele geologische Kuriositäten erklären, die ich auf der Oberfläche der Welt gefunden habe.
+	ContentPage2: Das Reisen zwischen Welten fasziniert mich. Die Planeten in vernünftiger Entfernung zu diesem bieten mir keine Verwendung in Bezug auf Materialien oder Studienmöglichkeiten, die sie bieten könnten. Und so möchte ich eines Tages über diese bloße Planetenansammlung hinausgehen. Es wird wahrscheinlich viele Jahrzehnte des technologischen Fortschritts dauern, da das Reisen zwischen Welten selbst bei der maximalen Geschwindigkeit, die physikalische Materie derzeit erreichen kann, Jahre dauern würde. Vielleicht werde ich einen Weg finden, diese Grenze zu durchbrechen, sobald diese Welt mein Interesse nicht länger fesselt.
+	ContentPage3: Eine Anfrage von Yharim wurde übermittelt. Eine Anfrage zur Erstellung einer Rüstung für die Schlange, die sich kürzlich seinen Kräften angeschlossen hat, den "Verschlinger der Götter", wie sich die Schlange selbst nennt. Er ist ein lästiges, aber faszinierendes Wesen. Und so habe ich die Gelegenheit ergriffen, um mehr über seine Heimatdimension zu erfahren. Unter Verwendung von Materialien aus seinem Herkunftsort habe ich eine Rüstung von immenser Größe und Haltbarkeit, aber auch extreme Flexibilität geschmiedet. Es ist sicherlich eines der einzigartigsten Materialien, mit denen ich gearbeitet habe, und hat mein Wissen erheblich erweitert. Ich habe jedoch mehr über das kosmische Biest erfahren, als ich erwartet hatte. Vielleicht mehr, als er von mir erwartet hatte.
+}
+
+DraedonsLogSnowBiome: {
+	DisplayName: Protokoll des Kryonischen Materials
+	Tooltip:
+		'''
+		[Materieller Wissenschaftsbericht] - Erzmagiers 'Kryonisches Metall'
+		Klicke, um den Inhalt anzuzeigen
+		'''
+	ContentPage1: Eine gefrorene Tundra, in der nur Kreaturen gedeihen, die sich an die subnularen Temperaturen angepasst haben. Nur wenige vernunftbegabte Wesen haben hier dauerhaft gewohnt, abgesehen von Bergleuten und dem Erzmagier. Vor diesem Hintergrund hat Yharim mich gebeten, diesen Ort auf Auffälligkeiten zu überprüfen, da die Armeen diesen Ort größtenteils übersehen haben. Zusätzlich wurde ich vom Erzmagier gebeten, Studien über seine eisigen Metalle durchzuführen. In dieser gefrorenen Einöde gibt es wenig anderes zu tun, und daher wurde seine Anfrage akzeptiert.
+	ContentPage2: Kryonisches Erz, wie der Erzmagier es einfach nennt, ist ein Material, das scheinbar dem von Eis überzogenen Glas ähnelt. Auf den ersten Blick könnte man annehmen, dass es ein zerbrechliches Material ist, doch beim Testen wird klar, dass das nicht der Fall ist. Platten, die daraus hergestellt wurden, erwiesen sich bei Biege- und Zugtests als widerstandsfähiger und belastbarer als Myrthallegierung, gefolgt von Zerstörungsversuchen. Dennoch wiegt es nur einen Bruchteil. Vielleicht könnten Massenmengen dieses Materials verwendet werden, um Rüstungen für Einheiten zu schmieden, die die übliche Last von Metallplatten verachten. Ich werde wahrscheinlich weitere Informationen über die Schaffungsmethoden von Kryonischem Erz einholen, um dies zu erreichen.
+	ContentPage3: Wie bereits beschrieben, wurde Kryonisches Erz vom Erzmagier Permafrost entwickelt. Trotz seiner Position als der Magier der Magier hat er wenig Interesse daran, sich in den Kampf einzumischen. Stattdessen fungiert er als Berater von Yharim und hilft bei der Verwaltung von Städten und Ortschaften, die vom Gotttöter erobert oder unterstützt wurden. Zusätzlich scheint er sich mit dem Mädchen verbunden zu haben, das vor einigen Monaten auf der Suche nach Yharim hierher kam, und verhält sich wie eine Vaterfigur für sie. Ich selbst habe Interesse an ihrer immensen natürlichen Macht gefunden.
+}
+
+DraedonsLogSunkenSea: {
+	DisplayName: Protokoll der Meeresbiologie
+	Tooltip:
+		'''
+		[Bioform-Forschung] - Aquatisches Leben von Ilmeris
+		Klicke, um den Inhalt anzuzeigen
+		'''
+	ContentPage1: Ein Zentrum vielfältigen Meereslebens und alles, was von Ilmeris unverbrannt geblieben ist. Einst die ländlichen Außenbezirke, ist es nun das letzte Fragment eines einst mächtigen Königreichs. Es ist glücklicherweise so, dass sich die Hexe nur auf den Angriff auf die eigentlichen Städte konzentriert hat und einen Teil des Meeres vor der Verbrennung verschont hat. Ich habe mich lange danach gesehnt, diese Gewässer in großer Tiefe zu erforschen, war aber wegen des laufenden Konflikts nie dazu in der Lage. Obwohl viele Arten in der Verwüstung ausgestorben sind, gedeihen viele von ihnen immer noch in diesen Tiefen. In diesem Labor kann ich endlich das aquatische Leben richtig studieren und ihre Natur kennenlernen.
+	ContentPage2: Obwohl die Meereslebewesen in diesen Höhlen Augen haben, sind einige ihrer Augen schwach und verarbeiten nur wenige Farben. Alles, was sie sehen sollen, ist das Licht der Meerprismen, die sie umgeben. Viele Kreaturen verlassen sich darauf, um ihren Weg durch die untergetauchten Höhlen zu leiten. Ihre robusten, verknorzten Häute besitzen Kristallwachstümer, von denen ich ursprünglich annahm, dass es sich um Prismen handelt, die sich auf ihren Rücken ablagern. Die Ergebnisse der Untersuchung enthüllen jedoch, dass sie diese Kristalle intern besitzen und die Wachstümer eine Folge von inneren Meerprismen sind, die aus ihren Häuten herausbrechen. Das Wachstum dieser Kristalle erreicht solche Ausmaße, dass einige Kreaturen in bestimmten Bereichen eher geologisch als biologisch sind.
+	ContentPage3: Von den hier befindlichen Exemplaren faszinieren mich die abnorm groß                                                                                                                                                                                                                                    en Muscheln am meisten. Viel größer als der durchschnittliche Mensch, ist ihr Gewicht so groß, dass sie nicht in der Lage sind, sich auf die gleiche Weise wie ihre kleineren Artgenossen zu bewegen. Stattdessen verlassen sie sich auf Teleportation, um ihre massigen, schwer gepanzerten Körper zu transportieren. Sie scheinen einst laut Spähern weitere magische Kräfte besessen zu haben. Da sie jedoch nur aus der Ferne gesehen wurden, könnten ihre Berichte leicht falsch gewesen sein. Alternativ könnte ihre Energiequelle einfach nach dem Niedergang von Ilmeris verblasst sein. Es wäre unklug, die letztere Möglichkeit vollständig auszuschließen.
+}
+
+// Lab Finders
+CyanSeekingMechanism: {
+	DisplayName: Türkiser Suchmechanismus
+	Tooltip: Bewegt sich schnell zu einem Labor tief unter der Wüste
+}
+
+GreenSeekingMechanism: {
+	DisplayName: Grüner Suchmechanismus
+	Tooltip: Bewegt sich schnell zu einem Labor im Dschungel
+}
+
+LabSeekingMechanism: {
+	DisplayName: Labor Suchmechanismus
+	Tooltip: Ein Empfänger für Technologie, der die Energiekerne von Draedons Laboren erfasst
+}
+
+OnyxSeekingMechanism: {
+	DisplayName: Onyx Suchmechanismus
+	Tooltip: Bewegt sich schnell zu einem Labor in den Höhlen
+}
+
+RedSeekingMechanism: {
+	DisplayName: Roter Suchmechanismus
+	Tooltip: Bewegt sich schnell zu einem Labor in der Unterwelt
+}
+
+WhiteSeekingMechanism: {
+	DisplayName: Weißer Suchmechanismus
+	Tooltip: Bewegt sich schnell zu einem Labor in den gefrorenen Höhlen
+}
+
+YellowSeekingMechanism: {
+	DisplayName: Gelber Suchmechanismus
+	Tooltip: Bewegt sich schnell zu einem Labor in der Luft
+}
+
+// Schematics
+SchematicUnlocked:
+	'''
+	Bereits entschlüsselt worden.
+	Klicke, um den Inhalt anzuzeigen.
+	Entschlüsselte Rezepte:
+	'''
+
+EncryptedSchematicHell: {
+	DisplayName: Verschlüsselte Schemazeichnung (Unterwelt)
+	Tooltip: Erfordert einen Codebreaker mit einem ausgeklügelten Display zur Entschlüsselung
+	Content:
+		'''
+		Nur die höchstrangigen Mitglieder in den Bataillonen von Yharims Armee trugen diese Waffen. Doch das sind immer noch nicht meine mächtigsten Werkzeuge. Diese... Individuen konnten ihnen nicht vertrauen werden.
+		Addendum: Das letzte Stück bleibt übrig. Reise nun vom heißesten Feuer, das dieses Land zu bieten hat, zur kältesten Kälte. Ich kann ein gewisses Gefühl für poetische Symmetrie nicht leugnen.
+		'''
+}
+
+EncryptedSchematicIce: {
+	DisplayName: DisplayName: Verschlüsselte Schemazeichnung (Eis)
+	Tooltip: Erfordert einen Codebreaker mit einem komplexen Spannungsregelsystem zur Entschlüsselung
+	Content:
+		'''
+		Ich habe seitdem Fortschritte zu noch größeren Waffen gemacht, aber sie bleiben Kreationen, auf die man stolz sein kann. Kein Fortschritt ist möglich ohne eine Unzufriedenheit, die aus dem Verlangen resultiert.
+		Addendum: Die Zeit ist gekommen. Du bist bereit.
+		'''
+}
+
+EncryptedSchematicJungle: {
+	DisplayName: Verschlüsselte Schemazeichnung (Dschungel
+	Tooltip: Erfordert einen Codebreaker mit einem präzise abgestimmten, ferngesteuerten Sensor zur Entschlüsselung
+	Content:
+		'''
+		Wie oft steigt mit dem Rang auch die Tödlichkeit der Ausrüstung. In den Händen kompetenter Soldaten haben diese Waffen die Fähigkeit, Veränderungen herbeizuführen. Doch kompetente Soldaten handeln nur nach Befehlen von oben.
+		Addendum: Wenn du dies liest, bist du weit gekommen. Enttäusche nicht. Gehe nun in die Hölle, für die nächste Komponente, die in dem aufbewahrt wird, was einst meine Schmieden waren.
+		'''
+}
+
+EncryptedSchematicPlanetoid: {
+	DisplayName: Verschlüsselte Schemazeichnung (Planetoid)
+	Tooltip: Erfordert einen Codebreaker mit einem grundlegenden Entschlüsselungscomputer zur Entschlüsselung
+	Content:
+		'''
+		Innerhalb einer Armee, so wie Waffen es tun, dienen die Soldaten verschiedenen Zwecken. Diese Unterscheidung ist entscheidend, denn das falsche Werkzeug in den falschen Händen - egal wie mächtig - kann genauso gut ein hölzerner Knüppel sein.
+		Addendum: Suche meine Operationsbasis auf, die am nächsten zum Zuhause der Lihzahrds liegt. Ich wünsche dir aufrichtig viel Glück, denn es ist lange her, seit ich ein würdiges Versuchssubjekt hatte.
+		'''
+}
+
+EncryptedSchematicSunkenSea: {
+	DisplayName: Verschlüsselte Schemazeichnung (Versunkene Meer)
+	Tooltip:
+		'''
+		Detaillierte Diagramme zahlreicher Geräte und Waffen tanzen über den holographischen Bildschirm
+		Das Aufnehmen dieses Gegenstands oder das Halten in deinem Inventar schaltet dauerhaft neue Rezepte frei
+		Klicke, um den Inhalt anzuzeigen
+		'''
+	Content:
+		'''
+		Die Waffen, die ich den Arbeitern der Labore zur Verfügung stelle, sind schwach. Kaum für den Kampf geeignet.
+		Dennoch genügen sie zur Selbstverteidigung gegen jede Labormechanismen oder Kreationen, die vielleicht außer Kontrolle geraten sind.
+		Addendum: Für diejenigen, die sich für mächtig halten, suche die obere Grenze der Atmosphäre dieses Planeten nach einer Struktur ab, die der Versunkenen See ähnelt.
+		Ich werde am Ende wissen, ob du würdig bist, gegen meine Kreationen anzutreten.
+		'''
+}

@@ -1,0 +1,78 @@
+// For general uses
+Abyss: Die Tiefe
+AstralInfection: Astral Infektion
+AstralDesert: Astral Wüste
+AstralSnow: Astral Tundra
+BrimstoneCrags: Brimstone Felsvorsprung
+SulphurousSea: Schwefel Meer
+SunkenSea: Das versunkene Meer
+
+AbovegroundAstralBiome: {
+	DisplayName: Astral Infektion
+	TownNPCDialogueName: Astral Infektion
+}
+
+AbovegroundAstralBiomeSurface: {
+	DisplayName: Astral Oberfläche
+	TownNPCDialogueName: Astral Infektion
+}
+
+AbovegroundAstralDesertBiome: {
+	DisplayName: Astral Wüsten Oberfläche
+	TownNPCDialogueName: Astral Wüste
+}
+
+AbovegroundAstralSnowBiome: {
+	DisplayName: Astral Tundra
+	TownNPCDialogueName: Astral Tundra
+}
+
+AbyssLayer1Biome: {
+	DisplayName: Schwefel Tiefen
+	TownNPCDialogueName: Schwefel Tiefen
+}
+
+AbyssLayer2Biome: {
+	DisplayName: Trüben Gewässern
+	TownNPCDialogueName: Trüben Gewässern
+}
+
+AbyssLayer3Biome: {
+	DisplayName: Hydrothermalen Spalte
+	TownNPCDialogueName: Hydrothermalen Spalte
+}
+
+AbyssLayer4Biome: {
+	DisplayName: Abyssalen Weiten
+	TownNPCDialogueName: Abyssalen Weiten
+}
+
+AcidRainBiome: {
+	DisplayName: Saurer Regen
+	TownNPCDialogueName: Saurer Regen
+}
+
+ArsenalLabBiome: {
+	DisplayName: Arsenal Labor
+	TownNPCDialogueName: Arsenal Labor
+}
+
+BrimstoneCragsBiome: {
+	DisplayName: Brimstone Felsvorsprung
+	TownNPCDialogueName: Brimstone Felsvorsprung
+}
+
+SulphurousSeaBiome: {
+	DisplayName: Schwefel Meer
+	TownNPCDialogueName: Schwefel Meer
+}
+
+SunkenSeaBiome: {
+	DisplayName: Das versunkene Meer
+	TownNPCDialogueName: Das versunkene Meer
+}
+
+UndergroundAstralBiome: {
+	DisplayName: Astral Untergrund
+	TownNPCDialogueName: Untergrund Astral Infektion
+}

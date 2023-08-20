@@ -1,0 +1,212 @@
+AbyssalWarhammer: {
+	DisplayName: Abyssalischer Kriegshammer
+	Tooltip: ""
+}
+
+AerialHamaxe: {
+	DisplayName: Ätherischer Hamaxt
+	Tooltip: ""
+}
+
+AstralHamaxe: {
+	DisplayName: Astrale Hamaxt
+	Tooltip: ""
+}
+
+AstralPickaxe: {
+	DisplayName: Astrale Spitzhacke
+	Tooltip: ""
+}
+
+AxeofPurity: {
+	DisplayName: Axt der Reinheit
+	Tooltip:
+		'''
+		Linksklick zum Benutzen als Werkzeug
+		Rechtsklick zum Befreien von Bösem
+		'''
+}
+
+BeastialPickaxe: {
+	DisplayName: Bestiale Spitzhacke
+	Tooltip: ""
+}
+
+BerserkerWaraxe: {
+	DisplayName: Berserker-Kriegsaxt
+	Tooltip: ""
+}
+
+BlossomPickaxe: {
+	DisplayName: Blüten-Spitzhacke
+	Tooltip: Kann Auric-Erz abbauen
+}
+
+BobbitHook: {
+	DisplayName: Bobbit-Haken
+	Tooltip:
+		'''
+		Zieht sich mit hoher Geschwindigkeit an einem Block zurück
+		Reichweite: 40
+		Startgeschwindigkeit: 25
+		Zurückziehgeschwindigkeit: 28
+		Einholgeschwindigkeit: 24
+		'''
+}
+
+AridArtifact: {
+	DisplayName: Trockenes Artefakt
+	Tooltip:
+		'''
+		Ruft einen Sandsturm herbei
+		Der Sandsturm beginnt kurz nach der Benutzung des Gegenstands
+		Wenn während eines Sandsturms verwendet, wird der Sandsturm einige Zeit danach enden.
+		'''
+}
+
+Cosmolight: {
+	DisplayName: Kosmolicht
+	Tooltip:
+		'''
+		Lässt die Zeit sofort zur nächsten Morgendämmerung, Mittag, Abenddämmerung oder Mitternacht voranschreiten
+		Funktioniert nicht, solange ein Boss lebt
+		'''
+}
+
+TorrentialTear: {
+	DisplayName: Sturzflutträne
+	Tooltip:
+		'''
+		Ruft Regen herbei
+		Regen beginnt einige Zeit nach der Benutzung dieses Gegenstands
+		Wenn während des Regens verwendet, wird der Regen einige Zeit danach enden.
+		'''
+}
+
+CrystylCrusher: {
+	DisplayName: Kristyllbrecher
+	Tooltip:
+		'''
+		Halte <right> gedrückt, um einen Strahl zu kanalisieren, der praktisch alles zerstört
+		'Schneller graben, tiefer gehen'
+		'''
+}
+
+FellerofEvergreens: {
+	DisplayName: Baumfäller der immergrünen Bäume
+	Tooltip: ""
+}
+
+Gelpick: {
+	DisplayName: Gelepick
+	Tooltip: ""
+}
+
+GenesisPickaxe: {
+	DisplayName: Genesisspitzhacke
+	Tooltip: Kann Uelibloom-Erz abbauen
+}
+
+Grax: {
+	DisplayName: Grax
+	Tooltip:
+		'''
+		Das Schlagen eines Feindes steigert deine Verteidigung, Nahkampfschaden und kritischen Nahkampfschaden für kurze Zeit erheblich
+		Drücke <right>, um es zu verwenden, ohne Wände einzuschlagen oder Bäume zu fällen
+		'''
+}
+
+GreatbayPickaxe: {
+	DisplayName: Pickaxt der Großen Bucht
+	Tooltip: Kann Dämonit, Purpurtan, Meteorit, Meeresprismen und Meeresprismen-Kristalle abbauen
+}
+
+InfernaCutter: {
+	DisplayName: Infernaschneider
+	Tooltip:
+		'''
+		Kritische Treffer mit der Klinge verursachen kleine Explosionen
+		Erzeugt beim Schwingen eine Anzahl kleiner Funken
+		'''
+}
+
+MarniteDeconstructor: {
+	DisplayName: Marnit-Dekonstruktor
+	Tooltip:
+		'''
+		Sein Motor erzeugt Hartlichtstrahlen, die in der Lage sind, Wände aus großer Entfernung auszugraben
+		Ignoriert 10 Punkte Verteidigung des Gegners
+		'''
+}
+
+MarniteObliterator: {
+	DisplayName: Marnit-Auslöscher
+	Tooltip:
+		'''
+		Verwendet einen Diamant-Fokus, um einen langstreckigen Grabenstrahl aus Licht zu projizieren
+		Ignoriert 5 Punkte Verteidigung des Gegners
+		'''
+}
+
+ReefclawHamaxe: {
+	DisplayName: Riffklaue-Hamaxt
+	Tooltip: ""
+}
+
+SeismicHampick: {
+	DisplayName: Seismische Hamasptzhacke
+	Tooltip:
+		'''
+		Kann Lihzahrd-Ziegel abbauen
+		Drücke <left>, um es als Spitzhacke zu verwenden
+		Drücke <right>, um es als Hammer zu verwenden
+		'''
+}
+
+ShardlightPickaxe: {
+	DisplayName: Splitterlicht-Spitzhacke
+	Tooltip: ""
+}
+
+SkyfringePickaxe: {
+	DisplayName: Himmelsfransen-Spitzhacke
+	Tooltip: Kann Höllenstein abbauen
+}
+
+TectonicTruncator: {
+	DisplayName: Tektonischer Trunkator
+	Tooltip: ""
+}
+
+WulfrumDiggingTurtle: {
+	DisplayName: Wulfrum-Grabschildkröte
+	Tooltip:
+		'''
+		Wirft eine marode Bergbauvorrichtung, um einen kleinen Tunnel auszugraben
+		Im Notfall drücke <right>, um alle deine Grabenschildkröten sofort zu zünden
+		'''
+}
+
+WulfrumDrill: {
+	DisplayName: Wulfrum-Bohrer
+	Tooltip: ""
+}
+
+WulfrumScaffoldKit: {
+	DisplayName: Wulfrum-Gerüstbau-Set
+	Tooltip:
+		'''
+		Legt vorübergehende Metallgerüste ab. Verbraucht ein Wulfrum-Metallschnitzel für 40 gebaute Kacheln
+		Das Gerüst muss an eine feste Kachel angrenzen, um abgelegt zu werden
+		'Wenn du etwas schnell bauen musst und es nicht lange halten soll.'
+		'''
+}
+
+WulfrumTreasurePinger: {
+	DisplayName: Wulfrum-Schatzsignalgeber
+	Tooltip:
+		'''
+		Ortet in der Nähe Metall, das hoffentlich wertvoller ist als Wulfrum
+		Diese Apparatur scheint unglaublich minderwertig zu sein. [c/FC4903:Sie wird sicherlich früher als später kaputtgehen]
+		'''
+}

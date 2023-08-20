@@ -1,0 +1,1497 @@
+AlcoholPoisoning: {
+	DisplayName: Alkoholvergiftung
+	Description: Du hast zu viel getrunken und stirbst jetzt
+}
+
+BloodyMaryBuff: {
+	DisplayName: Bloody Mary
+	Description: Schaden und Bewegungsgeschwindigkeit während eines Blutmonds erhöht, Lebensregeneration und Verteidigung reduziert
+}
+
+CaribbeanRumBuff: {
+	DisplayName: Karibischer Rum
+	Description: Lebensregeneration, Bewegungsgeschwindigkeit und Flugzeit der Flügel erhöht, du fühlst dich schwebend und die Verteidigung ist reduziert
+}
+
+CinnamonRollBuff: {
+	DisplayName: Zimtschnecke
+	Description: Manaregenerationsrate und Brandschaden-Debuff erhöht, Verteidigung reduziert
+}
+
+EverclearBuff: {
+	DisplayName: Everclear
+	Description: Schaden erhöht, Lebensregeneration und Verteidigung reduziert
+}
+
+EvergreenGinBuff: {
+	DisplayName: Evergreen Gin
+	Description: Krankheit- und Wasserdebuff-Schaden erhöht, Lebensregeneration reduziert
+}
+
+FabsolVodkaBuff: {
+	DisplayName: Fab
+	Description: Du fühlst dich fabelhaft
+}
+
+FireballBuff: {
+	DisplayName: Feuerball
+	Description: Brandschaden-Debuff erhöht, Lebensregeneration reduziert
+}
+
+GrapeBeerBuff: {
+	DisplayName: Traubenbier
+	Description: Verteidigung reduziert
+}
+
+MargaritaBuff: {
+	DisplayName: Margarita
+	Description: Kürzere Dauer der meisten Debuffs, Verteidigung und Lebensregeneration reduziert
+}
+
+MoonshineBuff: {
+	DisplayName: Moonshine
+	Description: Verteidigung und Schadensreduktion erhöht, Lebensregeneration reduziert
+}
+
+MoscowMuleBuff: {
+	DisplayName: Moscow Mule
+	Description: Schaden, kritische Trefferchance und Rückstoß erhöht, Lebensregeneration reduziert
+}
+
+RedWineBuff: {
+	DisplayName: Roter Wein
+	Description: Lebensregeneration reduziert
+}
+
+RumBuff: {
+	DisplayName: Rum
+	Description: Bewegungsgeschwindigkeit und Lebensregeneration erhöht, Verteidigung reduziert
+}
+
+ScrewdriverBuff: {
+	DisplayName: Schraubenzieher
+	Description: Durchdringungsschaden-Projekte erhöht, Lebensregeneration reduziert
+}
+
+StarBeamRyeBuff: {
+	DisplayName: Star Beam Roggen
+	Description: Maximales Mana und Magieschaden erhöht. Verteidigung, Mananutzung und Lebensregeneration reduziert
+}
+
+TequilaBuff: {
+	DisplayName: Tequila
+	Description: Kritische Trefferchance, Verteidigung und Rückstoß erhöht während des Tages, Lebensregeneration reduziert
+}
+
+TequilaSunriseBuff: {
+	DisplayName: Tequila Sunrise
+	Description: Kritische Trefferchance, Verteidigung und Rückstoß erhöht während des Tages, Lebensregeneration reduziert
+}
+
+Trippy: {
+	DisplayName: Berauscht
+	Description: Du siehst die Welt, wie sie wirklich ist... und du hast auch eine 50 %ige Erhöhung des Schadens
+}
+
+VodkaBuff: {
+	DisplayName: Wodka
+	Description: Schaden und kritische Trefferchance erhöht, Verteidigung und Lebensregeneration reduziert
+}
+
+WhiskeyBuff: {
+	DisplayName: Whiskey
+	Description: Schaden, kritische Trefferchance und Rückstoß erhöht, Verteidigung reduziert
+}
+
+WhiteWineBuff: {
+	DisplayName: Weißwein
+	Description: Magieschaden erhöht, Lebensregeneration und Verteidigung reduziert
+}
+
+Withered: {
+	DisplayName: Verkümmert
+	Description: Das Halten von verwelkten Waffen lässt dich leiden, aber macht deine Waffen stark
+}
+
+AstralInfectionDebuff: {
+	DisplayName: Astrale Infektion
+	Description: Dein Fleisch schmilzt weg
+}
+
+BanishingFire: {
+	DisplayName: Bannendes Feuer
+	Description: Du wirst nicht für deine Sünden vergeben
+}
+
+BrimstoneFlames: {
+	DisplayName: Schwefelflammen
+	Description: Körper und Geist werden verbrannt
+}
+
+BurningBlood: {
+	DisplayName: Brennendes Blut
+	Description: Dein Blut steht in Flammen
+}
+
+CrushDepth: {
+	DisplayName: Drucktiefe
+	Description: Von Wasserdruck zerquetscht
+}
+
+Dragonfire: {
+	DisplayName: Drachenfeuer
+	Description: Von brüllenden Flammen verschlungen
+}
+
+GodSlayerInferno: {
+	DisplayName: Gottesmörder-Inferno
+	Description: Dein Fleisch brennt ab
+}
+
+HolyFlames: {
+	DisplayName: Heilige Flammen
+	Description: Löst sich im heiligen Licht auf
+}
+
+HolyInferno: {
+	DisplayName: Heiliges Inferno
+	Description: Du bist zu weit von der Profaned Goddess entfernt!
+}
+
+ManaBurn: {
+	DisplayName: Mana-Brand
+	Description: Der Überschuss an Mana versengt deinen Körper und Geist
+}
+
+MiracleBlight: {
+	DisplayName: Wunderpest
+	Description: Exotische Resonanz zerreißt deine körperliche Form
+}
+
+Nightwither: {
+	DisplayName: Nachtverwelkung
+	Description: Von Mondstrahlen verbrannt
+}
+
+Plague: {
+	DisplayName: Pest
+	Description: Von innen verrottend
+}
+
+SagePoison: {
+	DisplayName: Salbei-Gift
+	Description: Vergiftet
+}
+
+SearingLava: {
+	DisplayName: Brennende Lava
+	Description: Die Schwefellava versengt dein Fleisch
+}
+
+ShellfishClaps: {
+	DisplayName: Muschelklatschen
+	Description: Muschelfest
+}
+
+Shred: {
+	DisplayName: Zerfetzt
+	Description: Jemand hat zehn Tri-Tip-Dolche gebaut...
+}
+
+SnapClamDebuff: {
+	DisplayName: Muschelklatschen
+	Description: Von Snap-Muscheln geklatscht
+}
+
+SulphuricPoisoning: {
+	DisplayName: Schwefelvergiftung
+	Description: Das saure Wasser verbrennt dein Fleisch
+}
+
+Vaporfied: {
+	DisplayName: Vaporisiert
+	Description: Dampf
+}
+
+VulnerabilityHex: {
+	DisplayName: Verwundbarkeitshexerei
+	Description: Deine geistige Stärke schwindet
+}
+
+WeakBrimstoneFlames: {
+	DisplayName: Schwache Schwefelflammen
+	Description: Die Verwendung der Macht der Oberhexe lässt dich leiden, aber macht deine Waffen stark
+}
+
+AlicornBuff: {
+	DisplayName: Alicorn
+	Description: Du hast DoG besiegt, während du betrunken warst, du bist wirklich fabelhaft!
+}
+
+AndromedaBuff: {
+	DisplayName: Andromeda
+	Description: Du kontrollierst ein Stück Geschichte
+}
+
+AndromedaSmallBuff: {
+	DisplayName: Andromeda
+	Description: Du kontrollierst ein kleines Stück Geschichte
+}
+
+BrimroseMount: {
+	DisplayName: Brimrose Reittier
+	Description: Der Sitz ist kuschelig. Das ist alles
+}
+
+BumbledogeMount: {
+	DisplayName: Bumbledoge
+	Description: Warte mal eine Sekunde. Das stimmt nicht...
+}
+
+DraedonGamerChairBuff: {
+	DisplayName: Exo Stuhl
+	Description: Auf einem schwerkrafttrotzenden Gamer-Stuhl reiten
+}
+
+GazeOfCrysthamyrBuff: {
+	DisplayName: Blick von Crysthamyr
+	Description: Du reitest auf einem Schattendrachen
+}
+
+MarniteLiftBuff: {
+	DisplayName: Marnite Aufzug
+	Description: Machst du überhaupt..?
+}
+
+OnyxExcavatorBuff: {
+	DisplayName: Onyx Bagger
+	Description: Bohren
+}
+
+RimehoundBuff: {
+	DisplayName: Rimehound
+	Description: Du reitest auf einem wütenden Hund
+}
+
+SquishyBeanBuff: {
+	DisplayName: Squishy Bean
+	Description: BOHNENMANN. DIE BOHNE IST HIER
+}
+
+TheCartofGodsBuff: {
+	DisplayName: Der Wagen der Götter
+	Description: Du reitest auf einem kosmischen Schrecken
+}
+
+AkatoBuff: {
+	DisplayName: Akato
+	Description: Sieht aus, als müsstest du dich jetzt darum kümmern
+}
+
+ArcherofLunamoon: {
+	DisplayName: Schütze von Lunamoon
+	Description: Du hast einen persönlichen Beobachter
+}
+
+AstrophageBuff: {
+	DisplayName: Astrophage
+	Description: Kleines astrales Gefährt
+}
+
+BabyGhostBellBuff: {
+	DisplayName: Baby Geisterglocke
+	Description: Pass auf, dass du die Blase nicht platzen lässt
+}
+
+BearBuff: {
+	DisplayName: Bär
+	Description: Ein Schutzengel begleitet dich
+}
+
+BloodBound: {
+	DisplayName: Blutgebunden
+	Description: Du musst verzweifelt nach Gesellschaft suchen
+}
+
+BrimlingBuff: {
+	DisplayName: Brimling
+	Description: Beschütze sie oder leide in Qualen
+}
+
+ChibiiDoGBuff: {
+	DisplayName: Chibii Verschlinger
+	Description: Was? Hast du jemand anderen erwartet?
+}
+
+ClassicSCalPetBuff: {
+	DisplayName: Klassische Supreme Calamitas
+	Description: Ihre höchsten Kräfte werden niemals vergessen werden
+}
+
+DannyDevito: {
+	DisplayName: Danny Devito
+	Description: Der Müllmann folgt dir
+}
+
+Dreamfog: {
+	DisplayName: Traumnebel
+	Description: Xi glaubt an Yuu
+}
+
+EidolonSnailBuff: {
+	DisplayName: Escargidolon Schnecke
+	Description: Was für eine alberne kleine prähistorische Schnecke
+}
+
+ElectricTroublemaker: {
+	DisplayName: Elektrischer Störenfried
+	Description: Blitz schlägt nie zweimal an derselben Stelle ein
+}
+
+FlakHermitBuff: {
+	DisplayName: Flak Eremit
+	Description: Kleiner Säurekäfer
+}
+
+FoxPetBuff: {
+	DisplayName: Fuchshaustier
+	Description: Fuchshaustier? FUCHS-HAUSTIER
+}
+
+FurtasticDuoBuff: {
+	DisplayName: Furtastic Duo
+	Description: Sie haben es gerade gemacht! Das Furtastic Duo wird dich begleiten!
+}
+
+GoldieBuff: {
+	DisplayName: Goldie
+	Description: Alles, was glänzt, ist Gold
+}
+
+Kendra: {
+	DisplayName: Kendra
+	Description: Ein treuer Freund begleitet dich
+}
+
+LadBuff: {
+	DisplayName: Der Vater
+	Description: Ein Vater von vielen schwebt um dich herum
+}
+
+LeviBuff: {
+	DisplayName: Levi
+	Description: Klein und süß
+}
+
+LittleLightBuff: {
+	DisplayName: Kleines Licht
+	Description: Liebenswert
+}
+
+MiniMindBuff: {
+	DisplayName: Mini Verstand
+	Description: Es weiß alles
+}
+
+OceanSpiritBuff: {
+	DisplayName: Ozeangeist
+	Description: Klein und süß
+}
+
+PineappleBuff: {
+	DisplayName: Ananas
+	Description: Es riecht nach Pizza...
+}
+
+PlaguebringerBabBuff: {
+	DisplayName: Seuchenbringer-Baby
+	Description: Das Baby-Seuchenbringer sieht dich als Königin an
+}
+
+RadiatorBuff: {
+	DisplayName: Heizkörper
+	Description: Radioaktiv, aber liebenswert
+}
+
+ReaverOrbBuff: {
+	DisplayName: Reaver-Orb
+	Description: Der Reaver-Orb wird dir den Weg erhellen
+}
+
+SparksBuff: {
+	DisplayName: Funken
+	Description: Frisst Schmetterlinge
+}
+
+ThirdSageBuff: {
+	DisplayName: Dritter Weiser
+	Description: Eh? Unmöglich, dass es ein Oni ist
+}
+
+YharonSonBuff: {
+	DisplayName: Sohn von Yharon
+	Description: Du solltest besser sein Abendessen nicht essen
+}
+
+ChaosCandleBuff: {
+	DisplayName: Chaos-Kerze
+	Description: Die Spawn-Raten in der Nähe der Kerze sind erhöht!
+}
+
+CirrusBlueCandleBuff: {
+	DisplayName: Limber
+	Description: Die schwebende Flamme scheint deinen Geist zu erheben
+}
+
+CirrusPinkCandleBuff: {
+	DisplayName: Kraft
+	Description: Ihr strahlendes Licht durchdringt diejenigen in der Nähe mit Hoffnung
+}
+
+CirrusPurpleCandleBuff: {
+	DisplayName: Widerstandsfähigkeit
+	Description: Weder Regen noch Wind können seine unsterbliche Flamme auslöschen
+}
+
+CirrusYellowCandleBuff: {
+	DisplayName: Groll
+	Description: Ihr hasserfüllter Glanz flackert vor Zorn
+}
+
+CorruptionEffigyBuff: {
+	DisplayName: Verkörperung der Verderbnis
+	Description: Die Verderbnis stärkt dich
+}
+
+CrimsonEffigyBuff: {
+	DisplayName: Verkörperung des Purpurs
+	Description: Der Purpur stärkt dich
+}
+
+EffigyOfDecayBuff: {
+	DisplayName: Verkörperung des Verfalls
+	Description: Die schwefeligen Gewässer stärken dich
+}
+
+TranquilityCandleBuff: {
+	DisplayName: Kerze der Gelassenheit
+	Description: Die Spawn-Raten in der Nähe der Kerze sind reduziert!
+}
+
+PopoBuff: {
+	DisplayName: Popo
+	Description: Du bist jetzt ein Schneemann!
+}
+
+PopoNoselessBuff: {
+	DisplayName: Nasenloser Popo
+	Description: Deine Nase wurde gestohlen!
+}
+
+AnechoicCoatingBuff: {
+	DisplayName: Schalldämmende Beschichtung
+	Description: Detektionsbereiche abyssaler Kreaturen reduziert
+}
+
+AstralInjectionBuff: {
+	DisplayName: Astrale Injektion
+	Description: Extrem schnelle Manaregeneration
+}
+
+BaguetteBuff: {
+	DisplayName: Baguette
+	Description: "[c/B00BA5:'Wenn ich nur wüsste...' ~Cirrus]"
+}
+
+BloodfinBoost: {
+	DisplayName: Bloodfin-Boost
+	Description: Lass das Blut nicht zu Kopf steigen
+}
+
+BoundingBuff: {
+	DisplayName: Springen
+	Description: Erhöhte Sprunghöhe, Sprunggeschwindigkeit und Resistenz gegen Fallschaden
+}
+
+CalciumBuff: {
+	DisplayName: Kalzium
+	Description: Du bist immun gegen Fallschaden
+}
+
+CeaselessHunger: {
+	DisplayName: Unersättlicher Hunger
+	Description: Du saugst alle Gegenstände auf
+}
+
+GravityNormalizerBuff: {
+	DisplayName: Schwerkraftnormalisator
+	Description: Die Schwerkraft im Weltraum ist jetzt normal, Immunität gegenüber Verzerrungen
+}
+
+Omniscience: {
+	DisplayName: Allwissenheit
+	Description: Du kannst alles sehen
+}
+
+PhotosynthesisBuff: {
+	DisplayName: Photosynthese
+	Description: Lebensregeneration gesteigert, besonders tagsüber, und Herzen heilen mehr HP
+}
+
+ShadowBuff: {
+	DisplayName: Schatten
+	Description:
+		'''
+		Du bist ein Schatten
+		Schuft-Waffen erzeugen Projektile bei Treffern
+		8% erhöhte Heimlichkeitsgenerierung
+		'''
+}
+
+Soaring: {
+	DisplayName: Schweben
+	Description:
+		'''
+		10% erhöhte Flugzeit und -geschwindigkeit der Flügel
+		Wahre Nahkampftreffer stellen etwas Flugzeit der Flügel wieder her
+		'''
+}
+
+SulphurskinBuff: {
+	DisplayName: Schwefelhaut
+	Description: Die schwefeligen Gewässer haben eine geringere Wirkung auf dich
+}
+
+TeslaBuff: {
+	DisplayName: Teslas Elektrizität
+	Description: Ruft eine Aura von Elektrizität herbei
+}
+
+WeaponImbueBrimstone: {
+	DisplayName: Waffenverzauberung: Schwefelstein
+	Description: Nahkampf-, Peitschen- und Schuftntritte entzünden Feinde mit Schwefelsteinflammen
+}
+
+WeaponImbueCrumbling: {
+	DisplayName: Waffenverzauberung: Verfall
+	Description: Nahkampf-, Peitschen- und Schuftntritte verringern den Schadenschutz des Feindes
+}
+
+WeaponImbueHolyFlames: {
+	DisplayName: Waffenverzauberung: Heilige Flammen
+	Description: Nahkampf-, Peitschen- und Schuftntritte lösen Feinde mit heiligen Flammen auf
+}
+
+Zen: {
+	DisplayName: Zen
+	Description: Die Spawn-Raten sind stark reduziert
+}
+
+Zerg: {
+	DisplayName: Zerg
+	Description: Die Spawn-Raten sind stark erhöht
+}
+
+RancorBurn: {
+	DisplayName: Rancor-Verbrennung
+	Description: Brennt
+}
+
+AbyssalDivingSuitBuff: {
+	DisplayName: Abyss Tauchanzug
+	Description: Du bist aus Metall gemacht
+}
+
+AbyssalDivingSuitPlates: {
+	DisplayName: Abyss Tauchanzugplatten
+	Description: 15% erhöhte Schadensreduktion
+}
+
+AbyssalMadness: {
+	DisplayName: Abyss Wahnsinn
+	Description: Erhöhter Schaden, kritische Trefferchance und Tentakelaggression und -reichweite
+}
+
+AdrenalineMode: {
+	DisplayName: Adrenalinmodus
+	Description: Gesamtschaden mit 3x multipliziert. Kann durch andere Gegenstände auf bis zu 3,45x gesteigert werden
+}
+
+Afflicted: {
+	DisplayName: Betroffen
+	Description: Von übernatürlichen Geistern gestärkt
+}
+
+AmidiasBlessing: {
+	DisplayName: Amidias' Segen
+	Description:
+		'''
+		Du bist von Amidias gesegnet
+		Lässt dich unter Wasser atmen, sogar in der Tiefe!
+		Aber pass auf, dass du nicht getroffen wirst...
+		'''
+}
+
+AquaticHeartBuff: {
+	DisplayName: Wasser-Elementar
+	Description: Du bist jetzt ein Wasser-Elementar
+}
+
+AquaticHeartWaterSpeed: {
+	DisplayName: Ozeans Segen
+	Description: 15% erhöhte Höchstgeschwindigkeit und Beschleunigung
+}
+
+AvertorBonus: {
+	DisplayName: Avertor-Bonus
+	Description: Erhöhter Schaden und Lebensregeneration
+}
+
+BloodflareBloodFrenzy: {
+	DisplayName: Blutraserei
+	Description: Kontakt-Schaden ist reduziert und Nahkampfstatistiken sind stark erhöht
+}
+
+BloodyBoost: {
+	DisplayName: Blutiger Schub
+	Description:
+		'''
+		Erhöhte offensive und defensive Statistiken
+		Heiltränke gewähren mehr Gesundheit
+		'''
+}
+
+BossEffects: {
+	DisplayName: Boss-Effekte
+	Description:
+		'''
+		Der nahe Boss ist:
+		Erhöht die Heilungskosten der Krankenschwester um 400 %
+		+ Deaktiviert Target- und Super-Dummy-Trefferboxen
+		'''
+	ZenDescription: Gegnerspawnraten stark reduziert
+}
+
+BrimflameFrenzyBuff: {
+	DisplayName: Flammenwut des Flammenschmelzers
+	Description: Dunkle Magie stärkt deine Angriffe auf Kosten deines Lebens
+}
+
+ChiBuff: {
+	DisplayName: Chi
+	Description: Du bist widerstandsfähiger
+}
+
+ChiRegenBuff: {
+	DisplayName: Chi
+	Description: Lebensregeneration erhöht
+}
+
+CoralSymbiosis: {
+	DisplayName: Korallen-Symbiose
+	Description: Korallenfontäne lädt schneller auf und verursacht 2 zusätzlichen Schaden
+}
+
+CosmicFreeze: {
+	DisplayName: Kosmische Erstarrung
+	Description: Du fühlst dich so kalt wie die leere Weite des Weltalls
+}
+
+DivineBless: {
+	DisplayName: Göttlicher Segen
+	Description: Erhöhte Lebensregeneration und Diener fügen Banishing Fire zu
+}
+
+ElysianGuard: {
+	DisplayName: Elysianische Wache
+	Description: Bewegungsgeschwindigkeit verringert, andere Statistiken verstärkt
+}
+
+EmpyreanRage: {
+	DisplayName: Empyreischer Zorn
+	Description: Zorn des Kosmos
+}
+
+EmpyreanWrath: {
+	DisplayName: Empyreischer Zorn
+	Description: Zorn des Kosmos
+}
+
+Encased: {
+	DisplayName: Eingeschlossen
+	Description: Erhöhte Verteidigung um 30 und Schadensreduktion um 30 %, aber...
+}
+
+GraxBoost: {
+	DisplayName: Grax-Schub
+	Description: Deine Verteidigung und Muskeln sind stark
+}
+
+HallowedRuneDefense: {
+	DisplayName: Heilige Runenabwehr
+	Description: Erhöhte Verteidigung um 8 und Schadensreduktion um 4 %
+}
+
+HallowedRunePower: {
+	DisplayName: Heilige Runenmacht
+	Description: 10 % erhöhter Beschwörungsschaden
+}
+
+HallowedRuneRegeneration: {
+	DisplayName: Heilige Runenregeneration
+	Description: Lebensregeneration
+}
+
+IceShieldBuff: {
+	DisplayName: Eisschild
+	Description: Absorbiert 20 % Schaden vom nächsten Treffer, den du erleidest, und zerspringt dann
+}
+
+KamiBuff: {
+	DisplayName: Kami-Injektion
+	Description: 15 % erhöhte maximale Bewegungsgeschwindigkeit, Beschleunigung und Schaden
+}
+
+Mushy: {
+	DisplayName: Pilzig
+	Description: Erhöhte Verteidigung um 6 und Lebensregeneration um 2
+}
+
+PhantomicEmpowerment: {
+	DisplayName: Phantasmatische Stärkung
+	Description: 10 % erhöhter Beschwörungsschaden
+}
+
+PhantomicRegen: {
+	DisplayName: Phantasmatische Regeneration
+	Description: Lebensregeneration
+}
+
+PhantomicShield: {
+	DisplayName: Phantasmatisches Schild
+	Description:
+		'''
+		Verteidigung um 10 erhöht und Schadensreduktion um 5 % erhöht
+		Ein vergänglicher Bollwerk schützt dich
+		'''
+}
+
+PolarisBuff: {
+	DisplayName: Polarischer Schub
+	Description: Der Polarstern stärkt deine Lebensregeneration
+}
+
+ProfanedCrystalBuff: {
+	DisplayName: Hingabe
+	Description: Du bist nun ein Bote der profanen Göttin!
+	Offense: Die {0} verstärken deine offensiven Fähigkeiten
+	Lava: Hitze der Lava
+	Day: Licht der Sonne
+	Defense: Die {0} verstärken deine Flammen und stärken deine defensiven Fähigkeiten
+	Water: Wasser löscht
+	Honey: Honig kühlt
+	Night: Dunkelheit der Nacht kühlt
+	Enrage: Deine geschwächte Lebenskraft treibt deine verzweifelten Angriffe an
+	NerfedEndo: Ein aufgestiegenes Eiskonstrukt unterdrückt dein wahres Potenzial...
+	NerfedHat: Ein magischer Hut überwältigt deine Sinne und vergeudet dein wahres Potenzial...
+	LockedSlots: Deine profane Seele wird durch deine unzureichenden Beschwörungskräfte eingeschränkt
+	LockedExos: Die Seele in diesem Kristall wurde durch überwältigende Energiestrahlen gefährlicher Mechanismen entweiht
+	LockedSCal: Die profane Seele darin wurde durch die mächtige Magie einer obersten Hexe entweiht
+}
+
+RageMode: {
+	DisplayName: Zorn-Modus
+	Description: Gesamtschaden um das 1,35-fache multipliziert
+}
+
+ReaverRage: {
+	DisplayName: Reaver-Zorn
+	Description: Du bist wütend
+}
+
+ShellBoost: {
+	DisplayName: Panzer-Geschwindigkeitsschub
+	Description: Geschwindigkeit ist erhöht
+}
+
+SilvaRevival: {
+	DisplayName: Silva-Unverwundbarkeit
+	Description: Du bist unsterblich und immun gegen die meisten Debuffs
+}
+
+SpiritDefense: {
+	DisplayName: Geistesverteidigung
+	Description: Verteidigung um 6 erhöht und Schadensreduktion um 3 % erhöht
+}
+
+SpiritPower: {
+	DisplayName: Geistesmacht
+	Description: 10 % erhöhter Beschwörungsschaden
+}
+
+SpiritRegen: {
+	DisplayName: Geistesregeneration
+	Description: Lebensregeneration
+}
+
+TarragonCloak: {
+	DisplayName: Tarragon-Mantel
+	Description: 50 % reduzierter Kontaktschaden
+}
+
+TarragonImmunity: {
+	DisplayName: Tarragon-Unverwundbarkeit
+	Description: Du bist immun
+}
+
+TarraLifeRegen: {
+	DisplayName: Tarra-Leben
+	Description: Schnelle Heilung
+}
+
+TyrantsFury: {
+	DisplayName: Tyrannen-Zorn
+	Description: 30 % erhöhter Nahkampfschaden und 10 % erhöhte Nahkampfkritische Trefferchance
+}
+
+AndromedaCripple: {
+	DisplayName: Andromeda-Lähmung
+	Description: Du bist langsam
+}
+
+ArmorCrunch: {
+	DisplayName: Rüstungsknirschen
+	Description: Deine Rüstung wird zerrissen
+}
+
+Clamity: {
+	DisplayName: Klammheit
+	Description: Die Muscheln sind verärgert!
+}
+
+DoGExtremeGravity: {
+	DisplayName: Extreme Schwerkraft
+	Description:
+		'''
+		25 % verringerte Flügelzeit
+		Unendlicher Flug ist deaktiviert
+		'''
+}
+
+Enraged: {
+	DisplayName: Wütend
+	Description: Gesamtschaden um das 2,25-fache multipliziert, aber du erleidest 1,25-fachen Schaden
+}
+
+Eutrophication: {
+	DisplayName: Eutrophierung
+	Description: Überschüssige Nährstoffe schränken deine Bewegung ein
+}
+
+ExoFreeze: {
+	DisplayName: Exo-Einfrierung
+	Description: Kannst dich nicht bewegen
+}
+
+FishAlert: {
+	DisplayName: Fischaufmerksamkeit
+	Description: Die abyssalen Kreaturen haben dich bemerkt!
+}
+
+FrozenLungs: {
+	DisplayName: Gefrorene Lungen
+	Description: Die eisigen Gewässer schränken deine Atmung ein
+}
+
+GalvanicCorrosion: {
+	DisplayName: Galvanische Korrosion
+	Description: Deine Gliedmaßen haben begonnen zu korrodieren
+}
+
+GlacialState: {
+	DisplayName: Eisiger Zustand
+	Description: Kannst dich nicht bewegen
+}
+
+IcarusFolly: {
+	DisplayName: Ikarus' Torheit
+	Description:
+		'''
+		33 % verringerte Flügelzeit
+		Unendlicher Flug ist deaktiviert
+		'''
+}
+
+Irradiated: {
+	DisplayName: Bestrahlt
+	Description: Deine Haut brennt ab
+}
+
+KamiFlu: {
+	DisplayName: Kami-Grippe
+	Description: Wehrlos und sterbend
+}
+
+MarkedforDeath: {
+	DisplayName: Zum Tode markiert
+	Description: Schadensreduktion verringert
+}
+
+PearlAura: {
+	DisplayName: Perlenaura
+	Description: Verlangsamt
+}
+
+ProfanedWeakness: {
+	DisplayName: Profane Schwäche
+	Description: Du fügst weniger Schaden zu
+}
+
+TemporalSadness: {
+	DisplayName: Zeitliche Traurigkeit
+	Description: Du weinst
+}
+
+TimeDistortion: {
+	DisplayName: Zeitverzerrung
+	Description: Die Zeit ist verlangsamt
+}
+
+Warped: {
+	DisplayName: Verzerrt
+	Description: Die Bewegung wird verzerrt
+}
+
+WeakPetrification: {
+	DisplayName: Schwache Versteinerung
+	Description: Deine vertikale Bewegung ist geschwächt
+}
+
+WhisperingDeath: {
+	DisplayName: Flüsternder Tod
+	Description: Der Tod naht; Angriffskraft und Lebensregeneration reduziert
+}
+
+WitherDebuff: {
+	DisplayName: Verwelkung
+	Description:
+		'''
+		Verwelkt...
+		Verteidigung um 20 verringert
+		'''
+}
+
+AbandonedSlimeBuff: {
+	DisplayName: Astrale Qualle
+	Description: Die Mini-Astrageldonschleime werden dich schützen
+}
+
+AncientMineralSharkBuff: {
+	DisplayName: Uralter Mineralhai
+	Description: Uralt und dennoch so gefährlich
+}
+
+AquaticStar: {
+	DisplayName: Wasserstern
+	Description: Der Wassergeist wird dich schützen
+}
+
+AstralProbeBuff: {
+	DisplayName: Astrale Sonde
+	Description: Die Astralsonde wird dich schützen
+}
+
+BabyBloodCrawlerBuff: {
+	DisplayName: Baby-Blutspringer
+	Description: Der Baby-Blutspringer wird dich schützen
+}
+
+BabySlimeGodBuff: {
+	DisplayName: Baby-Schleimgott
+	Description: Der Schleimgott wird dich schützen
+}
+
+BabyStormlionBuff: {
+	DisplayName: Baby-Sturmloewe
+	Description: Der Baby-Sturmloewe wird dich schützen
+}
+
+BelladonnaSpiritBuff: {
+	DisplayName: Belladonna-Geist
+	Description: Ein niedlicher Waldbgeist folgt dir
+}
+
+BlackHawkBuff: {
+	DisplayName: Schwarzer Falke
+	Description: Der Kampfjet wird dich schützen
+}
+
+BloodClot: {
+	DisplayName: Blutgerinnsel
+	Description: Das Blutgerinnsel wird dich schützen
+}
+
+BrimseekerBuff: {
+	DisplayName: Fackelsucher
+	Description: Will es etwas von dir?
+}
+
+BrimstoneWaifu: {
+	DisplayName: Schwefelstein-Elementar
+	Description: Der Schwefelstein-Elementar wird dich schützen
+}
+
+BrittleStar: {
+	DisplayName: Spröder Stern
+	Description: Der spröde Stern wird dich schützen
+}
+
+Calamari: {
+	DisplayName: Calamari
+	Description: Der Tintenfisch wird dich schützen
+}
+
+CausticStaffBuff: {
+	DisplayName: Ätzender Drache
+	Description: Ein Mini-Dschungeldrache folgt dir
+}
+
+CinderBlossomBuff: {
+	DisplayName: Glutblüte
+	Description: Eine heiße, sengende Blume schwebt unangenehm nahe bei dir
+}
+
+CloudyWaifu: {
+	DisplayName: Wolken-Elementar
+	Description: Der Wolken-Elementar wird dich schützen
+}
+
+GlacialEmbraceBuff: {
+	DisplayName: Glaziale Umarmung
+	Description: Die Magie des antiken Eispalastes wird dir helfen
+}
+
+Corroslime: {
+	DisplayName: Zerschmelzer-Schleim
+	Description: Der Zerschmelzer-Schleim wird dich schützen
+}
+
+CorvidHarbringerBuff: {
+	DisplayName: Rabe
+	Description: Der mächtige Rabe wird dich schützen
+}
+
+CosmicEnergy: {
+	DisplayName: Kosmische Energie
+	Description: Die kosmische Energie wird dich schützen
+}
+
+CosmicViperEngineBuff: {
+	DisplayName: Kosmische Viper
+	Description: Das kosmische Kanonenboot wird dich schützen
+}
+
+CosmilampBuff: {
+	DisplayName: Kosmilampe
+	Description: Die Kosmilampe wird dich schützen
+}
+
+Crimslime: {
+	DisplayName: Blutschleim
+	Description: Der Blutschleim wird dich schützen
+}
+
+DaedalusCrystalBuff: {
+	DisplayName: Daedalus-Kristall
+	Description: Der Daedalus-Kristall wird dich schützen
+}
+
+DaedalusGolemBuff: {
+	DisplayName: Daedalus-Golem
+	Description: Ein Kristallgolem folgt dir
+}
+
+DankCreeperBuff: {
+	DisplayName: Dunkler Creeper
+	Description: Der düstere Creeper wird dich schützen
+}
+
+DazzlingStabberBuff: {
+	DisplayName: Funkelnder Stichdolch
+	Description: En garde!
+}
+
+DemonshadeSetDevilBuff: {
+	DisplayName: Roter Teufel
+	Description: Der rote Teufel wird dich schützen
+}
+
+ElementalAxeBuff: {
+	DisplayName: Elementaraxt
+	Description: Die Elementaraxt wird dich schützen
+}
+
+EndoCooperBuff: {
+	DisplayName: Endo Cooper
+	Description: Der aufgestiegene Cooper wird dich schützen
+}
+
+EndoHydraBuff: {
+	DisplayName: Endo Hydra
+	Description: Die Endo Hydra wird dich schützen... aus irgendeinem Grund
+}
+
+EntropysVigilBuff: {
+	DisplayName: Wachsamkeit der Entropie
+	Description: Die necromantischen Klone schützen dich mit unsterblicher Wachsamkeit
+}
+
+ExoskeletonCannons: {
+	DisplayName: Ares' Kanonen
+	Description: Pulskanone nicht inbegriffen
+}
+
+EyeOfNightBuff: {
+	DisplayName: Auge der Nacht
+	Description: Es beobachtet unheimlich
+}
+
+FieryDraconidBuff: {
+	DisplayName: Feuriger Drakonide
+	Description: Der feurige Drakonide wird dich schützen
+}
+
+FleshBallBuff: {
+	DisplayName: Fleischball
+	Description: Warum folgt er dir?
+}
+
+FlowersOfMortalityBuff: {
+	DisplayName: Blumen der Sterblichkeit
+	Description: Himmlische Blüten umgeben dich
+}
+
+FrostBlossomBuff: {
+	DisplayName: Frostblüte
+	Description: Eine kalte, stachelige Blume schwebt unangenehm nahe bei dir
+}
+
+FungalClumpBuff: {
+	DisplayName: Pilzklumpen
+	Description: Der Pilzklumpen wird dich schützen
+}
+
+GammaHydraBuff: {
+	DisplayName: Gamma-Hydra
+	Description: ...
+}
+
+GastricAberrationBuff: {
+	DisplayName: Gastrische Aberration
+	Description: Die aquatische Aberration wird dich schützen
+}
+
+HauntedDishesBuff: {
+	DisplayName: Verzauberte Gerichte
+	Description: Die verzauberten Gerichte werden dich schützen
+}
+
+HermitCrab: {
+	DisplayName: Eremitenkrabbe
+	Description: Die Eremitenkrabbe wird dich schützen
+}
+
+Herring: {
+	DisplayName: Hering
+	Description: Der Hering wird dich schützen
+}
+
+HotE: {
+	DisplayName: Herz der Elemente
+	Description: Alle Elementarwesen werden dich schützen
+}
+
+HowlTrio: {
+	DisplayName: Howls Herz
+	Description: Howl beschützt dich, Calcifer erhellt deinen Weg, Turnip-Head verfolgt dich
+}
+
+HydrothermicVentBuff: {
+	DisplayName: Hydrothermische Ventilation
+	Description: Das hydrothermische Ventil wird dich schützen
+}
+
+IceClasperBuff: {
+	DisplayName: Eisgreifer
+	Description: Der Eisgreifer wird dich schützen
+}
+
+IgneousExaltationBuff: {
+	DisplayName: Igenischer Säbel
+	Description: Ein Säbel umkreist dich
+}
+
+KalandraMirrorBuff: {
+	DisplayName: Spiegel von Kalandra
+	Description: Fünf alte Waffen werden deine Feinde vernichten
+}
+
+KingofConstellationsBuff: {
+	DisplayName: König der Konstellationen
+	Description: Die himmlischen Drachen werden dich schützen
+}
+
+LilPlaguebringerBuff: {
+	DisplayName: Kleiner Plagenbringer
+	Description: Der Plagenbringer wird dich schützen
+}
+
+LordeBuff: {
+	DisplayName: Kleiner Lorde
+	Description: Dreht sich dreht sich dreht sich
+}
+
+MagicHatBuff: {
+	DisplayName: Zauberkappe
+	Description: Die Kappe trägt deine Seele, gebunden durch einen Vertrag
+}
+
+Mechworm: {
+	DisplayName: Mechawurm
+	Description: Der Mechawurm wird dich schützen
+}
+
+MidnightSunBuff: {
+	DisplayName: Mitternachtssonne-UFO
+	Description: Ein seltsames UFO beobachtet dich, und es macht dir sehr unbehagliche Gefühle
+}
+
+MiniatureEyeofCthulhu: {
+	DisplayName: Miniatur-Auge von Cthulhu
+	Description: Es beobachtet dich
+}
+
+MiniOldDukeBuff: {
+	DisplayName: Mini-Der alte Herzog
+	Description: Der junge Herzog wird dich schützen
+}
+
+MiniPlaguebringerBuff: {
+	DisplayName: Mini-Plagenbringer
+	Description: Eine kleine Plagenbiene folgt dir
+}
+
+MoonFistBuff: {
+	DisplayName: Mondfaust
+	Description: Fang diese Hände
+}
+
+MountedScannerBuff: {
+	DisplayName: Montierter Scanner
+	Description: Leistungsstarke Maschinen umgeben dich
+}
+
+NOU: {
+	DisplayName: NEIN DU
+	Description: Ausrüstung deaktiviert
+}
+
+PerditionBuff: {
+	DisplayName: Verdammnis
+	Description: Wie unglücklich
+}
+
+Phantom: {
+	DisplayName: Phantom
+	Description: Das Phantom wird dich schützen
+}
+
+PlantationBuff: {
+	DisplayName: Plantage
+	Description: Der miniaturisierte Plantera wird dich schützen
+}
+
+PoleWarperBuff: {
+	DisplayName: Pfahlverdreher
+	Description: Bewusste Magneten werden von dir angezogen
+}
+
+ProfanedBabs: {
+	DisplayName: Die Entweihten Seele
+	Description: Die entweihten Babs werden für dich kämpfen und dich verteidigen!
+	VanityDescription: Die entweihten Babs werden dich begleiten!
+}
+
+PuffWarriorBuff: {
+	DisplayName: Puff-Krieger
+	Description: Er beschützt dich selbstbewusst und aufgeregt
+}
+
+ResurrectionButterflyBuff: {
+	DisplayName: Auferstehungsschmetterling
+	Description: Schlaf unter den Kirschblüten, Rot-Weißer Schmetterling
+}
+
+SageSpiritBuff: {
+	DisplayName: Weiser Geist
+	Description: Er ist unangenehm nahe
+}
+
+Sandnado: {
+	DisplayName: Sandnado
+	Description: Der Sandnado wird dich schützen
+}
+
+SandyHealingWaifu: {
+	DisplayName: Seltene Sand-Elementar
+	Description: Die Sand-Elementar wird dich heilen
+}
+
+SandyWaifu: {
+	DisplayName: Sand-Elementar
+	Description: Die Sand-Elementar wird dich schützen
+}
+
+SarosPossessionBuff: {
+	DisplayName: Saros-Besessenheit
+	Description: Eine strahlende Aura schützt dich
+}
+
+SeaSnailBuff: {
+	DisplayName: Meeresschnecke
+	Description: Miau?
+}
+
+SepulcherMinionBuff: {
+	DisplayName: Sepulcher
+	Description: Es ist nicht wohlwollend
+}
+
+ShellfishBuff: {
+	DisplayName: Muschel
+	Description: Die Muschel wird dich schützen
+}
+
+SilvaCrystalBuff: {
+	DisplayName: Silva-Kristall
+	Description: Der Kristall wird dich schützen
+}
+
+SiriusBuff: {
+	DisplayName: Sirius
+	Description: Etwas zu hell, aber es hilft dir
+}
+
+SkeletalDragonsBuff: {
+	DisplayName: Skelettdrachen
+	Description: Große glückliche Familie
+}
+
+SmallSkeletonBuff: {
+	DisplayName: Kleines Skelett
+	Description: Ein Skelett beobachtet dich
+}
+
+SnakeEyesBuff: {
+	DisplayName: Schlangenaugen
+	Description: Immer am Beobachten...
+}
+
+SolarGodSpiritBuff: {
+	DisplayName: Sonnengottgeist
+	Description: Der Sonnengottgeist wird dich schützen
+}
+
+SolarSpirit: {
+	DisplayName: Sonnengeist
+	Description: Der Sonnengeist wird dich schützen
+}
+
+SoulSeekerBuff: {
+	DisplayName: Seelensucher
+	Description: Es will definitiv etwas von dir
+}
+
+StarSwallowerBuff: {
+	DisplayName: Sternenschlucker
+	Description: Mmmm ja
+}
+
+StellarTorusBuff: {
+	DisplayName: Sternentorus
+	Description: Ruft einen Torus-Orbital herbei, der deine Feinde brät
+}
+
+TacticalPlagueEngineBuff: {
+	DisplayName: Taktisches Seuchentriebwerk
+	Description: Ein riesiges Seuchenstrahltriebwerk folgt dir
+}
+
+TundraFlameBlossomsBuff: {
+	DisplayName: Tundraflammenblüte
+	Description: Eine perfekte Einheit von Balance und Schönheit
+}
+
+ValkyrieBuff: {
+	DisplayName: Walküre
+	Description: Die Walküre wird dich schützen
+}
+
+VileFeederBuff: {
+	DisplayName: Übelnährer
+	Description: Der Baby-Seelenfresser wird dich schützen
+}
+
+ViridVanguardBuff: {
+	DisplayName: Viridischer Vortrupp
+	Description: Eine perfekte Einheit umgibt dich
+}
+
+ViriliBuff: {
+	DisplayName: Virili
+	Description: Leider für dich ist sie ziemlich ansteckend
+}
+
+VoidConcentrationBuff: {
+	DisplayName: Konzentrierte Leere
+	Description: Die unendliche Leere verlangt nach mehr...
+}
+
+WaterWaifu: {
+	DisplayName: Anahita
+	Description: Anahita wird dich schützen
+}
+
+WitherBlossomsBuff: {
+	DisplayName: Welke Blüten
+	Description: Pestilenz umgibt dich
+}
+
+WulfrumDroidBuff: {
+	DisplayName: Wulfrum-Droid
+	Description: Der Wulfrum-Droid wird dich schützen
+}
+
+PinkJellyRegen: {
+	DisplayName: Rosa Gelee-Regeneration
+	Description: Die Kraft des Gels erfrischt dich, Lebensregeneration erhöht um 4
+}
+
+GreenJellyRegen: {
+	DisplayName: Grüne Gelee-Regeneration
+	Description: Das regenerative Gel stärkt dich, Lebensregeneration erhöht um 6
+}
+
+AbsorberRegen: {
+	DisplayName: Regeneraga
+	Description:
+		'''
+		Du bist von der Vereinigung der Kräfte der Natur gesegnet
+		Lebensregeneration erhöht um 7, Schaden erhöht um 10 %, Schadensreduktion erhöht um 7 %
+		'''
+}
+
+AbsorberAffliction: {
+	DisplayName: Absorber-Affliction
+	Description: Verdammt, Natur, du bist gruselig!
+}

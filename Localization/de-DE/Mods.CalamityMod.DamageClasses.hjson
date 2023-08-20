@@ -1,0 +1,4 @@
+AverageDamageClass.DisplayName: Durchschnittsschaden
+RogueDamageClass.DisplayName: Schuftschaden
+TrueMeleeDamageClass.DisplayName: Wahrer Nahkampfschaden
+TrueMeleeNoSpeedDamageClass.DisplayName: Wahrer Nahkampfschaden

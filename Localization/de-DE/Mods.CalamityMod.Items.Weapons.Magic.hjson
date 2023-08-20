@@ -1,0 +1,957 @@
+AbyssalTome: {
+	DisplayName: Abyssal Buch
+	Tooltip: Wirft eine langsam bewegende Kugel aus dunkler Energie
+}
+
+AbyssShocker: {
+	DisplayName: Abyss Schocker
+	Tooltip: Feuert einen unregelmäßigen Blitz aus Blitz, der zwischen Feinden hin und her springt
+}
+
+AcidGun: {
+	DisplayName: Säurekanone
+	Tooltip: Gibt drei Ströme von Säure frei
+}
+
+AetherfluxCannon: {
+	DisplayName: Ätherfluxkanone
+	Tooltip: Feuert eine fokussierte Photonenhelix ab, die alles durchdringt
+}
+
+AethersWhisper: {
+	DisplayName: Ätherflüstern
+	Tooltip:
+		'''
+		Fügt langanhaltende Schattenflamme zu und teilt sich bei Treffern auf Kacheln
+		Projektile gewinnen Schaden, während sie sich bewegen
+		'''
+}
+
+AlphaRay: {
+	DisplayName: Alpha Strahl
+	Tooltip:
+		'''
+		Zerstört alles mit einem Dreifachstrahl aus Energie und Lasern
+		Drücke <right>, um einen Y-förmigen Strahl zerstörerischer Energie und eine Ausbreitung von Laserstrahlen abzufeuern
+		'''
+}
+
+AlulaAustralis: {
+	DisplayName: Alula Australis
+	Tooltip: Feuert eine wunderschöne Aurora, gefolgt von einem Sternenschauer
+}
+
+AnahitasArpeggio: {
+	DisplayName: Anahitas Arpeggio
+	Tooltip: Wirft langsam bewegliche Violinschlüssel, die Feinde verwirren
+}
+
+ApoctosisArray: {
+	DisplayName: Apoktose Array
+	Tooltip:
+		'''
+		Firet Ionenblitze ab, die sich beschleunigen und dann explodieren
+		Der Schaden skaliert mit dem Füllstand deiner Mana
+		Die Verwendung von Astral Injection verringert die Effektivität des Mana-Boosts
+		'''
+}
+
+Apotheosis: {
+	DisplayName: Apotheose
+	Tooltip:
+		'''
+		Löst interdimensionale Projektionsmagie aus
+		Iss Würmer
+		'''
+}
+
+AquamarineStaff: {
+	DisplayName: Aquamarin Personal
+	Tooltip: Feuert zwei blaue Bolzen ab
+}
+
+ArchAmaryllis: {
+	DisplayName: Arch Amaryllis
+	Tooltip: Wirft eine strahlende Blume, die in heimische Blütenblätter explodiert
+}
+
+ArcticBearPaw: {
+	DisplayName: Arktische Bärenpfote
+	Tooltip:
+		'''
+		Firet spirituelle Klauen ab, die Wände ignorieren
+		'Das wilde Zerfleischen, das in deine Tasche passt'
+		'''
+}
+
+ArtAttack: {
+	DisplayName: Kunstangriff
+	Tooltip:
+		'''
+		Wirft einen Stern, der der Maus folgt und beim Bewegen einen Regenbogen hinterlässt
+		Sobald eine vollständige Form mit dem Regenbogen erstellt wurde, erleiden alle Feinde darin Schaden, der proportional zur Dauer des Zeichnens der Form ist
+		'Und das Publikum flippt aus!'
+		'''
+}
+
+AsteroidStaff: {
+	DisplayName: Asteroid Personal
+	Tooltip: Ruft Asteroiden aus dem Himmel auf
+}
+
+AstralachneaStaff: {
+	DisplayName: Astralachnea Personal
+	Tooltip: Feuert eine Ausbreitung von heimlichen Spinnenfängen ab
+}
+
+AstralStaff: {
+	DisplayName: Astral Personal
+	Tooltip: Ruft einen großen Kristall aus dem Himmel herab, der einen großen Wirkungsbereich bei Aufprall hat
+}
+
+Atlantis: {
+	DisplayName: Atlantis
+	Tooltip: Wirft aquatische Speere, die sich bei der Reise teilen
+}
+
+AuguroftheElements: {
+	DisplayName: Omen der Elemente
+	Tooltip: Wirft einen Ausbruch elementarer Tentakel aus, um deine Feinde aufzuspießen
+}
+
+BelchingSaxophone: {
+	DisplayName: Rülpsendes Saxophon
+	Tooltip:
+		'''
+		Firet ein Array von schmutzigen Blättern, Musiknoten und schwefeligen Blasen ab
+		Trööööt
+		'''
+}
+
+Biofusillade: {
+	DisplayName: Biofusillade
+	Tooltip: Entfesselt einen konzentrierten Strahl aus Lebensenergie
+}
+
+BlackAnurian: {
+	DisplayName: Schwarzer Anurian
+	Tooltip: Spuckt Blasen und heimisches Plankton aus
+}
+
+BloodBath: {
+	DisplayName: Blutbad
+	Tooltip: Tränkt deine Feinde in Blut
+}
+
+BrimroseStaff: {
+	DisplayName: Brimrose Personal
+	Tooltip: Feuert eine Ausbreitung von Schwefelstrahlen ab
+}
+
+BurningSea: {
+	DisplayName: Brennende See
+	Tooltip: Firet eine hüpfende Schwefelfeuerkugel ab, die sich beim Kollision mit Wasser in heimische Feuerbälle aufspaltet
+}
+
+CarnageRay: {
+	DisplayName: Schlachtray
+	Tooltip:
+		'''
+		Firet einen elenden, blutigen Strahl ab
+		Die weiter hinten getroffenen Feinde nehmen mehr Schaden
+		'''
+}
+
+ClamorNoctus: {
+	DisplayName: Clamor Noctus
+	Tooltip:
+		'''
+		Firet Nachthypten und Sterne aus dem Himmel ab, die an Feinden und Kacheln haften und explodieren
+		'Lasst den Himmel fallen'
+		'''
+}
+
+ClothiersWrath: {
+	DisplayName: Zorn des Schneidermeisters
+	Tooltip: Schießt 3 Schattenflamme-Schädel ab
+}
+
+CoralSpout: {
+	DisplayName: Korallenfontäne
+	Tooltip:
+		'''
+		Wirft eine schrotflintenartige Explosion von Korallensplittern ab
+		Halte die Angriffstaste gedrückt, um die Streuung zu verringern
+		Das vollständige Aufladen des Angriffs gibt einen einzigen, größeren Korallenbrocken frei, der an Feinden haften bleibt
+		Das Aufnehmen des Korallenbrockens, nachdem er vom Feind heruntergefallen ist, füllt 150 Mana auf
+		Das mana-geladene Korallenstück bietet auch einen Buff, der den Schaden der Koralle und die Konvergenzgeschwindigkeit erhöht
+		[c/5C95A1:'Wissen ist wichtig, und die vielen Schreiber des alten Meeresreichs wussten, dass es um jeden Preis bewahrt werden musste.]
+		[c/5C95A1:Ihre Bibliotheken waren viel größer als die meisten, wegen der wasserfesten Steinplatten, die sie belegten.']
+		'''
+}
+
+CosmicRainbow: {
+	DisplayName: Kosmischer Regenbogen
+	Tooltip: Startet einen Hagel von Regenbögen
+}
+
+Cryophobia: {
+	DisplayName: Kryophobie
+	Tooltip:
+		'''
+		Feuert eine eisige Welle ab, die sich mehrfach teilt und in Scherben explodiert
+		'Chillig'
+		'''
+}
+
+DarkSpark: {
+	DisplayName: Dunkler Funke
+	Tooltip:
+		'''
+		'Und alles unter der Sonne ist in Harmonie,
+		Aber die Sonne wird vom Mond verdunkelt.'
+		'''
+}
+
+DeathhailStaff: {
+	DisplayName: Totenheul-Stab
+	Tooltip:
+		'''
+		Zaubersturm aus Nebel-Lasern aus dem Himmel
+		'Regen des Todes über deine Feinde!'
+		'''
+}
+
+DeathValleyDuster: {
+	DisplayName: Death Valley Staubmantel
+	Tooltip: Wirft eine große Ladung Staub aus
+}
+
+DivineRetribution: {
+	DisplayName: Göttliche Vergeltung
+	Tooltip: Der Magier ist dem Schuftn überlegen; sieh, wir haben eine Spenderwaffe, um es zu beweisen!
+}
+
+Downpour: {
+	DisplayName: Wolkenbruch
+	Tooltip: Feuert einen Wasserstrahl ab, der zusätzliche Wassertrails tropfen lässt
+}
+
+Effervescence: {
+	DisplayName: Sprudel
+	Tooltip: Schießt eine massive Streuung von Blasen ab
+}
+
+EidolicWail: {
+	DisplayName: Eidolisches Klagen
+	Tooltip:
+		'''
+		Schießt eine Kette von abprallenden Schallwellen ab, die stärker werden, während sie sich bewegen
+		RIP Kopfhörer-Benutzer
+		'''
+}
+
+EidolonStaff: {
+	DisplayName: Eidolon-Stab
+	Tooltip: Feuert eine Streuung antiker Lichter und einen wirbelnden Eiscluster ab
+}
+
+EldritchTome: {
+	DisplayName: Eldritch-Buch
+	Tooltip: Wirft eldritch Tentakel, um deine Feinde zu durchbohren
+}
+
+ElementalRay: {
+	DisplayName: Elementarstrahl
+	Tooltip:
+		'''
+		Zauber vier himmlische Strahlen nahe beim Spieler
+		Solarstrahlen explodieren in Feuer bei Treffern auf Feinde
+		Nebulastrahlen fegen im Laufe der Zeit ein wenig
+		Vortexstrahlen wirken wie schneller Blitz und elektrisieren Feinde bei Treffern
+		Sternenstaubstrahlen setzen kleine Sterne frei, die auf Feindtreffer zielen
+		'''
+}
+
+Eternity: {
+	DisplayName: Ewigkeit
+	// Color changes at the second line of tooltip via ModifyTooltips.
+	Tooltip:
+		'''
+		Verhext einen möglichen nahegelegenen Feind, indem er ihn in einer brillanten Zurschaustellung der Zerstörung einfängt
+		'Es gibt Bilder von Ponys im Buch'
+		'''
+}
+
+EventHorizon: {
+	DisplayName: Ereignishorizont
+	Tooltip:
+		'''
+		Schleudert einen Ring aus Sternen, der sich auf nahegelegene Feinde zubewegt
+		Sterne erzeugen schwarze Löcher bei Treffern auf Feinde
+		'Nichts, nicht einmal Licht, kann zurückkehren'
+		'''
+}
+
+EvergladeSpray: {
+	DisplayName: Everglade-Spray
+	Tooltip: Feuert einen Strahl brennender grüner Galle ab
+}
+
+Fabstaff: {
+	DisplayName: Fabstab
+	Tooltip: Wirft einen prallenden Strahl, der sich teilt, wenn Feinde in der Nähe sind
+}
+
+FaceMelter: {
+	DisplayName: Gesichtsschmelzer
+	Tooltip:
+		'''
+		Schleudert Noten ab
+		Drücke <right>, um einen Verstärker zu beschwören, der in Richtung deines Mauszeigers schießt
+		'WOOO!! FANTASIEWELT!'
+		'''
+}
+
+FatesReveal: {
+	DisplayName: Schicksalsenthüllung
+	Tooltip: Erzeugt geisterhafte Feuerbälle, die dem Spieler folgen
+}
+
+FlareBolt: {
+	DisplayName: Leuchtender Bolzen
+	Tooltip: Wirft eine langsame Kugel aus Flamme ab
+}
+
+ForbiddenSun: {
+	DisplayName: Verbotene Sonne
+	Tooltip: Wirft einen Feuerorb, der beim Tod eine riesige Explosion auslöst
+}
+
+FrigidflashBolt: {
+	DisplayName: Frostblitz-Bolzen
+	Tooltip: Wirft eine langsame Kugel aus gefrierender Lava ab
+}
+
+FrostBolt: {
+	DisplayName: Frostbolzen
+	Tooltip: Wirft eine langsame Kugel aus Frost ab
+}
+
+Genisis: {
+	DisplayName: Genisis
+	Tooltip: Feuert einen Y-förmigen Strahl aus zerstörerischer Energie und eine Streuung von Laserstrahlen ab
+}
+
+GhastlyVisage: {
+	DisplayName: Gespenstisches Antlitz
+	Tooltip: Feuert heimliche Geisterenergie ab, die explodiert
+}
+
+GleamingMagnolia: {
+	DisplayName: Glänzende Magnolie
+	Tooltip: Wirft eine glänzende Blume ab, die in Blütenblätter explodiert
+}
+
+GloriousEnd: {
+	DisplayName: Glorreicher Abschluss
+	Tooltip:
+		'''
+		Wirft einen Meteorstern ab, auf dem der Spieler in Richtung des Cursors reitet
+		Der Meteorstern explodiert nach dem Treffen eines Feindes, dem Aufprall auf eine Wand oder nach 6 Sekunden
+		Diese Explosion schadet sowohl Feinden als auch dem Spieler
+		Das Loslassen des Cursors, bevor der Stern explodiert, lässt ihn vorzeitig für weniger Schaden explodieren
+		Sitzen ist während der Benutzung dieser Waffe deaktiviert
+		'''
+}
+
+GrandStaffoftheNebulaMage: {
+	DisplayName: Großer Stab des Nebelzauberers
+	Tooltip: "'Die wahre Kraft des Nebelzauberers ruht in deinen Händen...'"
+}
+
+GruesomeEminence: {
+	DisplayName: Schaurige Eminenz
+	Tooltip:
+		'''
+		Beschwört eine gasförmige Ansammlung von Geistern nahe beim Cursor
+		Anfangs fliegen die Geister wild. Dies kann Feinden und Spielern schaden
+		Im Laufe der Zeit werden sie jedoch beginnen, sich anzusammeln, um ein einziges, kontrollierbares Monstrum zu schaffen
+		[c/C61B40:'Die Geister des Konglomerats konnten niemals in ihr gewünschtes Jenseits übergehen,]
+		[c/C61B40:Verdorben und durch Wut verschmolzen, wie sie waren.']
+		'''
+}
+
+HadalUrn: {
+	DisplayName: Hadal-Urne
+	Tooltip:
+		'''
+		Feuert eine zufällige Auswahl von Meereskreaturen ab
+		'Man kann nicht sagen, wie lange sie dort unten war... oder was drinnen lauert'
+		'''
+}
+
+HarvestStaff: {
+	DisplayName: Erntestab
+	Tooltip: Wirft brennende Kürbisse ab
+}
+
+HeliumFlash: {
+	DisplayName: Helium-Blitz
+	Tooltip:
+		'''
+		Startet instabile Sternkerne ab, die in kolossalen Fusionsexplosionen ausbrechen
+		'Die Kraft einer Galaxie, wenn auch nur für kurze Momente'
+		'''
+}
+
+HellwingStaff: {
+	DisplayName: Höllenflügelstab
+	Tooltip: Wirft flammende Fledermäuse ab
+}
+
+Hematemesis: {
+	DisplayName: Hämatemesis
+	Tooltip: Wirft eine Salve von Blutgeysiren von unten ab
+}
+
+Heresy: {
+	DisplayName: Häresie
+	Tooltip:
+		'''
+		Lässt Feuer und Seelen aus einem gehaltenen Buch nach oben frei
+		Während das Buch gehalten wird, steigt die Kraft beider an
+		'''
+}
+
+HyphaeRod: {
+	DisplayName: Hyphae-Stab
+	Tooltip: Erzeugt Pilzsporen in der Nähe des Spielers
+}
+
+IceBarrage: {
+	DisplayName: Eisbarrikade
+	Tooltip:
+		'''
+		Wirft einen tödlichen und mächtigen Eisspruch an die Stelle des Cursors
+		Dieser Eisspruch sperrt sich an die Position von nahegelegenen Feinden
+		Verbraucht bei jeder Verwendung 2 Blutrunen
+		'Ach du Schreck, du bist tot!'
+		'''
+}
+
+IcicleStaff: {
+	DisplayName: Eiszapfenstab
+	Tooltip: Wirft Eiszapfen aus dem Himmel ab
+}
+
+IcicleTrident: {
+	DisplayName: Eiszapfendreizack
+	Tooltip: Wirft durchbohrende Eiszapfen ab
+}
+
+InfernalRift: {
+	DisplayName: Höllenschlucht
+	Tooltip: Beschwört Höllenklingen, die zusätzliche Klingen bei Treffern auf Feinde erzeugen
+}
+
+IonBlaster: {
+	DisplayName: Ion-Blaster
+	Tooltip:
+		'''
+		Schießt Ionenblitze ab, die sich beschleunigen und dann explodieren
+		Der Schaden skaliert mit der Füllung deiner Mana
+		Die Verwendung der Astralen Injektion verringert die Effektivität des Manaboosts
+		'''
+}
+
+Keelhaul: {
+	DisplayName: Kielholen
+	Tooltip:
+		'''
+		Beschwört bei Treffern auf Feinde einen Geysir
+		'Zerquetsche sie wie Papier'
+		'''
+}
+
+LashesofChaos: {
+	DisplayName: Peitschen des Chaos
+	Tooltip: "'Sieh zu, wie die Welt verbrennt...'"
+}
+
+Lazhar: {
+	DisplayName: Lazhar
+	Tooltip: Feuert einen hochvolatilen konzentrierten Sonnenstrahl ab
+}
+
+LightGodsBrilliance: {
+	DisplayName: Glanz des Lichtgottes
+	Tooltip: Wirft kleine, heimische Lichtperlen zusammen mit explosiven Lichtkugeln ab
+}
+
+MadAlchemistsCocktailGlove: {
+	DisplayName: Handschuh des verrückten Alchemisten
+	Tooltip:
+		'''
+		Schießt verschiedene hochgeschwindige Fläschchen ab
+		Drücke <right>, um eine Prismenflasche zu werfen, die viele Debuffs verursacht
+		Rote Fläschchen explodieren heftig
+		Blaue Fläschchen enthalten Giftgas					
+		Grüne Fläschchen rufen Mondflares auf
+		Lila Fläschchen explodieren in heimische Schrapnelle
+		'''
+}
+
+MagnaCannon: {
+	DisplayName: Magna-Kanone
+	Tooltip: Feuert eine konzentrierte Energiestrahl ab
+}
+
+MagneticMeltdown: {
+	DisplayName: Magnetischer Zusammenbruch
+	Tooltip: Startet einen Diamantkreuz aus aufgeladenen Magnetkugeln
+}
+
+ManaRose: {
+	DisplayName: Mana-Rose
+	Tooltip: Wirft eine Mana-Blume ab, die in Blütenblätter explodiert
+}
+
+Miasma: {
+	DisplayName: Miasma
+	Tooltip: Feuert eine Streuung von Gaswolken ab, die sich nach dem Treffer auf einen Feind verlangsamen
+}
+
+Mistlestorm: {
+	DisplayName: Weihnachtssturm
+	Tooltip: Feuert einen Sturm aus Tannennadeln und Blättern ab
+}
+
+NanoPurge: {
+	DisplayName: Nano-Säuberung
+	Tooltip: Feuert einen Hagel von Nanolasern ab
+}
+
+NightsRay: {
+	DisplayName: Nachtstrahl
+	Tooltip:
+		'''
+		Feuert einen Strahl aus reiner, konzentrierter Dunkelheit ab
+		Wenn Feinde getroffen werden, werden sie von mehreren neuen Strahlen von ihren Seiten getroffen
+		'''
+}
+
+NuclearFury: {
+	DisplayName: Nuklearer Zorn
+	Tooltip: Wirft einen Strom kosmischer Taifune
+}
+
+ParasiticSceptor: {
+	DisplayName: Parasitischer Zepter
+	Tooltip: Feuert einen Sprühstrahl radioaktiver Wassersauger ab, die sich an Feinden festsetzen und im Laufe der Zeit den Schaden pro Sauger erhöhen
+}
+
+PhantasmalFury: {
+	DisplayName: Phantasmalischer Zorn
+	Tooltip: Wirft einen phantasmalischen Bolzen ab, der in weitere Bolzen explodiert
+}
+
+PhoenixFlameBarrage: {
+	DisplayName: Phönixflammenhagel
+	Tooltip:
+		'''
+		Wirft einen Feuerhagel vom Himmel ab
+		'Baptismus durch drakonisches Feuer'
+		'''
+}
+
+PlagueStaff: {
+	DisplayName: Seuchenzauberstab
+	Tooltip: Feuert eine enge Streuung von 4 Seuchenzähnen ab
+}
+
+PlasmaRifle: {
+	DisplayName: Plasmagewehr
+	Tooltip:
+		'''
+		Feuert einen Plasmablast ab, der explodiert
+		Drücke <right>, um schnell Plasmabolzen abzufeuern
+		'''
+}
+
+PlasmaRod: {
+	DisplayName: Plasmarute
+	Tooltip:
+		'''
+		Wirft einen Plasmabolt mit geringem Schaden ab
+		Das Treffen eines Kachel wird mehrere Bolzen mit erhöhtem Schaden abfeuern lassen
+		Das Treffen eines Feindes wird Schattenflamme verursachen
+		'''
+}
+
+Poseidon: {
+	DisplayName: Poseidon
+	Tooltip: Wirft einen Poseidon-Taifun ab
+}
+
+PrimordialAncient: {
+	DisplayName: Urzeitliche Uralte
+	Tooltip: Wirft eine riesige Staubexplosion ab
+}
+
+PrimordialEarth: {
+	DisplayName: Urzeitliche Erde
+	Tooltip: Wirft eine große Staubexplosion ab
+}
+
+PurgeGuzzler: {
+	DisplayName: Säuberungsschlucker
+	Tooltip: Gibt drei Strahlen heiliger Energie in einer engen Streuung ab
+}
+
+RainbowPartyCannon: {
+	DisplayName: Regenbogen-Partykanone
+	// Color changes at the first line of tooltip via ModifyTooltips.
+	Tooltip: "'Lass den Regenbogen dich daran erinnern, dass wir immer gemeinsam leuchten werden...'"
+}
+
+Rancor: {
+	DisplayName: Groll
+	Tooltip:
+		'''
+		Wirft einen magischen Kreis, der Energie auflädt und schließlich einen kraftvollen Laserburst aus kontrollierter malefizier Magie freisetzt
+		Der Laser verursacht Arme und siedende Lava auf Oberflächen, die er berührt, und schadet sowohl dir als auch Feinden
+		[c/C61B40:'Vergebung kann nur so viel heilen,]
+		[c/C61B40:Wenn der Empfänger sich selbst noch nicht vergeben hat.']
+		'''
+}
+
+RecitationoftheBeast: {
+	DisplayName: Rezitation des Tieres
+	Tooltip:
+		'''
+		Beschwört Tier-Sensenschwerter um den Spieler in einem kleinen Kreis herum,
+		bevor sie auf den Cursor zu feuern und auf nahe Feinde zusteuern
+		'''
+}
+
+RelicofRuin: {
+	DisplayName: Ruinenrelikt
+	Tooltip: Wirft eine Streuung Sandklingen ab
+}
+
+RougeSlash: {
+	DisplayName: Räuberschlitzer
+	Tooltip: Feuert eine Welle von 3 roten Luftklingen ab
+}
+
+SanguineFlare: {
+	DisplayName: Sanguine Flamme
+	Tooltip: Feuert eine Blast von Sanguine Flares ab, die Feinden das Leben entziehen
+}
+
+SeethingDischarge: {
+	DisplayName: Siedende Entladung
+	Tooltip: Feuert einen Hagel von Schwefelblitzen ab
+}
+
+Serpentine: {
+	DisplayName: Schlängelnd
+	Tooltip: Wirft eine Schlange ab, die dem Mauszeiger folgt
+}
+
+ShadecrystalTome: {
+	DisplayName: Schattenkristalltome
+	Tooltip: Beschwört schnellen Feuerschatten, kann zwei Kristalle gleichzeitig abfeuern
+}
+
+ShaderainStaff: {
+	DisplayName: Regenbogenregenstab
+	Tooltip: Feuert eine Wolke von bösen Wolken und Regen ab
+}
+
+ShadowboltStaff: {
+	DisplayName: Schattenblitzstab
+	Tooltip: Je mehr Kacheln und Feinde der Strahl abprallt oder durchquert, desto mehr Schaden verursacht er
+}
+
+ShiftingSands: {
+	DisplayName: Verschiebender Sand
+	Tooltip: Wirft einen Sandsplitter ab, der dem Mauszeiger folgt
+}
+
+SHPC: {
+	DisplayName: SHPC
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		Feuert Plasmakugeln ab, die verweilen und massive Explosionen auslösen
+		Drücke <right>, um kraftvolle Energiebündel abzufeuern
+		'''
+	TooltipGFB: Es skaliert wieder :)
+}
+
+SkyGlaze: {
+	DisplayName: Himmelsglanz
+	Tooltip: Feuert Federn vom Himmel ab, die sich an Feinden und Kacheln festsetzen und explodieren
+}
+
+SlitheringEels: {
+	DisplayName: Schleichende Aale
+	Tooltip: Wirft einen magischen Säureaal ab, der Säuretröpfchen freisetzt, während er sich bewegt
+}
+
+SnowstormStaff: {
+	DisplayName: Schneesturmstab
+	Tooltip: Feuert eine Schneeflocke ab, die dem Mauszeiger folgt
+}
+
+SoulPiercer: {
+	DisplayName: Seelenstecher
+	Tooltip: Wirft einen kraftvollen Strahl ab, der beim ersten Treffer zusätzliche Strahlen beschwört
+}
+
+StaffofBlushie: {
+	DisplayName: Stab von Blushie
+	Tooltip: Halte deine Maus gedrückt, warte, warte, warte und vertraue auf die Kraft der blauen Magie
+}
+
+StarShower: {
+	DisplayName: Sternschnuppen
+	Tooltip: Wirft eine Streuung astraler Sterne auf den Mauszeiger ab
+}
+
+StormSpray: {
+	DisplayName: Sturmspray
+	Tooltip: Feuert einen Sprühnebel Wasser ab, der zusätzliche Wasserspuren abtropfen lässt
+}
+
+SubsumingVortex: {
+	DisplayName: Verschlingender Wirbel
+	Tooltip:
+		'''
+		Drücke <left>, um einen Hagel von Wirbeln freizugeben, die sich auf Feinde zubewegen
+		Drücke <right>, um einen riesigen Wirbel vor dir zu zaubern, der eine Neigung zur Maus hat
+		Wenn Feinde in der Nähe des Wirbels sind, sendet er mehrere schnell bewegende kleinere Wirbel auf sie zu
+		Nach ausreichender Zeit hört der Wirbel auf zu schießen, und das Drücken von <right> feuert den Wirbel auf die Maus
+		'''
+}
+
+TacticiansTrumpCard: {
+	DisplayName: Taktikertrumpf
+	Tooltip:
+		'''
+		Feuert einen Schwertstrahl ab, der Feinde bei Treffern elektrifiziert
+		'Blasse Erinnerungen an eine Prinzessin aus der Zukunft gehen dir durch den Kopf...'
+		'''
+}
+
+TearsofHeaven: {
+	DisplayName: Tränen des Himmels
+	Tooltip: Wirft langsam bewegliche, heimkehrende Bälle himmlischen Lichts ab
+}
+
+TerraRay: {
+	DisplayName: Terraray
+	Tooltip:
+		'''
+		Wirft einen strahlenden Strahl ab, der bei Feindestreffer in Energie zerfällt
+		Mehr Energie wird erzeugt, je weiter entlang des Strahls der getroffene Feind ist
+		'''
+}
+
+TheDanceofLight: {
+	DisplayName: Der Tanz des Lichts
+	Tooltip:
+		'''
+		Beschiesst Feinde mit einem Hagel von Lichtklingen
+		'Und in einem Lichtblitz bleibt nichts zurück'
+		'''
+}
+
+ThePrince: {
+	DisplayName: Der Prinz
+	Tooltip:
+		'''
+		Wirft eine heilige Feuerkugel ab, die in 6 Flammen explodiert
+		'So du sagst mir, der Prinz explodierte und wurde dann zu einer Blume?'
+		-Dain, der Seemannsdruid
+		'''
+}
+
+TheSwarmer: {
+	DisplayName: Der Schwärmer
+	Tooltip: Feuert einen Schwarm Bienen und Wespen ab
+}
+
+TheWand: {
+	DisplayName: Der Stab
+	Tooltip: Der ultimative Stab
+}
+
+ThornBlossom: {
+	DisplayName: Dornenblüte
+	Tooltip:
+		'''
+		Wirft eine leuchtende Blume, die in heimende Blütenblätter explodiert und gleichzeitig einen tödlichen Dornen freisetzt
+		Kostet 3 TP zum Abfeuern
+		'Jede Rose hat ihren Dorn'
+		'''
+}
+
+Thunderstorm: {
+	DisplayName: Gewittersturm
+	Tooltip:
+		'''
+		Schießt einen Strom explodierender grüner Plasma-Geschosse ab, die zusätzliches Plasma vom Himmel regnen lassen
+		'Lass es regnen'
+		'''
+}
+
+TomeofFates: {
+	DisplayName: Buch des Schicksals
+	Tooltip:
+		'''
+		Ruft kosmische Tentakel herbei, um deine Feinde zu durchbohren
+		Kann zufällig einen roten Tentakel abfeuern, der immensen Schaden verursacht
+		'''
+}
+
+Tradewinds: {
+	DisplayName: Handelwinde
+	Tooltip: Wirft schnell fliegende Sonnenfeder-Geschosse ab
+}
+
+UltraLiquidator: {
+	DisplayName: Ultra-Liquidator
+	Tooltip:
+		'''
+		Beschwört Liquidationsklingen, die bei Feindtreffern weitere Klingen beschwören
+		Die Klingen verursachen Ichor-, Verfluchte Inferno- und Schwefelflammen
+		'''
+}
+
+UndinesRetribution: {
+	DisplayName: Rache der Undine
+	Tooltip: Wirft einen Schwarm heimender Speere ab
+}
+
+ValkyrieRay: {
+	DisplayName: Valkyrie-Strahl
+	Tooltip: Wirft einen verheerenden Strahl heiliger Kraft ab
+}
+
+VeeringWind: {
+	DisplayName: Abweichender Wind
+	Tooltip:
+		'''
+		Wirft eine kreisförmige Verbreitung von Windwellen mit hoher Rückstoßkraft ab
+		Drücke <right>, um eine kreisförmige Verbreitung von Frostwellen abzufeuern
+		'''
+}
+
+Vehemence: {
+	DisplayName: Vehemenz
+	Tooltip: Wirft intensive Bolzen höllischer Kraft ab, die in Schädeln explodieren
+}
+
+VenusianTrident: {
+	DisplayName: Venusischer Dreizack
+	Tooltip: Wirft einen infernalen Dreizack ab, der in einer gigantischen Explosion aus Feuer und Magmabrocken ausbricht
+}
+
+Vesuvius: {
+	DisplayName: Vesuvius
+	Tooltip:
+		'''
+		Ruft einen Schwarm geschmolzener Asteroiden herbei
+		Drücke <right>, um eine Verbreitung geschmolzener Asteroiden aus dem Stab abzufeuern
+		'''
+}
+
+Viscera: {
+	DisplayName: Eingeweide
+	Tooltip:
+		'''
+		Schießt einen Blutstrahl ab, der dich bei Feindtreffern heilt
+		Je mehr Kacheln und Feinde der Strahl abprallt oder durchdringt, desto mehr Heilung verursacht der Strahl
+		'''
+}
+
+VitriolicViper: {
+	DisplayName: Vitriolische Viper
+	Tooltip: Lässt eine Salve giftiger Fangzähne und Speichel frei
+}
+
+VividClarity: {
+	DisplayName: Lebendige Klarheit
+	Tooltip:
+		'''
+		Schießt fünf zufällige Strahlen aus Exo-Energie in Richtung des Cursors ab
+		Bei Feind- und Kachel-Treffern explodieren die Strahlen entweder zu einem großen Blitz,
+		beschwören einen zusätzlichen Laser vom Himmel oder teilen sich in Energiekugeln auf
+		'Ihre Majestät inspiriert einen Schlag beispiellosen Genies'
+		'''
+}
+
+VoidVortex: {
+	DisplayName: Void-Wirbel
+	Tooltip: Ruft einen wirbelnden Wirbel aus hochaufgeladenen Magnetsphären um den Cursor herum hervor
+}
+
+VoltaicClimax: {
+	DisplayName: Voltaischer Höhepunkt
+	Tooltip: Ruft einen Oktagon aus hochaufgeladenen Magnetsphären um den Cursor herum hervor
+}
+
+Waywasher: {
+	DisplayName: Wegwascher
+	Tooltip: Wirft eine Flut von ungenauen Wasserbolzen ab
+}
+
+Wingman: {
+	DisplayName: Flügelmann
+	Tooltip: Feuert einen konzentrierten Laserstrahl ab
+}
+
+WintersFury: {
+	DisplayName: Winters Zorn
+	Tooltip:
+		'''
+		Schießt einen Strom aus Eis-Orbs und eine Salve von Eissplittern in Richtung des Cursors ab
+		'Die Seiten frieren bei Berührung ein'
+		'''
+}
+
+WrathoftheAncients: {
+	DisplayName: Zorn der Uralten
+	Tooltip: Ruft einen Energieimpuls am Cursor hervor, um periodisch heimende Geister zu beschwören
+}
+
+WulfrumProsthesis: {
+	DisplayName: Wulfrum-Prothese
+	Tooltip:
+		'''
+		Wirft einen Wulfrum-Bolzen ab
+		Drücke <right>, um Mana von Kreaturen vor dir abzuziehen
+		[c/83B87E:'Technologie und Magie sind für immer in einen Wettlauf der Imitation und Vergeltung verstrickt.]
+		[c/83B87E:Manchmal arbeiten sie Hand in Hand, wie bei bestimmten Prothesen.']
+		'''
+}
+
+WyvernsCall: {
+	DisplayName: Ruf des Wyvern
+	Tooltip:
+		'''
+		Schießt Wyvern und bunte Federn vom Himmel ab, die an Feinden und Kacheln haften und explodieren
+		'Ich rufe den mythischen Wyvern herbei, um das Land mit seiner Gnade zu überfluten'
+		'''
+}
+
+YharimsCrystal: {
+	DisplayName: Yharims Kristall
+	GFBName: Yharims Kristall
+	Tooltip: "[GFB]"
+	TooltipNormal: Feuert drakonische Strahlen totaler Vernichtung ab
+	TooltipGFB: ...wirft ein Stück Dynamit
+}

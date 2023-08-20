@@ -1,0 +1,166 @@
+// Buff Descriptions
+BuffDescription: {
+	BeetleMight: Nahkampf und und Bewegungstempo um {0}% und {1}% jeweils erhöht
+	ChaosState: Teleportatuibeb mit der Rzte der Zwietracht sind deaktiviert
+	LeafCrystal: Sendet starke Lebensimpulse auf Feinde in der Nähe
+	WarmthExtra: Gewährt Immunität gegen Erkältet, Eingefroren und Glitschig
+	WeaponImbueConfetti: Alle Angriffe lassen Konfetti erscheinen
+	WeaponImbueCursedFlames: Nahkampf-, Peitschen- und Schurftangriffe fügen Feinden verfluchte Flammen zu
+	WeaponImbueFire: Nahkampf-, Peitschen- und Schuftangriffe setzen Gegner in Brand
+	WeaponImbueGold: Durch Nahkampf-, Peitschen- und Schuftangriffe lassen Gegner mehr Gold fallen.
+	WeaponImbueIchor: Nahkampf-, Peitschen- und Schuftangriffe verringern die Verteidigung des Gegners.
+	WeaponImbueNanites: Nahkampf-, Peitschen- und Schurftangriffe verwirren Feinde
+	WeaponImbuePoison: Nahkampf-, Peitschen- und Schuftangriffe vergiften Gegner
+	WeaponImbueVenom: Nahkampf-, Peitschen- und Schuftangriffe fügen deinen Zielen Säuregift zu.
+}
+
+// Vanilla NPC dialogues added by Calamity
+AnglerChat.SeaKing: Jemand sollte {0} sagen, dass er aufhören soll, mich aus der Stadt zu werfen, das wird nicht funktionieren.
+
+ArmsDealerChat: {
+	MentionQuadBarrel: Der Greis hat eine schrullige alte Waffe auf seinem Sterbebett hinterlassen. Verstehst du, worauf ich hinaus will?
+	HasQuadBarrel: Hah! Sieh dir diese rostige alte Schrottkarre an. Sieht aus, als käme sie direkt aus den 70ern!
+	DoGDefeated: Liegt es an mir oder werden Ihre Waffen immer größer?
+	Eclipse: Das ist mit Sicherheit die größte Motte, die ich je gesehen habe. Man bräuchte ein großes Gewehr, um so eine Motte zu erlegen.
+}
+
+ClothierChat: {
+	PolterghastDefeated: Was auch immer dieses Ding war, ich bin froh, dass es jetzt weg ist.
+	MoonLordDefeated1: Wen wirst du anrufen?
+	MoonLordDefeated2: Diese Schreie... Ich bin mir nicht sicher, warum, aber ich habe das Gefühl, dass eine namenlose Angst in meinem Herzen erwacht ist.
+	MoonLordDefeated3: Ich höre leise Geisterschreie aus dem Verlies... und keine, die mir bekannt vorkommen. Was geht denn da drinnen vor?
+	MoonLordPresent: Houston, wir haben ein Problem.
+}
+
+CyborgChat: {
+	MoonLordDefeated1: Immer auf den Mond schießen! Das hat offensichtlich schon einmal funktioniert.
+	MoonLordDefeated2: Draedon? Er ist... ein bisschen "hochoktanig", wenn Sie wissen, was ich meine.
+	MentionPlague: Diese übergroßen Käfer, die den Dschungel terrorisieren... Gerade du könntest sie doch sicher ausschalten!
+	Rain: All diese Momente werden mit der Zeit verloren gehen. Wie Tränen... im Regen.
+}
+
+DemolitionistChat.DoGDefeated: God Slayer Dynamit? Das hört sich ja toll an!
+
+DryadChat: {
+	DarksunEclipse: Es gibt eine dunkle Sonnenenergie, die von den Motten ausgeht, die während dieser Zeit erscheinen. Ah, je weiter man fortschreitet, desto mächtiger werden die Motten...
+	Hardmode: Diese Sternenkrankheit sitzt auf diesem Land wie eine Blase. Existieren in jenseitigen Welten noch abscheulichere Kräfte des Verderbens?
+	DrunkPrincessShroom: "{0} hat mich darauf gebracht."
+	Mushroom: Ich bin nicht aus irgendeinem Grund hier! Ich sammele nur Pilze für später.
+	SulphurSea: Meine Vorfahrin ist hier vor langer Zeit verloren gegangen. Ich muss ihr meinen Respekt erweisen.
+}
+
+DyeTraderChat: {
+	Normal: Hast du diese Edelsteinwesen in den Höhlen gesehen? Ihre Farben sind einfach atemberaubend!
+	Archmage: Glauben Sie, dass {0} weiß, wie man "loslässt"?
+}
+
+GoblinTinkererChat: {
+	Bandit: Geht es nur mir so, oder sind meine Taschen leichter geworden, seit {0} da ist?
+	MoonLordDefeated: Weißt du, wir hatten schon lange keine Invasion mehr...
+}
+
+GuideChat: {
+	ProvidenceDefeated1: Es scheint, als hätte das Auslöschen des Schmetterlings dazu geführt, dass sein Leben in die geheiligten Bereiche gesickert ist. Schauen Sie doch mal nach, was Sie dort finden!
+	ProvidenceDefeated2: Ich habe gehört, dass es im Verlies ein Portal aus Antimaterie gibt, das alles absorbiert, was es sehen kann. Versucht, dort die Rune von Kos einzusetzen!
+	MoonLordDefeated: Das Verlies scheint noch unruhiger zu sein als sonst, nimm dich vor den mächtigen Abscheulichkeiten in Acht, die dort ihr Unwesen treiben.
+	Hardmode1: Könntest du so freundlich sein und für mich in der Hölle nachsehen...? Ich habe da unten jemanden zurückgelassen, der mir etwas bedeutet.
+	Hardmode2: Plötzlich läuft mir ein Schauer über den Rücken, als wäre gerade ein Meteor niedergegangen und Tausende unschuldiger Kreaturen hätten sich in Monster aus den Sternen verwandelt.
+}
+
+MechanicChat: {
+	// MoonLordDefeated: What do you mean your traps aren't making the cut? Don't look at me!
+	Eclipse: Ähm... sollte mein Nachtlicht an sein?
+	AcidRain: Vielleicht hätte ich meine Geräte wasserdicht machen sollen... Sie fangen an zu korrodieren.
+	DrunkPrincess: Nun, ich mag {0}, aber ich, äh... ich habe meine Augen auf jemand anderen gerichtet.
+}
+
+MerchantChat: {
+	MoonLordDefeated: Jede Nacht scheint nur noch unheilvoller zu sein als die letzte. Ich habe das Gefühl, dass unvorstellbare Schrecken jeden deiner Schritte beobachten.
+	Eclipse: Bist du bescheuert?! Mach die Lampen aus!
+	AcidRain: Wenn dieser saure Regen anhält, wird es schon bald einen Mangel an Dreckblöcken geben!
+	Bandit: Zufälligerweise habe ich im Moment mehrere Engelsstatuen, ein wahrhaft seltenes Gut. Wollen du eine?
+}
+
+NurseChat.HealNotAllowed: Jetzt ist nicht die Zeit dafür!
+
+PainterChat: {
+	Corruption: Eine kleine Krankheit wird mich nicht von meiner Arbeit als Künstler abhalten!
+	Crimson: Diese Gegend ist von einer überraschenden Kunst geprägt. Eine Art grauenhaftes, unheimliches Gefühl. Das inspiriert mich!
+	Archmage: Glaubst du, dass {0} mich ihn wie eines seiner französischen Mädchen malen lassen würde?!
+	Tundra: Ich bin nicht gerade für dieses kalte Wetter geeignet. Sieht aber trotzdem hübsch aus.
+	Desert: Ich hasse Sand. Es ist grob, und rau und kommt in meiner Farbe.
+	Hallow: Glaubst du, dass Einhornblut als gutes Pigment oder Harz verwendet werden kann? Nein, das werde ich nicht selbst herausfinden.
+	Space: In dieser Umgebung kann ich nicht arbeiten. Meine ganze Farbe fliegt einfach weg.
+	Jungle: Das Malen der Schildkröten in einem Stillleben läuft nicht so gut.
+	Astral: Ich kann kein Stillleben malen, wenn der Frucht Beine wachsen und sie weggeht.
+	Underworld1: Auf der Leinwand geht es hier immer heiß her. Wie die Umwelt!
+	Underworld2: Tut mir leid, ich habe keine Aquarellfarben mehr. Sie verdampfen ständig.
+	Crags: Rosen, wirklich? Das ist so eine überbewertete Sache zum Malen.
+	SulphurSea: Fun fact! Schwefel wurde früher einmal als Pigment verwendet! Oder war es Zinnober?
+	Abyss: Die einfachste Landschaft, die ich je in meinem Leben gemalt habe.
+}
+
+PartyGirlChat: {
+	DrunkPrincess: Ich habe das Gefühl, dass wir mit {0} in der Nähe absolut fantastische Partys haben werden!
+	Eclipse1: Ich glaube, mein Lichtdisplay verwandelt sich in einen versehentlichen Käferzapper. Zumindest den Monstern gefällt es.
+	Eclipse2: Ich liebe Partys, bei denen alle ein gruseliges Kostüm tragen!
+}
+
+PirateChat: {
+	PreLeviathan: Ja, ich habe von einem Fabelwesen in den Meeren gehört, das mit einer verführerischen Stimme singt. Seid vorsichtig, wenn ihr da draußen angelt.
+	WetScourgeDefeated: Ich muss dir noch mal danken, dass du dich um die Seeschlange gekümmert hast. Oder war das eine andere...
+	DrunkPrincess: Neunundzwanzig Bierflaschen an der Wand...
+	SeaKing: Ich erinnere mich an Legenden über diesen {0}. Er ist aber nicht ganz so, wie die Geschichten ihn darstellen.
+	Ocean: Das ist eine Umgebung, die ich jederzeit bewundern kann! Ich habe allerdings das Gefühl, dass mich etwas beobachtet.
+	SulphurSea1: Es ist kein schöner Anblick, aber es gibt noch Leben in diesen Gewässern.
+	SulphurSea2: Mein Schiff könnte allein von der Säure sinken.
+}
+
+SkeletonMerchantChat.Normal: Was kaufst du?
+
+SteampunkerChat: {
+	HasPortalGun: Was ist das eigentlich für ein Gerät? Dagegen sehen meine Teleporter wie ein Kinderspiel aus!
+	MoonLordDefeated: Ja! Ich überlege jetzt auch, ein Weltraumpirat zu werden.
+	Astral: Einige meiner Maschinen fangen dank dieser Astralinfektion an, verrückt zu spielen. Ich hätte sie wahrscheinlich nicht hier bauen sollen.
+	Hallow: Es tut mir leid, dass ich wirklich keine einhornsichere Technik hier habe, Du bist auf dich allein gestellt.
+}
+
+StylistChat: {
+	Hardmode: Bitte fang dir keine Weltraumläuse ein. Oder {0} Läuse. Oder einfach nur Läuse im Allgemeinen.
+	DrunkPrincess1: "{0} versucht immer, meine Stimmung aufzuhellen... auch wenn ich tief im Inneren weiß, dass sie traurig ist..."
+	DrunkPrincess2: Manchmal erwische ich {0}, wie sie sich von hinten anschleicht.
+	ProfanedSoulCrystal1: Du siehst so niedlich aus, und doch spüre ich deine ungeheure Kraft, wenn ich nur in deiner Nähe bin. Was bist du?
+	ProfanedSoulCrystal2: Ich sage es dir nur ungern, aber du hast keine Haare, die du schneiden oder stylen kannst, Schätzelein.
+	ProfanedDonuts: Oh, die sind so süß, haben sie auch Namen?
+}
+
+TavernkeepChat: {
+	FullMoon: Lust auf ein bisschen Schwarzgebranntes?
+	DrunkPrincess: Mensch, {0} ist ein bisschen grausam, nicht wahr? Ich habe nie behauptet, ein Experte für irgendetwas anderes als Bier zu sein!
+}
+
+TaxCollectorChat: {
+	DoGDefeated: Verschlinger von was, sagten Sie? Verschlinger von Geldern, wenn man sich die Gehaltsliste ansieht!
+	PreBrimmy: Vielleicht könnten Sie bei all der Zeit, die Sie haben, diese alten Ruinen überprüfen? Da ist bestimmt etwas Wertvolles für Sie dabei!
+	HasSlickCane: Du meine Güte! Dieser Stock hat Schwung!
+	Has500Plat: Woher und wie bekommen Sie all dieses Geld?
+	Has100Plat: BAH! Es sieht nicht so aus, als könnte ich mich jemals wieder mit den Schulden der Stadt herumschlagen!
+}
+
+TravellingMerchantChat.DrunkPrincessMerchant: Sagen Sie {0}, dass ich ihr Angebot annehme und mich mit ihr auf der Rückseite von {1}s Haus treffe.
+
+TruffleChat: {
+	Normal: Ich fühle mich nicht sehr sicher; ich denke, dass mich Schweine verfolgen, und das macht mir Angst.
+	DrunkPrincess: Manchmal sieht mich {0} einfach nur komisch an, und ich bin mir nicht sicher, was ich davon halten soll.
+}
+
+WitchDoctorChat: {
+	BloodMoon: Dies ist ein guter Zeitpunkt, um die besten Zutaten für Zaubertränke zu besorgen.
+	PrePlantera: Ich habe einzigartige Gegenstände, wenn du mir zeigst, dass du den Wächter des Dschungels besiegt hast.
+	Jungle: Mein Haus hier hat eine lange Geschichte und eine geheimnisvolle Vergangenheit. Du wirst schnell herausfinden, wie umfangreich sie ist...
+}
+
+WizardChat: {
+	Hardmode: Der Weltraum ist einfach viel zu nah dran, als dass es angenehm wäre.
+	MentionRoD: Ich wollte dir eine besondere Rute verkaufen, die ich im Heiligen gefunden habe, aber es scheint, dass ich sie verlegt habe. Vielleicht würde eine Reise dorthin mein Gedächtnis auffrischen.
+}

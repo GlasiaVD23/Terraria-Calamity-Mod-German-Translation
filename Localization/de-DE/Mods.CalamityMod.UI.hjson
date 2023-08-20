@@ -1,0 +1,266 @@
+// SmallWorldWarning: "[c/FF0000:SMALL WORLDS NOT SUPPORTED BY CALAMITY]"
+// Main UI Elements
+Adrenaline: Adrenalin
+Nanomachines: Nanomaschinen
+Rage: Wut
+// Flight: "{0} Flight Remaining"
+Charge: Aktuelle Ladung
+DefenseDamage: Verteidigungs Schaden
+SulphurousWater: Schwefelvergiftungen
+Stealth: Tarnung
+StealthShiftText: Halte SHIFT gedrückt, um weitere Informationen über Schuft Tarnung zu erhalten.
+StealthInfoText:
+	'''
+	Schuft Tarnung baut sich auf, wenn du dich nicht angreifst und langsamer, wenn du dich bewegst
+	Sobald du die maximale Tarnung erreicht hast, kannst du einen Schleichangriff ausführen.
+	Die Schufttarnung verringert sich nur, wenn du angreifst, nicht aber, wenn du dich bewegst.
+	Je höher deine Schufttarnung, desto höher dein Schuft-Schaden und deine kritischen Treffer
+	Wenn du mehr Tarnungsregeneration hast, verringert sich der Schadensbonus durch Tarnung leicht.
+	Dies wird dadurch kompensiert, dass du Schleichangriffe viel häufiger einsetzen kannst.
+	'''
+// Difficulty UI
+DifficultyStatusText: "{0} ist {1}."
+ModeAppend: " Modus"
+Active: Aktiv
+NotActive: Nicht Aktiv
+DifficultyShiftText: "[c/737373:Halte SHIFT gedrückt, um weitere Informationen anzuzeigen]"
+CurrentlySelected: Aktuell ausgewählt : {0}
+DifficultyClickText: "[c/919191:Klicke um einen Schwierigkeitsgrad auszuwählen"
+ExpertDifficultyLock: "[c/919191:Höhere Schwierigkeitsgrade können nur im Expertenmodus oder höher umgeschaltet werden.]"
+ChangingTheRules: "[c/919191:Du kannst die Regeln jetzt nicht ändern!]"
+NoDifficulty: Keine
+NoDifficultyInfo: Die klassische Terraria Erfahrung, ohne Änderungen am Schwierigkeitsgrad von Calamity
+Revengeance: Rache
+RevengeanceShortInfo: "[c/F54254:Die gewohlte Calamity Erfahrung!]"
+RevengeanceExpandedInfo:
+	'''
+	[c/B55362:Aktiviert die] [c/85FFE9:Adrenalin] [c/B55362:Mechanik. Du erhältst Adrenalin, wenn du gegen Bosse kämpfst. Wenn du getroffen wirst, sinkt das Adrenalin wieder auf 0.]
+	[c/B55362:    Wenn das Adrenalin voll ist, drücke] {0} [c/B55362:für einen großen Schadensboost]
+	[c/B55362:Aktiviert die] [c/FF8B54:Wut] [c/B55362:Mechanik. Du erhältst Wut, wenn du in der Nähe von Feinden bist oder bestimmte Gegenstände benutzt.
+	[c/B55362:    Wenn die Wut aufs maximum ist, drücke] {1} [c/B55362:für eine vorübergehenden Schadensboost]
+	[c/B55362:Die meisten Feinde haben höhere Werte und eine aggressivere KI]
+	[c/B55362:Die Bosse haben neue KI-Mechaniken, neue Phasen und lassen Meistermodus Beute fallen. Feinde spawnen häufiger]
+	[c/F7342A:Dieser Modus ist schwieriger als der Expertenmodus. Bereite dich unbedingt auf die Herausforderung vor]
+	'''
+RevengeanceActivate: Rache ist aktiv.
+RevengeanceDeactivate: Rache ist nicht aktiv.
+Death: Tod
+DeathShortInfo: "[c/C82DF7:Eine härtere Herausforderung für erfahrene Spieler oder für diejenigen, die eine Steigerung zum Rachemodus suchen]"
+DeathExpandedInfo:
+	'''
+	[c/B834E0:Alle Feinde stellen mit hochaggressiven KIs und erhöhtem Schaden eine viel größere Bedrohung dar]
+	[c/B834E0:Die KI der Bosse ist wesentlich härter geworden. Die Feinde sind noch zahlreicher und können dich leicht überwältigen]
+	[c/B834E0:Debuffs sind besonders tödlich und die Abyssalen Weiten ist deutlich gefährlicher]
+	[c/E945FF:Wachsamkeit und Hartnäckigkeit sind entscheidend für das Überleben]
+	'''
+DeathActivate: Tod ist aktiv, genießen Sie den Spaß.
+DeathDeactivate: Tod ist nicht aktiv, nicht Spaßig genug für Sie?
+// Calamity Health Bar
+ExoTwinsNameNormal: XS-01 Artemis und XS-03 Apollo
+ExoTwinsNameHekate: Augen von XB-∞ Hekate
+ExtensionDisplay: ({0} hinterlässt: {1})
+
+ExtensionName: {
+	Segments: Segmente
+	Creepers: Kriecher
+	Hands: Hände
+	Arms: Arme
+	Guns: Waffen
+	Cannons: Kanonen
+	DarkEnergy: Dunkle Energie
+	BodyParts: Körperteile
+}
+
+// Cooldowns
+Cooldowns: {
+	AquaticHeartIceShield: Eisschild Abklingzeit
+	BloodflareFrenzy: Blutrausch Abklingzeit
+	BloodflareRangedSet: Blutflammen Seelen Abklingzeit
+	BrimflameFrenzy: Brimflammen Raserei Abklingzeit
+	ChaosState: Teleportations Abklingzeit
+	CounterScarf: Schal Abklingzeit
+	DivineBless: Göttlicher Segen Abklingzeit
+	DivingPlatesBreaking: Haltbarkeit der Abyssalen Tauchanzugplatten
+	DivingPlatesBroken: Gebrochene Abyssalen Tauchanzugplatten
+	// ElysianGuard: Elysian Guard Cooldown
+	EvasionScarf: Schal Abklingzeit
+	FleshTotem: Abklingzeit für halbierten Kontakt Schaden
+	GlobalDodge: Ausweich Abklingzeit
+	GodSlayerDash: God Slayer Dash Abklingzeit
+	InkBomb: Tintenbomben Abklingzeit
+	LifeSteal: Lebensraub Abklingzeit
+	LionHeartShield: Energiepanzer Abklingzeit
+	MasterChefShieldDurability: Haltbarkeit des Meisterkoch-Energiepanzers
+	MasterChefShieldRecharge: Aufladung des Meisterkoch-Energiepanzers
+	NebulousCore: Nebulous Kern Abklingzeit
+	// OldDukeScalesFatigue: Stamina
+	OmegaBlueActive: Abyssaler Wahnsinn
+	OmegaBlueCooldown: Abyssaler Wahnsinn Abklingzeit
+	PermafrostConcoction: Abklingzeit für Permafrosts Trank
+	PlagueBlackout: Pest-Blackout-Abklingzeit
+	PotionSickness: Abklingzeit für Heilung
+	PrismaticLaser: Abklingzeit für prismatischen Laser-Barrage
+	ProfanedSoulArtifact: Ausbrennen des Ehrwürdigen Seelenartefakts
+	RelicOfResilience: Abklingzeit für Relikt der Widerstandsfähigkeit
+	RogueBooster: Schuft Booster Abklingzeit
+	SandCloak: Sandumhang Abklingzeit
+	SandsmokeBombActive: Dauer der Sandrauch Bombe
+	SandsmokeBombCooldown: Sandrauch Bomben Abklingzeit
+	SilvaRevive: Silva Wiederbelebung Abklingzeit
+	TarragonCloak: Estragon Umhang Abklingzeit
+	TarragonImmunity: Abklingzeit für Estragon-Unverwundbarkeit
+	UniverseSplitter: Universum Spalter Abklingzeit
+	WulfrumBastionActive: Haltbarkeit der Power-Rüstung
+	WulfrumBastionCooldown: Wulfrum Bastion Abklingzeit
+	WulfrumRoverDriveDurability: Haltbarkeit der Schutzmatrix
+	WulfrumRoverDriveRecharge: Aufladung der Schutzmatrix
+}
+
+// Enchantment + Draedon UI
+Cost: "Kosten: "
+// Draedon UI
+Contact: Kontaktieren
+Summon: Beschwören
+Evoke: Aufrufen
+Communicate: Kommunizieren
+ConfirmationText: Bist du sicher?
+UpgradesRequired: Verschlüsselung unlösbar: Upgrades erforderlich.
+ThanatosIcon: Thanatos, ein schlangenartiger Schrecken mit undurchdringlicher Panzerung und unzähligen Lasergeschütztürmen.
+AresIcon: Ares, eine schwergewichtige, teuflische Monstrosität mit vier Exo-Superwaffen.
+ArtemisApolloIcon: Artemis und Apollo, ein Paar extrem ausdauernder Roboter mit instabilen Energiereserven.
+
+// Hologram Texts
+Hologram: {
+	Text1: An alle Mitarbeiter, die in den Laboren tätig sind. Bitte tragen Sie jederzeit Ihren aus Stahl gravierten Ausweis. Dies ist die einfachste Methode, um Ihren Körper zu identifizieren, falls Unfälle auftreten.
+	Text2: Zu experimentieren bedeutet zu scheitern. Zu scheitern bedeutet zu lernen. Zu lernen bedeutet voranzukommen.
+	Text3: Scheinbare Gefahr während der Forschung dient nur dazu, die Forschungserfahrung zu verbessern.
+	Text4: Prototypen von Laserwaffen sind äußerst tödlich und dürfen nicht in Präsentationssälen verwendet werden.
+	Text5: Hochenergetische Plasmaemissionen haben negative Auswirkungen auf Fleisch und Metall. Versuchen Sie nicht, ausströmendes Plasma zu berühren.
+	Text6: Elektroschocks von Militärausrüstung sind tödlich. Wenn Sie einen solchen Schock überleben, ist dies ein klares Anzeichen dafür, dass das Gerät nicht ordnungsgemäß funktioniert. Bitte melden Sie solche Fälle.
+	Text7: Alle Mitarbeiter werden hiermit darüber informiert, dass sie für jegliche Kollateralschäden verantwortlich gemacht werden, die durch Gauss-Waffenfeuer verursacht werden, auch während genehmigter Testübungen.
+	Text8: Sicherheitsfeldemitter werden nicht autorisierte Ausrüstung und Personal verdampfen. Bitte lassen Sie persönliche Effekte in den dafür vorgesehenen Schließfächern außerhalb des Geländes. Das bedeutet auch: Bringen Sie keine Familienmitglieder mit, die nicht als Personal eingetragen sind.
+	Text9: Wenn es jemandem gelingt, in eingeschränkte Testeinrichtungen einzudringen, nehmen Sie zumindest unerwartete Verbrennungen, Schnittwunden, Blutergüsse, Brüche... ...Traumata, Schocks und Ähnliches auf. Vielen Dank.
+	Text10: Das Stromnetz wurde schwer beeinträchtigt. Brechen Sie die Forschung ab und begeben Sie sich zu den Notausgängen an den... ...und verlassen Sie das Gelände schnell.
+	Text11: Melden Sie dem Sicherheitsdienst sofort aggressive lokale Fauna.
+	PostCultistText: Sensoren haben einen erheblichen Bruch im Raum-Zeit-Kontinuum festgestellt.
+	EasterEgg: Bitte hilf mir. Ich stecke in dieser Hologramm-Maschine fest.
+}
+
+// Enchantments
+Exhumed: {
+	DisplayName: Exhumiert
+	Description: Verwandelt diesen Gegenstand in etwas wesentlich Stärkeres.
+}
+
+Indignant: {
+	DisplayName: Empört
+	Description: Beschwört Dämonen, die euch schaden, aber beim Tod Heilgegenstände fallen lassen, wenn ihr den Gegenstand benutzt.
+}
+
+Aflame: {
+	DisplayName: Flammend
+	Description: Entzündet Feinde bei einem Treffer mit der Kraft der Obersten Hexe, verursacht jedoch auch Schaden über Zeit, wenn der Benutzer diesen Gegenstand hält.
+}
+
+Oblatory: {
+	DisplayName: Oblatory
+	Description: Verringert die Manakosten und erhöht den Schaden erheblich, verursacht aber manchmal, dass dieser Gegenstand dein Leben verbraucht.
+}
+
+Resentful: {
+	DisplayName: Nachtragend
+	Description: Lässt den Schaden von Projektilen variieren, abhängig davon, wie weit das getroffene Ziel von dir entfernt ist. Je weiter entfernt, desto mehr Schaden, und umgekehrt.
+}
+
+Bloodthirsty: {
+	DisplayName: Blutdürstig
+	Description: Lässt den Schaden von Projektilen variieren, abhängig davon, wie nah das getroffene Ziel bei dir ist. Je näher, desto mehr Schaden, und umgekehrt.
+}
+
+Ephemeral: {
+	DisplayName: Kurzlebig
+	Description:
+		'''
+		Verursacht, dass die Schadensausgabe dieses Gegenstands aufgrund erschöpfender Nutzung entladen wird.
+		Der Schaden regeneriert sich natürlich, wenn er nicht benutzt wird. Er beginnt mit mehr Schaden als er normalerweise hätte.
+		'''
+}
+
+Hellbound: {
+	DisplayName: Höllenfahrt
+	Description:
+		'''
+		Bewirkt, dass Günstlinge mit einem 40-Sekunden-Timer erstellt werden.
+		Sobald sie aufgebraucht ist, explodieren sie heftig. Günstlinge richten mehr Schaden an, je länger sie leben, und explodieren auch im Leerlauf.
+		'''
+}
+
+Tainted: {
+	DisplayName: Verdorben
+	Description: Entfernt die Fähigkeit dieses Gegenstandes, mit Geschossen zu schießen. Im Gegenzug werden bei Verwendung zwei Skelettarme freigesetzt, die an der Mausposition schneiden.
+}
+
+Traitorous: {
+	DisplayName: Verräterisch
+	Description: Wenn du diesen Gegenstand mit weniger als 25 % Mana benutzt, verbraucht er sofort dein verbleibendes Mana und entfesselt ein Monster, das dir und deinen Feinden Schaden zufügt.
+}
+
+Withering: {
+	DisplayName: Verdorren
+	Description:
+		'''
+		Wenn du verletzt wirst, heilst du einen Prozentsatz des erlittenen Schadens, der sich danach richtet, wie viel Schaden du vorher insgesamt erlitten hast, bis zu 100 %.
+		Danach erhaltet ihr einen Schadensboost, während ihr diesen Gegenstand tragt, erleidet aber auch exponentiell mehr Schaden, je länger ihr ihn tragt.
+		'''
+}
+
+Persecuted: {
+	DisplayName: Verfolgung
+	Description:
+		'''
+		Bei einem Angriff oder mit der Zeit erscheinen Dämonenportale in deiner Nähe.
+		Wenn sie ausreichend beschädigt sind, sind sie freundlich, ansonsten greifen sie dich an. Sie werden wütend, wenn ein Portal beschädigt wird.
+		'''
+}
+
+Lecherous: {
+	DisplayName: Lüstern
+	Description: Bringt ein widerstandsfähiges Schwefelmonster hervor, das sich zwischen dich und deine Maus stellt und deine zielsuchendenn Waffen behindert. Beim Tod setzt es einen Haufen Herzen frei.
+}
+
+// Disenchant: Disenchant
+// Worldgen Tasks
+EvilIslandCorrupt: Ein fauliges schwebendes Eiland hinzufügen
+EvilIslandCrimson: Ein groteskes schwebendes Eiland hinzufügen
+BetterDungeon: Einen besseren Dungeon errichten
+BetterJungleTemple: Einen größeren Dschungeltempel errichten
+JungleTempleAltar: Den Lihzahrd-Altar platzieren
+GiantBeehive: Eine riesige Bienenstock bauen
+MechanicShed: Die Mechaniker-Hütte platzieren
+VernalPass: Einen blühenden Dschungelhain segnen
+SunkenSea: Einen überwucherten Wüstenteil teilweise fluten
+GemAdjustment: Edelstein-Tiefen vernünftig durchmischen
+DungeonArchive: Okkulte Literatur einmauern
+SulphurSea: Einen der Ozeane verschmutzen
+BrimstoneCrags: Azafure verbrennen
+HiddenShrines: Verbotene Schreine verstecken
+CrimsonShrine: Einen rachsüchtigen Gott töten
+CorruptShrine: Das Grab eines Gottes verrotten lassen
+DesertShrine: Einen Gegenstand aus Osiris verbuddeln
+GraniteShrine: Einen tiefblauen Geoden verkrystallisieren
+IceShrine: Das Iglu eines Tierzähmers verstecken
+MarbleShrine: Ein Stück des Parthenon zurückholen
+MushroomShrine: Einen mit Pilzhyphen reichen Pilz pflanzen
+SurfaceShrine: Ein Shinobi-Versteck aufbauen
+Aerialite: Wyverngold offen verstecken
+DraedonLabs: Rost und Staub
+HellLab: Schmieden mit den Feuern der Hölle
+SunkenLab: Meeresbiologie studieren
+IceLab: Prototypische Quanten-Superkühlung entwickeln
+PlagueLab: Abstoßende biologische Waffen entwickeln
+CavernLab: Mineralien durch Tagebau abbauen
+DraedonWorkshop: Verlassene Ingenieurprojekte
+DraedonFacility: Weitere kleinere Forschungsprojekte
+Abyss: Silvas Überreste beseitigen
+SulphurSea2: Einen der Ozeane verstrahlen
+Roxcalibur: Ich will rocken

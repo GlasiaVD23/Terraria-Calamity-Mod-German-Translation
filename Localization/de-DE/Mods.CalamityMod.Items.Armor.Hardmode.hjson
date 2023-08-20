@@ -1,0 +1,562 @@
+AstralBreastplate: {
+	DisplayName: Astraler Brustharnisch
+	Tooltip:
+		'''
+		+80 maximales Mana und +20 maximales Leben
+		Kreatur-Erkennung
+		'''
+}
+
+AstralHelm: {
+	DisplayName: Astral Helm
+	Tooltip: Gefahrenerkennung
+	SetBonus:
+		'''
+		5 % erhöhte Bewegungsgeschwindigkeit und +3 maximale Diener
+		35 % erhöhter Schaden und 25 % erhöhte kritische Trefferchance
+		Wenn du einen Feind kritisch triffst, regnet es einen Hagel von Sternen
+		Dieser Effekt hat eine Abklingzeit von 1 Sekunde, bevor er erneut ausgelöst werden kann
+		'''
+}
+
+AstralLeggings: {
+	DisplayName: Astral Beinschienen
+	Tooltip:
+		'''
+		10 % erhöhte Bewegungsgeschwindigkeit
+		Schatz- und Erz-Erkennung
+		'''
+}
+
+BrimflameBoots: {
+	DisplayName: Brimflame Stiefel
+	Tooltip:
+		'''
+		5 % erhöhter Magieschaden
+		5 % erhöhte Bewegungsgeschwindigkeit
+		'''
+}
+
+BrimflameRobes: {
+	DisplayName: Brimflame Roben
+	Tooltip: 5 % erhöhter Magieschaden und erhöhte kritische Trefferchance
+}
+
+BrimflameScowl: {
+	DisplayName: Brimflame Kapuze
+	Tooltip:
+		'''
+		5 % erhöhter Magieschaden und erhöhte kritische Trefferchance
+		Erhöht maximales Mana um 70 und verringert Mana-Verbrauch um 10 %
+		Immunität gegen Brennend!, Schwefelflammen und Frostbrand
+		'''
+	SetBonus:
+		'''
+		Gewährt zusätzlich 15 % erhöhten Magieschaden und kritischen Treffer
+		Drücke {0}, um einen Brimflame-Rausch-Effekt auszulösen
+		Während dieses Effekts erhältst du zusätzlich 40 % Erhöhung des Magieschadens
+		Dies geht jedoch zu Lasten eines schnellen Lebensverlusts und keiner Mana-Regeneration
+		Das kann ausgeschaltet werden, jedoch hat ein Brimflame-Rausch eine Abklingzeit von 30 Sekunden
+		'''
+}
+
+CirrusDress: {
+	DisplayName: Cirrus' Kleid
+	Tooltip:
+		'''
+		5 % erhöhter Magieschaden und erhöhte kritische Trefferchance
+		20 % verringerte Bewegungsgeschwindigkeit und erhöhte maximale Fallgeschwindigkeit auf 61 mph
+		[c/B00BA5:'Hier, das sollte dir helfen, viel mehr als üblich zu trinken!']
+		'Du fühlst dich dick...'
+		'''
+}
+
+DaedalusBreastplate: {
+	DisplayName: Daedalus Brustplatte
+	Tooltip: 3 % erhöhter Schaden und kritische Trefferchance
+}
+
+DaedalusHeadMagic: {
+	DisplayName: Daedalus Kapuze
+	Tooltip:
+		'''
+		13 % erhöhter Magieschaden und 7 % erhöhte kritische Trefferchance für Magie
+		10 % reduzierter Mana-Verbrauch und +60 maximales Mana
+		'''
+	SetBonus:
+		'''
+		5 % erhöhter Magieschaden
+		Du hast eine 10 % ige Chance, physische Angriffe und Projektile zu absorbieren, wenn du getroffen wirst
+		Wenn du einen Angriff absorbst, wirst du um die Hälfte des Schadens dieses Angriffs geheilt
+		'''
+}
+
+DaedalusHeadMelee: {
+	DisplayName: Daedalus Helm
+	Tooltip:
+		'''
+		15 % erhöhter Nahkampfschaden
+		10 % erhöhte Nahkampf-Kritische-Trefferchance
+		'''
+	SetBonus:
+		'''
+		10 % erhöhte Nahkampf-Geschwindigkeit
+		Feinde zielen eher auf dich
+		Du reflektierst Projektile auf Feinde zurück
+		Zurückgeworfene Projektile verursachen 50 % weniger Schaden bei dir
+		Diese Reflektion hat eine Abklingzeit von 90 Sekunden, die mit allen anderen Ausweichmanövern und Reflektionen geteilt wird
+		'''
+}
+
+DaedalusHeadRanged: {
+	DisplayName: Daedalus Kopfbedeckung
+	Tooltip:
+		'''
+		13 % erhöhter Fernkampfschaden und 7 % erhöhte kritische Trefferchance für Fernkampf
+		Verringert den Munitionsverbrauch um 20 %
+		'''
+	SetBonus:
+		'''
+		5 % erhöhter Fernkampfschaden
+		Wenn du getroffen wirst, sendest du eine Explosion von Kristallscherben aus
+		'''
+}
+
+DaedalusHeadRogue: {
+	DisplayName: Daedalus Gesichtsmaske
+	Tooltip:
+		'''
+		13 % erhöhter Schaden für Schleichangriffe und 7 % erhöhte kritische Trefferchance für Schleichangriffe
+		15 % erhöhte Schleichgeschwindigkeit und 5 % erhöhte Bewegungsgeschwindigkeit
+		'''
+	SetBonus:
+		'''
+		5 % erhöhter Schaden für Schleichangriffe
+		+105 maximale Schleichpunkte
+		Schleichprojektile werfen Kristallscherben aus, während sie sich bewegen
+		'''
+}
+
+DaedalusHeadSummon: {
+	DisplayName: Daedalus Maske
+	Tooltip: 5 % erhöhter Beschwörungsschaden
+	SetBonus:
+		'''
+		20 % erhöhter Beschwörungsschaden und +2 maximale Diener
+		Ein Daedalus-Kristall schwebt über dir, um dich zu schützen
+		'''
+}
+
+DaedalusLeggings: {
+	DisplayName: Daedalus Beinschienen
+	Tooltip:
+		'''
+		3 % erhöhte kritische Trefferchance
+		10 % erhöhte Bewegungsgeschwindigkeit
+		'''
+}
+
+FathomSwarmerBoots: {
+	DisplayName: Fathom Swarmer Stiefel
+	Tooltip:
+		'''
+		4 % erhöhter Beschwörungsschaden
+		Gewährt die Fähigkeit zu schwimmen
+		Bewegungsgeschwindigkeit um 40 % erhöht, während du in Flüssigkeiten eingetaucht bist
+		'''
+}
+
+FathomSwarmerBreastplate: {
+	DisplayName: Fathom Swarmer Brustplatte
+	Tooltip:
+		'''
+		6 % erhöhte Schadensreduktion
+		6 % erhöhter Beschwörungsschaden
+		Erhöhte Verteidigung und Regeneration, während du in Flüssigkeiten eingetaucht bist
+		Verringert den Verteidigungsverlust im Abyss
+		'''
+}
+
+FathomSwarmerVisage: {
+	DisplayName: Fathom Swarmer Gesicht
+	Tooltip:
+		'''
+		5 % erhöhter Beschwörungsschaden
+		Gewährt Atmen und Licht unter Wasser
+		'''
+	SetBonus:
+		'''
+		10 % erhöhter Beschwörungsschaden und +2 maximale Diener
+		Gewährt die Fähigkeit, Wände zu erklimmen
+		Erhöhter Beschwörungsschaden um 30 %, während du in Flüssigkeiten eingetaucht bist
+		Bietet eine moderate Menge Licht und reduziert den Atemverlust im Abyss moderat
+		'''
+}
+
+ForbiddenCirclet: {
+	DisplayName: Forbidden Stirnreif
+	Tooltip: 10 % erhöhter Beschwörungsschaden und 15 % erhöhte Schleichgeschwindigkeit
+	SetBonus:
+		'''
+		+40 maximale Schleichpunkte
+		Drücke {0}, um einen alten Sturm an die Cursorposition zu rufen
+		Der alte Sturm kostet {1} Mana und profitiert von Beschwörungs- und Schleichboni
+		Schleichangriffe erzeugen auf Feindtreffern heimische Esser
+		Schleich- und Beschwörungsangriffe skaliert von der Statistik mit höherem Bonus
+		'''
+}
+
+HydrothermicArmor: {
+	DisplayName: Hydrothermische Rüstung
+	Tooltip:
+		'''
+		+20 maximales Leben
+		8 % erhöhter Schaden und 4 % erhöhte kritische Trefferchance
+		'''
+	CommonSetBonus:
+		'''
+		Inferno-Effekt, wenn du unter 50 % Leben hast
+		Du gibst eine lodernde Explosion ab, wenn du getroffen wirst
+		'''
+}
+
+HydrothermicHeadMagic: {
+	DisplayName: Hydrothermische Kapuze
+	Tooltip:
+		'''
+		12 % erhöhter Magieschaden, +100 maximales Mana und 10 % erhöhte kritische Trefferchance für Magie
+		Gewährt Immunität gegen Feuer und Lava
+		'''
+	SetBonus:
+		'''
+		5 % erhöhter Magieschaden und 15 % verringerte Mana-Nutzung
+		Magische Angriffe beschwören bei Treffern schädliche und heilende Flare-Kugeln
+		'''
+}
+
+HydrothermicHeadMelee: {
+	DisplayName: Hydrothermischer Helm
+	Tooltip:
+		'''
+		17 % erhöhter Nahkampfschaden und 10 % erhöhte kritische Trefferchance im Nahkampf
+		Nahkampfangriffe und Nahkampf-Projektile verursachen Brennend
+		Gewährt Immunität gegen Feuer und Lava
+		'''
+	SetBonus:
+		'''
+		15 % erhöhte Nahkampf-Geschwindigkeit
+		Feinde zielen eher auf dich
+		Nahkampfangriffe und Projektile lassen bei Feindtreffern Chaosphlammes ausbrechen
+		'''
+}
+
+HydrothermicHeadRanged: {
+	DisplayName: Hydrothermische Kopfbedeckung
+	Tooltip:
+		'''
+		12 % erhöhter Fernkampfschaden und 10 % erhöhte kritische Trefferchance für Fernkampf
+		Verringert den Munitionsverbrauch um 25 %
+		Gewährt Immunität gegen Feuer und Lava
+		'''
+	SetBonus:
+		'''
+		5 % erhöhter Fernkampfschaden
+		Du feuert alle 0,33 Sekunden einen zielsuchenden Chaossplitter mit deinen Fernkampfwaffen ab
+		'''
+}
+
+HydrothermicHeadRogue: {
+	DisplayName: Hydrothermische Kapuze
+	Tooltip:
+		'''
+		12 % erhöhter Schaden für Schleichangriffe und 10 % erhöhte kritische Trefferchance für Schleichangriffe
+		50 % Chance, keine Schleichgegenstände zu verbrauchen, und 5 % erhöhte Bewegungsgeschwindigkeit
+		Gewährt Immunität gegen Feuer und Lava
+		'''
+	SetBonus:
+		'''
+		5 % erhöhter Schaden für Schleichangriffe
+		+110 maximale Schleichpunkte
+		Schleichwaffen lassen beim Flug heimische Chaosphlammesplitter zurück
+		'''
+}
+
+HydrothermicHeadSummon: {
+	DisplayName: Hydrothermischer Helm
+	Tooltip: 5 % erhöhter Beschwörungsschaden und erhöhter Diener-Rückstoß
+	SetBonus:
+		'''
+		40 % erhöhter Beschwörungsschaden und +2 maximale Diener
+		Beschwört einen hydrothermischen Ventilator, um dich zu schützen
+		'''
+}
+
+HydrothermicSubligar: {
+	DisplayName: Hydrothermische Subligar
+	Tooltip:
+		'''
+		5 % erhöhte kritische Trefferchance
+		10 % erhöhte Bewegungsgeschwindigkeit
+		'''
+}
+
+LunicCorpsBoots: {
+	DisplayName: Lunic Corps Stiefel
+	Tooltip:
+		'''
+		15 % erhöhte Bewegungsgeschwindigkeit
+		4 % erhöhte kritische Trefferchance für Fernkampf
+		10 % erhöhte maximale Bewegungsgeschwindigkeit und Beschleunigung
+		'''
+}
+
+LunicCorpsHelmet: {
+	DisplayName: Lunic Corps Helm
+	Tooltip:
+		'''
+		12 % erhöhter Fernkampfschaden
+		Nachtsicht und Kreatur-Erkennung
+		'''
+	SetBonus:
+		'''
+		'Beende den Kampf'
+		Gewährt ein Energieschild, das bis zu 70 Schaden absorbiert
+		Der Schild lädt sich in 10 Sekunden nach dem Bruch wieder auf
+		Wenn du während des Schildladevorgangs getroffen wirst, wird der Ladevorgang neu gestartet
+		10 % erhöhter Kugelschaden
+		10 % erhöhter spezialisierter Fernkampfschaden
+		Dies sind Werfer, Blasrohre oder alles andere, was keine Pfeile/Kugeln schießt
+		20 % erhöhte Sprunggeschwindigkeit
+		'''
+}
+
+LunicCorpsVest: {
+	DisplayName: Lunic Corps Weste
+	Tooltip:
+		'''
+		3 % erhöhter Fernkampfschaden
+		11 % erhöhte kritische Trefferchance für Fernkampf
+		'''
+}
+
+MolluskShelleggings: {
+	DisplayName: Molluskenschienen
+	Tooltip:
+		'''
+		12 % erhöhter Schaden und 4 % erhöhte kritische Trefferchance
+		7 % verringerte Bewegungsgeschwindigkeit
+		'''
+}
+
+MolluskShellmet: {
+	DisplayName: Molluskschalenhelm
+	Tooltip:
+		'''
+		5 % erhöhter Schaden und 4 % erhöhte kritische Trefferchance
+		Du kannst dich frei in Flüssigkeiten bewegen
+		'''
+	SetBonus:
+		'''
+		Zwei Muscheln unterstützen dich im Kampf
+		10 % erhöhter Schaden
+		Deine horizontale Bewegung wird verlangsamt
+		'''
+}
+
+MolluskShellplate: {
+	DisplayName: Molluskschuppenpanzer
+	Tooltip:
+		'''
+		10 % erhöhter Schaden und 6 % erhöhte kritische Trefferchance
+		15 % verringerte Bewegungsgeschwindigkeit
+		'''
+}
+
+PlaguebringerCarapace: {
+	DisplayName: Plaguebringer Karapax
+	Tooltip:
+		'''
+		Gewährt Immunität gegen die Seuche
+		12 % erhöhter Beschwörungsschaden
+		Befreundete Bienen fügen die Seuche zu
+		'''
+}
+
+PlaguebringerPistons: {
+	DisplayName: Plaguebringer Kolben
+	Tooltip:
+		'''
+		13 % erhöhter Beschwörungsschaden und 15 % erhöhte Bewegungsgeschwindigkeit
+		Blumen wachsen auf dem Gras unter dir, Chance, sehr zufällige Farbstoffpflanzen auf graslosem Boden wachsen zu lassen
+		Du spawnt Bienen, während du sprintest oder rennst
+		'''
+}
+
+PlaguebringerVisor: {
+	DisplayName: Plaguebringer Visier
+	Tooltip:
+		'''
+		15 % erhöhter Beschwörungsschaden
+		+20 maximales Leben
+		'''
+	SetBonus:
+		'''
+		Gewährt einen Seuchenstoß, der durch Feinde hindurchschlagen kann, ohne Schaden zu nehmen
+		Beschwört einen kleinen Seuchenträger, der dich schützt und nahe Diener stärkt
+		+3 maximale Diener
+		'''
+}
+
+PlagueReaperMask: {
+	DisplayName: Plague Reaper Maske
+	Tooltip: 10 % erhöhter Fernkampfschaden und 8 % erhöhte kritische Trefferchance im Fernkampf
+	SetBonus:
+		'''
+		25 % reduzierter Munitionsverbrauch und 5 % erhöhte Flugzeit
+		Feinde erleiden 10 % mehr Schaden durch Fernkampfgeschosse, wenn sie von der Seuche befallen sind
+		Bei einem Treffer regnet es Seuchenglut von oben
+		Drücke {0}, um dich für 5 Sekunden zu blenden, aber deinen Fernkampfschaden massiv zu steigern
+		Dies hat eine Abklingzeit von 25 Sekunden.
+		'''
+}
+
+PlagueReaperStriders: {
+	DisplayName: Plague Reaper Schreiter
+	Tooltip:
+		'''
+		3 % erhöhte kritische Trefferchance im Fernkampf
+		15 % erhöhte Bewegungsgeschwindigkeit
+		'''
+}
+
+PlagueReaperVest: {
+	DisplayName: Plague Reaper Weste
+	Tooltip:
+		'''
+		Gewährt Immunität gegen die Seuche
+		15 % erhöhter Fernkampfschaden und 5 % erhöhte kritische Trefferchance im Fernkampf
+		'''
+}
+
+ReaverCuisses: {
+	DisplayName: Reaver Beinschienen
+	Tooltip:
+		'''
+		5 % erhöhte kritische Trefferchance
+		12 % erhöhte Bewegungsgeschwindigkeit
+		'''
+}
+
+ReaverHeadExplore: {
+	DisplayName: Reaver Kopfbedeckung
+	Tooltip:
+		'''
+		20 % erhöhte Abbau- und Platzierungsgeschwindigkeit von Blöcken/Wänden
+		Gewährt Immunität gegen Lava und kann sich frei in Flüssigkeiten bewegen
+		'''
+	SetBonus:
+		'''
+		Markiert alle in der Nähe befindlichen Schätze
+		Erhöhte Gegenstands-Aufnahme-Reichweite und Platzierungsreichweite
+		Bergbau von Blöcken stellt die Atemluft unter Wasser wieder her
+		Beschwört eine Reaver-Kugel, um die Umgebung um dich herum zu beleuchten
+		Verringert die Aggressivität von Feinden, auch in der Abyss
+		Stellt in der Abyss eine geringe Lichtmenge zur Verfügung
+		'''
+}
+
+ReaverHeadMobility: {
+	DisplayName: Reaver Gesicht
+	Tooltip: 10 % erhöhte Sprunggeschwindigkeit und 15 % erhöhte Bewegungsgeschwindigkeit
+	SetBonus:
+		'''
+		Gewährt Immunität gegen Fallschaden und ermöglicht ständiges Springen
+		10 % erhöhte Flugzeit und horizontale Flügelgeschwindigkeit
+		Haken fliegen schneller aus und ziehen sich schneller zurück
+		Verringert die Abklingzeit von Dashs
+		'''
+}
+
+ReaverHeadTank: {
+	DisplayName: Reaver Helm
+	Tooltip:
+		'''
+		15 % erhöhte Schadensreduktion, aber 30 % verringerter Schaden
+		+50 maximales Leben
+		Regeneriert passiv einen Gesundheitspunkt pro Sekunde
+		'''
+	SetBonus:
+		'''
+		+10 Verteidigung und +3 Lebensregeneration
+		Feinde zielen eher auf dich
+		Verringert den Lebensregenerationsverlust durch Schaden über Zeit-Debuffs um 20 %
+		Alle Angriffe haben eine geringe Chance, Leben zu stehlen und die Lebensregenerationsrate zu beschleunigen
+		20 % verringerte Bewegungsgeschwindigkeit und Flugzeit
+		Feindschaden wird reflektiert und beschwört einen Dornenspike
+		Reaver-Wut hat eine 25%ige Chance, aktiviert zu werden, wenn du Schaden erleidest
+		'''
+}
+
+ReaverScaleMail: {
+	DisplayName: Reaver Schuppenpanzer
+	Tooltip:
+		'''
+		9 % erhöhter Schaden und 4 % erhöhte kritische Trefferchance
+		+20 maximales Leben
+		'''
+}
+
+TitanHeartBoots: {
+	DisplayName: Titan Heart Stiefel
+	Tooltip: 4 % erhöhter Schaden für Schuftn, 10 % erhöhte Schuftn-Geschwindigkeit und 5 % erhöhte Schuftn-Rückstoßkraft
+}
+
+TitanHeartMantle: {
+	DisplayName: Titan Heart Schulterumhang
+	Tooltip:
+		'''
+		45 % Chance, Schuftngegenstände nicht zu verbrauchen
+		5 % verstärkter Schuftn-Rückstoß, aber 15 % verringerte Schuftn-Angriffsgeschwindigkeit
+		'''
+}
+
+TitanHeartMask: {
+	DisplayName: Titan Heart Maske
+	Tooltip:
+		'''
+		5 % erhöhter Schaden für Schuftn und Rückstoß
+		Schuftnwaffen fügen den Astralen Infektions-Debuff zu
+		'''
+	SetBonus:
+		'''
+		15 % erhöhter Schaden für Schuftn und Rückstoß
+		+100 maximale Tarnung
+		Tarnschläge verursachen doppelten Rückstoß und lösen eine Astral-Explosion aus
+		Gewährt Immunität gegen Rückstoß
+		'''
+}
+
+UmbraphileBoots: {
+	DisplayName: Umbraphile Stiefel
+	Tooltip:
+		'''
+		9 % erhöhter Schaden für Schuftn und 6 % erhöhte kritische Trefferchance für Schuftn
+		20 % erhöhte Bewegungsgeschwindigkeit
+		'''
+}
+
+UmbraphileHood: {
+	DisplayName: Umbraphile Kapuze
+	Tooltip: 8 % erhöhter Schaden für Schuftn und 10 % erhöhte Schuftn-Geschwindigkeit
+	SetBonus:
+		'''
+		+110 maximale Tarnung
+		Schuftnwaffen haben eine Chance, bei Treffern Explosionen auszulösen
+		Tarnschläge erzeugen immer eine Explosion
+		'''
+}
+
+UmbraphileRegalia: {
+	DisplayName: Umbraphile Regalien
+	Tooltip: 10 % erhöhter Schaden für Schuftn und 10 % erhöhte kritische Trefferchance für Schuftn
+}

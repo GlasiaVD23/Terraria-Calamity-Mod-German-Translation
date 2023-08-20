@@ -1,0 +1,60 @@
+// Recipe Groups
+RecipeGroup: {
+	HardmodeAnvil: Beliebige Hardmode Amboss
+	HarmodeForge: Beliebige Hardmode Schmiede
+	AnyLargeGem: Beliebige große Edelstein
+	AnyFood: Beliebige Lebensmittel
+	AnyEvilBar: Beliebige böse Barren
+	AnyEvilPowder: Beliebige böses Pulver
+	Boss2Material: Schattenschuppe or Gewebeprobe
+	CursedFlameIchor: Verfluchte Flammen or Ichor
+	AnyEvilWater: Beliebige böse Wasser
+	AnyEvilFlask: Beliebige böse Flasche
+	AnyEvilBlock: Beliebige böse Block
+	AnyGoodBlock: Beliebige gute Block
+	LunarPickaxe: Beliebige Mondspitzhacke
+	LunarHamaxe: Beliebige Mondhamaaxt
+	AnyQuiver: Beliebige Köcher
+	AnyWings: Beliebige Flügel
+}
+
+// Status
+WikiStatus1: "[i:Book][c/EE4939:Hinweis: Das Fandom Wiki wird nicht mehr von Calamity unterstützt.] [i:Book]"
+WikiStatus2: "[i:Book][c/EE4939:Besuche das offizielle Calamity Mod Wiki unter ][c/3989FF:calamitymod.wiki.gg][c/EE4939:!] [i:Book]"
+// Recipe Conditions
+Tier1ArsenalRecipeCondition: Schau ein unverschlüsselten Schema aus dem Labor in der Nähe des Versunkenen Meer
+Tier2ArsenalRecipeCondition: Entschlüssel einen Schaltplan aus dem Labor auf dem großen Planetoiden am Himmel
+Tier3ArsenalRecipeCondition: Entschlüssel einen Schaltplan aus dem Labor tief im Dschungel
+Tier4ArsenalRecipeCondition: Entschlüssel einen Schaltplan aus dem Labor am Rande der Unterwelt
+Tier5ArsenalRecipeCondition: Entschlüsseln einen Schaltplan aus dem Labor tief in den gefrorenen Höhlen
+SunkenSeaSchematicRecipeCondition: Lege mindestens einmal einen Schaltplan aus dem Labor in der Nähe des Versunkenen Meeres in dein Inventar.
+PlanetoidSchematicRecipeCondition: Lege mindestens einmal einen Schaltplan aus dem Labor in den großen Planetoiden in deinem Inventar.
+JungleSchematicRecipeCondition: Lege mindestens einmal einen Schaltplan aus dem Labor tief im Dschungel in dein Inventar
+UnderworldSchematicRecipeCondition: Lege mindestens einmal einen Schaltplan aus dem Labor am Rande der Unterwelt in dein Inventar
+IceSchematicRecipeCondition: Lege mindestens einmal einen Schaltplan aus dem Labor in den gefrorenen Höhlen in dein Inventar.
+// Other CombatText uses and Item Messages
+ShiftToExpand: Halte SHIFT gedrückt, um eine erweiterte Beschreibung anzuzeigen.
+LearnedSchematic: Du hast gelernt, neue Dinge zu erschaffen!
+CragmawVibeCheck: Vibe check.
+AutocannonHot: AUTSCH! HEISS!
+NoComputer: Kein Entschlüsselungscomputer installiert
+ArkParry: Pariert!
+ClockworkTick: Tick
+ClockworkTock: Tack
+SevensJackpot: Jackpot!!!
+SevensBust: Niete!
+SevensDoubles: Doppelt!
+SevensTriples: Dreifach!
+StylishHammerHit: Stylisch!
+ThirdSageBlessingText: Du wurdest vom von der Dritten Salbe gesegnet!
+ThirdSageBlessingText2: Die Dritte Salbe hat seinen Segen zurückgenommen...
+GenericConsumedText: "[c/8A8A8A:Du hast dieses Item bereits benutzt]"
+BloodOrangeText: Du hast bereits eine Blutorange gegessen. Noch mehr zu essen, wäre nicht gut für dich.
+MiracleFruitText: Du hast bereits eine Wunderfrucht verzehrt. Der Verzehr einer weiteren würde dich krank machen.
+ElderberryText: Du hast bereits eine Beere der Alten verzehrt. Es ist wahrscheinlich nicht klug, mehr als eine zu essen.
+DragonfruitText: Du hast bereits eine Drachenfrucht gegessen. Dein Magen verträgt keine weitere mehr.
+CometShardText: Du hast bereits einen Kometensplitter verwendet. Wenn du mehr benutzt, wird dir übel.
+EtherealCoreText: Du hast bereits einen Ätherischen Kern verwendet. Es ist am besten, nicht mehr zu verwenden, als du kannst.
+PhantomHeartText: Du hast bereits ein Phantomherz benutzt. Es ist wahrscheinlich gut, dass du kein weiteres verwenden kannst.
+SulphurSwitchLeft: Das Schwefelmeer befindet sich auf der linken Seite der Welt.
+SulphurSwitchRight: Das Schwefelmeer befindet sich auf der rechten Seite der Welt.

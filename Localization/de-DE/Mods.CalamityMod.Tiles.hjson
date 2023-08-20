@@ -1,0 +1,58 @@
+// Ambient Objects
+Fossil: Fossil
+Column: Säule
+Ribs: Rippen
+Stalagmite: Stalagmit
+Stalactite: Stalaktit
+PirateCrate: Zurückgelassene Kiste
+// Basic Calamity Furniture
+Basin: Becken
+PipeOrgan: Pfeifenorgel
+Sconce: Wandleuchter
+// Draedon Lab Furniture
+Console: Konsole
+ContainmentBox: Aufbewahrungsbox
+Display: Bildschirm
+ElectricPanel: Elektrische Schalttafel
+ReinforcedCrate: Verstärkte Kiste
+Screen: Bildschirm
+Server: Server
+Terminal: Terminal
+// Individual entries
+// Sulphurous Sea & Abyss
+SteamGeyser.MapEntry: Geysir
+AbyssVent.MapEntry: Dampfauslass
+ThermalVent.MapEntry: Thermalauslass
+// Brimstone Crag
+SpineSapling.MapEntry: Wirbelsäulenbäumchen
+SpineTree.MapEntry: Riesenwirbelsäule
+// Draedon
+InactivePowerCellFactory.MapEntry: Inaktive Energiezellenfabrik
+OnyxExcavatorTile.MapEntry: Onyx Bohrer
+CodebreakerTile.MapEntry: Der Codebrecher
+// Ores
+AerialiteOre.MapEntry: Aerialite
+AerialiteOreDisenchanted.MapEntry: Entzauberter Aerialite
+AstralOre.MapEntry: Astralerz
+AuricOre.MapEntry: Auric
+CryonicOre.MapEntry: Kryonik
+ExodiumOre.MapEntry: Exodium
+HallowedOre.MapEntry: Geheiligtes Erz
+InfernalSuevite.MapEntry: Infernalischer Suevit
+PerennialOre.MapEntry: Staude
+ScoriaOre.MapEntry: Schlacke
+UelibloomOre.MapEntry: Uelibloom
+// Misc
+ArenaTile.MapEntry: Arena
+
+AshenChest: {
+	MapEntry0: "{$Mods.CalamityMod.Items.Placeables.AshenChest.DisplayName}"
+	MapEntry1: Verschlossen {$Mods.CalamityMod.Items.Placeables.AshenChest.DisplayName}
+}
+
+AstralChestLocked: {
+	MapEntry0: "{$Mods.CalamityMod.Items.Placeables.AstralChest.DisplayName}"
+	MapEntry1: Verschlossen {$Mods.CalamityMod.Items.Placeables.AstralChest.DisplayName}
+}
+
+PlaguedPlateBed.MapEntry: "'Bett'"

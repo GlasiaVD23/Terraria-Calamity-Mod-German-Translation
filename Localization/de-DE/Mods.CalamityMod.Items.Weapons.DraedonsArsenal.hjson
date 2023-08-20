@@ -1,0 +1,236 @@
+FrequencyManipulator: {
+	DisplayName: Frequenzmanipulator
+	Tooltip:
+		'''
+		Schwingt einen Speer herum und wirft ihn dann
+		Beim Aufprall gibt der Speer eine Salve verfolgender Energie ab
+		Stealth-Angriffe geben mehr Energie ab und explodieren beim Aufprall
+		[c/1FFBFF:'Ein langes Gerät, das ursprünglich für die mechanische Abstimmung verwendet wurde.']
+		'''
+}
+
+GalvanizingGlaive: {
+	DisplayName: Galvanisierender Glaive
+	Tooltip:
+		'''
+		Schwingt einen Speer, der getroffene Feinde in ein Energiefeld hüllt
+		Nach Abschluss entlädt der Speer eine zusätzliche Energieimpuls
+		[c/1FFBFF:'Ein Werkzeug, das schnell und ordentlich ein Objekt in zwei Teile schneidet.]
+		[c/1FFBFF:Seine Effizienz und Zuverlässigkeit als Waffe ist unverkennbar.']
+		'''
+}
+
+GatlingLaser: {
+	DisplayName: Gatling-Laser
+	Tooltip:
+		'''
+		Feuert eine schnelle Salve beschleunigter Laser ab, um Feinde zu vernichten
+		[c/1FFBFF:'Ursprünglich entwickelt, um hauptsächlich von Yharims Flotte und Verteidigungstruppe der Basis verwendet zu werden.']
+		'''
+}
+
+GaussDagger: {
+	DisplayName: Gauss-Dolch
+	Tooltip:
+		'''
+		Schneidet Feinde mit turbulenter magnetischer Kraft
+		Wiederholte Angriffe hüllen Feinde in einen schädlichen magnetischen Fluss
+		'''
+}
+
+GaussPistol: {
+	DisplayName: Gauss-Pistole
+	Tooltip:
+		'''
+		Feuert einen verheerenden Hochgeschwindigkeitsstrahl mit extremem Rückstoß ab
+		[c/1FFBFF:'Obwohl diese arkane Pistole vielleicht gewöhnlich erscheint, ist sie trügerisch mächtig.]
+		[c/1FFBFF:Einer der vielen Vorteile von magischen Schusswaffen ist, dass Größe nicht gleichbedeutend mit Kraft ist.']
+		'''
+}
+
+GaussRifle: {
+	DisplayName: Gauss-Gewehr
+	Tooltip: Feuert einen verheerenden, kraftvollen Hochgeschwindigkeitsstrahl mit absurdem Rückstoß ab
+}
+
+HeavyLaserRifle: {
+	DisplayName: Schweres Laser-Gewehr
+	Tooltip:
+		'''
+		Feuert ein unglaublich präzises Paar zerstörerischer Laserstrahlen ab
+		[c/1FFBFF:'Obwohl Godseeker-Ritter oft brutal sind, bevorzugen nicht alle den Nahkampf.]
+		[c/1FFBFF:Als solches bat Yharim mich persönlich, schwere Waffen für sie zu entwickeln, obwohl sie nur wenige sind.']
+		'''
+}
+
+HydraulicVoltCrasher: {
+	DisplayName: Hydraulischer Volt-Zermalmer
+	Tooltip:
+		'''
+		Ein elektrisch aufgeladener Presslufthammer, der alle nahen Feinde bei Treffern schockt
+		[c/1FFBFF:'Ein Gerät, das verwendet wird, um Metallplatten elektrisch zu stanzen und sie sofort zu verschmelzen.]
+		[c/1FFBFF:Natürlich kann es auch als verheerende Waffe dienen.']
+		'''
+}
+
+MatterModulator: {
+	DisplayName: Materiemodulator
+	Tooltip:
+		'''
+		Schießt eine Salve instabiler Materie, die unendlich durchdringt, aber wenig Schaden verursacht
+		Nach dem Treffen einer Fliese erhält die Materie verstärkten Schaden und durchdringt nicht mehr
+		'''
+}
+
+MountedScanner: {
+	DisplayName: Montierter Scanner
+	Tooltip: Ruft ein leistungsstarkes Scannermodul über Ihrem Kopf auf, das Laser auf nahegelegene Feinde abfeuert
+}
+
+Phaseslayer: {
+	DisplayName: Phasentöter
+	Tooltip:
+		'''
+		Projiziert eine kolossale Laserklinge, die vom Cursor gesteuert wird
+		Bewegen Sie den Cursor, um die Klinge zu schwingen und Feinde zu zerreissen
+		Schnellere Schläge verursachen mehr Schaden und setzen zusätzliche Schwertstrahlen frei
+		Bei niedriger Ladung wird die Klinge kleiner und schwächer
+		'''
+}
+
+PlasmaCaster: {
+	DisplayName: Plasmawerfer
+	Tooltip:
+		'''
+		Drücke <left>, um einen großen, explodierenden Plasmaball abzufeuern
+		Drücke <right>, um im Turbomodus zu feuern, erhöht sich die Schussrate, aber die Genauigkeit wird behindert
+		'''
+}
+
+PlasmaGrenade: {
+	DisplayName: Plasma-Granate
+	Tooltip:
+		'''
+		Wirft eine Granate, die bei Kollision in Plasma explodiert
+		Stealth-Angriffe explodieren gewaltsam bei Kollision in eine verdampfende Explosion
+		[c/1FFBFF:'Jede Granate enthält eine stark kondensierte und erhitzte Einheit von Plasma. Mit äußerster Vorsicht verwenden.']
+		'''
+}
+
+PoleWarper: {
+	DisplayName: Stangenverzerrer
+	Tooltip:
+		'''
+		Ruft ein Paar schwebender Magneten herbei, die einander abstoßen und Feinde unerbittlich angreifen
+		Magnetische Geräte, die Feinde zerreißen, indem sie sich von ihren gegenüberliegenden Gegenteilen abstoßen
+		'''
+}
+
+PulseDragon: {
+	DisplayName: Impulsdrache
+	Tooltip:
+		'''
+		Wirft zwei mechanische Drachenköpfe, die schädliche elektrische Felder aussenden
+		[c/1FFBFF:'Yharim forderte ausdrücklich, dass diese Waffe nach den Drachen alter Zeiten modelliert sein soll.]
+		[c/1FFBFF:Wie abgedroschen.']
+		'''
+}
+
+PulsePistol: {
+	DisplayName: Impulspistole
+	Tooltip: Feuert einen Impuls ab, der bei Feindberührung auf ein neues Ziel überspringt
+}
+
+PulseRifle: {
+	DisplayName: Impulsgewehr
+	Tooltip:
+		'''
+		Feuert einen verstärkten Impuls ab, der bei Feindberührung auf ein neues Ziel überspringt
+		[c/1FFBFF:'Meine persönliche Waffe, um fehlgeschlagene Kreationen auszulöschen.]
+		[c/1FFBFF:Ich habe die Schemata im Fall der Zerstörung des Originals gesichert.']
+		'''
+}
+
+PulseTurretRemote: {
+	DisplayName: Ferngesteuerter Impuls-Turm
+	Tooltip:
+		'''
+		Ruft einen Impuls-Turm herbei, der nahegelegene Feinde mit fokussierten Energieblitzen auslöscht
+		Nur ein Impuls-Turm kann gleichzeitig existieren
+		'''
+}
+
+SnakeEyes: {
+	DisplayName: Schlangenaugen
+	Tooltip:
+		'''
+		Ruft eine mechanische Überwachungsdrohne herbei, die um Feinde fliegt und sie gnadenlos mit Elektrizität zapt
+		[c/1FFBFF:'Ausgestattet mit hochwertigen Sensoren kann wenig ihnen entkommen. Noch weniger können ihren ständig wachsamen Augen entkommen.]
+		[c/1FFBFF:Eine ausgezeichnete Brücke zwischen meinen Experimenten mit auf Sehvermögen basierenden seelengetriebenen Maschinen und meinem neuesten Projekt.']
+		'''
+}
+
+StarSwallowerContainmentUnit: {
+	DisplayName: Einheit zur Eindämmung des Sternenfressers
+	Tooltip:
+		'''
+		Ruft einen biomechanischen Frosch herbei, der Feinde mit Plasma bespeit
+		[c/1FFBFF:'Diese simplen Kreaturen wurden mechanisiert, um Plasma autonom zu transportieren.]
+		[c/1FFBFF:Sie sind weitaus dienlicher als ihre gewöhnlichen organischen Pendants.']
+		'''
+}
+
+SystemBane: {
+	DisplayName: Systemvernichter
+	Tooltip:
+		'''
+		Wirft ein instabiles Gerät, das am Boden klebt und nahegelegene Feinde mit Blitzschlägen schockt
+		Stealth-Angriffe lassen das Gerät ein großes, schädliches elektromagnetisches Feld abgeben
+		'''
+}
+
+Taser: {
+	DisplayName: Elektroschocker
+	Tooltip:
+		'''
+		Schießt einen Haken, der sich an Feinde anheftet und sie elektrisiert, bevor er zurückkehrt
+		Eine langsame, einfache elektrische Waffe, nur für niederrangige Wachen gedacht
+		'''
+}
+
+TeslaCannon: {
+	DisplayName: Tesla-Kanone
+	Tooltip:
+		'''
+		Eine leichte Energiekanone, die einen intensiven elektrischen Strahl abfeuert, der explodiert
+		Der Strahl kann auf nahe Ziele überspringen
+		'''
+}
+
+TheAnomalysNanogun: {
+	DisplayName: Nanowaffe der Anomalie
+	Tooltip:
+		'''
+		Drücken Sie <left>, um 5 schnellfeuernde Plasmabündel aufzuladen
+		Drücken Sie <right>, um 3 Spaltbomben abzufeuern
+		'Willkommen zur Party, Kumpel'
+		'''
+}
+
+TrackingDisk: {
+	DisplayName: Verfolgungsscheibe
+	Tooltip:
+		'''
+		Gibt eine fliegende Scheibe frei, die Laser auf nahegelegene Feinde abfeuert
+		Stealth-Angriffe ermöglichen es der Scheibe, mehrere größere Laser auf verschiedene Ziele abzufeuern
+		'''
+}
+
+WavePounder: {
+	DisplayName: Wellenschläger
+	Tooltip:
+		'''
+		Wirft eine Bombe, die in eine qualvolle, kraftvolle Schockwelle explodiert
+		Stealth-Angriffe setzen absurd starke Schockwellen frei
+		'''
+}
