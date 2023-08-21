@@ -39,7 +39,7 @@ AerospecHelmet: {
 	Tooltip: 5% erhöhte Bewegungsgeschwindigkeit und Beschwörungsschaden
 	SetBonus:
 		'''
-		11% erhöhter Beschwörungsschaden und +1 maximale Dieneranzahl
+		11% erhöhter Beschwörungsschaden und +1 maximale G�nstlingeanzahl
 		Beschwört eine Walküre, die dich beschützt
 		'''
 }
@@ -175,7 +175,7 @@ StatigelHeadSummon: {
 	Tooltip: Erhöhter Minion-Rückstoß
 	SetBonus:
 		'''
-		18% erhöhter Beschwörungsschaden und +1 maximale Dieneranzahl
+		18% erhöhter Beschwörungsschaden und +1 maximale G�nstlingeanzahl
 		Beschwört einen Mini-Schleim-Gott, der für dich kämpft. Der Typ hängt von der Weltquelle des Bösen ab
 		'''
 }
@@ -265,7 +265,7 @@ VictideHeadSummon: {
 	Tooltip: 10% erhöhter Beschwörungsschaden
 	SetBonus:
 		'''
-		+1 maximale Dieneranzahl
+		+1 maximale G�nstlingeanzahl
 		Beschwört eine Meeresschnecke, die dich beschützt
 		'''
 }
@@ -287,7 +287,7 @@ WulfrumHat: {
 		10% erhöhter Beschwörungsschaden
 		Kommt mit Haarverlängerungen
 		'''
-	SetBonus: +1 maximale Dieneranzahl
+	SetBonus: +1 maximale G�nstlingeanzahl
 	AbilityBrief: Wulfrum-Bastion - Doppelklick auf UNTEN, während nicht beritten, um die Wulfrum-Panzerung zu tragen
 	AbilityDescription:
 		'''

@@ -87,7 +87,7 @@ CrystylCrusher: {
 	DisplayName: Kristyllbrecher
 	Tooltip:
 		'''
-		Halte <right> gedrückt, um einen Strahl zu kanalisieren, der praktisch alles zerstört
+		Halte Rechte Maustaste gedrückt, um einen Strahl zu kanalisieren, der praktisch alles zerstört
 		'Schneller graben, tiefer gehen'
 		'''
 }
@@ -112,7 +112,7 @@ Grax: {
 	Tooltip:
 		'''
 		Das Schlagen eines Feindes steigert deine Verteidigung, Nahkampfschaden und kritischen Nahkampfschaden für kurze Zeit erheblich
-		Drücke <right>, um es zu verwenden, ohne Wände einzuschlagen oder Bäume zu fällen
+		Drücke Rechte Maustaste, um es zu verwenden, ohne Wände einzuschlagen oder Bäume zu fällen
 		'''
 }
 
@@ -158,8 +158,8 @@ SeismicHampick: {
 	Tooltip:
 		'''
 		Kann Lihzahrd-Ziegel abbauen
-		Drücke <left>, um es als Spitzhacke zu verwenden
-		Drücke <right>, um es als Hammer zu verwenden
+		Drücke Linke Maustaste, um es als Spitzhacke zu verwenden
+		Drücke Rechte Maustaste, um es als Hammer zu verwenden
 		'''
 }
 
@@ -183,7 +183,7 @@ WulfrumDiggingTurtle: {
 	Tooltip:
 		'''
 		Wirft eine marode Bergbauvorrichtung, um einen kleinen Tunnel auszugraben
-		Im Notfall drücke <right>, um alle deine Grabenschildkröten sofort zu zünden
+		Im Notfall drücke Rechte Maustaste, um alle deine Grabenschildkröten sofort zu zünden
 		'''
 }
 

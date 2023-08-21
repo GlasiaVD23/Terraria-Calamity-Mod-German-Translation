@@ -35,9 +35,9 @@ RelicOfDeliverance: {
 	DisplayName: Relikt der Erlösung
 	Tooltip:
 		'''
-		Drücke <left>  um einen Speerangriff aufzuladen
-		Drücke <left> erneut, um die Ladung zu benutzten und dich in richtung des Cursor zu fliegen
-		Drücke <left> während des flugs um in richtung des Cursor zu fliegen
+		Drücke Linke Maustaste  um einen Speerangriff aufzuladen
+		Drücke Linke Maustaste erneut, um die Ladung zu benutzten und dich in richtung des Cursor zu fliegen
+		Drücke Linke Maustaste während des flugs um in richtung des Cursor zu fliegen
 		Hälst du was anderes in der Hand wird der flug abgebrochen
 		'''
 }
@@ -76,7 +76,7 @@ YanmeisKnife: {
 	DisplayName: Yanmeis Messer
 	Tooltip:
 		'''
-		Wenn du einen Boss, einen Miniboss oder seine Diener triffst, verkrüppelst du den Gegner.
+		Wenn du einen Boss, einen Miniboss oder seine G�nstlinge triffst, verkrüppelst du den Gegner.
 		Du erhaltet außerdem 10 Sekunden lang erhöhte Bewegungsgeschwindigkeit und erhöhten Schaden.
 		"Ein Messer aus einer unbekannten Welt
 		Ein Besitzer, dessen Herz rein und frei von Makel ist

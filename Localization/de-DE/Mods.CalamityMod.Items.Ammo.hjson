@@ -94,7 +94,7 @@ IcicleArrow: {
 }
 
 IcyBullet: {
-	DisplayName: Die andere Kugeleis
+	DisplayName: Die andere Kugel Eis
 	Tooltip:
 		'''
 		Kann bis zu drei Mal treffen

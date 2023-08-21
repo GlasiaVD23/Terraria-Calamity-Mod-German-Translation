@@ -149,14 +149,14 @@ AngelicAlliance: {
 	DisplayName: Himmlische Allianz
 	Tooltip:
 		'''
-		Rufe die Macht des Himmels herauf, um deine Angriffe und Diener zu stärken
+		Rufe die Macht des Himmels herauf, um deine Angriffe und G�nstlinge zu stärken
 		Mut, Erleuchtung, Glückseligkeit. Vereint im Urteil
-		+2 maximale Diener, 15% erhöhter Beschwörungsschaden und 8% erhöhter Schaden für alle anderen Klassen
+		+2 maximale G�nstlinge, 15% erhöhter Beschwörungsschaden und 8% erhöhter Schaden für alle anderen Klassen
 		Die Lebensregeneration wird beim Springen gesteigert
 		Drücke [TASTE], um dich selbst für 15 Sekunden mit Göttlichkeit zu umgeben
-		Während du unter dem Einfluss von Göttlichem Segen stehst, wird für jeden Diener, den du hast, ein Erzengel herbeigerufen, um dir im Kampf zu helfen
+		Während du unter dem Einfluss von Göttlichem Segen stehst, wird für jeden G�nstlinge, den du hast, ein Erzengel herbeigerufen, um dir im Kampf zu helfen
 		Jeder beschworene Engel heilt dich sofort um zwei Lebenspunkte
-		Alle Dienerangriffe fügen Verbrennungslähmung hinzu, und du erhältst einen flachen Gesundheitsschub von vier Gesundheitspunkten pro Sekunde
+		Alle G�nstlingeangriffe fügen Verbrennungslähmung hinzu, und du erhältst einen flachen Gesundheitsschub von vier Gesundheitspunkten pro Sekunde
 		Dieser Effekt hat eine Abklingzeit von 1 Minute
 		'''
 }
@@ -496,8 +496,8 @@ DarkSunRing: {
 	Tooltip:
 		'''
 		12% erhöhter Schaden
-		+1 Lebensregeneration und +2 maximale Diener
-		Erhöhte Diener-Rückstoßkraft
+		+1 Lebensregeneration und +2 maximale G�nstlinge
+		Erhöhte G�nstlinge-Rückstoßkraft
 		Während des Tages hat der Spieler +4 Lebensregeneration
 		Während der Nacht hat der Spieler +20 Verteidigung
 		Während einer Sonnenfinsternis hat der Spieler +2 Lebensregeneration und +10 Verteidigung
@@ -618,7 +618,7 @@ EldritchSoulArtifact: {
 	DisplayName: Eldritch Seelenartefakt
 	Tooltip:
 		'''
-		Erhöht Nahkampftempo um 10%, Distanzgeschwindigkeit um 25%, Schleich-Regeneration um 15%, maximale Diener um 1 und verringert Mana-Kosten um 25%
+		Erhöht Nahkampftempo um 10%, Distanzgeschwindigkeit um 25%, Schleich-Regeneration um 15%, maximale G�nstlinge um 1 und verringert Mana-Kosten um 25%
 		Gewährt Immunität gegen Flüstertod
 		Wissen
 		'''
@@ -849,7 +849,7 @@ GodlySoulArtifact: {
 	DisplayName: Göttliches Seelenartefakt
 	Tooltip:
 		'''
-		Für jeden beschworenen Feuerdrakonid erhältst du einen Diener-Slot
+		Für jeden beschworenen Feuerdrakonid erhältst du einen G�nstlinge-Slot
 		Loyalität
 		'''
 }
@@ -884,9 +884,9 @@ HallowedRune: {
 	DisplayName: Geweihte Rune
 	Tooltip:
 		'''
-		Wann immer deine Diener einen Feind treffen, erhältst du einen zufälligen Buff. Stapelt sich nicht mit Downgrades.
+		Wann immer deine G�nstlinge einen Feind treffen, erhältst du einen zufälligen Buff. Stapelt sich nicht mit Downgrades.
 		Diese Buffs erhöhen entweder deine Verteidigung, den Beschwörungsschaden oder die Lebensregeneration für eine Weile.
-		Wenn du den offensiven Buff hast, werden Feinde, die von Dienern getroffen werden, manchmal von Sternen getroffen.
+		Wenn du den offensiven Buff hast, werden Feinde, die von G�nstlingen getroffen werden, manchmal von Sternen getroffen.
 		'''
 }
 
@@ -969,8 +969,8 @@ JellyChargedBattery: {
 	DisplayName: Geleegeladene Batterie
 	Tooltip:
 		'''
-		+1 maximale Diener und 7% Beschwörungsschaden
-		Dienerangriffe lassen Energieorbs entstehen und fügen Gegnern Elektrisiert hinzu.
+		+1 maximale G�nstlinge und 7% Beschwörungsschaden
+		G�nstlingeangriffe lassen Energieorbs entstehen und fügen Gegnern Elektrisiert hinzu.
 		'''
 }
 
@@ -1131,8 +1131,8 @@ NuclearFuelRod: {
 	DisplayName: Kernbrennstab
 	Tooltip:
 		'''
-		Diener setzen bei Treffern eine strahlende Aura frei.
-		+1 maximale Diener.
+		G�nstlinge setzen bei Treffern eine strahlende Aura frei.
+		+1 maximale G�nstlinge.
 		Gewährt Immunität gegen Strahlung.
 		'''
 }
@@ -1141,12 +1141,12 @@ Nucleogenesis: {
 	DisplayName: Nukleogenese
 	Tooltip:
 		'''
-		Erhöht die maximale Anzahl der Diener um 4; stapelt sich nicht mit Downgrades.
+		Erhöht die maximale Anzahl der G�nstlinge um 4; stapelt sich nicht mit Downgrades.
 		Gewährt Immunität gegen Schattenflamme und Strahlung.
 		15% erhöhter Beschwörungsschaden.
-		Erhöhte Diener-Rückstoßkraft.
-		Diener fügen verschiedene Debuffs zu.
-		Diener erzeugen bei Treffern schädigende Funken.
+		Erhöhte G�nstlinge-Rückstoßkraft.
+		G�nstlinge fügen verschiedene Debuffs zu.
+		G�nstlinge erzeugen bei Treffern schädigende Funken.
 		'''
 }
 
@@ -1231,9 +1231,9 @@ PhantomicArtifact: {
 	DisplayName: Phantasmatisches Artefakt
 	Tooltip:
 		'''
-		Wann immer deine Diener einen Feind treffen, erhältst du einen zufälligen phantasmatischen Buff. Stapelt sich nicht mit Downgrades.
+		Wann immer deine G�nstlinge einen Feind treffen, erhältst du einen zufälligen phantasmatischen Buff. Stapelt sich nicht mit Downgrades.
 		Diese Buffs erhöhen entweder deine Verteidigung, den Beschwörungsschaden oder die Lebensregeneration für eine Weile.
-		Wenn du den offensiven Buff hast, werden Feinde, die von Dienern getroffen werden, manchmal von phantasmatischen Messern getroffen.
+		Wenn du den offensiven Buff hast, werden Feinde, die von G�nstlingen getroffen werden, manchmal von phantasmatischen Messern getroffen.
 		Wenn du den regenerativen Buff hast, erscheint gelegentlich ein phantasmatisches Herz, das massive Lebensregeneration gewährt.
 		Wenn du den defensiven Buff hast, absorbiert ein phantasmatischer Bollwerk 20% des Schadens des nächsten Projektils, das es trifft, und zerbricht dabei.
 		'''
@@ -1266,7 +1266,7 @@ ProfanedSoulArtifact: {
 		'''
 		Beschwört einen Heilungswächter, der alle paar Sekunden eine bestimmte Menge an Gesundheit heilt.
 		Beschwört einen Verteidigungswächter, der deine Bewegungsgeschwindigkeit und Schadensresistenz erhöht.
-		Beschwört einen Offensivwächter, der deine Dienerplätze erhöht.
+		Beschwört einen Offensivwächter, der deine G�nstlingeplätze erhöht.
 		Wenn du getroffen wirst, verschwinden die meisten ihrer Effekte für 5 Sekunden.
 		Reinheit
 		'''
@@ -1284,7 +1284,7 @@ ProfanedSoulCrystal: {
 	Reject: Händler werden eine verunreinigte Seele wie diese ablehnen.
 	FullTooltip:
 		'''
-		Erfordert 10 Diener-Slots, um die folgenden Effekte zu gewähren
+		Erfordert 10 G�nstlinge-Slots, um die folgenden Effekte zu gewähren
 		Alle nicht-Beschwörungswaffen werden in leistungsstarke Beschwörungsvarianten umgewandelt
 		Fällt das Leben unter 50%, werden diese Angriffe verstärkt
 		[c/F05A5A:Verwandelt Nahkampfangriffe in ein Sperrfeuer von Speeren]
@@ -1525,7 +1525,7 @@ SpiritGlyph: {
 	DisplayName: Geistglyph
 	Tooltip:
 		'''
-		Wann immer deine Diener einen Feind treffen, erhältst du einen zufälligen Buff
+		Wann immer deine G�nstlinge einen Feind treffen, erhältst du einen zufälligen Buff
 		Diese Buffs werden entweder deine Verteidigung, den Beschwörungsschaden oder die Lebensregeneration für eine Weile erhöhen
 		'''
 }
@@ -1535,7 +1535,7 @@ StarbusterCore: {
 	Tooltip:
 		'''
 		Summons lösen bei Treffern eine astrale Explosion aus
-		+1 maximales Diener
+		+1 maximales G�nstlinge
 		'''
 }
 
@@ -1543,9 +1543,9 @@ StarTaintedGenerator: {
 	DisplayName: Sternenverseuchter Generator
 	Tooltip:
 		'''
-		+2 maximale Diener, stapelt sich nicht mit Abstufungen
+		+2 maximale G�nstlinge, stapelt sich nicht mit Abstufungen
 		7% erhöhter Beschwörungsschaden
-		Diener-Angriffe erzeugen astrale Explosionen und verursachen mehrere Debuffs
+		G�nstlinge-Angriffe erzeugen astrale Explosionen und verursachen mehrere Debuffs
 		Gewährt Immunität gegen Bestrahlt
 		'''
 }
@@ -1554,9 +1554,9 @@ StatisBlessing: {
 	DisplayName: Statis' Segen
 	Tooltip:
 		'''
-		Erhöht maximale Diener um 2 und den Beschwörungsschaden um 10%
-		Erhöht den Diener-Nachstoß
-		Diener verursachen heilige Flammen beim Treffer
+		Erhöht maximale G�nstlinge um 2 und den Beschwörungsschaden um 10%
+		Erhöht den G�nstlinge-Nachstoß
+		G�nstlinge verursachen heilige Flammen beim Treffer
 		'''
 }
 
@@ -1564,10 +1564,10 @@ StatisCurse: {
 	DisplayName: Statis' Fluch
 	Tooltip:
 		'''
-		Erhöht maximale Diener um 3, stapelt sich nicht mit Abstufungen
+		Erhöht maximale G�nstlinge um 3, stapelt sich nicht mit Abstufungen
 		10% erhöhter Beschwörungsschaden
-		Erhöht den Diener-Nachstoß
-		Diener verursachen heilige Flammen und Schattenflammen beim Treffer
+		Erhöht den G�nstlinge-Nachstoß
+		G�nstlinge verursachen heilige Flammen und Schattenflammen beim Treffer
 		Gewährt Immunität gegen Schattenflamme
 		'''
 }
@@ -1640,7 +1640,7 @@ StatMeter: {
 	// Class stats
 	RangedStats: Munitionsverbrauch Chance: {0}
 	MagicStats: Manaverbrauch: {0}% | Mana Regeneration: {1}
-	SummonStats: Diener-Slots: {0} | Wachposten-Slots: {1}
+	SummonStats: G�nstlinge-Slots: {0} | Wachposten-Slots: {1}
 	WhipStats: Peitschenreichweite: {0}%
 	RogueStats:
 		'''
@@ -1779,7 +1779,7 @@ TheFirstShadowflame: {
 	DisplayName: Die Erste Schattenflamme
 	Tooltip:
 		'''
-		Erhöht die maximalen Diener um 1, und Diener fügen Feinden den Schattenflammen-Debuff zu
+		Erhöht die maximalen G�nstlinge um 1, und G�nstlinge fügen Feinden den Schattenflammen-Debuff zu
 		Gewährt Immunität gegen Schattenflammen
 		'''
 }
@@ -1902,8 +1902,8 @@ VoltaicJelly: {
 	DisplayName: Voltaisches Gelee
 	Tooltip:
 		'''
-		+1 maximale Diener
-		Diener-Angriffe fügen Elektrifiziert zu
+		+1 maximale G�nstlinge
+		G�nstlinge-Angriffe fügen Elektrifiziert zu
 		'''
 }
 

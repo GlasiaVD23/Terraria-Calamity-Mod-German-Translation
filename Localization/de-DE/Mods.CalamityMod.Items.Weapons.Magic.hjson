@@ -32,7 +32,7 @@ AlphaRay: {
 	Tooltip:
 		'''
 		Zerstört alles mit einem Dreifachstrahl aus Energie und Lasern
-		Drücke <right>, um einen Y-förmigen Strahl zerstörerischer Energie und eine Ausbreitung von Laserstrahlen abzufeuern
+		Drücke Rechte Maustaste, um einen Y-förmigen Strahl zerstörerischer Energie und eine Ausbreitung von Laserstrahlen abzufeuern
 		'''
 }
 
@@ -308,7 +308,7 @@ FaceMelter: {
 	Tooltip:
 		'''
 		Schleudert Noten ab
-		Drücke <right>, um einen Verstärker zu beschwören, der in Richtung deines Mauszeigers schießt
+		Drücke Rechte Maustaste, um einen Verstärker zu beschwören, der in Richtung deines Mauszeigers schießt
 		'WOOO!! FANTASIEWELT!'
 		'''
 }
@@ -494,7 +494,7 @@ MadAlchemistsCocktailGlove: {
 	Tooltip:
 		'''
 		Schießt verschiedene hochgeschwindige Fläschchen ab
-		Drücke <right>, um eine Prismenflasche zu werfen, die viele Debuffs verursacht
+		Drücke Rechte Maustaste, um eine Prismenflasche zu werfen, die viele Debuffs verursacht
 		Rote Fläschchen explodieren heftig
 		Blaue Fläschchen enthalten Giftgas					
 		Grüne Fläschchen rufen Mondflares auf
@@ -575,7 +575,7 @@ PlasmaRifle: {
 	Tooltip:
 		'''
 		Feuert einen Plasmablast ab, der explodiert
-		Drücke <right>, um schnell Plasmabolzen abzufeuern
+		Drücke Rechte Maustaste, um schnell Plasmabolzen abzufeuern
 		'''
 }
 
@@ -686,7 +686,7 @@ SHPC: {
 	TooltipNormal:
 		'''
 		Feuert Plasmakugeln ab, die verweilen und massive Explosionen auslösen
-		Drücke <right>, um kraftvolle Energiebündel abzufeuern
+		Drücke Rechte Maustaste, um kraftvolle Energiebündel abzufeuern
 		'''
 	TooltipGFB: Es skaliert wieder :)
 }
@@ -730,10 +730,10 @@ SubsumingVortex: {
 	DisplayName: Verschlingender Wirbel
 	Tooltip:
 		'''
-		Drücke <left>, um einen Hagel von Wirbeln freizugeben, die sich auf Feinde zubewegen
-		Drücke <right>, um einen riesigen Wirbel vor dir zu zaubern, der eine Neigung zur Maus hat
+		Drücke Linke Maustaste, um einen Hagel von Wirbeln freizugeben, die sich auf Feinde zubewegen
+		Drücke Rechte Maustaste, um einen riesigen Wirbel vor dir zu zaubern, der eine Neigung zur Maus hat
 		Wenn Feinde in der Nähe des Wirbels sind, sendet er mehrere schnell bewegende kleinere Wirbel auf sie zu
-		Nach ausreichender Zeit hört der Wirbel auf zu schießen, und das Drücken von <right> feuert den Wirbel auf die Maus
+		Nach ausreichender Zeit hört der Wirbel auf zu schießen, und das Drücken von Rechte Maustaste feuert den Wirbel auf die Maus
 		'''
 }
 
@@ -846,7 +846,7 @@ VeeringWind: {
 	Tooltip:
 		'''
 		Wirft eine kreisförmige Verbreitung von Windwellen mit hoher Rückstoßkraft ab
-		Drücke <right>, um eine kreisförmige Verbreitung von Frostwellen abzufeuern
+		Drücke Rechte Maustaste, um eine kreisförmige Verbreitung von Frostwellen abzufeuern
 		'''
 }
 
@@ -865,7 +865,7 @@ Vesuvius: {
 	Tooltip:
 		'''
 		Ruft einen Schwarm geschmolzener Asteroiden herbei
-		Drücke <right>, um eine Verbreitung geschmolzener Asteroiden aus dem Stab abzufeuern
+		Drücke Rechte Maustaste, um eine Verbreitung geschmolzener Asteroiden aus dem Stab abzufeuern
 		'''
 }
 
@@ -933,7 +933,7 @@ WulfrumProsthesis: {
 	Tooltip:
 		'''
 		Wirft einen Wulfrum-Bolzen ab
-		Drücke <right>, um Mana von Kreaturen vor dir abzuziehen
+		Drücke Rechte Maustaste, um Mana von Kreaturen vor dir abzuziehen
 		[c/83B87E:'Technologie und Magie sind für immer in einen Wettlauf der Imitation und Vergeltung verstrickt.]
 		[c/83B87E:Manchmal arbeiten sie Hand in Hand, wie bei bestimmten Prothesen.']
 		'''

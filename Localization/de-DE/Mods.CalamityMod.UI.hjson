@@ -1,9 +1,9 @@
-// SmallWorldWarning: "[c/FF0000:SMALL WORLDS NOT SUPPORTED BY CALAMITY]"
+SmallWorldWarning: "[c/FF0000:KLEINE WELTEN WERDEN NICHT VON CALAMITY UNTERSTÜTZT]"
 // Main UI Elements
 Adrenaline: Adrenalin
 Nanomachines: Nanomaschinen
 Rage: Wut
-// Flight: "{0} Flight Remaining"
+Flight: "{0} Verbleibende Flug Kraft"
 Charge: Aktuelle Ladung
 DefenseDamage: Verteidigungs Schaden
 SulphurousWater: Schwefelvergiftungen

@@ -39,7 +39,7 @@ Animosity: {
 	Tooltip:
 		'''
 		Feuert ein leistungsstarkes Scharfschützengeschoss ab
-		Drücke <right>, um eine Salve von Kugeln abzufeuern
+		Drücke Rechte Maustaste, um eine Salve von Kugeln abzufeuern
 		50 % Chance, Munition zu sparen
 		'''
 }
@@ -102,7 +102,7 @@ Auralis: {
 	Tooltip:
 		'''
 		Feuert eine hochgeschwindige leuchtende Kugel ab, die verheerende Debuffs zufügt
-		Drücke <right>, um auszuzoomen
+		Drücke Rechte Maustaste, um auszuzoomen
 		Stehenbleiben gewährt einen zunehmenden Schadensbonus von bis zu 25 %
 		Stehenbleiben für 5 Sekunden oder länger während der Verwendung der Zielfernrohrfunktion ruft eine Aurora herbei
 		Die Aurora verringert den Schaden des nächsten Projektils, das um 100 getroffen wird
@@ -169,7 +169,7 @@ BlossomFlux: {
 	Tooltip:
 		'''
 		Feuert einen Strom von Blättern ab
-		Drücke <right>, um eine Sporenkugel abzufeuern, die in eine Wolke aus Sporengas explodiert
+		Drücke Rechte Maustaste, um eine Sporenkugel abzufeuern, die in eine Wolke aus Sporengas explodiert
 		'''
 }
 
@@ -202,7 +202,7 @@ ChickenCannon: {
 	Tooltip:
 		'''
 		Feuert Hühnerfackeln ab, die enorme Brandexplosionen erzeugen
-		Drücke <right>, um alle Luft-Raketen zu zünden
+		Drücke Rechte Maustaste, um alle Luft-Raketen zu zünden
 		'''
 }
 
@@ -248,8 +248,8 @@ Condemnation: {
 	Tooltip:
 		'''
 		Feuert mächtige scharlachrote Bolzen ab, durchdrungen von hasserfüllter Magie
-		Halte <left> gedrückt, um bis zu neun Bolzen für mächtiges Salvenfeuer zu laden
-		Halte <right> gedrückt, um den Repetierer vollautomatisch zu verwenden
+		Halte Linke Maustaste gedrückt, um bis zu neun Bolzen für mächtiges Salvenfeuer zu laden
+		Halte Rechte Maustaste gedrückt, um den Repetierer vollautomatisch zu verwenden
 		'''
 }
 
@@ -292,7 +292,7 @@ CorinthPrime: {
 	Tooltip:
 		'''
 		Feuert eine enge Salve von 6 Hochgeschwindigkeitskugeln ab
-		Drücke <right>, um eine Granate abzufeuern
+		Drücke Rechte Maustaste, um eine Granate abzufeuern
 		Die Granate löst eine massive Explosion aus, wenn sie 2 Sekunden lang nichts berührt
 		Andernfalls löst die Granate eine extrem schwache Explosion aus
 		Verwandelt Musketenkugeln in Hochgeschwindigkeits-Sprengkugeln
@@ -317,7 +317,7 @@ CrackshotColt: {
 	DisplayName: Rissige Colts
 	Tooltip:
 		'''
-		Drücke <right>, um eine Kupfermünze in die Luft zu werfen
+		Drücke Rechte Maustaste, um eine Kupfermünze in die Luft zu werfen
 		Ein Treffer einer Kugel auf eine Münze verursacht, dass sie in den nächsten Feind abprallt
 		Bis zu 4 Münzen können gleichzeitig geworfen werden, und Schüsse prallen von mehreren Münzen ab, wenn möglich
 		Abgeprallte Kugeln treffen immer kritisch
@@ -388,10 +388,10 @@ DragonsBreath: {
 	DisplayName: Drachenodem
 	Tooltip:
 		'''
-		Drücke <left>, um in Zwei-Schuss-Salven zu feuern
+		Drücke Linke Maustaste, um in Zwei-Schuss-Salven zu feuern
 		Der erste Schuss ist eine Streuung von 6 normalen Kugeln
 		Der zweite Schuss ist eine enge Streuung von 6 Drachenodem-Kugeln
-		Drücke <right>, um vollautomatisch zu feuern und die Kugeln zufällig zu mischen, aber 20% weniger Schaden zufügen
+		Drücke Rechte Maustaste, um vollautomatisch zu feuern und die Kugeln zufällig zu mischen, aber 20% weniger Schaden zufügen
 		Diese Waffe hat keine Zufälligkeit in ihrem Streuungsmuster
 		66% Chance, Munition zu sparen
 		'''
@@ -404,7 +404,7 @@ Drataliornus: {
 		Feuert einen eskalierenden Strom von Feuerbällen ab
 		Feuerbälle lassen Meteoriten regnen, hinterlassen Drachenspuren und feuern zusätzliche Bolzen mit maximaler Geschwindigkeit ab
 		Schaden beim Feuern des Stroms zu erleiden, unterbricht ihn und verringert deine Flugzeit mit den Flügeln
-		Drücke <right>, um zwei verheerende Salven aus fünf verstärkten Feuerbällen abzufeuern
+		Drücke Rechte Maustaste, um zwei verheerende Salven aus fünf verstärkten Feuerbällen abzufeuern
 		'Nur nicht getroffen werden'
 		'''
 }
@@ -451,7 +451,7 @@ FirestormCannon: {
 	Tooltip:
 		'''
 		Entlässt einen konstanten Strom von bewaffneten Leuchtkugeln
-		Drücke <right>, um eine konzentrierte Streuung von Leuchtkugeln abzufeuern
+		Drücke Rechte Maustaste, um eine konzentrierte Streuung von Leuchtkugeln abzufeuern
 		70% Chance, Munition zu sparen
 		'''
 }
@@ -494,8 +494,8 @@ FreedomStar: {
 	DisplayName: Freiheitsstern
 	Tooltip:
 		'''
-		Tippe <left>, um Energiekugeln abzufeuern
-		Halte <left> gedrückt, um einen Strahl zu laden und abzufeuern, der beim Treffer explodiert
+		Tippe Linke Maustaste, um Energiekugeln abzufeuern
+		Halte Linke Maustaste gedrückt, um einen Strahl zu laden und abzufeuern, der beim Treffer explodiert
 		'''
 }
 
@@ -550,7 +550,7 @@ HalleysInferno: {
 	Tooltip:
 		'''
 		Feuert einen brennenden blauen Kometen ab
-		Drücke <right>, um auszuzoomen
+		Drücke Rechte Maustaste, um auszuzoomen
 		50% Chance, Munition zu sparen
 		'Halley kam früher als erwartet'
 		'''
@@ -612,8 +612,8 @@ Hydra: {
 		'''
 		Feuert eine Streuung von 4 giftigen Kugeln ab
 		Bildet alle 3 Sekunden einen Waffenkopf, maximal 3 Köpfe
-		Drücke <left>, um bestehende Köpfe zu feuern
-		Drücke <right>, um die Köpfe für mächtigen Explosivschaden abzufeuern
+		Drücke Linke Maustaste, um bestehende Köpfe zu feuern
+		Drücke Rechte Maustaste, um die Köpfe für mächtigen Explosivschaden abzufeuern
 		[c/9D80B0:Fusion von schwerer Maschinerie und Lernaeanischem Blut]
 		'''
 }
@@ -623,7 +623,7 @@ Infinity: {
 	Tooltip:
 		'''
 		Feuert eine Salve von Energieschüssen ab, die sich aufspalten und abprallen
-		Drücke <right>, um eine Salve normaler Kugeln abzufeuern
+		Drücke Rechte Maustaste, um eine Salve normaler Kugeln abzufeuern
 		'Man sagt, die Unendlichkeit endet nie, doch du hältst sie in deinen Händen'
 		'''
 }
@@ -702,7 +702,7 @@ MidasPrime: {
 	DisplayName: Midas Prime
 	Tooltip:
 		'''
-		Drücke <right>, um eine Goldmünze oder Silbermünze in die Luft zu werfen
+		Drücke Rechte Maustaste, um eine Goldmünze oder Silbermünze in die Luft zu werfen
 		Wenn eine Kugel eine Münze trifft, prallt sie auf den nächstgelegenen Feind ab
 		Bis zu 4 Münzen können gleichzeitig geworfen werden, und Schüsse prallen von mehreren Münzen ab, wenn möglich
 		Abprallende Kugeln verursachen immer kritischen Schaden und zusätzlichen Schaden, der auf den verwendeten Münzen basiert
@@ -846,7 +846,7 @@ Photoviscerator: {
 	Tooltip:
 		'''
 		Feuert einen Strom von Exo-Flammen und Licht ab, die in heimische Funken explodieren
-		Drücke <right>, um leitende Leuchtraketen abzufeuern, die sich an Feinden festhalten und sie verbrennen
+		Drücke Rechte Maustaste, um leitende Leuchtraketen abzufeuern, die sich an Feinden festhalten und sie verbrennen
 		90 % Chance, Munition zu sparen
 		'''
 }
@@ -858,7 +858,7 @@ PlagueTaintedSMG: {
 		Schießt Pestgeschosse ab, die bei kritischen Treffern Drohnen erzeugen
 		Geschosse verursachen mehr Schaden und Rückstoß, je näher der Feind ist
 		Drohnen erzielen immer einen kritischen Treffer, wenn sie einen befallenen Feind treffen
-		Drücke <right>, um einen Schwarm von Drohnen abzufeuern
+		Drücke Rechte Maustaste, um einen Schwarm von Drohnen abzufeuern
 		'''
 }
 
@@ -900,13 +900,13 @@ PristineFury: {
 	Tooltip:
 		'''
 		Feuert eine intensive Spirale aus Flammen ab, die in eine Feuersäule explodiert
-		Drücke <right>, um eine kurzreichweitige Wolke langlebiger Flammen abzufeuern
+		Drücke Rechte Maustaste, um eine kurzreichweitige Wolke langlebiger Flammen abzufeuern
 		'''
 }
 
 Pumpler: {
 	DisplayName: Pumpler
-	Tooltip: Halte <left>, um bis zu fünf Kürbisgranaten auf einmal zu laden
+	Tooltip: Halte Linke Maustaste, um bis zu fünf Kürbisgranaten auf einmal zu laden
 }
 
 RealmRavager: {
@@ -961,7 +961,7 @@ Scorpio: {
 	DisplayName: Skorpion
 	Tooltip:
 		'''
-		Drücke <right>, um eine Atombombe abzufeuern
+		Drücke Rechte Maustaste, um eine Atombombe abzufeuern
 		Raketen zerstören Kacheln mit Kachel-zerstörender Munition
 		'BOOM'
 		'''
@@ -991,7 +991,7 @@ SeasSearing: {
 	Tooltip:
 		'''
 		Feuert eine Kette von Blasen ab, die bei Treffern einen Schauer von Blasen herbeirufen
-		Drücke <right>, um eine langsamere, größere Wasserexplosion abzufeuern, die einen Wasserstrudel herbeiruft
+		Drücke Rechte Maustaste, um eine langsamere, größere Wasserexplosion abzufeuern, die einen Wasserstrudel herbeiruft
 		'''
 }
 
@@ -1023,7 +1023,7 @@ Shredder: {
 	Tooltip:
 		'''
 		Feuert eine Salve von Energiebolzen ab, die sich teilen und abprallen
-		Drücke <right>, um eine Salve normaler Kugeln anstelle von Energiebolzen abzufeuern
+		Drücke Rechte Maustaste, um eine Salve normaler Kugeln anstelle von Energiebolzen abzufeuern
 		'Die Legende, die Waffe, die mehr Frames als jede andere fallen lässt'
 		'''
 }
@@ -1137,8 +1137,8 @@ SurgeDriver: {
 	DisplayName: Surge Driver
 	Tooltip:
 		'''
-		Drücke <left>, um einen Laserstrahl freizusetzen, der bei Kollision explodiert
-		Drücke <right>, um eine Salve von Laserstrahlen freizusetzen, die bei Treffern auf Feinde homing Energie freisetzen
+		Drücke Linke Maustaste, um einen Laserstrahl freizusetzen, der bei Kollision explodiert
+		Drücke Rechte Maustaste, um eine Salve von Laserstrahlen freizusetzen, die bei Treffern auf Feinde homing Energie freisetzen
 		'''
 }
 
@@ -1147,7 +1147,7 @@ Svantechnical: {
 	Tooltip:
 		'''
 		Feuert mehrere Salven von Kugeln ab
-		Drücke <right>, um herauszuzoomen
+		Drücke Rechte Maustaste, um herauszuzoomen
 		'''
 }
 
@@ -1194,9 +1194,9 @@ TheSevensStriker: {
 	DisplayName: Der Siebener-Schütze
 	Tooltip:
 		'''
-		Drücke <left>, um 1 Münze zu verbrauchen und eine Spielautomatenrunde zu spielen
+		Drücke Linke Maustaste, um 1 Münze zu verbrauchen und eine Spielautomatenrunde zu spielen
 		Die Qualität des Ergebnisses hängt von der verwendeten Münze ab
-		Drücke <right>, um eine Salve von Münzen schnell abzufeuern
+		Drücke Rechte Maustaste, um eine Salve von Münzen schnell abzufeuern
 		Die Münzsalve hat eine 80% ige Chance, Munition zu sparen und wird keine Platinmünzen abfeuern
 		'Eine Waffe für einen großartigen Revolverhelden
 		Geschmiedet von den Armen eines Mannes ohne Namen'

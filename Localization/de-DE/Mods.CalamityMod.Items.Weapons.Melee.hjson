@@ -23,7 +23,7 @@ AegisBlade: {
 	Tooltip:
 		'''
 		Ein Feind mit der Klinge zu schlagen verursacht einen erdigen Ausbruch
-		Drücke <right> um einen Aegis Bolzen abzufeuern
+		Drücke Rechte Maustaste um einen Aegis Bolzen abzufeuern
 		'''
 }
 
@@ -81,20 +81,20 @@ ArkoftheCosmos: {
 		'''
 	ComboInfo:
 		'''
-		<left>, um einen 5-Schwinger-Kombo auszuführen, der endet, indem du die Klinge wirfst
+		Linke Maustaste, um einen 5-Schwinger-Kombo auszuführen, der endet, indem du die Klinge wirfst
 		Die geworfene Klinge wird deinem Cursor folgen
 		Loslassen, während die Klinge draußen ist, wird eine explodierende Schnappbewegung auslösen
 		'''
 	ParryInfo:
 		'''
-		<right>, um die Scherenschneiden vor dir herauszuschneiden
+		Rechte Maustaste, um die Scherenschneiden vor dir herauszuschneiden
 		Einen Feind damit zu treffen wird sie parieren und dir kurzzeitig Unverwundbarkeit gewähren
 		Du kannst Projektile parieren, um sie für eine kurze Zeit um 160 Schaden zu reduzieren
 		Das Parieren von etwas wird die nächsten 10 Schwünge des Schwertes stärken
 		'''
 	BlastInfo:
 		'''
-		Das Drücken von <right> während des Haltens von NACH OBEN mit aufgeladenen Angriffen wird einen Big Rip im Raum-Zeit-Kontinuum hervorrufen und alle Angriffe verbrauchen
+		Das Drücken von Rechte Maustaste während des Haltens von NACH OBEN mit aufgeladenen Angriffen wird einen Big Rip im Raum-Zeit-Kontinuum hervorrufen und alle Angriffe verbrauchen
 		Wenn mehr als 5 Angriffe verwendet wurden, kannst du über den Riss hinwegschweben, indem du NACH OBEN gedrückt hältst
 		'''
 }
@@ -110,19 +110,19 @@ ArkoftheElements: {
 		'''
 	ComboInfo:
 		'''
-		<left> um eine 5-Schlag-Kombo auszuführen, die mit dem Werfen der Klinge endet
+		Linke Maustaste um eine 5-Schlag-Kombo auszuführen, die mit dem Werfen der Klinge endet
 		Loslassen, während die Klinge draußen ist, verursacht extra Schaden und gibt 2 Aufladungen
 		'''
 	ParryInfo:
 		'''
-		<right> um die Scherenklingen vor dir auszuschneiden
+		Rechte Maustaste um die Scherenklingen vor dir auszuschneiden
 		Ein Treffer auf einen Feind damit pariert ihn und gewährt dir kurzzeitig Unverwundbarkeit
 		Du kannst Projektile parieren, um ihnen für kurze Zeit 100 Schaden zu nehmen
 		Das Parieren wird die nächsten 10 Schläge des Schwerts stärken und dir erlauben, beide Klingen gleichzeitig zu benutzen
 		'''
 	BlastInfo:
 		'''
-		Drücke <right> während du NACH OBEN hältst und mit verstärkten Aufladungen einen Big Rip im Raum-Zeit-Gefüge hervorrufst und alle Aufladungen verbrauchst
+		Drücke Rechte Maustaste während du NACH OBEN hältst und mit verstärkten Aufladungen einen Big Rip im Raum-Zeit-Gefüge hervorrufst und alle Aufladungen verbrauchst
 		Wenn mehr als 5 Aufladungen verwendet wurden, kannst du über den Riss hinwegdüsen, indem du NACH OBEN hältst
 		'''
 }
@@ -207,7 +207,7 @@ BrimstoneSword: {
 	Tooltip:
 		'''
 		Beschwört Schwefelgeysire bei Treffern
-		Drücke <right>, um das Schwert wie eine Lanze zu werfen, die bei Treffern explodiert
+		Drücke Rechte Maustaste, um das Schwert wie eine Lanze zu werfen, die bei Treffern explodiert
 		'''
 }
 
@@ -216,7 +216,7 @@ BrinyBaron: {
 	Tooltip:
 		'''
 		Ein Treffer auf einen Feind mit der Klinge lässt einen salzigen Taifun erscheinen
-		Drücke <right>, um ein scharfes Aqua-Schwert aus Wind zu feuern
+		Drücke Rechte Maustaste, um ein scharfes Aqua-Schwert aus Wind zu feuern
 		'''
 }
 
@@ -226,8 +226,8 @@ BrokenBiomeBlade: {
 	Tooltip:
 		'''
 		[FUNK]
-		Halte <right> gedrückt, während du dich auf ebenem Boden stillhältst, um das Schwert auf die Kräfte des umgebenden Bioms abzustimmen
-		Drücken von <right> schaltet sonst zwischen der aktuellen Abstimmung und einer zusätzlichen gespeicherten um
+		Halte Rechte Maustaste gedrückt, während du dich auf ebenem Boden stillhältst, um das Schwert auf die Kräfte des umgebenden Bioms abzustimmen
+		Drücken von Rechte Maustaste schaltet sonst zwischen der aktuellen Abstimmung und einer zusätzlichen gespeicherten um
 		Hauptabstimmung: [ATT1]
 		Sekundäre Abstimmung: [ATT2]
 		'''
@@ -309,7 +309,7 @@ DeathsAscension: {
 	DisplayName: Death's Ascension
 	Tooltip:
 		'''
-		Drücke <right>, um einen Hagel von zielsuchendenn Sensen abzuschießen
+		Drücke Rechte Maustaste, um einen Hagel von zielsuchendenn Sensen abzuschießen
 		Du kannst die Hände des Todes selbst auf deinen spüren
 		'''
 }
@@ -320,7 +320,7 @@ DepthCrusher: {
 		'''
 		Das Treffen von Feinden verursacht den Crush-Depth-Debuff
 		Je niedriger die Verteidigung der Feinde ist, desto mehr Schaden verursachen sie durch diesen Debuff
-		Drücke <right>, um ohne das Zerstampfen von Wänden zu verwenden
+		Drücke Rechte Maustaste, um ohne das Zerstampfen von Wänden zu verwenden
 		'''
 }
 
@@ -462,10 +462,10 @@ Exoblade: {
 	DisplayName: Exoblade
 	Tooltip:
 		'''
-		Drücke <left>, um mehrere Energiebündel freizusetzen, die auf Feinde zielen und sie bei Treffern zerschneiden
-		Drücke <right>, um in Richtung des Cursors mit der Klinge zu rennen
+		Drücke Linke Maustaste, um mehrere Energiebündel freizusetzen, die auf Feinde zielen und sie bei Treffern zerschneiden
+		Drücke Rechte Maustaste, um in Richtung des Cursors mit der Klinge zu rennen
 		Feindtreffer von der Klinge während des Dash führen zu massivem Schaden und einem Rückstoß
-		Drücke <left> unmittelbar nach einem Rückstoß, um einen kraftvollen Schlag auszuführen, der bei Feindtreffern explodiert
+		Drücke Linke Maustaste unmittelbar nach einem Rückstoß, um einen kraftvollen Schlag auszuführen, der bei Feindtreffern explodiert
 		'''
 }
 
@@ -521,7 +521,7 @@ FourSeasonsGalaxia: {
 		[PASS]
 		Von irdischen Fesseln befreit und mit kosmischer Kraft durchströmt
 		Verfügt zu jeder Zeit über alle Abstimmungen
-		Drücken Sie <right>, um die Abstimmung des Schwertes je nach Position des Cursors zu ändern
+		Drücken Sie Rechte Maustaste, um die Abstimmung des Schwertes je nach Position des Cursors zu ändern
 		Aktuelle Abstimmung : [ATT]
 		Passiver Segen : [BLE]
 		'''
@@ -536,7 +536,7 @@ FracturedArk: {
 		'''
 	ParryInfo:
 		'''
-		<right>, um die Arche vor dir auszustrecken
+		Rechte Maustaste, um die Arche vor dir auszustrecken
 		Einen Feind damit zu treffen, wird ihn parieren und dir ein kleines Zeitfenster der Unverwundbarkeit gewähren
 		Du kannst auch Projektile parieren und sie vorübergehend dazu bringen, 50 Schaden weniger zu verursachen
 		Das Parieren stärkt die nächsten 10 Schwünge des Schwertes, erhöht den Schaden und ermöglicht das Werfen von Projektilen
@@ -677,7 +677,7 @@ IridescentExcalibur: {
 		'''
 		Erstarrt Feinde und heilt den Spieler bei Treffern
 		Fire Regenbogenstrahlen ab, die ihr Verhalten je nach ihrer Farbe ändern
-		Drücken Sie <right> für echtes Nahkampf
+		Drücken Sie Rechte Maustaste für echtes Nahkampf
 		'''
 }
 
@@ -703,7 +703,7 @@ LionHeart: {
 	Tooltip:
 		'''
 		Ruft eine Energiesexplosion bei Treffern auf Feinde herbei
-		Drücken Sie <right>, um für einige Sekunden eine Energieschale zu beschwören, die alle Schadensquellen halbiert
+		Drücken Sie Rechte Maustaste, um für einige Sekunden eine Energieschale zu beschwören, die alle Schadensquellen halbiert
 		Dies hat eine Abklingzeit von 45 Sekunden
 		'''
 }
@@ -804,8 +804,8 @@ OldLordClaymore: {
 	DisplayName: Alter Lord Claymore
 	Tooltip:
 		'''
-		Wenn <right> gedrückt wird, wird schnell Energie in die Klinge aufgenommen, bis sie aufgeladen ist
-		Drücke <left>, wenn aufgeladen, um in Richtung des Cursors zu fliegen
+		Wenn Rechte Maustaste gedrückt wird, wird schnell Energie in die Klinge aufgenommen, bis sie aufgeladen ist
+		Drücke Linke Maustaste, wenn aufgeladen, um in Richtung des Cursors zu fliegen
 		Die Verwendung des Stoßes setzt die Ladung der Klinge auf null zurück
 		'''
 }
@@ -817,8 +817,8 @@ OmegaBiomeBlade: {
 		'''
 		[FUNC]
 		[PASS]
-		Halte <right> 2 Sekunden lang gedrückt, um die Waffe auf die Kräfte des umgebenden Bioms abzustimmen
-		Drücken von <right> für eine kürzere Zeitperiode wechselt zwischen deinen aktiven und passiven Einstimmungen
+		Halte Rechte Maustaste 2 Sekunden lang gedrückt, um die Waffe auf die Kräfte des umgebenden Bioms abzustimmen
+		Drücken von Rechte Maustaste für eine kürzere Zeitperiode wechselt zwischen deinen aktiven und passiven Einstimmungen
 		Aktive Einstimmung:  [ATT1]
 		Passive Einstimmung: [ATT2]
 		'''
@@ -902,7 +902,7 @@ PrismaticBreaker: {
 	Tooltip:
 		'''
 		Feuert, um einen leistungsstarken Regenbogenlaser aufzuladen
-		Drücke <right>, um stattdessen das Schwert zu schwingen und Regenbogen-farbene Wellen abzufeuern
+		Drücke Rechte Maustaste, um stattdessen das Schwert zu schwingen und Regenbogen-farbene Wellen abzufeuern
 		Das Schwert wird sowohl durch Nah- als auch durch Fernkampfschaden verstärkt
 		Scheint zu einem bestimmten magischen Mädchen zu gehören. Strahlt mit intensiver kosmischer Energie
 		'''
@@ -966,8 +966,8 @@ Roxcalibur: {
 	// The WOF tag generates a new line above when placed at the start of a line
 	Tooltip:
 		'''
-		[WOF]Drücke <left>, um mehrere Felsbrocken abzuschießen
-		Drücke <right>, um abzutauchen und von Feinden abzuprallen
+		[WOF]Drücke Linke Maustaste, um mehrere Felsbrocken abzuschießen
+		Drücke Rechte Maustaste, um abzutauchen und von Feinden abzuprallen
 		Beim Eintauchen in Blöcke entsteht eine Schockwelle
 		Du konntest es nicht aus dem Felsen ziehen, also hast du stattdessen den Felsen mitgenommen
 		'''
@@ -1111,8 +1111,8 @@ StygianShield: {
 	DisplayName: Stygianischer Schild
 	Tooltip:
 		'''
-		Halte <left>, um einen omni-direktionalen Dash aufzuladen, der durch Feinde hindurchschlägt
-		<right>, um einen Buckler zu werfen, der bei Kollision in Richtung eines nahegelegenen Feindes abprallt
+		Halte Linke Maustaste, um einen omni-direktionalen Dash aufzuladen, der durch Feinde hindurchschlägt
+		Rechte Maustaste, um einen Buckler zu werfen, der bei Kollision in Richtung eines nahegelegenen Feindes abprallt
 		Gewährt Immunität gegen Rückstoß und {0} Verteidigung während des Halten
 		Jedoch sind Dashes deaktiviert, bis du dieses Waffen für {1} Sekunden loslässt
 		'''
@@ -1274,8 +1274,8 @@ TrueBiomeBlade: {
 	Tooltip:
 		'''
 		[FUNC]
-		Halte <right> gedrückt, während du dich still auf flachem Boden befindest, um die Waffe auf die Kräfte der umgebenden Biome einzustellen
-		Das Drücken von <right> schaltet sonst zwischen der aktuellen Stimmung und einer zusätzlichen gespeicherten um
+		Halte Rechte Maustaste gedrückt, während du dich still auf flachem Boden befindest, um die Waffe auf die Kräfte der umgebenden Biome einzustellen
+		Das Drücken von Rechte Maustaste schaltet sonst zwischen der aktuellen Stimmung und einer zusätzlichen gespeicherten um
 		Hauptstimmung : [ATT1]
 		Nebenstimmung: [ATT2]
 		'''
@@ -1370,7 +1370,7 @@ WulfrumScrewdriver: {
 	Tooltip:
 		'''
 		Kann verwendet werden, um Feinde schnell und königlich zu überlisten
-		Ein Feind zu treffen, gibt dir manchmal eine Wulfrum-Schraube, die du mit <right> werfen kannst
+		Ein Feind zu treffen, gibt dir manchmal eine Wulfrum-Schraube, die du mit Rechte Maustaste werfen kannst
 		Schlage eine geworfene Schraube mit dem Schraubendreher, um sie mit hoher Geschwindigkeit vorwärts zu schießen
 		[c/83B87E:'Wer macht Schlitzschrauben so groß?? Wofür soll ich das verwenden?!]
 		[c/83B87E:Dieses Ding könnte ein Auge ausschalten!']
@@ -1384,7 +1384,7 @@ YateveoBloom: {
 		'''
 		Eine Synthese aus Dschungelflora
 		Wirft einen kraftvollen Rosen-Morgenstern
-		Drücke <right>, um mit einer Blumenlanze zu stechen
+		Drücke Rechte Maustaste, um mit einer Blumenlanze zu stechen
 		'''
 }
 

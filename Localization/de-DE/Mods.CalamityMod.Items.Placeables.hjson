@@ -2776,7 +2776,7 @@ EyeOfTheAccursedBanner: {
 
 LargeRitualCandle: {
 	DisplayName: Große Ritualkerze
-	Tooltip: Drücke <right>, um in einem anderen Stil zu platzieren
+	Tooltip: Drücke Rechte Maustaste, um in einem anderen Stil zu platzieren
 }
 
 MonolithOfTheAccursed: {
@@ -2805,7 +2805,7 @@ OccultPlatformItem: {
 
 RitualCandle: {
 	DisplayName: Ritualkerze
-	Tooltip: Drücke <right>, um in einem anderen Stil zu platzieren
+	Tooltip: Drücke Rechte Maustaste, um in einem anderen Stil zu platzieren
 }
 
 SacrilegiousBathtub: {

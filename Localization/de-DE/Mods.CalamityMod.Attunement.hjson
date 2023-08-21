@@ -8,7 +8,7 @@ HotAttunement: {
 	Name: Trockene Pracht
 	Function:
 		'''
-		Halte <left> gedrückt, um brennende Klingen vor dich zu zaubern, die größer und stärker werden, je mehr Gegner du triffst.
+		Halte Linke Maustaste gedrückt, um brennende Klingen vor dich zu zaubern, die größer und stärker werden, je mehr Gegner du triffst.
 		Die Klingen können auch verwendet werden, um von Feldern abzuprallen, wenn sie in der Luft sind.
 		'''
 }
@@ -51,7 +51,7 @@ TrueHotAttunement: {
 	Name: Trockene Pracht
 	Function:
 		'''
-		Halte <left> gedrückt, um brennende Klingen vor dich zu zaubern, die größer und stärker werden, je mehr Gegner du triffst.
+		Halte Linke Maustaste gedrückt, um brennende Klingen vor dich zu zaubern, die größer und stärker werden, je mehr Gegner du triffst.
 		Die Klingen können auch verwendet werden, um von Feldern abzuprallen, wenn du in der Luft sind.
 		Wenn du die Klingen loslässt, nachdem du vollständig aufgeladen sind, wirst du nach vorne geschleudert und zerfetzen deine Feinde.
 		'''
@@ -90,7 +90,7 @@ HolyAttunement: {
 	Name: Die Macht des Himmels
 	Function:
 		'''
-		Halte <left> gedrückt, um das Schwert um dich herum zu schwingen, welches sich mit der Zeit beschleunigt.
+		Halte Linke Maustaste gedrückt, um das Schwert um dich herum zu schwingen, welches sich mit der Zeit beschleunigt.
 		Beim Loslassen wird das Schwert in Richtung des Cursors geschleudert. Das Schwert kehrt dann schnell in deine Hand zurück
 		'''
 }
@@ -99,7 +99,7 @@ AstralAttunement: {
 	Name: Bestehende Abscheu
 	Function:
 		'''
-		Halte <left> gedrückt, um einen sternhagelvollen Ausfallschritt auszuführen, und lass los, um den verheerenden Schlag zu entfesseln.
+		Halte Linke Maustaste gedrückt, um einen sternhagelvollen Ausfallschritt auszuführen, und lass los, um den verheerenden Schlag zu entfesseln.
 		Das Auftreffen auf die Erde mit dem Ausfallschritt verursacht einen massiven Aufprall, der jenseitige Monolithen aufwirft.
 		'''
 }
@@ -118,7 +118,7 @@ WhirlwindAttunement: {
 	Name: Der Stolz des Schwertschmieds
 	Function:
 		'''
-		Halte <left> gedrückt, um das Schwert um dich herum zu schwingen, welches sich mit der Zeit beschleunigt. Schwertstrahlen werden beim Schwingen wild abgefeuert
+		Halte Linke Maustaste gedrückt, um das Schwert um dich herum zu schwingen, welches sich mit der Zeit beschleunigt. Schwertstrahlen werden beim Schwingen wild abgefeuert
 		Loslassen schleudert das Schwert in Richtung des Cursors. Schwertstrahlen treffen die vom geworfenen Schwert getroffenen Gegner
 		'''
 	PassiveDesc: Alle Angriffe haben eine Chance, Schwertstrahlen abzufeuern.
@@ -138,7 +138,7 @@ SuperPogoAttunement: {
 	Name: Sanguinischer Zorn
 	Function:
 		'''
-		Halte <left> gedrückt, um geschmolzene Klingen vor dir zu beschwören, die größer und stärker werden, je mehr Feinde du triffst.
+		Halte Linke Maustaste gedrückt, um geschmolzene Klingen vor dir zu beschwören, die größer und stärker werden, je mehr Feinde du triffst.
 		Die Klingen können auch verwendet werden, um in der Luft von Feldern abzuprallen.
 		Beim Loslassen werden die geladenen Klingen wie ein Rad nach vorne geschleudert.
 		Unmittelbar danach greift er erneut an und zerfetzt alles, was sich ihm in den Weg stellt.
@@ -150,7 +150,7 @@ ShockwaveAttunement: {
 	Name: Merkurische Gezeiten
 	Function:
 		'''
-		Halte <left> gedrückt, um einen himmelstürmenden Ausfallschritt auszuführen, und lass los, um den verheerenden Schlag zu entfesseln.
+		Halte Linke Maustaste gedrückt, um einen himmelstürmenden Ausfallschritt auszuführen, und lass los, um den verheerenden Schlag zu entfesseln.
 		Wenn sich das Schwert auflädt, werden Schockwellen ausgestoßen.
 		Der Aufprall auf die Erde wird eine massive Schockwelle auslösen, die eine Flut von Monolithen aufwirft.
 		'''
@@ -162,7 +162,7 @@ PhoenixAttunement: {
 	Name: Der Stolz des Phoenix
 	Function:
 		'''
-		<left>, um Galaxia um dich herum zu schwingen, wobei sie sich mit der Zeit beschleunigt.
+		Linke Maustaste, um Galaxia um dich herum zu schwingen, wobei sie sich mit der Zeit beschleunigt.
 		Der wirbelnde Nebel sendet ständig zielsuchenden kosmische Blitze aus.
 		Loslassen, um Galaxia zusammen mit 6 gigantischen kosmischen Blitzen in Richtung des Cursors zu schleudern
 		'''
@@ -194,10 +194,10 @@ PolarisAttunement: {
 	Name: Der Blick von Polaris
 	Function:
 		'''
-		Halte <left> gedrückt, um Galaxias Kraft in einen engen Wirbel galaktischer Energien zu lenken.
+		Halte Linke Maustaste gedrückt, um Galaxias Kraft in einen engen Wirbel galaktischer Energien zu lenken.
 		Der Wirbel verstärkt sich mit der Zeit und wenn du Feinde triffst.
 		Loslassen, um den geladenen Stern in gerader Linie abzuschießen
-		Drücke sofort wieder <left>, um auf den Stern zuzustürmen und kosmische Blitze abzuschießen.
+		Drücke sofort wieder Linke Maustaste, um auf den Stern zuzustürmen und kosmische Blitze abzuschießen.
 		'''
 	PassiveName: Der Segen des Krebses
 	PassiveDesc:
@@ -211,7 +211,7 @@ AndromedaAttunement: {
 	Name: Der Gang von Andromeda
 	Function:
 		'''
-		Halte <left> gedrückt, um einen götterverachtenden Ausfallschritt zu machen, und lass los, um den verheerenden Schlag zu entfesseln.
+		Halte Linke Maustaste gedrückt, um einen götterverachtenden Ausfallschritt zu machen, und lass los, um den verheerenden Schlag zu entfesseln.
 		Galaxia stößt beim Aufladen kosmische Blitze aus.
 		Wenn du dich in den Boden stürzt, wird eine Schockwelle ausgelöst, die einen Sturm kosmischer Energien hervorruft.
 		'''

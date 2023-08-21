@@ -12,7 +12,7 @@ AstralHelm: {
 	Tooltip: Gefahrenerkennung
 	SetBonus:
 		'''
-		5 % erhöhte Bewegungsgeschwindigkeit und +3 maximale Diener
+		5 % erhöhte Bewegungsgeschwindigkeit und +3 maximale G�nstlinge
 		35 % erhöhter Schaden und 25 % erhöhte kritische Trefferchance
 		Wenn du einen Feind kritisch triffst, regnet es einen Hagel von Sternen
 		Dieser Effekt hat eine Abklingzeit von 1 Sekunde, bevor er erneut ausgelöst werden kann
@@ -142,7 +142,7 @@ DaedalusHeadSummon: {
 	Tooltip: 5 % erhöhter Beschwörungsschaden
 	SetBonus:
 		'''
-		20 % erhöhter Beschwörungsschaden und +2 maximale Diener
+		20 % erhöhter Beschwörungsschaden und +2 maximale G�nstlinge
 		Ein Daedalus-Kristall schwebt über dir, um dich zu schützen
 		'''
 }
@@ -186,7 +186,7 @@ FathomSwarmerVisage: {
 		'''
 	SetBonus:
 		'''
-		10 % erhöhter Beschwörungsschaden und +2 maximale Diener
+		10 % erhöhter Beschwörungsschaden und +2 maximale G�nstlinge
 		Gewährt die Fähigkeit, Wände zu erklimmen
 		Erhöhter Beschwörungsschaden um 30 %, während du in Flüssigkeiten eingetaucht bist
 		Bietet eine moderate Menge Licht und reduziert den Atemverlust im Abyss moderat
@@ -283,10 +283,10 @@ HydrothermicHeadRogue: {
 
 HydrothermicHeadSummon: {
 	DisplayName: Hydrothermischer Helm
-	Tooltip: 5 % erhöhter Beschwörungsschaden und erhöhter Diener-Rückstoß
+	Tooltip: 5 % erhöhter Beschwörungsschaden und erhöhter G�nstlinge-Rückstoß
 	SetBonus:
 		'''
-		40 % erhöhter Beschwörungsschaden und +2 maximale Diener
+		40 % erhöhter Beschwörungsschaden und +2 maximale G�nstlinge
 		Beschwört einen hydrothermischen Ventilator, um dich zu schützen
 		'''
 }
@@ -402,8 +402,8 @@ PlaguebringerVisor: {
 	SetBonus:
 		'''
 		Gewährt einen Seuchenstoß, der durch Feinde hindurchschlagen kann, ohne Schaden zu nehmen
-		Beschwört einen kleinen Seuchenträger, der dich schützt und nahe Diener stärkt
-		+3 maximale Diener
+		Beschwört einen kleinen Seuchenträger, der dich schützt und nahe G�nstlinge stärkt
+		+3 maximale G�nstlinge
 		'''
 }
 

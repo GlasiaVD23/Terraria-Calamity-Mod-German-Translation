@@ -93,7 +93,7 @@ DragoonDrizzlefish: {
 
 Havocfish: {
 	DisplayName: Chaosfisch
-	Tooltip: Drücke <right>, um die Essenz zu extrahieren
+	Tooltip: Drücke Rechte Maustaste, um die Essenz zu extrahieren
 }
 
 Shadowfish: {
@@ -183,32 +183,32 @@ EnchantedStarfish: {
 
 FishofEleum: {
 	DisplayName: Fisch von Eleum
-	Tooltip: Drücke <right>, um die Essenz zu extrahieren
+	Tooltip: Drücke Rechte Maustaste, um die Essenz zu extrahieren
 }
 
 FishofFlight: {
 	DisplayName: Fisch des Fluges
-	Tooltip: Drücke <right>, um Seelen zu extrahieren
+	Tooltip: Drücke Rechte Maustaste, um Seelen zu extrahieren
 }
 
 FishofLight: {
 	DisplayName: Fisch des Lichts
-	Tooltip: Drücke <right>, um Seelen zu extrahieren
+	Tooltip: Drücke Rechte Maustaste, um Seelen zu extrahieren
 }
 
 FishofNight: {
 	DisplayName: Fisch der Nacht
-	Tooltip: Drücke <right>, um Seelen zu extrahieren
+	Tooltip: Drücke Rechte Maustaste, um Seelen zu extrahieren
 }
 
 GlimmeringGemfish: {
 	DisplayName: Funkelnder Edelsteinfisch
-	Tooltip: Drücke <right>, um Edelsteine zu extrahieren
+	Tooltip: Drücke Rechte Maustaste, um Edelsteine zu extrahieren
 }
 
 Gorecodile: {
 	DisplayName: Blutkrokodil
-	Tooltip: Drücke <right>, um Blutkugeln zu extrahieren
+	Tooltip: Drücke Rechte Maustaste, um Blutkugeln zu extrahieren
 }
 
 Spadefish: {
@@ -222,7 +222,7 @@ Spadefish: {
 
 StuffedFish: {
 	DisplayName: Gefüllter Fisch
-	Tooltip: Drücke <right>, um Kräuter und Samen zu extrahieren
+	Tooltip: Drücke Rechte Maustaste, um Kräuter und Samen zu extrahieren
 }
 
 SulphurousCrate: {
@@ -232,7 +232,7 @@ SulphurousCrate: {
 
 SunbeamFish: {
 	DisplayName: Sonnenstrahl-Fisch
-	Tooltip: Drücke <right>, um die Essenz zu extrahieren
+	Tooltip: Drücke Rechte Maustaste, um die Essenz zu extrahieren
 }
 
 // Fishing Rods

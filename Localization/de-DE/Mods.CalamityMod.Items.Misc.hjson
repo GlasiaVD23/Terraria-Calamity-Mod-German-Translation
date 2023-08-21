@@ -3,7 +3,7 @@ AndroombaItem: {
 	DisplayName: "{$Mods.CalamityMod.NPCs.Androomba.DisplayName}"
 	Tooltip:
 		'''
-		Drücke <right> auf den Roomba, um eine Lösung einzufügen
+		Drücke Rechte Maustaste auf den Roomba, um eine Lösung einzufügen
 		Wenn eine Lösung eingefügt ist, wird der Roomba anfangen, seinen Inhalt zu verbreiten
 		'''
 }

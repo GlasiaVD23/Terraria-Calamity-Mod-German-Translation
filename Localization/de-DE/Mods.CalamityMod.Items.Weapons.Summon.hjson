@@ -2,9 +2,9 @@ AbandonedSlimeStaff: {
 	DisplayName: Aufgegebener Schleimstab
 	Tooltip:
 		'''
-		Verbraucht alle verbleibenden Dienerplätze bei Verwendung
+		Verbraucht alle verbleibenden G�nstlingeplätze bei Verwendung
 		Muss von der Schnellzugriffsleiste aus verwendet werden
-		Stärke und Größe basieren auf der Anzahl der verwendeten Dienerplätze
+		Stärke und Größe basieren auf der Anzahl der verwendeten G�nstlingeplätze
 		Das Halten dieser Waffe gewährt 10 % erhöhte Sprunggeschwindigkeit
 		Voller Abscheu vom Himmel herabgeworfen, singt dieses Relikt ein Lied leiser Tragödie...
 		'''
@@ -36,7 +36,7 @@ AresExoskeleton: {
 		Erschafft ein Paneel mit vier Slots und vier Auswahlmöglichkeiten darüber: Plasma, Tesla, Laser und Gauss
 		Das Klicken auf eine der Auswahlmöglichkeiten und dann auf einen der Slots beschwört eine Kanone dieses Typs herbei
 		Das Klicken auf einen bereits besetzten Slot zerstört seine zugehörige Kanone und löscht den Slot
-		Kanonen benötigen jeweils 3 Dienerplätze
+		Kanonen benötigen jeweils 3 G�nstlingeplätze
 		'''
 }
 
@@ -84,7 +84,7 @@ BorealisBomber: {
 		'''
 		Ruft Aurus-Bomber herbei, um deine Feinde zu verfolgen
 		Aurus-Bomber explodieren gewaltsam bei Feindaufprall
-		Verbraucht keine Dienerplätze
+		Verbraucht keine G�nstlingeplätze
 		'''
 }
 
@@ -165,8 +165,8 @@ CosmicImmaterializer: {
 		'''
 		Ruft eine kosmische Energiespirale herbei, die für dich kämpft
 		Die Kugel wird Schwärme von nachverfolgenden Energiebolzen abfeuern, wenn Feinde von ihr erkannt werden
-		Erfordert 10 Dienerplätze zur Verwendung und es kann nur eine Energiespirale geben
-		Ohne einen Beschwörer-Rüstungsbonusbetrag fügt dieser Diener weniger Schaden zu
+		Erfordert 10 G�nstlingeplätze zur Verwendung und es kann nur eine Energiespirale geben
+		Ohne einen Beschwörer-Rüstungsbonusbetrag fügt dieser G�nstlinge weniger Schaden zu
 		'''
 }
 
@@ -187,7 +187,7 @@ Cosmilamp: {
 	Tooltip:
 		'''
 		Ruft eine kosmische Laterne über deinem Kopf herbei, die für dich kämpft
-		Jede Laterne benötigt 2 Dienerplätze
+		Jede Laterne benötigt 2 G�nstlingeplätze
 		'''
 }
 
@@ -243,7 +243,7 @@ DormantBrimseeker: {
 	Tooltip:
 		'''
 		Beschwört einen Brimseeker, der dich begleitet
-		Wenn alle Dienerplätze belegt sind und ein weiterer Brimseeker beschworen wird, entsteht eine Schwefelaura
+		Wenn alle G�nstlingeplätze belegt sind und ein weiterer Brimseeker beschworen wird, entsteht eine Schwefelaura
 		Die Aura stärkt deine Brimseeker-Beschwörungen und erzeugt schädliche Feuerbälle
 		Nur eine Aura kann gleichzeitig aktiv sein
 		Du hättest schwören können, dass sie noch gruseliger wurden, als du ihre Spiegelbilder betrachtet hast
@@ -256,7 +256,7 @@ DragonbloodDisgorger: {
 		'''
 		Beschwört einen skelettierten Drachen und seine beiden Kinder
 		Baby spuckt passiv heilen den Spieler
-		Es werden 6 Dienerplätze benötigt, um sie zu beschwören
+		Es werden 6 G�nstlingeplätze benötigt, um sie zu beschwören
 		Nur eine Familie kann gleichzeitig existieren
 		'''
 }
@@ -286,7 +286,7 @@ Endogenesis: {
 		Der zweite Modus opfert seine Gliedmaßen, um Suchgeschosse abzuschießen
 		Der dritte Modus ermöglicht ihm, seine Feinde aggressiv anzugreifen
 		Der vierte Modus lässt die Gliedmaßen als endothermische Flammenwerfer fungieren
-		Es werden 10 Dienerplätze benötigt, um ihn zu beschwören
+		Es werden 10 G�nstlingeplätze benötigt, um ihn zu beschwören
 		Nur ein Konstrukt kann gleichzeitig existieren
 		[c/B0FBFF:'Eisige Wortspiele nicht enthalten']
 		'''
@@ -306,7 +306,7 @@ EntropysVigil: {
 	Tooltip:
 		'''
 		Beschwört einen Mini-Calafitas-Klon und ihre Brüder, die dich beschützen
-		Ein Dienertrio belegt zwei Dienerplätze
+		Ein G�nstlingetrio belegt zwei G�nstlingeplätze
 		'''
 }
 
@@ -349,7 +349,7 @@ FlowersOfMortality: {
 	Tooltip:
 		'''
 		Beschwört fünf Regenbogenblumen über deinem Kopf
-		Die kombinierten Blumen belegen drei Dienerplätze
+		Die kombinierten Blumen belegen drei G�nstlingeplätze
 		'''
 }
 
@@ -395,7 +395,7 @@ GlacialEmbrace: {
 	Tooltip:
 		'''
 		Beschwört die Macht des antiken Eisschlosses
-		Für jeden verwendeten Dienerplatz erhältst du einen zusätzlichen umlaufenden Schildsporn
+		Für jeden verwendeten G�nstlingeplatz erhältst du einen zusätzlichen umlaufenden Schildsporn
 		Diese Spikes beschleunigen sich schnell auf einen nahe gelegenen Feind zu und fügen schweren Schaden zu
 		Nach dem Abschießen auf das Ziel dauert es einige Zeit, bis sie sich regenerieren
 		Mit einem Rechtsklick beschwörst du einen Duplikatring um den ausgewählten Feind, der sich langsam annähert, bevor er explodiert
@@ -445,7 +445,7 @@ InfectedRemote: {
 	Tooltip:
 		'''
 		Beschwört eine humanoid-hybride Seuchenträgerin namens 'Virili', um dir im Kampf zu helfen
-		Virili benötigt 3 Dienerplätze, um beschworen zu werden, und kann nur einmal beschworen werden
+		Virili benötigt 3 G�nstlingeplätze, um beschworen zu werden, und kann nur einmal beschworen werden
 		Virili verwendet eine Vielzahl von Angriffen, die sie in regelmäßigen Abständen durchläuft
 		Alle Angriffe verbreiten die Seuche, wie es ursprünglich vorgesehen war
 		'Auf der Rückseite steht nur ein Etikett:
@@ -457,7 +457,7 @@ KingofConstellationsTenryu: {
 	DisplayName: König der Konstellationen, Tenryū
 	Tooltip:
 		'''
-		Verwendet 4 Dienerplätze, um ein Paar himmlischer Drachen zu beschwören, die für dich kämpfen
+		Verwendet 4 G�nstlingeplätze, um ein Paar himmlischer Drachen zu beschwören, die für dich kämpfen
 		Es kann nur ein Paar Drachen gleichzeitig existieren
 		'Diejenigen, die den unbeweglichen Stern verschlingen werden'
 		'''
@@ -470,7 +470,7 @@ Metastasis: {
 		Ruft einen Grabkeller herbei, der für dich kämpft
 		Während der Grabkeller aktiv ist, werden Schwefelherzen erscheinen und um dich herum kreisen
 		Er wird immer häufiger versuchen, dich anzugreifen, abhängig davon, wie viele Herzen vorhanden sind
-		Er beansprucht 4 Diener-Slots und kann nur einmal beschworen werden
+		Er beansprucht 4 G�nstlinge-Slots und kann nur einmal beschworen werden
 		[c/C61B40:Ein überlegtes mögliches Zukunftsszenario der kosmischen Schlange,]
 		[c/C61B40:Eine grauenhafte Warnung für diejenigen, die von Hunger nach Macht geblendet sind.]
 
@@ -504,7 +504,7 @@ PlantationStaff: {
 		Ruft eine Miniatur-Plantera herbei, um dich zu schützen
 		Feuert Samen, stachlige Bälle und Sporenbewölkungen aus der Ferne ab, um Ziele zu vergiften
 		Erregt sich, wenn du unter 75% Gesundheit kommst, und beginnt, Feinde zu rammen
-		Belegt 3 Diener-Slots, und es kann nur eine Plantera gleichzeitig geben
+		Belegt 3 G�nstlinge-Slots, und es kann nur eine Plantera gleichzeitig geben
 		'''
 }
 
@@ -554,7 +554,7 @@ SarosPossession: {
 		Ruft eine strahlende Aura herbei, die absolute Kontrolle über das Licht selbst gibt
 		Die Aura wird Feinde mit Strahlenkugeln vernichten
 		Nur eine Aura kann gleichzeitig existieren
-		Benötigt 8 Diener-Slots
+		Benötigt 8 G�nstlinge-Slots
 		'''
 }
 
@@ -573,7 +573,7 @@ ShellfishStaff: {
 	Tooltip:
 		'''
 		Ruft eine Muschel herbei, um für dich zu kämpfen
-		Jede Muschel benötigt 2 Diener-Slots
+		Jede Muschel benötigt 2 G�nstlinge-Slots
 		'''
 }
 
@@ -583,7 +583,7 @@ Sirius: {
 		'''
 		Ruft den hellsten Stern am Nachthimmel herbei, um deine Feinde zu erleuchten
 		Nur ein Stern kann gleichzeitig existieren
-		Benötigt 6 Diener-Slots
+		Benötigt 6 G�nstlinge-Slots
 		'''
 }
 
@@ -593,7 +593,7 @@ SlimePuppetStaff: {
 		'''
 		Ruft einen Schleimball herbei, der dir folgt
 		Der Ball fliegt zu nahegelegenen Feinden und explodiert beim Treffer von Feinden in Schleim
-		Verbraucht keine Diener-Slots
+		Verbraucht keine G�nstlinge-Slots
 		'''
 }
 
@@ -677,7 +677,7 @@ TemporalUmbrella: {
 			- Ein cyanfarbener Regenschirm, um deine Feinde mit Anmut niederzuschlagen
 			- Ein lavendelfarbenes Gewehr, um diejenigen zu erschießen, die dir im Weg stehen
 		Am besten von allen ist, dass du einen Zylinder tragen darfst
-		Benötigt 5 Diener-Slots zur Verwendung, und es kann nur einen Satz Werkzeuge gleichzeitig geben
+		Benötigt 5 G�nstlinge-Slots zur Verwendung, und es kann nur einen Satz Werkzeuge gleichzeitig geben
 		'Erstaunlich stabil, ich nehme an, das könnte die Mafia in einem Schlag besiegen'
 		'''
 }
@@ -687,7 +687,7 @@ TundraFlameBlossomsStaff: {
 	Tooltip:
 		'''
 		Ruft drei Flammenfrost-Orchideen über deinem Kopf herbei
-		Jede Blume benötigt einen Diener-Slot
+		Jede Blume benötigt einen G�nstlinge-Slot
 		'''
 }
 
@@ -734,8 +734,8 @@ VoidConcentrationStaff: {
 	Tooltip:
 		'''
 		Ruft eine bedrohliche Aura herbei, die angreift, indem sie Nichts-Orbs abschießt
-		Diener-Schaden wird um 5% erhöht, während die Aura aktiv ist
-		Benötigt drei Diener-Slots zur Verwendung
+		G�nstlinge-Schaden wird um 5% erhöht, während die Aura aktiv ist
+		Benötigt drei G�nstlinge-Slots zur Verwendung
 		Nur eine Aura kann gleichzeitig existieren
 		Rechtsklicken, um ein Schwarzes Loch abzufeuern, das in der Größe wächst
 		'''
@@ -746,7 +746,7 @@ WarloksMoonFist: {
 	Tooltip:
 		'''
 		Ruft eine himmlische Faust herbei, um Feinde für dich zu schlagen
-		Benötigt 4 Diener-Slots zur Verwendung
+		Benötigt 4 G�nstlinge-Slots zur Verwendung
 		'''
 }
 
@@ -755,7 +755,7 @@ WitherBlossomsStaff: {
 	Tooltip:
 		'''
 		Ruft vier verwelkte Blumen über deinem Kopf herbei
-		Die kombinierten Blumen verbrauchen zwei Diener-Slots
+		Die kombinierten Blumen verbrauchen zwei G�nstlinge-Slots
 		'''
 }
 
@@ -776,7 +776,7 @@ YharonsKindleStaff: {
 	Tooltip:
 		'''
 		Ruft einen feurigen Drakoniden herbei, um für dich zu kämpfen
-		Benötigt 5 Diener-Slots zur Verwendung
+		Benötigt 5 G�nstlinge-Slots zur Verwendung
 		'''
 }
 

@@ -102,8 +102,8 @@ PlasmaCaster: {
 	DisplayName: Plasmawerfer
 	Tooltip:
 		'''
-		Drücke <left>, um einen großen, explodierenden Plasmaball abzufeuern
-		Drücke <right>, um im Turbomodus zu feuern, erhöht sich die Schussrate, aber die Genauigkeit wird behindert
+		Drücke Linke Maustaste, um einen großen, explodierenden Plasmaball abzufeuern
+		Drücke Rechte Maustaste, um im Turbomodus zu feuern, erhöht sich die Schussrate, aber die Genauigkeit wird behindert
 		'''
 }
 
@@ -211,8 +211,8 @@ TheAnomalysNanogun: {
 	DisplayName: Nanowaffe der Anomalie
 	Tooltip:
 		'''
-		Drücken Sie <left>, um 5 schnellfeuernde Plasmabündel aufzuladen
-		Drücken Sie <right>, um 3 Spaltbomben abzufeuern
+		Drücken Sie Linke Maustaste, um 5 schnellfeuernde Plasmabündel aufzuladen
+		Drücken Sie Rechte Maustaste, um 3 Spaltbomben abzufeuern
 		'Willkommen zur Party, Kumpel'
 		'''
 }

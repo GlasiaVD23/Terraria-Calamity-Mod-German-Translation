@@ -258,7 +258,7 @@ DeepSeaDumbbell: {
 	Tooltip:
 		'''
 		Wirft eine Hantel, die abprallt und Gewichte bei jedem Aufprall wirft
-		Drücke <right>, um dich zu biegen und den Schaden deines nächsten Angriffs um das bis zu 5-fache zu erhöhen
+		Drücke Rechte Maustaste, um dich zu biegen und den Schaden deines nächsten Angriffs um das bis zu 5-fache zu erhöhen
 		Die Biegungen können Feinde direkt treffen
 		'''
 }
@@ -532,7 +532,7 @@ GodsParanoia: {
 		Wirft bis zu 10 schnelle suchende Stachelsphären
 		Haftet an Feinden und beschwört einen lokalisierten Sturm aus Gottesmörder-Kunai
 		Tarnungs-Angriffe suchen schneller heim und beschwören Kunai in schnellerer Folge herbei
-		Drücke <right>, um alle vorhandenen Stachelsphären zu löschen
+		Drücke Rechte Maustaste, um alle vorhandenen Stachelsphären zu löschen
 		'''
 }
 
@@ -575,7 +575,7 @@ HellsSun: {
 		Wirft bis zu 10 schwerkraftabweisende Stachelsphären
 		Emitieren einmal stationär kleine Sonnen, die bei Treffern explodieren
 		Tarnungs-Angriffe emitieren Sonnen in schnellerer Folge und dauern länger
-		Drücke <right>, um alle vorhandenen Stachelsphären zu löschen
+		Drücke Rechte Maustaste, um alle vorhandenen Stachelsphären zu löschen
 		'Die Unterirdische Sonne in deiner Handfläche'
 		'''
 }
@@ -681,7 +681,7 @@ LeonidProgenitor: {
 	Tooltip:
 		'''
 		Wirft eine Bombenhülle, die explodiert und einen Meteor beschwört, der auf der Stelle einschlägt
-		Drücke <right>, um eine Streuung gravitationsbeeinflusster Kometen zu werfen, die Sterne hinterlassen, wenn sie explodieren
+		Drücke Rechte Maustaste, um eine Streuung gravitationsbeeinflusster Kometen zu werfen, die Sterne hinterlassen, wenn sie explodieren
 		Tarnungs-Angriffe werfen bei Treffern zusätzlich Kometen aus
 		'''
 }
@@ -730,7 +730,7 @@ Malachite: {
 	Tooltip:
 		'''
 		Wirft einen Strom von Kunai, die an Feinden haften und explodieren
-		Drücke <right>, um ein einzelnes Kunai zu werfen, das durchdringt; nachdem es einen Feind durchdrungen hat, löst es bei Treffer des nächsten Feindes eine massive Explosion aus
+		Drücke Rechte Maustaste, um ein einzelnes Kunai zu werfen, das durchdringt; nachdem es einen Feind durchdrungen hat, löst es bei Treffer des nächsten Feindes eine massive Explosion aus
 		Tarnungs-Angriffe feuern drei Kunai, die auf Feinde zusteuern, an ihnen haften und explodieren
 		'''
 }
@@ -831,7 +831,7 @@ Nychthemeron: {
 		Sobald der stachelige Ball verschwindet, werden die Orbs auf das nächstgelegene Ziel zusteuern
 		Bis zu 10 stachelige Bälle können gleichzeitig existieren
 		Tarnungs-Angriffe werfen alle stacheligen Bälle und Orbs auf einmal
-		Drücke <right>, um alle existierenden stacheligen Bälle zurückzurufen
+		Drücke Rechte Maustaste, um alle existierenden stacheligen Bälle zurückzurufen
 		'''
 }
 
@@ -890,7 +890,7 @@ PoisonPack: {
 		'''
 		Wirft bis zu 3 giftige stachelige Bälle
 		Tarnungs-Angriffe lassen die Bälle Sporewolken freisetzen
-		Drücke <right>, um alle existierenden stacheligen Bälle zu löschen
+		Drücke Rechte Maustaste, um alle existierenden stacheligen Bälle zu löschen
 		'''
 }
 
@@ -1380,6 +1380,6 @@ WulfrumKnife: {
 		'''
 		Schießt Wulfrum-Messer in Salven von 3 ab
 		Tarnungs-Angriffe lassen das Messer weiter fliegen und mehrere Treffer auf einmal erzielen
-		Halte <right>, um alle nahegelegenen heruntergefallenen Messer magnetisch zu dir zurückzuziehen
+		Halte Rechte Maustaste, um alle nahegelegenen heruntergefallenen Messer magnetisch zu dir zurückzuziehen
 		'''
 }

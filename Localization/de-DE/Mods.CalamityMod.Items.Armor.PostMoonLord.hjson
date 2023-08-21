@@ -59,7 +59,7 @@ AuricTeslaSpaceHelmet: {
 		'''
 		Effekte der Beschwörer-Tarragon-, Bloodflare- und Silva-Rüstungen
 		Maximale Laufgeschwindigkeit und Beschleunigung um 5 % erhöht
-		+6 maximale Diener und 75 % erhöhter Beschwörungsschaden
+		+6 maximale G�nstlinge und 75 % erhöhter Beschwörungsschaden
 		'''
 }
 
@@ -149,7 +149,7 @@ BloodflareHeadSummon: {
 	Tooltip: 5 % erhöhter Beschwörungsschaden
 	SetBonus:
 		'''
-		50 % erhöhter Beschwörungsschaden und +3 maximale Diener
+		50 % erhöhter Beschwörungsschaden und +3 maximale G�nstlinge
 		Beschwört Poltergeist-Minen, die dich umkreisen
 		Bei 90 % Leben und mehr erhältst du 10 % erhöhten Beschwörungsschaden
 		Bei 50 % Leben und weniger erhältst du 20 Verteidigung und 2 Lebensregeneration
@@ -177,7 +177,7 @@ DemonshadeHelm: {
 	Tooltip: 30 % erhöhter Schaden und 15 % erhöhte kritische Trefferchance,
 	SetBonus:
 		'''
-		100 % erhöhter Beschwörungsschaden und +10 maximale Diener
+		100 % erhöhter Beschwörungsschaden und +10 maximale G�nstlinge
 		Schattenstrahlen und Dämonensensen werden abgefeuert, wenn du getroffen wirst
 		Ein freundlicher roter Teufel begleitet dich
 		Drücke {0}, um nahe Feinde mit einem dunklen Magiespruch für 10 Sekunden in Wut zu versetzen
@@ -230,10 +230,10 @@ FearmongerGreathelm: {
 		'''
 	SetBonus:
 		'''
-		20 % erhöhter Beschwörungsschaden und +2 maximale Diener
-		Diener verursachen keinen reduzierten Schaden mehr, wenn sie Nicht-Beschwörungswaffen führen
+		20 % erhöhter Beschwörungsschaden und +2 maximale G�nstlinge
+		G�nstlinge verursachen keinen reduzierten Schaden mehr, wenn sie Nicht-Beschwörungswaffen führen
 		Immunität gegen alle Formen von Frost und Flammen
-		Alle Angriffe der Diener gewähren kolossale Lebensregeneration
+		Alle Angriffe der G�nstlinge gewähren kolossale Lebensregeneration
 		15 % erhöhte Schadensreduktion während der Kürbis- und Frostmonde
 		Diese zusätzliche Schadensreduktion ignoriert die weiche Obergrenze
 		'''
@@ -244,7 +244,7 @@ FearmongerGreaves: {
 	Tooltip:
 		'''
 		6 % erhöhter Schaden
-		50 % erhöhter Diener-Rückstoß
+		50 % erhöhter G�nstlinge-Rückstoß
 		10 % erhöhte Bewegungsgeschwindigkeit
 		Wenn du Schaden erleidest, erhöht sich deine Bewegungsgeschwindigkeit 4 Sekunden lang um 40 %
 		'''
@@ -286,7 +286,7 @@ GemTechHeadgear: {
 	RedGemInfo: "[i:Ruby] Der rote Edelstein gewährt {0} maximale Heimlichkeit, erhöhte Schuftn-Statistiken und macht Heimlichkeit nur mit Schuftnwaffen verbrauchbar"
 	YellowGemInfo: "[i:Topaz] Der gelbe Edelstein bietet erhöhte Nahkampfstatistiken und veranlasst Nahkampfangriffe, Splitter freizusetzen, wenn sie mit einer Abklingzeit getroffen werden. Diese Abklingzeit ist kürzer für echte Nahkampfangriffe"
 	GreenGemInfo: "[i:Emerald] Der grüne Edelstein bietet erhöhte Fernkampfstatistiken und bewirkt, dass Flechettes schnell auf Ziele zufliegen, wenn sie durch ein Fernkampfprojektil beschädigt werden"
-	BlueGemInfo: "[i:Sapphire] Der blaue Edelstein gewährt {0} zusätzliche maximale Diener, erhöhten Beschwörungsschaden und hebt die Beschwörungsschadenstrafe auf, wenn Nicht-Beschwörungswaffen geführt werden"
+	BlueGemInfo: "[i:Sapphire] Der blaue Edelstein gewährt {0} zusätzliche maximale G�nstlinge, erhöhten Beschwörungsschaden und hebt die Beschwörungsschadenstrafe auf, wenn Nicht-Beschwörungswaffen geführt werden"
 	PurpleGemInfo: "[i:Amethyst] Der violette Edelstein gewährt {0} zusätzliches maximales Mana, erhöhte Magiestatistiken und lässt Mana schnell regenerieren, wenn du eine Nicht-Magiewaffe hältst"
 	PinkGemInfo: "[i:Diamond] Der rosa Grundedelstein gewährt {0} zusätzliche Verteidigung, zusätzliche Schadensreduktion, erhöhte Bewegungsgeschwindigkeit, Sprunggeschwindigkeit und +{1} Lebensregeneration"
 	GemBonusInfo:
@@ -386,7 +386,7 @@ OmegaBlueHelmet: {
 	SetBonus:
 		'''
 		Erhöht die Rüstungsdurchdringung um 15
-		10 % erhöhter Schaden und kritische Trefferchance und +2 maximale Diener
+		10 % erhöhter Schaden und kritische Trefferchance und +2 maximale G�nstlinge
 		Kurzreichweiten-Tentakel heilen dich, indem sie Feindesleben aussaugen
 		Drücke {0}, um 5 Sekunden lang wahnsinnige Abyssal-Macht zu aktivieren
 		Wahnsinnige Abyssal-Macht erhöht Schaden, kritische Trefferchance und Tentakelaggression/-reichweite
@@ -473,7 +473,7 @@ SilvaHeadSummon: {
 	Tooltip: 10 % erhöhter Beschwörungsschaden
 	SetBonus:
 		'''
-		65 % erhöhter Beschwörungsschaden und +5 maximale Diener
+		65 % erhöhter Beschwörungsschaden und +5 maximale G�nstlinge
 		Beschwört ein antikes Blattprisma herbei, um deine Feinde mit Lebensenergie zu bombardieren
 		'''
 }
@@ -566,7 +566,7 @@ TarragonHeadSummon: {
 	Tooltip: 5 % verringerte Schadensreduktion und erhöhter Beschwörungsschaden
 	SetBonus:
 		'''
-		50 % erhöhter Beschwörungsschaden und +3 maximale Diener
+		50 % erhöhter Beschwörungsschaden und +3 maximale G�nstlinge
 		Beschwört eine Lebensaura um dich herum herbei, die nahegelegene Feinde angreift
 		'''
 }
