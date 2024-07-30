@@ -180,7 +180,7 @@ EncryptedSchematicHell: {
 }
 
 EncryptedSchematicIce: {
-	DisplayName: DisplayName: Verschlüsselte Schemazeichnung (Eis)
+	DisplayName: Verschlüsselte Schemazeichnung (Eis)
 	Tooltip: Erfordert einen Codebreaker mit einem komplexen Spannungsregelsystem zur Entschlüsselung
 	Content:
 		'''
